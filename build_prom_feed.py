@@ -3,7 +3,15 @@
 Downloads WebSklad universal YML, keeps chosen categories + in-stock,
 drops hide_for_prom, applies tiered markup, writes Prom-ready YML.
 """
-import sys, urllib.request, xml.etree.ElementTree as ET, datetime, os
+import sys, urllib.request, xml.etree.ElementTree as ET, datetime, os, shutil
+
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+def download(url, dest):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=180) as r, open(dest, "wb") as f:
+        shutil.copyfileobj(r, f)
 
 SRC = "https://www.websklad.biz.ua/wp-content/uploads/current-Universalnaya.xml"
 KEEP_CATS = {"342", "336", "339", "351"}  # Красота, Дом и сад, Сумки, Моб.аксессуары
@@ -108,7 +116,7 @@ if __name__ == "__main__":
     out = sys.argv[2] if len(sys.argv) > 2 else "prom_feed.xml"
     if src == "download":
         src = "websklad_dl.xml"
-        urllib.request.urlretrieve(SRC, src)
+        download(SRC, src)
     kept, ncats, prices = build(src, out)
     prices.sort()
     print("offers kept:", kept, "| categories:", ncats)

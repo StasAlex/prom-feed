@@ -1,0 +1,24 @@
+name: Update Prom feed
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build feed
+        run: python build_prom_feed.py download docs/prom_feed.xml
+      - name: Commit
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs/prom_feed.xml
+          git commit -m "update feed $(date -u +%FT%TZ)" || echo "no changes"
+          git push

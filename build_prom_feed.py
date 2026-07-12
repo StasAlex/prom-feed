@@ -136,8 +136,32 @@ MIN_PICS = 5       # at least this many photos
 MIN_DESC = 300     # description at least this many chars
 
 def quality_score(has_video, npics, desc_len, has_brand):
-    """Higher = better-merchandised card; used to rank when over MAX_OFFERS."""
+    """Higher = better-merchandised card; part of the ranking below."""
     return (3 if has_video else 0) + min(npics, 10) + min(desc_len // 300, 6) + (1 if has_brand else 0)
+
+# Demand tier by WebSklad sub_category, calibrated from Prom/Rozetka listing
+# volume (proxy for Ukrainian demand) + market knowledge. There is no per-SKU
+# sales data, so demand is applied at the niche level. Unlisted niches = medium.
+# Seasonal-off niches (winter boots in summer) are deliberately demoted.
+DEMAND_HIGH = {
+    "Машинки для стрижки", "Фени", "Чайники", "Бритви / епілятори", "Блендери", "Міксери",
+    "Бутербродниці", "Мясорубки", "Праски", "Тостери", "Відпарювачі", "Портативні колонки",
+    "Ліхтарі ручні", "Ліхтарі налобні", "Ліхтарі кемпінг", "Велофари", "Пилососи",
+    "Мультиварки", "Фритюрниці", "Соковитискачі", "Кавомолки", "Кавоварки", "Ваги кухонні",
+    "Годинники SKMEI", "Проектори / нічники", "Масажери", "Набори ножів", "Зубні щітки",
+    "Сушилки для нігтів", "Фрезери", "Кільцеві лампи", "Безпровідні навушники",
+    "Смарт-годинники", "Павербанки", "Турки", "Вакууматори", "Печі", "Електроплити",
+}
+DEMAND_LOW = {
+    "Чоловіче зимове взуття", "Жіноче зимове взуття", "Ваги ювелірні", "Рахункові машинки",
+    "Скарбнички", "Гаманці", "Дошки", "Літаючі іграшки", "Попкорн", "Від катишків",
+    "Перекачка топлива", "Пульсоксиметри", "Термометри", "Гірлянди", "(none)",
+}
+
+def demand_bonus(sub):
+    if sub in DEMAND_HIGH: return 8
+    if sub in DEMAND_LOW:  return 0
+    return 4  # medium (default for the long tail of niches)
 
 def markup(price):
     if price < 500:   f = 1.20
@@ -178,6 +202,7 @@ def build(src_path, out_path):
                     skipped_quality += 1
                     el.clear(); continue
                 params = [(p.get("name"), p.text) for p in el.findall("param") if p.text]
+                sub = el.findtext("sub_category_ua") or el.findtext("sub_category") or "(none)"
                 offers_out.append({
                     "id": el.get("id"),
                     "cid": cid,
@@ -189,7 +214,8 @@ def build(src_path, out_path):
                     "qty": el.findtext("quantity_in_stock") or "",
                     "params": params,
                     "keywords": keywords_for(name.strip(), params),
-                    "score": quality_score(has_video, len(all_pics), len(desc), has_brand),
+                    # rank = Ukrainian niche demand (proxy) + card-quality
+                    "rank": demand_bonus(sub) + quality_score(has_video, len(all_pics), len(desc), has_brand),
                 })
                 kept += 1
             else:
@@ -197,8 +223,8 @@ def build(src_path, out_path):
                 if hide in ("1", "true", "yes"): skipped_hide += 1
             el.clear()
 
-    # keep the best-merchandised offers when more pass than we have Prom slots
-    offers_out.sort(key=lambda o: o["score"], reverse=True)
+    # keep the highest-ranked offers (niche demand + card quality) within budget
+    offers_out.sort(key=lambda o: o["rank"], reverse=True)
     if len(offers_out) > MAX_OFFERS:
         offers_out = offers_out[:MAX_OFFERS]
     kept = len(offers_out)

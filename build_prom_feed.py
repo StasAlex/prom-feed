@@ -123,9 +123,21 @@ def download(url, dest):
         shutil.copyfileobj(r, f)
 
 SRC = "https://www.websklad.biz.ua/wp-content/uploads/current-Universalnaya.xml"
-KEEP_CATS = {"342", "336", "339", "351"}  # Красота, Дом и сад, Сумки, Моб.аксессуары
+KEEP_CATS = None  # None = whole catalog; or a set like {"342","339"} to restrict
 MAX_PICS = 10  # Prom hard cap: no more than 10 photos per product
 MAX_OFFERS = 900  # never exceed free Prom slots (100 bags + 900 = 1000 plan)
+
+# Card-quality gate: the source has no sales data, so as a first pass we keep
+# only well-merchandised offers (proven-enough to sell) and, when more pass
+# than we have Prom slots, keep the best-scored ones. Real best-sellers get
+# picked later from Prom's own analytics once the feed is live.
+REQ_VIDEO = True   # must have a product video
+MIN_PICS = 5       # at least this many photos
+MIN_DESC = 300     # description at least this many chars
+
+def quality_score(has_video, npics, desc_len, has_brand):
+    """Higher = better-merchandised card; used to rank when over MAX_OFFERS."""
+    return (3 if has_video else 0) + min(npics, 10) + min(desc_len // 300, 6) + (1 if has_brand else 0)
 
 def markup(price):
     if price < 500:   f = 1.20
@@ -141,6 +153,7 @@ def build(src_path, out_path):
     cats = {}
     offers_out = []
     kept = skipped_hide = skipped_stock = 0
+    skipped_quality = 0
     for ev, el in ctx:
         if el.tag == "category":
             cats[el.get("id")] = el.text
@@ -148,14 +161,22 @@ def build(src_path, out_path):
             cid = el.findtext("categoryId")
             avail = (el.get("available") or "").lower()
             hide = (el.findtext("hide_for_prom") or "").lower()
-            if cid in KEEP_CATS and avail == "true" and hide not in ("1", "true", "yes"):
+            in_cat = KEEP_CATS is None or cid in KEEP_CATS
+            if in_cat and avail == "true" and hide not in ("1", "true", "yes"):
                 try:
                     price = float(el.findtext("price"))
                 except (TypeError, ValueError):
                     el.clear(); continue
                 name = el.findtext("name_ua") or el.findtext("name") or ""
                 desc = el.findtext("description_ua") or el.findtext("description") or ""
-                pics = [p.text for p in el.findall("picture") if p.text][:MAX_PICS]
+                all_pics = [p.text for p in el.findall("picture") if p.text]
+                has_video = bool((el.findtext("video_link") or "").strip())
+                brand = (el.findtext("brand") or "").strip()
+                has_brand = bool(brand) and brand.lower() not in _STOP_BRANDS
+                # card-quality gate (proxy for "worth selling")
+                if (REQ_VIDEO and not has_video) or len(all_pics) < MIN_PICS or len(desc) < MIN_DESC:
+                    skipped_quality += 1
+                    el.clear(); continue
                 params = [(p.get("name"), p.text) for p in el.findall("param") if p.text]
                 offers_out.append({
                     "id": el.get("id"),
@@ -163,26 +184,31 @@ def build(src_path, out_path):
                     "price": markup(price),
                     "name": name.strip(),
                     "desc": desc.strip(),
-                    "pics": pics,
+                    "pics": all_pics[:MAX_PICS],
                     "vendorCode": el.findtext("vendorCode") or "",
                     "qty": el.findtext("quantity_in_stock") or "",
                     "params": params,
                     "keywords": keywords_for(name.strip(), params),
+                    "score": quality_score(has_video, len(all_pics), len(desc), has_brand),
                 })
                 kept += 1
             else:
-                if cid in KEEP_CATS and avail != "true": skipped_stock += 1
+                if in_cat and avail != "true": skipped_stock += 1
                 if hide in ("1", "true", "yes"): skipped_hide += 1
             el.clear()
 
+    # keep the best-merchandised offers when more pass than we have Prom slots
+    offers_out.sort(key=lambda o: o["score"], reverse=True)
     if len(offers_out) > MAX_OFFERS:
         offers_out = offers_out[:MAX_OFFERS]
-        kept = len(offers_out)
+    kept = len(offers_out)
 
     # write YML
     used_cats = sorted({o["cid"] for o in offers_out})
     def esc(s):
-        return (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        s = (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        s = s.replace('"', "&quot;").replace("'", "&apos;")
+        return re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", s)  # drop XML-invalid control chars
     lines = ['<?xml version="1.0" encoding="utf-8"?>']
     lines.append('<yml_catalog date="%s">' % datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
     lines.append('  <shop>')
@@ -207,7 +233,9 @@ def build(src_path, out_path):
             lines.append('        <picture>%s</picture>' % esc(pic))
         if o["qty"]:
             lines.append('        <quantity_in_stock>%s</quantity_in_stock>' % esc(o["qty"]))
-        lines.append('        <description><![CDATA[%s]]></description>' % (o["desc"] or ""))
+        safe_desc = (o["desc"] or "").replace("]]>", "]]&gt;")  # never break out of CDATA
+        safe_desc = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", safe_desc)
+        lines.append('        <description><![CDATA[%s]]></description>' % safe_desc)
         for kw in o["keywords"]:
             lines.append('        <keyword>%s</keyword>' % esc(kw))
         for pn, pv in o["params"]:
@@ -222,7 +250,7 @@ def build(src_path, out_path):
         os.makedirs(d, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    return kept, len(used_cats), [markup and o["price"] for o in offers_out]
+    return kept, len(used_cats), [o["price"] for o in offers_out], skipped_quality
 
 if __name__ == "__main__":
     src = sys.argv[1] if len(sys.argv) > 1 else "websklad.xml"
@@ -230,8 +258,8 @@ if __name__ == "__main__":
     if src == "download":
         src = "websklad_dl.xml"
         download(SRC, src)
-    kept, ncats, prices = build(src, out)
+    kept, ncats, prices, skipped_quality = build(src, out)
     prices.sort()
-    print("offers kept:", kept, "| categories:", ncats)
+    print("offers kept:", kept, "| categories:", ncats, "| dropped by quality gate:", skipped_quality)
     print("price min/median/max:", prices[0], prices[len(prices)//2], prices[-1])
     print("output:", out, "size:", os.path.getsize(out), "bytes")

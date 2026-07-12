@@ -129,7 +129,7 @@ KEEP_CATS = None  # None = whole catalog; or a set like {"342","339"} to restric
 # id/vendorCode. Cat 339 = "Сумки, клатчи, кошельки, очки". Keep it out entirely.
 EXCLUDE_CATS = {"339"}
 MAX_PICS = 10  # Prom hard cap: no more than 10 photos per product
-MAX_OFFERS = 874  # leave room for the user's ~126 own bags: 126 + 874 = 1000 Prom plan
+MAX_OFFERS = 850  # reserve 150 slots for the user's own bags: 150 + 850 = 1000 Prom plan
 # (own bags are a SEPARATE catalog/feed, managed by the user — never fed from here)
 
 # Card-quality gate: the source has no sales data, so as a first pass we keep

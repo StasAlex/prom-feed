@@ -123,14 +123,43 @@ def download(url, dest):
         shutil.copyfileobj(r, f)
 
 SRC = "https://www.websklad.biz.ua/wp-content/uploads/current-Universalnaya.xml"
+
+# --- Новые поступления (пріоритет) ---------------------------------------
+# Идея пользователя: товары, которые дропшиппер показывает в разделе «останні
+# надходження», нужно выводить в первую очередь — свежий товар быстрее
+# продаётся. Страница-агрегатор со всеми последними поступлениями отдаёт ссылки
+# вида ?product=<slug>; в фиде у каждого оффера тот же slug лежит в <url>, так
+# что новинки сопоставляются с офферами по slug (vendorCode на странице нет).
+NEW_ARRIVALS_URL = "https://www.websklad.biz.ua/?page_id=104867"
+# Новинки поднимаются НАД всеми обычными офферами (см. ранжирование ниже) и
+# проходят в фид в обход фильтра качества — лишь бы были в наличии.
+NEW_ARRIVAL_BONUS = 1000
+
+def new_arrival_slugs(url=NEW_ARRIVALS_URL):
+    """Скачать страницу новых поступлений и вернуть множество slug'ов товаров.
+    При любой ошибке сети возвращаем пустое множество — фид всё равно соберётся
+    по обычному ранжированию, просто без приоритета новинок."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            html = r.read().decode("utf-8", "ignore")
+        return set(re.findall(r"\?product=([a-z0-9-]+)", html))
+    except Exception as e:
+        print("WARN: не удалось получить новые поступления:", e)
+        return set()
+
+def _slug(url):
+    m = re.search(r"\?product=([a-z0-9-]+)", url or "")
+    return m.group(1) if m else ""
+
 KEEP_CATS = None  # None = whole catalog; or a set like {"342","339"} to restrict
 # Bags are the user's OWN warehouse stock, managed manually on Prom — the dropship
 # feed must never carry a bag, or the import could collide with those cards by
 # id/vendorCode. Cat 339 = "Сумки, клатчи, кошельки, очки". Keep it out entirely.
 EXCLUDE_CATS = {"339"}
 MAX_PICS = 10  # Prom hard cap: no more than 10 photos per product
-MAX_OFFERS = 850  # reserve 150 slots for the user's own bags: 150 + 850 = 1000 Prom plan
-# (own bags are a SEPARATE catalog/feed, managed by the user — never fed from here)
+MAX_OFFERS = 750  # держим 750 дропшип-офферов; ~150 слотов резерв под свои сумки
+# (свои сумки — ОТДЕЛЬНЫЙ каталог, ведётся вручную, сюда никогда не попадает)
 
 # Card-quality gate: the source has no sales data, so as a first pass we keep
 # only well-merchandised offers (proven-enough to sell) and, when more pass
@@ -177,12 +206,15 @@ def markup(price):
     p = price * f
     return int(round(p / 10.0) * 10)  # round to nearest 10 грн
 
-def build(src_path, out_path):
+def build(src_path, out_path, arrivals=None):
     ctx = ET.iterparse(src_path, events=("end",))
+    # множество slug'ов новых поступлений (можно передать заранее для тестов)
+    arrivals = new_arrival_slugs() if arrivals is None else arrivals
     cats = {}
     offers_out = []
     kept = skipped_hide = skipped_stock = 0
     skipped_quality = 0
+    new_kept = 0  # сколько новинок реально попало в фид
     for ev, el in ctx:
         if el.tag == "category":
             cats[el.get("id")] = el.text
@@ -202,8 +234,12 @@ def build(src_path, out_path):
                 has_video = bool((el.findtext("video_link") or "").strip())
                 brand = (el.findtext("brand") or "").strip()
                 has_brand = bool(brand) and brand.lower() not in _STOP_BRANDS
-                # card-quality gate (proxy for "worth selling")
-                if (REQ_VIDEO and not has_video) or len(all_pics) < MIN_PICS or len(desc) < MIN_DESC:
+                # новинка? (есть в разделе новых поступлений дропшиппера)
+                is_new = _slug(el.findtext("url") or "") in arrivals
+                # фильтр качества (прокси «стоит продавать») — новинки пропускаем
+                # в обход фильтра: свежий товар в приоритете, лишь бы был в наличии
+                low_quality = (REQ_VIDEO and not has_video) or len(all_pics) < MIN_PICS or len(desc) < MIN_DESC
+                if low_quality and not is_new:
                     skipped_quality += 1
                     el.clear(); continue
                 params = [(p.get("name"), p.text) for p in el.findall("param") if p.text]
@@ -219,20 +255,28 @@ def build(src_path, out_path):
                     "qty": el.findtext("quantity_in_stock") or "",
                     "params": params,
                     "keywords": keywords_for(name.strip(), params),
-                    # rank = Ukrainian niche demand (proxy) + card-quality
-                    "rank": demand_bonus(sub) + quality_score(has_video, len(all_pics), len(desc), has_brand),
+                    "is_new": is_new,
+                    # ранг = спрос ниши (прокси) + качество карточки; новинкам
+                    # добавляем большой бонус, чтобы они шли выше всех обычных
+                    # офферов и гарантированно попадали в лимит MAX_OFFERS
+                    "rank": demand_bonus(sub) + quality_score(has_video, len(all_pics), len(desc), has_brand)
+                            + (NEW_ARRIVAL_BONUS if is_new else 0),
                 })
                 kept += 1
+                if is_new:
+                    new_kept += 1
             else:
                 if in_cat and avail != "true": skipped_stock += 1
                 if hide in ("1", "true", "yes"): skipped_hide += 1
             el.clear()
 
-    # keep the highest-ranked offers (niche demand + card quality) within budget
+    # оставляем лучшие по рангу в пределах бюджета; новинки за счёт бонуса
+    # всегда наверху, поэтому попадают в фид первыми
     offers_out.sort(key=lambda o: o["rank"], reverse=True)
     if len(offers_out) > MAX_OFFERS:
         offers_out = offers_out[:MAX_OFFERS]
     kept = len(offers_out)
+    new_kept = sum(1 for o in offers_out if o["is_new"])  # новинок в итоговом фиде
 
     # write YML
     used_cats = sorted({o["cid"] for o in offers_out})
@@ -281,7 +325,7 @@ def build(src_path, out_path):
         os.makedirs(d, exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    return kept, len(used_cats), [o["price"] for o in offers_out], skipped_quality
+    return kept, len(used_cats), [o["price"] for o in offers_out], skipped_quality, new_kept, len(arrivals)
 
 if __name__ == "__main__":
     src = sys.argv[1] if len(sys.argv) > 1 else "websklad.xml"
@@ -289,8 +333,9 @@ if __name__ == "__main__":
     if src == "download":
         src = "websklad_dl.xml"
         download(SRC, src)
-    kept, ncats, prices, skipped_quality = build(src, out)
+    kept, ncats, prices, skipped_quality, new_kept, n_arrivals = build(src, out)
     prices.sort()
     print("offers kept:", kept, "| categories:", ncats, "| dropped by quality gate:", skipped_quality)
+    print("новых поступлений в фиде:", new_kept, "| всего slug'ов на странице новинок:", n_arrivals)
     print("price min/median/max:", prices[0], prices[len(prices)//2], prices[-1])
     print("output:", out, "size:", os.path.getsize(out), "bytes")

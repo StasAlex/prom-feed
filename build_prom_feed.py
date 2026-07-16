@@ -117,6 +117,21 @@ def keywords_for(name, params):
         add(base, force=True) or add(" ".join(words[:2]), force=True)
     return out[:KW_MAX]
 
+def keywords_bilingual(name_ua, name_ru, params):
+    """Двуязычные пошукові запити: чередуем укр і рус запити (з укр- та рус-назви),
+    прибираємо дублі, обрізаємо до KW_MAX. YML тримає один список <keyword> (макс 10),
+    тож даємо змішаний укр+рус набір для покриття обох мов у межах ліміту."""
+    ua = keywords_for(name_ua, params) if name_ua else []
+    ru = keywords_for(name_ru, params) if name_ru else []
+    out, seen = [], set()
+    for i in range(max(len(ua), len(ru))):
+        for src in (ua, ru):
+            if i < len(src) and src[i].lower() not in seen:
+                seen.add(src[i].lower()); out.append(src[i])
+            if len(out) >= KW_MAX:
+                return out[:KW_MAX]
+    return out[:KW_MAX]
+
 def download(url, dest):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=180) as r, open(dest, "wb") as f:
@@ -229,6 +244,7 @@ def build(src_path, out_path, arrivals=None):
                 except (TypeError, ValueError):
                     el.clear(); continue
                 name = el.findtext("name_ua") or el.findtext("name") or ""
+                name_ru = el.findtext("name") or ""  # рус-назва для двомовних запитів
                 desc = el.findtext("description_ua") or el.findtext("description") or ""
                 all_pics = [p.text for p in el.findall("picture") if p.text]
                 has_video = bool((el.findtext("video_link") or "").strip())
@@ -254,7 +270,7 @@ def build(src_path, out_path, arrivals=None):
                     "vendorCode": el.findtext("vendorCode") or "",
                     "qty": el.findtext("quantity_in_stock") or "",
                     "params": params,
-                    "keywords": keywords_for(name.strip(), params),
+                    "keywords": keywords_bilingual(name.strip(), name_ru.strip(), params),
                     "is_new": is_new,
                     # ранг = спрос ниши (прокси) + качество карточки; новинкам
                     # добавляем большой бонус, чтобы они шли выше всех обычных

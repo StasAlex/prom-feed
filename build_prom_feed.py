@@ -327,8 +327,12 @@ def build(src_path, out_path, arrivals=None):
         safe_desc = (o["desc"] or "").replace("]]>", "]]&gt;")  # never break out of CDATA
         safe_desc = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", safe_desc)
         lines.append('        <description><![CDATA[%s]]></description>' % safe_desc)
+        # ЭКСПЕРИМЕНТ: даём запити двумя форматами — множинні <keyword>
+        # і єдиний <keywords> через кому — щоб перевірити, який читає Prom
         for kw in o["keywords"]:
             lines.append('        <keyword>%s</keyword>' % esc(kw))
+        if o["keywords"]:
+            lines.append('        <keywords>%s</keywords>' % esc(", ".join(o["keywords"])))
         for pn, pv in o["params"]:
             if pn and pv:
                 lines.append('        <param name="%s">%s</param>' % (esc(pn), esc(pv)))

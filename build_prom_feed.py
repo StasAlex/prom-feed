@@ -4,6 +4,7 @@ Downloads WebSklad universal YML, keeps chosen categories + in-stock,
 drops hide_for_prom, applies tiered markup, writes Prom-ready YML.
 """
 import sys, re, urllib.request, xml.etree.ElementTree as ET, datetime, os, shutil, json
+from prom_category_map import prom_category
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
@@ -273,10 +274,15 @@ def build(src_path, out_path):
                 el.clear(); continue
             params = [(p.get("name"), p.text) for p in el.findall("param") if p.text]
             sub = el.findtext("sub_category_ua") or el.findtext("sub_category") or "(none)"
+            # рубрика Prom по нише WebSklad: кладём ID рубрики Prom в <categoryId>,
+            # чтобы маркетплейс сам развёл товар в правильную рубрику (иначе Prom
+            # угадывает по широкой категории → неверная рубрика / «invalid data»)
+            prom_cid, prom_cname = prom_category(sub, cid)
             seen_keys.add(key)
             candidates.append({
                 "id": el.get("id"),
-                "cid": cid,
+                "cid": prom_cid,
+                "cname": prom_cname,
                 "price": markup(price),
                 "name": name.strip(),
                 "desc": desc.strip(),
@@ -345,7 +351,9 @@ def build(src_path, out_path):
     offers_out = sorted(kept, key=lambda c: c["rank"], reverse=True)
 
     # write YML
-    used_cats = sorted({o["cid"] for o in offers_out})
+    # категории = рубрики Prom, реально использованные в фиде (id → название)
+    promcats = {o["cid"]: o["cname"] for o in offers_out}
+    used_cats = sorted(promcats)
     def esc(s):
         s = (s or "").replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         s = s.replace('"', "&quot;").replace("'", "&apos;")
@@ -359,7 +367,7 @@ def build(src_path, out_path):
     lines.append('    <currencies><currency id="UAH" rate="1"/></currencies>')
     lines.append('    <categories>')
     for c in used_cats:
-        lines.append('      <category id="%s">%s</category>' % (c, esc(cats.get(c, ""))))
+        lines.append('      <category id="%s">%s</category>' % (c, esc(promcats[c])))
     lines.append('    </categories>')
     lines.append('    <offers>')
     for o in offers_out:

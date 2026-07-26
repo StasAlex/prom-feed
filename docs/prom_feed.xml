@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-26 16:56">
+<yml_catalog date="2026-07-26 20:55">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -2561,7 +2561,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Цвет корпуса">Белый</param>
       </offer>
-      <offer id="254592" available="true">
+      <offer id="254592" available="false">
         <name>Тостери на 4 тости грінки Magio MG-283, тостер для кухні побутовий, тостерниця для бутербродів</name>
         <categoryId>639</categoryId>
         <price>2180</price>
@@ -2577,7 +2577,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfvik3cjfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvikcufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/civfkcfiv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Тостер MG-283 – функціональний пристрій, що поєднує сучасний дизайн і продумані технічні рішення для зручності щоденного використання. Потужність 1400 Вт забезпечує швидкий і рівномірний прогрів, а сім ступенів піджарювання дозволяють точно вибрати бажаний рівень хрумкості тостів. Цей тостер стане незамінним помічником на кухні, оптимізуючи процес приготування сніданку або швидкого перекусу без зайвих турбот.</p>
 <h2>Ваші вигоди при покупці</h2>
 <ul>
@@ -14943,7 +14943,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvpvyprkavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvayrvypvyfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revrvypyvyv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>ViLgrand<span>&nbsp;</span></strong><span>з цифровим управлінням &#8211; це сучасна аерофритюрниця для здорового приготування улюблених страв.</span><br /><span>Завдяки потужності 1700 Вт і об&#8217;єму 6 л вона ідеально підходить для великої відразу.&nbsp;</span></p>
 <p><strong>КОМФОРТ, ЯКИЙ ВІДЧУЄШ</strong></p>
 <ul>
@@ -23755,7 +23755,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/5rthdfgshrdsfgfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yrgdfshrhrga.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tegsdaghsdfahra.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Цифровий годинник SKMEI 4012/2104BKWT — це стильне та патріотичне рішення для повсякденного використання. Модель має лаконічний круглий корпус у чорному кольорі, з контрастним дисплеєм і унікальним оформленням з символікою України. Великий екран з чіткими цифрами дозволяє легко зчитувати інформацію з першого погляду. Годинник чудово підходить як для спорту, так і для щоденного носіння.</p>
 <p>Завдяки розширеному функціоналу — будильник, секундомір, дата, день тижня та LED-підсвітка — цей годинник стане вашим надійним асистентом у рутині. Його ергономічна форма та легкий вага забезпечують комфорт навіть при тривалому носінні. Водонепроникність дозволяє не турбуватись про бризки чи піт під час активностей. SKMEI 4012 — це більше, ніж просто аксесуар — це акцент на вашій індивідуальності.</p>
 <h2>Характеристики</h2>
@@ -24181,7 +24181,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="562424" available="true">
+      <offer id="562424" available="false">
         <name>Професійна машинка для стрижки волосся VGR V-033 з функцією тримера та 4 насадками</name>
         <categoryId>28290204</categoryId>
         <price>560</price>
@@ -24197,7 +24197,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdggrsaegsaef.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gesdsages.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrgsdesdgewas.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>VGR V-033</strong><span>&nbsp;</span>&#8211; це компактна машинка для стрижки волосся, оснащена ножами з високоміцної нержавіючої сталі, які мало схильні до зносу і механічних пошкоджень, що забезпечує якісну роботу різальних елементів протягом усього терміну служби. Виробником передбачено чотири насадки, що дозволяють отримати потрібну довжину волосся в діапазоні від 3 до 12 мм, і важіль на корпусі для більш точного регулювання, що дає можливість створювати різноманітні стрижки. </p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -28687,7 +28687,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsr3wasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewadsr3qwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eqasdZfrweasd.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар Bailong BL-P512M-P90 — це надійний професійний пристрій для освітлення в будь-яких умовах. Завдяки корпусу з анодованого алюмінію, пофарбованого в камуфляжний стиль, ліхтар стійкий до ударів, пилу і вологи. Використання світлодіода Cree XH-P 90 забезпечує яскраве, економне та довговічне освітлення, яке особливо затребуване при роботі вночі та в умовах обмеженої видимості.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -35165,7 +35165,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesggsrfarsarh.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tefsdggsdfgtesaea.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twesgsrggsgsa.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний велосипедний ліхтар із вбудованим акумулятором 2500 мАг забезпечує потужне освітлення до 800 люмен завдяки високоефективному 10W діоду. Його компактний корпус із міцного поєднання пластику та металу гарантує легкість і довговічність у будь-яких умовах. Завдяки шести режимам роботи, серед яких різна інтенсивність світла і функції миготіння, ви зможете оптимально налаштувати освітлення під свої потреби, підтримуючи безпеку на дорозі в будь-який час доби.</p>
 <h2>Ваші вигоди при покупці</h2>
 <ul>
@@ -38909,7 +38909,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfivfkcviafvuifs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcufivakvamvfiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyfvakcfyvfyv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>FHSM-505 &#8211; це багатофункціональна, портативна швейна машинка, що працює 12 типами рядків. Підійде як початківцям, так і досвідченим кравчиням.</p>
 <p>Машинка для шиття має не громіздкий розмір.&nbsp;Легка та портативна.</p>
 <p>Шиє 12 типами рядків, які ви можете вибрати, виставивши конкретне число з певним типом рядка.</p>
@@ -39694,7 +39694,7 @@
         <param name="Язык издания">Английский</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="692642" available="true">
+      <offer id="692642" available="false">
         <name>Велокомп&apos;ютер SD-587 водонепроникний дротовий спідометр одометр велосипедний комп&apos;ютер</name>
         <categoryId>342401</categoryId>
         <price>420</price>
@@ -39707,7 +39707,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekyveukpeyvpyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavrkvpkpayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/apvyravyrkre.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Багатофункціональна модель велокомп&#8217;ютера SD-587 є однією з найпопулярніших моделей.</p>
 <p>Пристрій для любителів велосипедних прогулянок значно допоможе під час тривалих подорожей. Цей спідометр фіксує поточну швидкість, максимальну та середню швидкість велосипедиста. Ви можете встановити швидкість на спідометрі найбільш комфортну для Вас і орієнтуватися за показаннями приладу, щоб дотримуватися заданих параметрів. Також на циферблаті Ви зможете побачити кількість кілометрів, які Ви проїхали за день та за весь період подорожі. Спідометр вбудований годинник.</p>
 <p>Можна встановлювати велосипеди, мотоцикли, мопеди тощо.</p>
@@ -40939,7 +40939,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yvavypkapvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvyekukpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vpypvnkvrvyrv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Велофонар CYGM-256-LED &mdash; це потужний, компактний і водонепроникний ліхтар, який відмінно підходить як для використання на велосипеді, так і як звичайний ліхтарик. Оснащений потужним світлодіодом з яскравістю 50 люмен, він забезпечує впевнене освітлення поблизу та робить велосипедиста помітним на дорозі.</p>
 <p>Ліхтар працює від вбудованого Li-Ion акумулятора, який заряджається через сучасний та зручний порт Type-C. Підтримує 3 режими роботи, що дозволяє адаптувати освітлення під різні дорожні та погодні умови.</p>
 <p>Пристрій має швидкознімне кріплення, що робить його зручним для швидкої установки та зняття &mdash; ви легко можете взяти його з собою і використовувати як ручний ліхтарик. Клас захисту IP33 гарантує стійкість до пилу та бризок, роблячи ліхтар придатним для щоденного використання у місті.</p>
@@ -43905,7 +43905,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Время заряда аккумулятора">1</param>
       </offer>
-      <offer id="726577" available="false">
+      <offer id="726577" available="true">
         <name>Марміт Magio MG-1208 овальний 3л</name>
         <categoryId>240602</categoryId>
         <price>1680</price>
@@ -43920,7 +43920,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htrdfsgsgsgas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tdsfgsdages.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rtdfsfdsgesaes.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Насолоджуйтесь теплом та смаком ваших улюблених страв з мармітом Magio! Овальний марміт об&#8217;ємом 3 літри &ndash; ідеальне рішення для сервірування гарячих страв на будь-якому заході від сімейних обідів до урочистих вечерь.</p>
 <h2><strong>Основні характеристики:</strong></h2>
 <ul>

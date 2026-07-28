@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-28 14:00">
+<yml_catalog date="2026-07-28 17:24">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -2128,7 +2128,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="254156" available="true">
+      <offer id="254156" available="false">
         <name>Електрочайник MAGIO MG-512, 1.7 л 1650 Вт, стильний електрочайник, чайник електро, чайник дисковий</name>
         <categoryId>640</categoryId>
         <price>1400</price>
@@ -2144,7 +2144,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvfiucvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfivkcfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kucfviapkcuvfi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Чайник-термос MG-512 потужністю 1800 Вт — це сучасне рішення для швидкого та безпечного закипання води з тривалим збереженням тепла. Завдяки інноваційній конструкції з подвійними стінками та внутрішньою сталевою колбою, він ефективно економить електроенергію та час, забезпечуючи максимальний комфорт у повсякденному використанні.</p>
 <h2>Раціональні причини обрати чайник-термос MG-512</h2>
 <ul>
@@ -4095,7 +4095,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refsdafrdsafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdfedsfasdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwsadfaadsfsfesd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Перед вами не просто побутова електрична м&#8217;ясорубка Домотек, а багатофункціональний, компактний, високоефективний та надійний помічник на кухні. Бургери, ковбаски, домашні сосиски- все це диво Вам запросто накрутить наша електро м&#8217;ясорубка<span>&nbsp;</span><b>DOMOTEC MS-2024,</b><span>&nbsp;</span>вона готова взятися за найскладніші завдання: подрібнити, прокрутити та перетворити м&#8217;ясо на ніжний фарш.</p>
 <p><b>Електрична м&#8217;ясорубка з функцією соковижималки Domotec MS-2024</b><span>&nbsp;</span>з насадкою для томатів і двома функціями подрібнення, нарізки та нарізки скибочками. М&#8217;ясорубка Домотек призначена для виготовлення фаршу з м&#8217;яса, риби, грибів, нарізки овочів та фруктів, профілювання пісочного та пельменного тіста. Електром&#8217;ясорубка з функцією соковижималки шнекового типу має функцію реверс, зворотне обертання ножів, що запобігає ущільненню продуктів усередині м&#8217;ясорубки та забезпечує якісне подрібнення.</p>
 <p>Так само в наборі насадка для приготування домашнього томатного або іншого соку.</p>
@@ -5609,7 +5609,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kuayvyfuckayvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfyvafukafyyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ek3cuayfvpekcuayvf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><span><b>Машинка для стрижки волосся VGR V-071 триммер для бороди та вусів</b></span><span>&nbsp;&#8211; виконана в стильному, елегантному дизайні з високоякісних матеріалів. Машинка для стрижки волосся дуже проста у використанні, в комплекті є всі необхідні насадки для ідеальної стрижки.</span></p>
 <p>Професійна<span>&nbsp;</span>машинка для стрижки волосся&nbsp;VGR V-071 відрізняється своєю легкістю і компактністю, практично не відчувається в руці. Працює від акумулятора, що дозволяє комфортно переміщатися під час роботи, не сковуючи та не обмежуючи рухи. Заряджається дуже швидко і зарядки вистачає приблизно на дві години роботи, що дуже зручно для роботи майстра-перукаря, коли потрібно прийняти багато людей.</p>
 <p>Корпус виготовлений з металу та пластику. Родзинка такої моделі – це її безшумність.</p>
@@ -9763,7 +9763,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpvpivfpiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvipivfpviai.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapivi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Набір VGR V-642 включає три головні прилади, якими користується кожен чоловік в тій чи іншій мірі, це акумуляторна машинка та триммер для стрижки бороди та волосся зі змінними насадками та акумуляторний електричний шейвер для ідеальної гладкості шкіри, що значно полегшить життя кожному чоловікові.</p>
 <p>Шейвер ідеально повторює кожен вигин обличчя, роблячи гоління бездоганним. не викликає абсолютно ніякого роздратування. А використовуючи триммер та змінні насадки, Ви з легкістю зможете підстригти волосся голови або зробити бороду та вуса акуратнішими.</p>
 <p><strong>Характеристики шейвера:</strong></p>
@@ -18994,7 +18994,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucviaak3cjufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvfik3cuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pucvfyaufyvyf-1.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Краплинна кавоварка Magio MG-449 представляє собою зручний і функціональний пристрій для приготування свіжої меленої кави швидко і без зайвих зусиль. Всього один клік — і ароматний напій готовий, при цьому завдяки термочашці він зберігає тепло і насичений смак тривалий час. Ця модель ідеально підійде як для домашнього використання, так і для невеликих офісів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -20709,7 +20709,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvyaVyfavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fyvvafvfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvafpafvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична м&#8217;ясорубка Domotec MS-2022 2800W Чорна &#8211; це чудовий пристрій, який заощадить максимум часу під час приготування фаршу та ковбас. Потужність м&#8217;ясорубки складає 2800 Вт. 3 сіточки для м&#8217;яса з отворами різного діаметру дозволяють регулювати ступінь помелу. За допомогою насадки &ldquo;кеббе&rdquo; та насадки для сосисок ви зможете порадувати своїх близьких ароматними ковбасами. Корпус м&#8217;ясорубки виконаний із міцного металу та пластику. Функція реверсу дозволяє вирішити проблему намотування жил на шнек під час обробки м&#8217;яса. Достатньо зупинити мотор, натиснути кнопку реверсу, і причина засмічення буде усунена. Проста, зручна та надійна м&#8217;ясорубка MS-2022 стане вашою вірною помічницею на кухні.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -24660,7 +24660,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvapyvfppvyfpyfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayrvayasy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyravyryvakvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Подрібнювач металевий 1200Вт Блискавка&ndash; це портативний та багатофункціональний прилад, який поєднує в собі функції подрібнювача, блендера, м&#8217;ясорубки та млина. Він призначений для швидкого подрібнення м&#8217;яких продуктів (фрукти, перець, соуси, яйця), так і твердих (м&#8217;ясо, овочі, зерна кукурудзи, бобові, коріння рослин, кава, боби, рис). Цей комбайн можна використовувати як у домашніх умовах, так і в ресторанах та барах. Подрібнювач металевий 1200Вт Блискавка &#8211; підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач впорається з приготуванням кулінарних страв із ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети чи різноманітне дитяче харчування.</p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -27768,7 +27768,7 @@
         <keyword>Фен для волос дорожный</keyword>
         <keywords>Фен для волосся, Фен для волос, Фен для волосся дорожній VGR V-432 PINK, Фен для волос дорожный VGR V-432 PINK, з концентратором 1000 Вт, с концентратором 1000 Вт, іонізація та 2 режими, ионизация и 2 режима, Фен для волосся дорожній, Фен для волос дорожный</keywords>
       </offer>
-      <offer id="707941" available="true">
+      <offer id="707941" available="false">
         <name>Фен Super Hair Dryer з 5 насадками для швидкого сушіння та укладання волосся</name>
         <categoryId>617</categoryId>
         <price>920</price>
@@ -27784,7 +27784,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ervaprkviprk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpifpipiuiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkpivpifpiuf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Super Hair Dryer</strong>&#8211; це сучасний та стильний безшумний фен для швидкого сушіння та укладання волосся. Він дозволяє швидко створити професійне укладання і надати локонам здорового доглянутого вигляду. Фен зберігає красу вашого волосся, забезпечуючи безпечний і здоровий догляд за волоссям будь-якої довжини та густоти.</p>
 <p>Довжина шнура становить 150 см (1,5 метра), що дозволить використовувати фен навіть якщо розетка знаходиться далеко від дзеркала. У комплекті йде 5 насадок:</p>
 <ol>
@@ -28621,7 +28621,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ucivakivaivaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifavuvifaviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uivafivfaivavif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Gemei GM 3107</strong>&nbsp;призначений для дбайливого видалення небажаних волосків у носі та вухах. Зручна головка забезпечує швидке, просте та комфортне підрівнювання без неприємних відчуттів.</p>
 <p>Удосконалена система захисту від порізів та висмикування волосків<br />Завдяки сучасним технологіям ріжучий елемент захищений спеціальною ультратонкою сіткою із закругленими кінчиками, які запобігають подразненню шкіри.</p>
 <p>Оптимальний кут нахилу тримера дозволяє легко підрівнювати волоски у вухах та носі &mdash; ви можете бути впевнені в ефективності видалення небажаного волосся. Високоточні прорізи в нерухомому ножі, що обертається, забезпечують ефективне і швидке підрівнювання волосся.</p>
@@ -30421,7 +30421,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekfavyuafvya.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfvaukfayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kuyvaffvvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар на лоб Bailong BL-T06B-P90 поставляється з двома акумуляторами 18650 (хочемо відзначити, що ці акумулятори вважаються тестовими, тому для продовження експлуатації ліхтарика бажано їх замінити більш якісними). Акумуляторний блок знаходиться позаду, що дуже зручно під час носіння. Лінза з оргскла має широкий кут свічення за рахунок поворотного механізму фокусування.</p>
 <p>Характеристики ліхтаря налобного світлодіодного Bailong BL-T06B P90:</p>
 <ul>
@@ -34322,7 +34322,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkyfvpuyvfuyfauy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvyfapuy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkvpvyfyu.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Гейзерна кавоварка UniqueUN-1902 – ідеальне рішення для швидкого приготування насиченого та ароматного кавового напою прямо у вас дома або в офісі. Вона поєднує продуману конструкцію, довговічні матеріали та простоту у використанні, що дозволяє кожному любителю кави отримати стабільно якісний результат без зайвих зусиль.</p>
 <h2>Раціональні причини обрати UniqueUN-1902</h2>
 <ul>
@@ -36792,7 +36792,7 @@
         <param name="Язык издания">Английский</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="582456" available="true">
+      <offer id="582456" available="false">
         <name>Радіоприймач акумуляторний автономний GOLON RX-9933UAR, Радіо приймачі від мережі</name>
         <categoryId>632</categoryId>
         <price>600</price>
@@ -36808,7 +36808,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eravpavpui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvapiaivfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revapvauiaif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Радіоприймач торгової марки Golon, модель: RX-9933UAR. Має стильний дизайн ретро. Вбудований динамік центром (дуже гучний звук). Вбудований акумулятор дозволить взяти з собою в дорогу, де немає розетки. Також є відсік для батарей. USB/SD слоти дозволять відтворювати улюблену музику та аудіокниги з флеш накопичувачів у MP3 форматі.</span></p>
 <p><span>Висока чутливість, відмінно підходить для зон з невпевненим прийомом.</span></p>
 <p><strong>Характеристики:</strong></p>
@@ -36871,7 +36871,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviapkpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviavipf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Міні швейна машинка 4 в 1 &ndash; це компактна міні швейна машинка, яка завжди буде під рукою. Навіть якщо Ви абсолютний новачок у шитті, Ви легко впораєтеся за допомогою цієї машинки. Міні швейна машинка зручна та легка, її можна поставити на будь-яку гладку поверхню. На корпусі машинки є стрижень для намотування ниток на шпульку, який значно полегшить роботу. Ви полюбите робити акуратні і красиві рядки, а Ваш будинок стане ще охайнішим, адже тепер не буде ніяких ниток, що стирчать, і витрати коштів на ательє.</p>
 <p>Робота машинки здійснюється завдяки ножній педалі, точнісінько як на справжній професійній швейній машинці, але однією з переваг є те, що машинка займає в сім разів менше місця.</p>
 <p>Це дозволяє її брати з собою на дачу, оскільки вона працює і від батарейок (до комплекту не входять) або електрики.</p>
@@ -37089,7 +37089,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wdfrwdasfew.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rqwadsrewads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdsr3wqads.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Заняття спортом стали невід&#8217;ємним атрибутом кожної людини, яка бажає підтримувати своє тіло у прийнятній фізичній формі.</p>
 <p>Еспандер трубчастий застосовується в домашніх умовах для збільшення сили рук і плечей. Можна використовувати і для ніг, грудей і спини. Ми пропонуємо еспандери з різним рівнем навантаження &ndash; для людей з будь-яким рівнем тренованості, від новачків до професіоналів.</p>
 <p><strong>Еспандер &nbsp;має низку відмінних рис:</strong></p>
@@ -38986,7 +38986,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukyvafavfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfyavyvaf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvaufvyayv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Туристична плита BK-167A &#8211; одноконфоркова газова модель під цангові та побутові балони. Завдяки компактним розмірам та транспортувальному кейсу, пристрій ідеально підходить для туризму, виїздів на природу або для дачі. А також вона буде незамінною в умовах відсутності електрики та неможливості приготувати їжу на звичній електроплиті.</p>
 <p>Плита працює від цангового 220г балона, який встановлюється усередині плити. При роботі від побутового балона використовується редуктор з механічним (ручним) регулюванням.</p>
 <p><strong>Особливості:</strong></p>
@@ -41018,7 +41018,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yvyvfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkyvpauyvaf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpvaypyvfapyvfay.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Тостер Domotec MS-3230 650 Вт Black Чорний 6 ступенів обсмажування тостів дозволить швидко приготувати грінки з хрусткою скоринкою. Тостер розрахований на приготування одночасно двох шматочків грінок. Високий підйом тостів гарантує безпечне вилучення тостів із тостера, а функція переривання приготування створить додаткову зручність у приготуванні смачних тостів. Потужність, що споживається в 650 Вт, дозволяє тостеру швидко справлятися зі своїми основними завданнями. Наявність термостата дозволить вибрати один із шести ступенів обсмажування, враховуючи індивідуальні потреби кожного члена сім&#8217;ї. З тостером Domotec MS-3230 ваші діти зможуть отримувати радість зі сніданку. Також тостер має знімний відсік для крихт і можливість змотування шнура під корпус тостера.</p>
 <div>
 <h2><strong><span>Характеристики:</span></strong></h2>
@@ -42966,7 +42966,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivkcufauvfivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuaiucfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cukayvpukafvy-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Сучасні ювелірні ваги, або як їх ще називають кишенькові ваги, завжди популярні і затребувані ювелірами, фармацевтами (для точного дозування), в хімії (приготування розчинів), у мисливців, радіоаматорів, стоматологів, нумізмів. Компактні розміри, висока точність показань, простота використання робить цей товар поширеним у різних сферах діяльності.</p>
 <p>Корпус&nbsp;виготовлений з нержавіючого металу&nbsp;c захисною кришкою. Ваги мають велику робочу поверхню. Якщо Ви знаходитесь в умовах недостатнього освітлення, не зайвим буде режим підсвічування приємного синього кольору. &nbsp;Ваги оснащені функцією авто-відключення, яка активізується, якщо &nbsp;Ви не зважуєте, і не натискаєте кнопки.&nbsp;</p>
 <p>Точні ювелірні ваги вимогливі до розташування на рівній площині. Після включення, зачекайте 30 секунд, для прогрівання електронних елементів і стабілізації платформи. Через високу чутливість ваг, навіть при невеликому нахилі, замість &ldquo;0&rdquo; на екрані можуть з&#8217;явитися недостовірні дані.&nbsp;</p>
@@ -45066,14 +45066,14 @@
         <param name="Тип элементов питания">AAA</param>
         <param name="Функциональность пульсометра">Расчет среднего сердечного ритма</param>
       </offer>
-      <offer id="595717" available="true">
+      <offer id="595717" available="false">
         <name>Набір 3/1 акумуляторних інструментів у кейсі: болгарка, шуруповерт, гайковерт</name>
         <categoryId>141711</categoryId>
         <price>3740</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws39699</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pypuyvfpuyfpfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір акумуляторних інструментів&nbsp; це надійний комплект для різних ремонтних та будівельних робіт. До його складу входять кутова акумуляторна безщіткова шліфувальна машина. &nbsp;акумуляторний безщітковий&nbsp; шуруповерт&nbsp; &nbsp;і акумуляторний безщітковий гайковерт&nbsp; &nbsp;Комплект також включає два акумулятори на 24В і 4Ач кожен і відповідний зарядний пристрій.</p>
 <p>Шуруповерт Grand ТАК-20UBL оснащений швидкозатискним патроном діаметром 10 мм для різних насадок. Максимальний момент, що крутить, становить 45 Нм, що дозволяє впоратися з найскладнішими завданнями. Інструмент має два режими обертів: від 0 до 550 об/хв і від 0 до 1400 об/хв, а також два режими числа ударів: від 0 до 6000 уд/хв і від 0 до 22500 уд/хв.</p>
 <p>Акумуляторна болгарка з безщітковим двигуном забезпечує широкі можливості для виконання різноманітних завдань. Вона має максимальний діаметр диска 125 мм та максимальну товщину диска 6 мм. Регульований діапазон обертів від 3000 до 8400 об/хв, плавний пуск та захист від перевантажень забезпечують безпеку та довговічність роботи.</p>
@@ -46514,7 +46514,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws73835</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifvaupifvpivpifpifapif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Набір посуду UNIQUE UN-2355 — це оптимальне рішення для тих, хто цінує поєднання стильного дизайну та практичності в кухонному приладді. Виконаний із високоякісної нержавної сталі з емальованим покриттям і оснащений скляними кришками, цей комплект подарує вашому процесу приготування їжі зручність і безпеку. Продуманий об’єм і розміри каструль забезпечують універсальність застосування для будь-яких кулінарних завдань, а доступна ціна робить покупку вигідною і виправданою.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -47068,7 +47068,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws69971-1</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htdsdsgggsdags.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Іграшка для кішок представлена ​​у вигляді чотирирівневого треку. На кожному рівні можна розташувати по одному або декілька м&#8217;ячиків, залежно від переваг кішки.</p>
 <p>Іграшка, що пропонується для кішок, підійде для тварин будь-якого віку.</p>
 <p>Трек для котів захопить як кошенят, так і дорослих котів. Кішка з великим азартом ганятиме м&#8217;ячики по треку, намагаючись їх зловити.</p>

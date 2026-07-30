@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-30 10:22">
+<yml_catalog date="2026-07-30 13:53">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -3732,7 +3732,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="291260" available="true">
+      <offer id="291260" available="false">
         <name>Електрочайник MAGIO MG-988, гарний електричний чайник, тихий електричний чайник, безшумний чайник</name>
         <categoryId>640</categoryId>
         <price>1450</price>
@@ -3748,7 +3748,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/weasdafrsddsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwadsafersdafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sdafgdavsdfgds.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Чайник-термос<span>&nbsp;</span><b>MG-988</b><span>&nbsp;</span>об&#8217;ємом 1.7 л поєднує в собі стильний дизайн з чудовою якістю та довговічністю. Чайник-термос завдяки потрійним стінкам нагрівається набагато швидше, заощаджуючи електроенергію та час, а ефект термоса збереже гарячу воду тривалий час.</p>
 <p>Зовнішній корпус виготовлений з високоякісного металу. За рахунок цього, при роботі чайник не нагрівається зовні, його температура не перевищує 70°С, що унеможливлює опіку.</p>
 <p>Внутрішня колба, кришка та носик виготовлені з високоякісної нержавіючої сталі, сумісної з харчовими продуктами, що забезпечує чистоту води та розраховані на тривалий термін служби. При натисканні кнопки механізм відкривання кришки спрацьовує м&#8217;яко і плавно, за винятком розбризкування конденсату з кришки.</p>
@@ -14867,7 +14867,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ravpavypvyvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaavavyayva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvpvyfpvyfvpypvypvyfpvyf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся Domotec MS-3302 подарує вам можливість підстригтися або підрівняти довжину волосся у будь-який час, заощаджуючи час та гроші.</p>
 <p>Машинка проста у використанні та дозволяє в домашніх умовах створити будь-яку зачіску. Леза з нержавіючої сталі забезпечують акуратність та точність контуру стрижки. Є можливість регулювати довжину волосся, що зрізається.</p>
 <p>Пристрій підходить для волосся будь-якої довжини. Ручка покрита антиковзним матеріалом, що сприяє зниженню вібрації під час роботи.</p>
@@ -27835,7 +27835,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaipifvifpkif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekairpkivfpifprki.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvipivfprivafi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар NIGHT VISION FLUORESCENCE PLD-903-TG &mdash; це потужний та зручний пристрій для освітлення, створений для використання в будь-яких умовах. Він ідеально підійде для походів, риболовлі, ремонту або інших завдань, де потрібне яскраве світло та вільні руки. Оснащений 1 режимом освітлення, акумуляторами 2&#215;18650, функцією збільшення (zoom) та зарядкою через Type-C, що забезпечує тривалу та комфортну експлуатацію.</p>
 <h2>Основні характеристики налобного ліхтаря PLD-903-TG:</h2>
 <ul>
@@ -30470,7 +30470,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="298838" available="true">
+      <offer id="298838" available="false">
         <name>Налобний ліхтар X-Balog BL-T07B-P90, потужний тактичний ліхтарик налобний, водонепроникний ліхтар</name>
         <categoryId>150410</categoryId>
         <price>530</price>
@@ -30486,7 +30486,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euavifvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/evpkeavfvvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fiapuifvavi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Налобний ліхтарик X-Balog BL-T07B-P90</strong><span>&nbsp;</span>&#8211; налобний акумуляторний ліхтар з лінзою для фокусування світлового потоку. Має три режими роботи: яскравий, економний та стробоскоп.</p>
 <p>Перевагою є міцний, стійкий до ударів, пошкоджень та вологи, анодований алюмінієвий корпус, який до того ж досить легкий, щоб тримати на голові без додаткового дискомфорту.</p>
 <p>Робота налобного ліхтаря виконується за рахунок акумуляторів, що заряджаються, які можна підзарядити як від прикурювача, так і мережі.</p>
@@ -35820,7 +35820,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kupyvapkppfpavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvfufyavavvfvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rukavikyyfavy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Domotec MS-4908 – це сучасна плойка з PTC нагрівачем, розроблена для ефективного випрямлення волосся будь-якої структури та довжини. Пристрій забезпечує рівномірний та швидкий нагрів робочої поверхні, що дозволяє досягти професійного результату за мінімальний час. Ергономічний дизайн та зручна не нагріваючася ручка роблять процес укладки комфортним і безпечним, а технологія PTC підтримує стабільну температуру до 200°C, зберігаючи здоров’я волосся.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -35935,7 +35935,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tergffsfdhgsgrdgdrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgfsdgsafdser4.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ergdsfsdhrfsfsgffg.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ідеальний варіант для приготування їжі на виїзді або на дачній ділянці. Особливо оцінять таганок любителі домашньої їжі. Призначений для приготування їжі в побутових умовах. Таганок має одну маленьку конфорку та ручку керування. Так як модель досить легка і компактна, ви легко зможете її брати з собою в будь-яку подорож.</p>
 <p>Настільна газова плита призначена для приготування їжі в побутових умовах від зрідженого (балонного) газу. Завдяки компактним розмірам газова плитка легко може бути транспортована з постійного житла до місць тимчасового проживання (на дачу, до гуртожитку тощо).Настільна плита економічна та надійна в роботі, зручна та проста в обслуговуванні.</p>
 <p><strong>Характеристики:</strong></p>
@@ -36210,7 +36210,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2jucypree4cuyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvapee4cukyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvyapire4ckuayv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Набір спиртових маркерів Aihao — універсальне рішення для художників, дизайнерів і любителів скетчингу. У комплекті 120 двосторонніх маркерів з широкою кольоровою палітрою, що забезпечує плавні переходи та насичену передачу кольору. Корпус і ковпачки виконані з міцного пластику, а зручне кольорове та цифрове кодування на ковпачках спрощує вибір потрібного відтінку. Чорнила на спиртовій основі дозволяють працювати з щільним папером і картоном, створюючи яскраві та стійкі зображення. Довжина маркера становить 15,5 см, що забезпечує комфортне використання в тривалих творчих процесах.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -36871,7 +36871,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviapkpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviavipf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Міні швейна машинка 4 в 1 &ndash; це компактна міні швейна машинка, яка завжди буде під рукою. Навіть якщо Ви абсолютний новачок у шитті, Ви легко впораєтеся за допомогою цієї машинки. Міні швейна машинка зручна та легка, її можна поставити на будь-яку гладку поверхню. На корпусі машинки є стрижень для намотування ниток на шпульку, який значно полегшить роботу. Ви полюбите робити акуратні і красиві рядки, а Ваш будинок стане ще охайнішим, адже тепер не буде ніяких ниток, що стирчать, і витрати коштів на ательє.</p>
 <p>Робота машинки здійснюється завдяки ножній педалі, точнісінько як на справжній професійній швейній машинці, але однією з переваг є те, що машинка займає в сім разів менше місця.</p>
 <p>Це дозволяє її брати з собою на дачу, оскільки вона працює і від батарейок (до комплекту не входять) або електрики.</p>
@@ -39817,7 +39817,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об&#8217;єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -44681,7 +44681,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaypvaypvyfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayvapvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oapravypva.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Покращіть приготування будь-яких страв з пресом для часнику Unique UN-1761 — надійним інструментом, що забезпечує ефективне подрібнення часнику до дрібних кубиків чи пюреподібної консистенції. Цей інструмент стане незамінним помічником на вашій кухні, допомагаючи швидко і зручно додати насичений аромат часнику в улюблені рецепти.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -46282,7 +46282,7 @@
         <vendorCode>ws71455</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpivpifpuipufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpyvfpyvayfay.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><b>Підлогова вішалка стійка телескопічна подвійна для одягу та взуття Double Pole.</b><span>&nbsp;Розміщення речей у квартирі, а особливо в квартирі невеликого розміру, справа непроста, є всього кілька варіантів при яких кількість вільного місця залишається більше &#8211; це або вбудована шафа на всю стіну</span>.</p>
 <p><span>Представляємо Вам зручний і вигідний спосіб розміщення якщо не всіх необхідних речей &#8211; Стійка для одягу &#8211; Double Pole.<br />
 Трубки стійки Double Pole виготовлені з алюмінію, і покриті захисною фарбою оливкового кольору, порожнисті всередині, тому стійка навіть у збірці буде важити не більше 1,5 кг. запобігають випадковому падінню одягу якщо вона буде просто накинута на стійку.</p>
@@ -46507,14 +46507,14 @@
         <param name="Тип весов">Электронные</param>
         <param name="Единицы измерения">Килограммы</param>
       </offer>
-      <offer id="561780" available="true">
+      <offer id="561780" available="false">
         <name>Набір із 5 емальованих каструль із кришками UNIQUE UN-2355 10 предметів Для всіх типів плит</name>
         <categoryId>150203</categoryId>
         <price>1150</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws73835</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifvaupifvpivpifpifapif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір посуду UNIQUE UN-2355 — це оптимальне рішення для тих, хто цінує поєднання стильного дизайну та практичності в кухонному приладді. Виконаний із високоякісної нержавної сталі з емальованим покриттям і оснащений скляними кришками, цей комплект подарує вашому процесу приготування їжі зручність і безпеку. Продуманий об’єм і розміри каструль забезпечують універсальність застосування для будь-яких кулінарних завдань, а доступна ціна робить покупку вигідною і виправданою.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -46956,7 +46956,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpavirpfpifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/prvarpvfpfip.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivpivfpif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Сучасні ювелірні ваги, або як їх ще називають кишенькові ваги, завжди популярні і затребувані ювелірами, фармацевтами (для точного дозування), в хімії (приготування розчинів), у мисливців, радіоаматорів, стоматологів, нумізматів. Компактні розміри, висока точність показань, простота використання робить цей товар поширеним у різних сферах діяльності.</p>
 <p>Корпус&nbsp;виготовлений із міцного матеріалу із захисною кришкою. Ваги мають велику робочу поверхню. Якщо Ви знаходитесь в умовах недостатнього освітлення, не зайвим буде режим підсвічування приємного синього кольору. Ваги оснащені функцією авто-відключення, яка активізується, якщо Ви не зважуєте, і не натискаєте кнопки.&nbsp;</p>
 <p>Точні ювелірні ваги вимогливі до розташування на рівній площині. Після включення, зачекайте 30 секунд, для прогрівання електронних елементів і стабілізації платформи. Через високу чутливість ваг, навіть при невеликому нахилі, замість &ldquo;0&rdquo; на екрані можуть з&#8217;явитися дані.&nbsp;</p>

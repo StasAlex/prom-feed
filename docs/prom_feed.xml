@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-30 13:53">
+<yml_catalog date="2026-07-30 17:23">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -5039,7 +5039,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="344192" available="true">
+      <offer id="344192" available="false">
         <name>Професійна електробритва Шейвер VGR V-335 Shaver з трьома ножовими блоками, бритва для бороди</name>
         <categoryId>3314</categoryId>
         <price>1150</price>
@@ -5055,7 +5055,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kayvuvaayvmayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyavekufay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tr3wefsda3rwfasd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Професійна бритва VGR V-335 Shaver з трьома ножовими блоками дозволяє підкоригувати щетину та сформувати акуратну борідку за лічені хвилини. VGR V-335 Shaver повністю видаляє навіть найкоротші волоски, роблячи шкіру ідеально гладкою. Шейвер VGR V-335 не травмує шкірні покриви обличчя та шиї, не залишає слідів. Підходить для створення чіткого окантування та коригування існуючої форми бороди<br />Професійна електробритва (шейвер) для сухого та вологого гоління дозволяє швидко обробляти бороду будь-якої довжини та створювати чіткі контури. Застосовується барберами для обробки контурів та зведення до нуля при фейдингу. Три незалежні голівки гоління забезпечують комфортне гоління з максимальною точністю. Гіпоалергенна титанова сітка виключає мікропошкодження та подразнення шкіри. Сітка та знімні головки, тому їх легко почистити або замінити.</p>
 <p>Потужний роторний двигун працює зі швидкістю 8000 об/хв і відрізняється низьким рівнем шуму та вібрацій.</p>
 <p><strong>Особливості та переваги електробритви:</strong></p>
@@ -5186,7 +5186,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344224" available="true">
+      <offer id="344224" available="false">
         <name>Електробритва портативна чоловіча VGR V-357 професійна бритва Шейвер Green</name>
         <categoryId>3314</categoryId>
         <price>900</price>
@@ -5202,7 +5202,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvpivfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpivfppuivvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vpivfpvifpvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Електробритва VGR V-357</span></strong>&#8211; це ідеальний інструмент як для гоління, так і для стрижки волосся &#8220;під нуль&#8221;. Незамінний предмет для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, із приголомшливою ергономікою та чудовим функціоналом.</p>
 <p>Особливістю шейвера є наявність двох сіток, що забезпечують чисте зрізання волосся, як бритвою-верстатом. Блискучі сітки рухливі, що дозволяє не тільки регулювати момент натискання, але й забезпечує чітке повторення контурів обличчя або голови для максимального якісного результату. Завдяки сучасному мотору з частотою коливань 7500 об/хв, стрижка волосся буде надзвичайно чистою.</p>
 <p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та гіпоалергенні. Сітковий картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. За необхідності ножі також можуть бути замінені.</p>
@@ -8561,7 +8561,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="481373" available="true">
+      <offer id="481373" available="false">
         <name>Машинка для стрижки волосся і бороди VGR V-695 з LED дисплеєм IPX7 вологозахист, Окантувальна машинка</name>
         <categoryId>28290204</categoryId>
         <price>1150</price>
@@ -8577,7 +8577,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wr3ewrftewasdfgewatewsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfsgrgrdfvgrsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgesdgrfdsfds.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>Потужний акумулятор&nbsp; 2600 мАг. Час заряджання до 4 годин. Час безперервної роботи на повному заряді акумулятора 300 хвилин;</li>
 <li>Регулювання ножів від 0,5-2,5 мм із кроком 0,5 мм &#8211; допоможе підібрати потрібну довжину волосся при стрижці;</li>
@@ -10291,7 +10291,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euippivfuifauf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuipuikpivfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epuivpiuu.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Кухонний міксер DOMOTEC R 6693 — це надійний і функціональний інструмент, розроблений для ефективного рішення широкого спектру завдань на кухні. Його потужний двигун на 650 Вт з високим крутним моментом забезпечує стабільну роботу при замішуванні різних видів тіста та збиванні інгредієнтів. П’ять швидкісних режимів дозволяють підібрати оптимальний режим для будь-яких кулінарних процесів, забезпечуючи точний контроль і плавне змішування.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -14867,7 +14867,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ravpavypvyvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaavavyayva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvpvyfpvyfvpypvypvyfpvyf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся Domotec MS-3302 подарує вам можливість підстригтися або підрівняти довжину волосся у будь-який час, заощаджуючи час та гроші.</p>
 <p>Машинка проста у використанні та дозволяє в домашніх умовах створити будь-яку зачіску. Леза з нержавіючої сталі забезпечують акуратність та точність контуру стрижки. Є можливість регулювати довжину волосся, що зрізається.</p>
 <p>Пристрій підходить для волосся будь-якої довжини. Ручка покрита антиковзним матеріалом, що сприяє зниженню вібрації під час роботи.</p>
@@ -20158,7 +20158,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewdsae2qwdas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eqwdarewdas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eqwdase2qas.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Фритюрниця для домашнього використання від виробника техніки для кухні RAINBERG призначена для смаження у фритюрі картоплі фрі, крокетів, курячих ніжок, крилець, чіпсів, нагетсів та багатьох інших делікатесів. Красиві золоті хрусткий картопля. Завдяки фритюрниці ви можете готувати їхні будинки і будете набагато смачнішими та дешевшими, ніж ті, які купуються в магазині.</p>
 <p>Якщо ваша сім&#8217;я любить глибоко смажену їжу, ця фритюрниця ідеально підходить для вас. Не залишайте олію у фритюрниці.</p>
 <p><strong>Переваги:</strong></p>
@@ -39403,7 +39403,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesgdfgrsdrteafeds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twesgdagstegrsatgs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwefsadfesgesa.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Безпека на дорозі — ключове завдання для будь-якого велосипедиста, особливо під час поїздок у темний час доби. Велосипедний ліхтар в алюмінієвому корпусі з трьома світлодіодами XPE і COB забезпечує яскраве, надійне освітлення, дозволяючи вам безпечно рухатися навіть у складних погодних умовах. Завдяки продуманій конструкції, функціональним режимам роботи та міцним матеріалам цей ліхтар стане незамінним супутником на кожній поїздці.</p>
 <h2>Раціональні причини обрати велосипедний ліхтар</h2>
 <ul>
@@ -39817,7 +39817,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об&#8217;єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -41968,7 +41968,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="595077" available="true">
-        <name>LED Проектор для дому портативний Смарт з WiFi, Bluetooth, Android 11, білий, 1280х720р</name>
+        <name>LED Проектор для дому портативний Смарт з WiFi Bluetooth Android 11 1280х720р White</name>
         <categoryId>150203</categoryId>
         <price>1900</price>
         <currencyId>UAH</currencyId>
@@ -42012,14 +42012,11 @@
         <keyword>LED Проектор</keyword>
         <keyword>LED Проектор для дому портативний Смарт з WiFi</keyword>
         <keyword>LED Проектор для дома портативный Смарт с WiFi</keyword>
-        <keyword>Bluetooth</keyword>
-        <keyword>Android</keyword>
-        <keyword>білий</keyword>
-        <keyword>белый</keyword>
-        <keyword>1280х720р</keyword>
         <keyword>LED Проектор для дому</keyword>
         <keyword>LED Проектор для дома</keyword>
-        <keywords>LED Проектор, LED Проектор для дому портативний Смарт з WiFi, LED Проектор для дома портативный Смарт с WiFi, Bluetooth, Android, білий, белый, 1280х720р, LED Проектор для дому, LED Проектор для дома</keywords>
+        <keyword>LED Проектор для дому портативний</keyword>
+        <keyword>LED Проектор для дома портативный</keyword>
+        <keywords>LED Проектор, LED Проектор для дому портативний Смарт з WiFi, LED Проектор для дома портативный Смарт с WiFi, LED Проектор для дому, LED Проектор для дома, LED Проектор для дому портативний, LED Проектор для дома портативный</keywords>
       </offer>
       <offer id="596208" available="true">
         <name>Електроплита індукційна Domotec MS 5864 5900 Вт на 4 конфорки, Електроплита настільна побутова</name>
@@ -42297,7 +42294,7 @@
         <keyword>Велокомпьютер</keyword>
         <keywords>Велокомп&apos;ютер SunDing SD-548C, Велокомпьютер SunDing SD-548C, Велокомп&apos;ютер SunDing SD-548C 14 функцій, Велокомпьютер SunDing SD-548C 14 функций, Велокомп&apos;ютер SunDing, Велокомпьютер SunDing, Велокомп&apos;ютер, Велокомпьютер</keywords>
       </offer>
-      <offer id="708628" available="true">
+      <offer id="708628" available="false">
         <name>Велоліхтар 804-2T6, водонепроникний</name>
         <categoryId>342402</categoryId>
         <price>260</price>
@@ -42306,7 +42303,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavypvyrvekaavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekyvappavpvak.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vayravrvirku.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велоліхтар 804-2T6 &mdash; це потужний і надійний світлодіодний ліхтар для велосипеда, створений для впевненої їзди в темну пору доби і при поганій видимості. Оснащений двома світлодіодами T6, він забезпечує яскраве та широке освітлення дороги, роблячи поїздку безпечнішою.</p>
 <p>Ліхтар працює від вбудованого Li-Ion акумулятора, який забезпечує тривале автономне використання. Заряджається через сучасний порт Type-C, що робить процес зарядки швидким та зручним від будь-якого джерела живлення, включаючи повербанки та ноутбуки. На корпусі розташований цифровий індикатор заряду, що дозволяє точно контролювати рівень енергії, що залишилася.</p>
 <p>Ліхтар підтримує 6 режимів освітлення, що дає можливість адаптувати світло під будь-які умови та переваги користувача. Корпус виконаний із міцних матеріалів і має водонепроникність, що дозволяє використовувати пристрій у будь-яку погоду, включаючи дощ.</p>
@@ -42950,7 +42947,7 @@
         <param name="Поверка">Да</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="423124" available="true">
+      <offer id="423124" available="false">
         <name>Ваги ювелірні електронні 6256, 200г (0,01г), ваги для зважування золота, точні електронні ваги</name>
         <categoryId>15371103</categoryId>
         <price>300</price>
@@ -42966,7 +42963,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivkcufauvfivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuaiucfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cukayvpukafvy-1.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Сучасні ювелірні ваги, або як їх ще називають кишенькові ваги, завжди популярні і затребувані ювелірами, фармацевтами (для точного дозування), в хімії (приготування розчинів), у мисливців, радіоаматорів, стоматологів, нумізмів. Компактні розміри, висока точність показань, простота використання робить цей товар поширеним у різних сферах діяльності.</p>
 <p>Корпус&nbsp;виготовлений з нержавіючого металу&nbsp;c захисною кришкою. Ваги мають велику робочу поверхню. Якщо Ви знаходитесь в умовах недостатнього освітлення, не зайвим буде режим підсвічування приємного синього кольору. &nbsp;Ваги оснащені функцією авто-відключення, яка активізується, якщо &nbsp;Ви не зважуєте, і не натискаєте кнопки.&nbsp;</p>
 <p>Точні ювелірні ваги вимогливі до розташування на рівній площині. Після включення, зачекайте 30 секунд, для прогрівання електронних елементів і стабілізації платформи. Через високу чутливість ваг, навіть при невеликому нахилі, замість &ldquo;0&rdquo; на екрані можуть з&#8217;явитися недостовірні дані.&nbsp;</p>

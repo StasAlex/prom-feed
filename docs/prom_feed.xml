@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-03 06:57">
+<yml_catalog date="2026-08-03 11:19">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -7744,7 +7744,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htesdgsdgtgrsatfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgdsxcvhdfhdfrdf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/y5fgsrtsdgdfgdfsfd.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Компанія T&#038;G представила компактну та функціональну Bluetooth-колонку TG-658, призначену для комфортного прослуховування музики в будь-яких умовах. Ця модель поєднує в собі якісне звучання, універсальність підключення та тривалий час автономної роботи, що робить її відмінним вибором для любителів активного способу життя та цінителів мобільного аудіо.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -18994,7 +18994,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucviaak3cjufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvfik3cuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pucvfyaufyvyf-1.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Краплинна кавоварка Magio MG-449 представляє собою зручний і функціональний пристрій для приготування свіжої меленої кави швидко і без зайвих зусиль. Всього один клік — і ароматний напій готовий, при цьому завдяки термочашці він зберігає тепло і насичений смак тривалий час. Ця модель ідеально підійде як для домашнього використання, так і для невеликих офісів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -20559,7 +20559,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="294918" available="true">
+      <offer id="294918" available="false">
         <name>Налобний тактичний ліхтарик POLICE BL-2199-T6, потужний акумуляторний ліхтарик налобний, головний ліхтарик</name>
         <categoryId>150410</categoryId>
         <price>420</price>
@@ -20574,7 +20574,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fyayafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucyvaukcyvavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jucfkcayv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>POLICE BL-2199-T6 це понад яскравий налобний тактичний ліхтарики, який працює на базі світлодіода CREE T6. Такий світлодіод дає дуже яскраве чисте світло, а можливість вибору рівня яскравості та фокусування променя дозволяє виставити найоптимальніший світловий потік.</p>
 <p>Працює налобний тактичний ліхтарик POLICE BL-2199-T6 від двох акумуляторів Li-ion 18650 8800 mAh 3.7V, які розташовуються в окремому блоці, через який їх також можна зарядити, в комплекті є зарядка від мережі 220</p>
 <p>Ліхтарик має дуже зручне кріплення на голову з міцними регульованими резинками. Акумулятори для живлення ліхтаря розташовуються в окремому блоці, який розташований ззаду голови, це дозволяє врівноважити ліхтарик і блок живлення, він не перевіюватиме вперед. Також на блоці з акумуляторами розташований червоний маячок, який додатково убезпечить у темний час доби.</p>
@@ -30535,7 +30535,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="299259" available="true">
+      <offer id="299259" available="false">
         <name>Ліхтарик налобний м&apos;який акумуляторний XQ-T1C USB з червоними задніми вогнями, ліхтар на голову для риболовлі</name>
         <categoryId>150410</categoryId>
         <price>420</price>
@@ -30551,7 +30551,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujviakucvauia.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvffyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkcyfvauvfyayvf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Налобний ліхтар із USB зарядкою XQ-T1C 26LED &#8211; особливість моделі полягає в наявності гнучкого довгого світлодіода. Відсік для акумулятора розташований на потилиці та обладнаний індикатором заряду АКБ. Також на ньому розташовані два габаритні світлодіоди з окремою кнопкою для їх відключення. , на рибалці. Стане незамінним помічником для тих кому потрібне яскраве розсіяне світло на близькій відстані.</span></p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -34730,7 +34730,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ertavpkivvpifui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/mpschyaiappvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaiiraifpfpi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар BL-T35-P160 &mdash; це надійне та багатофункціональне рішення для активного відпочинку, роботи у темний час доби та екстремальних умов. Він оснащений одним потужним діодом P160 з трьома режимами роботи спереду (100%, 50%, стробоскоп) та додатковим червоним миготливим діодом ззаду, що дозволяє використовувати ліхтар для сигналізації або безпечного руху в темряві.</p>
 <p>Корпус виконаний з комбінації міцного пластику та металу, забезпечуючи надійність та довговічність, при цьому зберігаючи легкість конструкції. Оптичний зум дозволяє регулювати кут світлового променя &mdash; від широкої плями до вузькоспрямованого світла.</p>
 <p>ліхтар живиться від трьох акумуляторів формату 18650 і підтримує функцію Power Bank, що дозволяє заряджати інші пристрої в екстрених ситуаціях. Заряджання здійснюється через USB Type-C. В комплект входять сам ліхтар, кабель для заряджання та три акумулятори 18650. BL-T35-P160 поєднує компактність, високу потужність та універсальність, роблячи його незамінним помічником у будь-яких умовах.</p>
@@ -39472,7 +39472,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvpyfpueyfpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuypkypuyfpu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuirpviaviviku.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Універсальність</strong></p>
 <p>Цей комплект для ремонту електронного обладнання містить 81 тип викруток. Їх можна використовувати, незалежно від рівня умінь &mdash; чи то професіонал чи любитель. Він стане в нагоді при ремонті комп&#8217;ютерів, меблів, побутової електроніки та іграшок</p>
 <p><strong>Зручність</strong></p>
@@ -46943,7 +46943,7 @@
         <keyword>Портативная паровая</keyword>
         <keywords>Портативна парова сауна, Портативная паровая сауна, Портативна парова сауна 3 л 1000 Вт, Портативная паровая сауна 3 л 1000 Вт, Парова лазня для тіла, Паровая баня для тела, Міні-парилка в квартиру, Мини-парилка в квартиру, Портативна парова, Портативная паровая</keywords>
       </offer>
-      <offer id="692452" available="true">
+      <offer id="692452" available="false">
         <name>Ваги ювелірні MH-100, 100г (0.01г)</name>
         <categoryId>15371103</categoryId>
         <price>260</price>
@@ -46953,7 +46953,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpavirpfpifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/prvarpvfpfip.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivpivfpif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Сучасні ювелірні ваги, або як їх ще називають кишенькові ваги, завжди популярні і затребувані ювелірами, фармацевтами (для точного дозування), в хімії (приготування розчинів), у мисливців, радіоаматорів, стоматологів, нумізматів. Компактні розміри, висока точність показань, простота використання робить цей товар поширеним у різних сферах діяльності.</p>
 <p>Корпус&nbsp;виготовлений із міцного матеріалу із захисною кришкою. Ваги мають велику робочу поверхню. Якщо Ви знаходитесь в умовах недостатнього освітлення, не зайвим буде режим підсвічування приємного синього кольору. Ваги оснащені функцією авто-відключення, яка активізується, якщо Ви не зважуєте, і не натискаєте кнопки.&nbsp;</p>
 <p>Точні ювелірні ваги вимогливі до розташування на рівній площині. Після включення, зачекайте 30 секунд, для прогрівання електронних елементів і стабілізації платформи. Через високу чутливість ваг, навіть при невеликому нахилі, замість &ldquo;0&rdquo; на екрані можуть з&#8217;явитися дані.&nbsp;</p>

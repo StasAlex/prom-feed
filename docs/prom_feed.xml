@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-03 11:19">
+<yml_catalog date="2026-08-03 14:33">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4384,7 +4384,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvfayvfayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kyafvfyy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyakuvavyf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Погружний блендер з потужністю 800 Вт спроектований для швидкого та ефективного подрібнення, змішування і приготування різноманітних страв. Завдяки місткому стакану об&#8217;ємом 600 мл і надійному металевому ножу, модель забезпечує рівномірну текстуру без грудочок, а плавне регулювання швидкості дозволяє підлаштувати інструмент під будь-які кулінарні завдання.</p>
 <h2>Що робить цю модель особливою</h2>
 <ul>
@@ -4654,7 +4654,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="322869" available="true">
+      <offer id="322869" available="false">
         <name>Електрочайник дисковий Rainberg RB-2244 2000 Вт 2л, стильний електричний чайник. Колір: рожевий</name>
         <categoryId>640</categoryId>
         <price>630</price>
@@ -4670,7 +4670,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuvampavfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvapukayvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekuavyaukafyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник Rainberg – це оптимальне рішення для тих, хто цінує зручність і безпеку при кожному використанні. Ідеальна потужність 2000 Вт забезпечує швидкий нагрів води, а об’єм 2 літри дозволяє підготувати достатню кількість гарячої води для всієї родини або офісного колективу. Спрощена експлуатація гарантує комфорт у повсякденних справах, а продумані технічні рішення допомагають уникнути неприємних ситуацій. Цей пристрій поєднує в собі ефективність та функціональність, роблячи процес приготування чаю чи кави максимально приємним.</p>
 <h2>Що робить цю модель особливою</h2>
 <ul>
@@ -7530,7 +7530,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tesdgtesdfdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tedzdfsgrs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rafdetsdfzedadfs.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Бездротова колонка T&amp;G TG-333 це якісний бездротовий музичний пристрій, який легко перетворює сіру рутину на яскраве свято.</p>
 <p>Портативна колонка TG-333 зі зручною мотузочкою для перенесення &#8211; це відмінна бюджетна переносна колонка з якісним і гучним звуком, вона створена для тих, хто не мислить відпочинку без улюбленої музики.</p>
 <p>Портативна колонка відмінно підійде для любителів походів, відпочинку на природі або дачі, вона допоможе створити атмосферу свята, де завгодно. Колонку зручно брати з собою, вона має невелику вагу і поміститься в будь-якому рюкзаку, а також вона має захист від вологи і не боїться мряки і дощу.</p>
@@ -10419,7 +10419,7 @@
         <param name="Тип трубы всасывания">Телескопическая</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="563306" available="false">
+      <offer id="563306" available="true">
         <name>Аерофритниця Мультипіч Аерогриль Domotec MS-3220 1300Вт 4.5л Безмасляна з Таймером Black</name>
         <categoryId>64306</categoryId>
         <price>3130</price>
@@ -10435,7 +10435,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kviapivfpipipui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivfppivfpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvipivpivpfi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Аерофритюрниця Domotec MS-3220&nbsp; ідеально підходить для сімей, які люблять смажену їжу, але хочуть скоротити кількість жирів та калорій. Ця геніальна фритюрниця робить ідеальні хрусткі креветки, неймовірно смачний стейк та чіпси здоровішою їжею і все це на 80% менше жиру! Оскільки фритюрниця Domotec MS-3220 використовує гаряче повітря для приготування їжі, ви можете насолоджуватися приготуванням їжі без олії або додати кілька крапель в їжу для додаткової хрусткої скоринки! Використання меншої кількості олії означає, що ви вживаєте здоровішу їжу, яка містить до 80% менше жиру, ніж їжа, приготовлена ​​у традиційній фритюрниці.</p>
 <p>Фритюрниця нагрівається до температури всього за 2-3 хвилини і використовує технологію швидкої циркуляції гарячого повітря, щоб готувати їжу набагато швидше, ніж звичайна духовка або фритюрниця. Це ідеально підходить для зайнятих домогосподарств та для економії на ваших рахунках за електроенергію теж! Попередньо встановлені функції спрощують приготування ваших улюблених смажених страв; чіпси, риба, креветки / креветки, хрумкий бекон, курка, стейк та відбивні &#8211; плюс ви навіть можете використовувати фритюрницю для приготування кексів!</p>
 <p>Можна встановити власний час приготування та температуру від 80-200˚C до 30 хвилин. На відміну від звичайних фритюрниць аерофрітюрниця Domotec MS-3220 безпечна у використанні не потрібно ні олії, не буде ні диму, ні запаху. Крім того, кошик для смаження підходить для миття посудомийної машини &#8211; просто відкиньте захисну кришку і натисніть кнопку розблокування, щоб зняти її для очищення.</p>
@@ -18631,7 +18631,7 @@
         <param name="Состояние">Новое</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="32916" available="true">
+      <offer id="32916" available="false">
         <name>Автоматичний Робот-пилосос розумний пилосос на акумуляторі Ximei Mop. Колір: білий</name>
         <categoryId>608</categoryId>
         <price>640</price>
@@ -18647,7 +18647,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eqwadsfgtr3wqeads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wadfrrwqadsdwq.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/qewsdgtr3qweadsfer.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Характеристики</strong>: Пилосос робот Ximei Mop (6726)</p>
 <ul>
 <li>Тип: робот-пилосос;</li>
@@ -20428,7 +20428,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfyvucfvvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvaaukcyfvafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvucvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Мультиварка Rainberg RB-6209</strong> це простий і зрозумілий кухонний прилад, який призначений для готування страв різними способами обробки. Управління електронне і дуже просте &ndash; для кожної програми існує власна кнопка, інформація, а також годинник відображається на рідкокристалічному дисплеї. Вашу улюблену страву Ви зможете приготувати в мультиварці Rainberg Німеччина якнайкраще завдяки рівномірному нагріванню їжі. Продукти в мультиварці прогріваються рівномірно з усіх боків &#8211; знизу, з боків та зверху. У мультиварці використовується LED-дисплей, який робить керування та роботу з нею зручним та простим процесом. Навчитися управлінню мультиваркою не важко навіть людям з мінімальним досвідом у використанні побутової техніки.</p>
 <p><strong>Основні характеристики</strong></p>
 <ul>
@@ -28621,7 +28621,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ucivakivaivaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifavuvifaviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uivafivfaivavif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Gemei GM 3107</strong>&nbsp;призначений для дбайливого видалення небажаних волосків у носі та вухах. Зручна головка забезпечує швидке, просте та комфортне підрівнювання без неприємних відчуттів.</p>
 <p>Удосконалена система захисту від порізів та висмикування волосків<br />Завдяки сучасним технологіям ріжучий елемент захищений спеціальною ультратонкою сіткою із закругленими кінчиками, які запобігають подразненню шкіри.</p>
 <p>Оптимальний кут нахилу тримера дозволяє легко підрівнювати волоски у вухах та носі &mdash; ви можете бути впевнені в ефективності видалення небажаного волосся. Високоточні прорізи в нерухомому ножі, що обертається, забезпечують ефективне і швидке підрівнювання волосся.</p>
@@ -29186,7 +29186,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfgt4wreds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwsadffgtwreasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/easdgrt4rwasd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник<strong>&nbsp;Magio&nbsp;</strong>&ndash; чудовий помічник на вашій кухні. Завдяки потужності нагріву можна закип&#8217;ятити 1 л води за відносно короткий проміжок часу. Стане справжньою окрасою для вашої затишної кухні. Його ергономічний і привабливий дизайн припаде до душі всім.</p>
 <p><strong>Чайник MG-111</strong>&nbsp;поєднує в собі стильний дизайн з чудовою якістю та довговічністю. Ця унікальна модель об&#8217;ємом 1 л забезпечує швидке кип&#8217;ятіння води для сім&#8217;ї. Зовнішній корпус виготовлений з високоякісного поліпропілену. За рахунок цього, при роботі чайник не нагрівається зовні, його температура не перевищує 70°С, що унеможливлює опіку. При натисканні кнопки механізм відкриття кришки спрацьовує м&#8217;яко і плавно, виключаючи розбризкування конденсату з кришки. Прихований нагрівальний елемент забезпечує швидке кип&#8217;ятіння, надійність та простоту очищення чайника, а вбудований контролер захищає від перегріву. Комплексна система безпеки для запобігання короткому замиканню та википанню води. Функція автовимкнення активується, коли процес завершується або прилад знімається з основи.</p>
 <p><strong>Характеристики:</strong></p>
@@ -29999,7 +29999,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivakcufivfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivakcfivafkuf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрична м&#8217;ясорубка<span>&nbsp;</span><strong>Rainberg RB-671</strong><span>&nbsp;</span>призначена для виготовлення фаршу з м&#8217;яса, риби, грибів, нарізки овочів та фруктів, профілювання пісочного та пельменного тіста.<br />Тип м&#8217;ясорубки &mdash; шнековий.<br />Дана модель забезпечена функцією &#8220;реверс&#8221;: для запобігання ущільненню продуктів усередині м&#8217;ясорубки передбачено режим зворотного обертання шнека.<br />Корпус м&#8217;ясорубки виготовлений з міцного пластику, на нижній частині корпусу розташовані прогумовані ніжки для додаткової стійкості. /> Потужність двигуна 2200Вт. 2 гострі ножі з нержавіючої сталі. Головка корпусу з алюмінію.Набір грат для приготування фаршу.. Низький рівень шуму.Хрестоподібний ніж з нержавіючої сталі.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -31131,7 +31131,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="341195" available="true">
+      <offer id="341195" available="false">
         <name>Годинник наручний чоловічий SKMEI 1853BKWT BLACK-WHITE, армійський годинник протиударний. Колір: чорний</name>
         <categoryId>151105</categoryId>
         <price>480</price>
@@ -31147,7 +31147,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4wtegsfdhfdrgssrdhr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4gfgfdhdsdj.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ergfdsrhdfrtshs.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>SKMEI 1853BKWT BLACK-WHITE — це цифровий годинник у лаконічному дизайні, що поєднує мінімалізм і зручність щоденного використання. Завдяки великому екрану з контрастним чорно-білим дисплеєм, ви без зусиль зчитуватимете час, дату та інші дані навіть на ходу. Виглядає сучасно, легко поєднується як зі спортивним, так і з повсякденним стилем одягу.</p>
 <p>Корпус виготовлено з міцного пластику, а ремінець — з гнучкого силікону, що забезпечує комфортне носіння протягом усього дня. Модель має захист від води до 50 метрів, що дозволяє не знімати її під час дощу або миття рук. Надійний кварцовий механізм гарантує точність і стабільну роботу функцій.</p>
 <h2>Характеристики:</h2>
@@ -31574,7 +31574,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="424284" available="true">
+      <offer id="424284" available="false">
         <name>Годинник наручний чоловічий SKMEI 1881BKWT, годинник армійський оригінал, наручний годинник для військових</name>
         <categoryId>151105</categoryId>
         <price>500</price>
@@ -31590,7 +31590,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uipvapkarpkk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uivppkupiva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euivpfprkukupvai.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1881BKWT — це практичний аксесуар у витриманому спортивному стилі, створений для активного темпу життя. Його чорний корпус з білими елементами індикації виглядає контрастно та сучасно, а комбінація аналогової та цифрової індикації дозволяє одночасно слідкувати за часом у двох форматах. Цей годинник чудово підходить як для повсякденного носіння, так і для занять спортом.</p>
 <p>Завдяки широкому функціоналу модель стане незамінною у будь-яких умовах: ви зможете відстежувати дату, день тижня, користуватись будильником, секундоміром, подвійним часом або нічною підсвіткою. Водозахист до 50 метрів дозволяє не турбуватись про вологу, дощ або бризки води. SKMEI 1881BKWT поєднує надійність, зручність та лаконічний стиль.</p>
 <h2>Характеристики:</h2>
@@ -34794,7 +34794,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4rwefstwreafsasdfs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wefsdrwefaasdfesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4refsderwfsda.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Працездатність електроплити Domotec MS-5811 1500W регулюється за допомогою механічного перемикача. Має одну конфорку зі спіральним нагрівальним елементом.</p>
 <p>Ніжки не ковзають поверхнею &ndash; вони прогумовані, завдяки чому ви з комфортом зможете експлуатувати цей прилад.</p>
 <p>У приладу зручне, інтуїтивно зрозуміле керування. Приємний, стильний дизайн.</p>
@@ -36194,7 +36194,7 @@
         <param name="Цвет">Разные цвета</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="139135" available="true">
+      <offer id="139135" available="false">
         <name>Набір маркерів для малювання Touch 120 шт двосторонні професійні фломастери для художників</name>
         <categoryId>21111105</categoryId>
         <price>690</price>
@@ -36210,7 +36210,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2jucypree4cuyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvapee4cukyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvyapire4ckuayv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір спиртових маркерів Aihao — універсальне рішення для художників, дизайнерів і любителів скетчингу. У комплекті 120 двосторонніх маркерів з широкою кольоровою палітрою, що забезпечує плавні переходи та насичену передачу кольору. Корпус і ковпачки виконані з міцного пластику, а зручне кольорове та цифрове кодування на ковпачках спрощує вибір потрібного відтінку. Чорнила на спиртовій основі дозволяють працювати з щільним папером і картоном, створюючи яскраві та стійкі зображення. Довжина маркера становить 15,5 см, що забезпечує комфортне використання в тривалих творчих процесах.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -36605,7 +36605,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yrghgrsdzsad.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twesggrsghrsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvpvifivpvaifavi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Бездротова автомийка пістолет високого тиску</strong><span>&nbsp;</span>&ndash; це інноваційне та універсальне рішення для різних завдань догляду за будинком та автомобілем. Вона забезпечує зручність та портативність, звільняючи користувача від обмежень, пов&#8217;язаних із проводами та доступом до мережі. Завдяки акумуляторній енергії цей інструмент підходить для використання у різних сценаріях &ndash; від поливу саду до чищення автомобіля або навіть миття свійських тварин.</p>
 <p><strong>Пістолет-розпилювач</strong><span>&nbsp;</span>забезпечує не тільки високий тиск води для ефективного очищення, але й мобільність, яка робить його ідеальним для використання на відкритому повітрі. З його допомогою можна легко здійснювати догляд за будинком та територією, навіть якщо немає доступу до стандартних джерел живлення. Таким чином, бездротова автомийка стає надійним помічником у побуті та природі, надаючи свободу дій та ефективні результати.</p>
 <p><strong>Сфера застосування:</strong><span>&nbsp;</span>миття автомобілів, миття підлоги, миття стін, миття скла, миття овочів, прання, миття морепродуктів, полив рослин і т.д.</p>
@@ -37089,7 +37089,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wdfrwdasfew.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rqwadsrewads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdsr3wqads.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Заняття спортом стали невід&#8217;ємним атрибутом кожної людини, яка бажає підтримувати своє тіло у прийнятній фізичній формі.</p>
 <p>Еспандер трубчастий застосовується в домашніх умовах для збільшення сили рук і плечей. Можна використовувати і для ніг, грудей і спини. Ми пропонуємо еспандери з різним рівнем навантаження &ndash; для людей з будь-яким рівнем тренованості, від новачків до професіоналів.</p>
 <p><strong>Еспандер &nbsp;має низку відмінних рис:</strong></p>
@@ -37459,7 +37459,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 <h2>Раціональні причини обрати</h2>
 <ul>
@@ -39456,7 +39456,7 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="594944" available="true">
+      <offer id="594944" available="false">
         <name>Набір міні прецизійних викруток для ремонту електроніки 115 в 1</name>
         <categoryId>14200399</categoryId>
         <price>360</price>
@@ -39472,7 +39472,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvpyfpueyfpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuypkypuyfpu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuirpviaviviku.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Універсальність</strong></p>
 <p>Цей комплект для ремонту електронного обладнання містить 81 тип викруток. Їх можна використовувати, незалежно від рівня умінь &mdash; чи то професіонал чи любитель. Він стане в нагоді при ремонті комп&#8217;ютерів, меблів, побутової електроніки та іграшок</p>
 <p><strong>Зручність</strong></p>
@@ -40928,7 +40928,7 @@
         <keyword>Лампа увлажнитель</keyword>
         <keywords>Лампа зволожувач повітря, Лампа увлажнитель воздуха, Лампа зволожувач повітря Docsal Flame, Лампа увлажнитель воздуха Docsal Flame, Портативний зволожувач лампа біла, Портативный увлажнитель лампа белая, Лампа зволожувач повітря Docsal, Лампа увлажнитель воздуха Docsal, Лампа зволожувач, Лампа увлажнитель</keywords>
       </offer>
-      <offer id="708663" available="true">
+      <offer id="708663" available="false">
         <name>Велоліхтар CYGM-256-LED</name>
         <categoryId>342402</categoryId>
         <price>270</price>
@@ -40939,7 +40939,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yvavypkapvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvyekukpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vpypvnkvrvyrv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велофонар CYGM-256-LED &mdash; це потужний, компактний і водонепроникний ліхтар, який відмінно підходить як для використання на велосипеді, так і як звичайний ліхтарик. Оснащений потужним світлодіодом з яскравістю 50 люмен, він забезпечує впевнене освітлення поблизу та робить велосипедиста помітним на дорозі.</p>
 <p>Ліхтар працює від вбудованого Li-Ion акумулятора, який заряджається через сучасний та зручний порт Type-C. Підтримує 3 режими роботи, що дозволяє адаптувати освітлення під різні дорожні та погодні умови.</p>
 <p>Пристрій має швидкознімне кріплення, що робить його зручним для швидкої установки та зняття &mdash; ви легко можете взяти його з собою і використовувати як ручний ліхтарик. Клас захисту IP33 гарантує стійкість до пилу та бризок, роблячи ліхтар придатним для щоденного використання у місті.</p>
@@ -43766,7 +43766,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sfgdrgsdgsdagsgdsasa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/redsgsagsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reetgsasees.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>М&#8217;яка іграшка &#8220;Гусь-обіймуся&#8221; &ndash; це чудове поєднання тепла, затишку та ніжності, призначене для того, щоб стати надійним та відданим супутником як для дітей, так і для дорослих. Вражаюча висота 130 см дозволяє цій іграшці зайняти почесне місце серед найбільших плюшевих супутників. Поєднання трьох кольорів &ndash; сірого, персикового та рожевого &ndash; створює гармонійний і неймовірно милий зовнішній вигляд, який обов&#8217;язково приверне увагу та викличе посмішку у всіх, хто зустріне цього гусака.</p>
 <p>Таке м&#8217;яке створення має приголомшливу м&#8217;якість і ніжність. Дотик до нього дозволяє відчути ніжну текстуру та затишок, ніби обіймаєш теплого та пухнастого друга. Наповнювач високої якості гарантує, що іграшка збереже свою форму та об&#8217;єм навіть після тривалого використання.</p>
 <h2>Характеристики</h2>
@@ -46461,7 +46461,7 @@
         <keyword>Лазерный уровень</keyword>
         <keywords>Лазерний рівень 4D16, Лазерный уровень 4D16, Лазерний рівень 4D16 в кейсі з двома акумуляторами, Лазерный уровень 4D16 в кейсе с двумя, Лазерний рівень 4D16 в кейсі, Лазерный уровень 4D16 в кейсе, Лазерний рівень, Лазерный уровень</keywords>
       </offer>
-      <offer id="11965" available="true">
+      <offer id="11965" available="false">
         <name>Ваги електронні підлогові MATARIX MX 451B 180 кг, ваги для зважування людей, ваги побутові підлогові</name>
         <categoryId>154004</categoryId>
         <price>420</price>
@@ -46470,7 +46470,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2021/01/IMG_6649.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfaypkuypmkuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kfaikcuyppkupkv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ваги для підлоги електронні&nbsp;<strong>MATARIX MX 451B&nbsp;</strong>з платформою із загартованого скла. Ваги належать до електронного обладнання, вони живляться від невеликої батареї та мають функцію аналізу ваги. Точність вимірювання ваг допускає похибку 100 грам. Максимальне навантаження на ваги -180 кг.</p>
 <p>Ця модель оснащена функцією автоматичного ввімкнення (ваги включаються, як тільки ви встанете на них), а також функцією автоматичного вимикання через нетривалий час після завершення роботи з ними. Ця функція дозволяє Вам не тільки не робити зайві нахили під час роботи з вагами, а й скорочує витрати енергії батареї.</p>
 <p><strong>Характеристики:</strong></p>

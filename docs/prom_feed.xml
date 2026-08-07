@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-07 05:38">
+<yml_catalog date="2026-08-07 08:56">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4654,7 +4654,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="322869" available="false">
+      <offer id="322869" available="true">
         <name>Електрочайник дисковий Rainberg RB-2244 2000 Вт 2л, стильний електричний чайник. Колір: рожевий</name>
         <categoryId>640</categoryId>
         <price>630</price>
@@ -4670,7 +4670,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuvampavfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvapukayvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekuavyaukafyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник Rainberg – це оптимальне рішення для тих, хто цінує зручність і безпеку при кожному використанні. Ідеальна потужність 2000 Вт забезпечує швидкий нагрів води, а об’єм 2 літри дозволяє підготувати достатню кількість гарячої води для всієї родини або офісного колективу. Спрощена експлуатація гарантує комфорт у повсякденних справах, а продумані технічні рішення допомагають уникнути неприємних ситуацій. Цей пристрій поєднує в собі ефективність та функціональність, роблячи процес приготування чаю чи кави максимально приємним.</p>
 <h2>Що робить цю модель особливою</h2>
 <ul>
@@ -20498,7 +20498,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivaakvfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivakcfaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfviukvafvi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Це компактна та продуктивна електрична шнекова м&#8217;ясорубка з функціями реверсу та придушення шуму від надійного та перевіреного виробника. Завдяки своїм компактним розмірам вона не займе багато місця на кухні. М&#8217;ясорубка Rainberg RB-677 &ndash; чудовий вибір, якщо вам потрібно швидко зробити фарш.За допомогою насадки для ковбас, Ви зможете зробити домашні ковбаски власного приготування. Функція зворотного обертання ножів (реверс) допоможе вам, якщо всередині приладу утворилося ущільнення з продуктів.</p>
 <p><strong>Переваги:</strong></p>
 <ol>
@@ -34608,7 +34608,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об&#8217;ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -41450,7 +41450,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4uivkafuvifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3kcfkuvafufavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcuavikfikuavifiv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Гейзерна кавоварка&nbsp;UNIQUE UN-1903</strong>&nbsp;&ndash;&nbsp;швидкий і зручний спосіб приготувати смачну каву. Виготовлена із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
 <p><strong>Гейзерна кавоварка складається з трьох основних частин:</strong></p>
 <ul>
@@ -43367,7 +43367,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws84516</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekravypvpyv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Ручний відпарювач — компактний і потужний пристрій, який ефективно усуває складки та освіжає одяг і текстильні вироби без використання праски. Завдяки різним режимам подачі пари ви зможете підібрати оптимальний варіант для будь-якої тканини, забезпечивши дбайливий догляд та оновлення зовнішнього вигляду речей вдома і в дорозі.</p>
 <h2>Головні причини покупки</h2>
 <ul>
@@ -44708,7 +44708,7 @@
         <keyword>Пресс</keyword>
         <keywords>Прес для часнику, Пресс для чеснока, Прес для часнику UNIQUE UN-1761 часнодавка ручна, Пресс для чеснока UNIQUE UN-1761 чеснокодавка, Прес для часнику UNIQUE, Пресс для чеснока UNIQUE, Прес для часнику UNIQUE UN-1761, Пресс для чеснока UNIQUE UN-1761, Пресс</keywords>
       </offer>
-      <offer id="692454" available="true">
+      <offer id="692454" available="false">
         <name>Ваги ювелірні 668/MH-200, 200г (0,01г)</name>
         <categoryId>15371103</categoryId>
         <price>260</price>
@@ -44722,7 +44722,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tbhdsggsdag.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jdhdsgsdgsag.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jtdghdsfhdfhrdhrd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Ваги ювелірні 668/MH-200, 200г (0,01г)</strong>&ndash; це високоякісні ювелірні ваги, спеціально розроблені для точного зважування дрібних предметів, таких як коштовності, дорогоцінні метали, діаманти, перлини та багато іншого. З їх допомогою можна отримати надійні результати зважування з високою точністю.</p>
 <p>Ці ваги мають максимальну вагу до 200 г та дискретність зважування 0,01 г. Це означає, що вони можуть вимірювати навіть найменші зміни ваги вашого предмета, забезпечуючи вам точні дані.</p>
 <p><strong>Ювелірні ваги 668/MH-200</strong>обладнані чітким та зручним дисплеєм, на якому можна легко переглянути вагу вашого предмета. Вони також мають функцію тари, яка дозволяє зважувати предмети в тарі без урахування ваги самої тари.</p>

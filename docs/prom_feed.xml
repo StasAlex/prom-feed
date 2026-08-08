@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-08 01:21">
+<yml_catalog date="2026-08-08 04:53">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -44184,7 +44184,7 @@
         <keyword>Детский фотоаппарат</keyword>
         <keywords>Дитячий фотоапарат M03, Детский фотоаппарат M03, Дитячий фотоапарат M03 Panda Green, Детский фотоаппарат M03 Panda Green, Дитячий фотоапарат M03 Panda, Детский фотоаппарат M03 Panda, Дитячий фотоапарат, Детский фотоаппарат</keywords>
       </offer>
-      <offer id="863500" available="false">
+      <offer id="863500" available="true">
         <name>Вертикальний відпарювач Domotec MS-1323 ручний 1500Вт 400мл потужний і зручний парогенератор для одягу</name>
         <categoryId>63006</categoryId>
         <price>910</price>
@@ -44193,7 +44193,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvfpyfpkyk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkyfvapuyfvpyfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkvapuyfvpypy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Забудьте про громіздкі прасувальні дошки та ризик пропалити улюблену шовкову блузу.<span>&nbsp;</span><strong>Domotec MS-В</strong><span>&nbsp;</span>&mdash; це потужне та компактне рішення для тих, хто цінує свій час та бездоганний зовнішній вигляд. Виконаний в елегантному чорному кольорі, цей відпарювач поєднує у собі високу продуктивність та ергономічний дизайн.</p>
 <ul>
 <li><strong>Потужність 1500 Вт:</strong><span>&nbsp;</span>Забезпечує швидке нагрівання та стабільну подачу пари, справляючись навіть із щільними тканинами та складними заломами.</li>

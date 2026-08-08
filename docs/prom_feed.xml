@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-08 04:53">
+<yml_catalog date="2026-08-08 08:37">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4654,7 +4654,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="322869" available="false">
+      <offer id="322869" available="true">
         <name>Електрочайник дисковий Rainberg RB-2244 2000 Вт 2л, стильний електричний чайник. Колір: рожевий</name>
         <categoryId>640</categoryId>
         <price>630</price>
@@ -4670,7 +4670,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuvampavfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvapukayvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekuavyaukafyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник Rainberg – це оптимальне рішення для тих, хто цінує зручність і безпеку при кожному використанні. Ідеальна потужність 2000 Вт забезпечує швидкий нагрів води, а об’єм 2 літри дозволяє підготувати достатню кількість гарячої води для всієї родини або офісного колективу. Спрощена експлуатація гарантує комфорт у повсякденних справах, а продумані технічні рішення допомагають уникнути неприємних ситуацій. Цей пристрій поєднує в собі ефективність та функціональність, роблячи процес приготування чаю чи кави максимально приємним.</p>
 <h2>Що робить цю модель особливою</h2>
 <ul>
@@ -24525,7 +24525,7 @@
         <param name="Световой поток">1500 лм</param>
         <param name="Тип фонаря">Ручной</param>
       </offer>
-      <offer id="564898" available="true">
+      <offer id="564898" available="false">
         <name>Ліхтар AK177-WHITE LASER LED PM60-TG, Топ-ліхтарик ліхтарик світлодіодний акумуляторний портативний</name>
         <categoryId>150410</categoryId>
         <price>1790</price>
@@ -24541,7 +24541,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdsrgesasasg.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rggsdagesadgsags.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfdshrfdgsade.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ручний акумуляторний ліхтар з діодом TG розроблений для користувачів, які цінують надійність і функціональність у компактному форматі. Металевий корпус забезпечує міцність і захист від пилу та вологи, а інтелектуальні режими роботи дозволяють адаптувати освітлення під будь-які умови. Пристрій поєднує в собі оптичний зум та потужність, а також виступає в ролі power bank для заряджання мобільних пристроїв.</p>
 <h2>Технологічні переваги</h2>
 <ul>
@@ -27147,7 +27147,7 @@
         <keyword>Хлебопечь</keyword>
         <keywords>Хлібопічка DARIO DBM, Хлебопечь DARIO DBM, Хлібопічка DARIO, Хлебопечь DARIO, Хлібопічка, Хлебопечь</keywords>
       </offer>
-      <offer id="686807" available="true">
+      <offer id="686807" available="false">
         <name>Хлібопічка ViLgrand VBM6091. Колір: білий</name>
         <categoryId>605</categoryId>
         <price>3410</price>
@@ -27163,7 +27163,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyravyrvrkvryv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayravrvvrrkvr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/erarvyrvkrkvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Завдяки сучасному дизайну та функціональності<strong>Vilgrand VBM6091_white,</strong>ця модель стане прикрасою вашої кухні.</p>
 <h2><strong>Основні переваги:</strong></h2>
 <ul>
@@ -32286,7 +32286,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tesgftesggrsagsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgarftesadsffds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgatewgasesda.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Фара ліхтарик на велосипед велофара&nbsp;потужна вело&nbsp;ліхтар велосипедний для велосипеда&nbsp;задній usb з акумулятором поворотником і лазерною розміткою автоматично показує знаки гальмування (квадрат) і руху (стрілка вперед) а також напрям повороту (стрілки вправо) нахилі на 10 градусів</p>
 <p>Збільшіть свою безпеку на велосипеді, використовуючи ліхтар на велосипеді. Наша потужна фара для велосипеда одна з кращих з представлених для велосипеда з акумулятором. Незалежно від умов освітлення, цей велоліхтар задній дуже яскравий і надійний. Велоліхтар зручно встановлюються на кермо або задній каркас велосипеда і легко заряджаються за допомогою USB. Ми пропонуємо різні моделі, включаючи велосипедні фари та задні ліхтарі, а також фари з лазерними показами для підвищення видимості на дорозі. Виберіть наші велосипедні фари та ліхтарі для безпечних та комфортних поїздок у будь-який час доби.</p>
 <p><strong>&nbsp;Переваги:</strong></p>
@@ -37448,7 +37448,7 @@
         <param name="Высота">60 мм</param>
         <param name="Функция автоотключения">Нет</param>
       </offer>
-      <offer id="255316" available="true">
+      <offer id="255316" available="false">
         <name>Плита електрична Suntera DP-1925, подвійна електроплита, потужна настільна електроплита Black</name>
         <categoryId>641</categoryId>
         <price>1030</price>
@@ -37459,7 +37459,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 <h2>Раціональні причини обрати</h2>
 <ul>

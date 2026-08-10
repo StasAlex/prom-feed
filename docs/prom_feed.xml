@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-10 13:01">
+<yml_catalog date="2026-08-10 16:51">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -12833,7 +12833,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvakpirkifri.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oevairkvapvifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeprkvarppvif.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>RAF R.552</strong><span>&nbsp;</span>&ndash; це <span>&nbsp;</span><strong>універсальний кухонний прилад</strong>, який поєднує в собі 7 різних функцій</strong>, дозволяючи готувати<span>&nbsp;</span><strong>різноманітні страви</strong>. Завдяки <span>&nbsp;</span><strong>змінним антипригарним пластинам</strong>, він може працювати як<span>&nbsp;</span><strong>мультигріль, вафельниця, сендвічниця, прилад для приготування пончиків, кексів, горішків та печива</strong>.</p>
 <p><strong>Цей прилад стане незамінним помічником на кухні</strong><span>&nbsp;</span>&ndash; він дозволяє швидко приготувати смачний сніданок або десерт без зайвого клопоту. Завдяки <span>&nbsp;</span><strong>антипригарному покриттю</strong>, продукти не прилипають і легко знімаються, а сендвічниця рівномірно підсмажує їжу з обох боків.</p>
 <p><strong>Основні переваги мультимейкера RAF R.552:</strong></p>
@@ -13463,7 +13463,7 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="619400" available="true">
+      <offer id="619400" available="false">
         <name>Професійна бездротова машинка для стрижки VGR V-663 тример для волосся, бороди та вусів</name>
         <categoryId>28290204</categoryId>
         <price>920</price>
@@ -13479,7 +13479,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revapkivfpuifi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oerrpvpuifi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oervarkpif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>VGR V-663 &#8211; це акумуляторна бездротова машинка для стрижки волосся і бороди з футуристичним дизайном і фантастичною точністю зрізу. У машинці зійшлося воєдино все найнеобхідніше для ідеальної стрижки: ніж зі сталі шириною 45 мм і висотою зрізу 0.5 мм, літій іонний акумулятор, збільшений час автономної роботи до 200 хвилин до 200 хвилин <span> дисплей</strong>.</p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -33005,7 +33005,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukfyvAyapfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvafvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvavyfyv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Туристичний ліхтар-лампа на сонячній батареї CAMPING G85 &ndash; це портативний пристрій, який може працювати як ліхтар, як похідна лампа і як зарядний пристрій для портативних цифрових гаджетів. Має сонячну панель, його можна заряджати від сонця або мережі 220В. Також ще однією з переваг є наявність USB-порту. Виконаний із міцного матеріалу, включається, простим підняттям верхньої рухомої кришки.</p>
 <p><b>Особливості використання:</b></p>
 <ul>
@@ -36983,7 +36983,7 @@
         <param name="Щетка для удаления пыли и ворсинок">Да</param>
         <param name="Индикатор работы">Да</param>
       </offer>
-      <offer id="692693" available="true">
+      <offer id="692693" available="false">
         <name>Велофара BC25S, 300LM</name>
         <categoryId>342402</categoryId>
         <price>630</price>
@@ -36998,7 +36998,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkupyvfpuyup.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reayrpyfpuvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaypyvpvyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велофара BC25S &mdash; це потужний та багатофункціональний ліхтар для велосипеда, що забезпечує високу видимість та безпеку на дорозі. Яскравість світлового потоку становить 300 люмен, що дозволяє добре висвітлювати шлях у темний час доби та бути помітним для інших учасників руху.</p>
 <p>Ліхтар оснащений вбудованим літій-іонним акумулятором з функцією Power Bank, що дозволяє за необхідності заряджати мобільні пристрої. Заряджання здійснюється через сучасний роз&#8217;єм Type-C, а індикатор заряду на корпусі дозволяє контролювати рівень батареї. Корпус пристрою вологозахищений, що робить його надійним під час експлуатації в будь-яких погодних умовах.</p>
 <p>Велофара BC25S поєднує яскраве освітлення, універсальність та зручність у використанні. Вона стане практичним та надійним аксесуаром для безпечних поїздок у місті та за його межами.</p>
@@ -38005,7 +38005,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oervayravypyfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ervaykppkyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oervyrkvp.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник RAF R-7887 &#8211; це сучасний електричний чайник, що поєднує стильний дизайн і доступну вартість.</p>
 <p>Модель швидко та безпечно закип&#8217;ятить воду для приготування різноманітних гарячих напоїв.</p>
 <p>Електрочайник з ергономічною ручкою завжди знайде своє місце як на домашній кухні, так і в офісі. Крім того, дана модель чайника, завдяки компактності, зможе використовуватися на дачі або поїздці, його зручно брати з собою.</p>
@@ -38851,7 +38851,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/weadsgedszfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rasdgefsafeas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wfsdgrsfderfsdds.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><b>Ультразвуковий відлякувач собак ZF-851 захистить вас від небезпечних собак</b>, які можуть загрожувати вам, коли ви йдете, біжіть або пересуваєтеся на велосипеді &ndash; у цьому випадку тримайте відлякувач собак при собі напоготові. Для впливу на собаку направте пристрій на нього і натисніть кнопку на кілька секунд. Ультразвук, який люди не можуть чути, зупинить собаку і не дасть їй наблизитися до вас. Собака не втече, але наближатися до вас не буде. Якщо потрібно, натисніть кнопку більш тривалий час. Робоча відстань від 1,5 до 6 метрів. Не рекомендується використовувати пристрій на відстані менше 0.5 м від вух людей та тварин.</p>
 <p>Ультразвуковий відлякувач собак ZF-851 можна використовувати також для зупинки гавкання вашого власного собаки та для його тренування. Пристрій має 3 режими роботи:</p>
 <p><b>Світлодіодний ліхтарик із двома світлодіодами</b></p>
@@ -42779,7 +42779,7 @@
         <param name="Система питания">Батарейки (в комплект не входят), от USB</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="176554" available="true">
+      <offer id="176554" available="false">
         <name>Мобільний зовнішній акумулятор 50000 мАг з LED дисплеєм та ліхтариком</name>
         <categoryId>71109</categoryId>
         <price>480</price>
@@ -42789,7 +42789,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaipvpifpik.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvifpfpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvifpivpfif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мобільна зарядка Mobile Power Bank 50000 mAh Black — це надійне та функціональне рішення для тих, хто цінує енергію в русі. З великою ємністю акумулятора та стильним дизайном, цей повербанк стане незамінним помічником у подорожах, відрядженнях і повсякденному житті, забезпечуючи стабільне живлення ваших пристроїв у будь-який час.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>
@@ -46374,7 +46374,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws18842</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucyfvaufyypuyfuy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><span>Набір торцевих ключів ONEX OX-250S, що складається зі 108 предметів, є універсальним інструментальним комплектом для різних ремонтних і монтажних робіт. Набір включає ключі і головки розміром 1/2&#8243; і 1/4&#8243;, що робить його придатним для роботи з широким спектром кріпильних елементів. Інструменти виготовлені з міцної хромованадієвої сталі, яка забезпечує довговічність та стійкість до корозії. У комплекті є тріскачкові ключі з 72 зубцями для плавної роботи у вузьких та важкодоступних місцях. Всі елементи набору зручно упаковані у міцний пластиковий кейс для спрощеного зберігання та транспортування.</span></p>
 <ul>
 <li><span>Комплект із 108 предметів для виконання різних завдань.</span></li>
@@ -46605,7 +46605,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws64477</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/apvfpuyfpufpufp.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Автоматичний туристичний шатер з місткістю на 4 особи — оптимальне рішення для активного відпочинку, риболовлі та походів. Простота і швидкість встановлення дозволяють максимально швидко облаштувати тимчасове укриття на природі. Конструкція у формі півсфери забезпечує хорошу стійкість і комфортну внутрішню атмосферу.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>

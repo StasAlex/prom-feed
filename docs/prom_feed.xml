@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-12 09:08">
+<yml_catalog date="2026-08-12 13:01">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -20087,7 +20087,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvik3cjufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuvai4kuivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucvak3cvfi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип&#8217;ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -20483,7 +20483,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="291315" available="true">
+      <offer id="291315" available="false">
         <name>Електрична м&apos;ясорубка Rainberg RB-677 2600 Вт з насадкою для ковбас, м&apos;ясорубка з металевим редуктором</name>
         <categoryId>63005</categoryId>
         <price>1570</price>
@@ -20498,7 +20498,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivaakvfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivakcfaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfviukvafvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Це компактна та продуктивна електрична шнекова м&#8217;ясорубка з функціями реверсу та придушення шуму від надійного та перевіреного виробника. Завдяки своїм компактним розмірам вона не займе багато місця на кухні. М&#8217;ясорубка Rainberg RB-677 &ndash; чудовий вибір, якщо вам потрібно швидко зробити фарш.За допомогою насадки для ковбас, Ви зможете зробити домашні ковбаски власного приготування. Функція зворотного обертання ножів (реверс) допоможе вам, якщо всередині приладу утворилося ущільнення з продуктів.</p>
 <p><strong>Переваги:</strong></p>
 <ol>
@@ -36855,7 +36855,7 @@
         <param name="Тюнер">Аналоговый</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="596240" available="false">
+      <offer id="596240" available="true">
         <name>Міні швейна машинка FHSM 202 4 в 1 з педаллю та підсвічуванням + адаптер 220V, Швейна машина для дітей</name>
         <categoryId>62707</categoryId>
         <price>540</price>
@@ -36871,7 +36871,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviapkpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviavipf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Міні швейна машинка 4 в 1 &ndash; це компактна міні швейна машинка, яка завжди буде під рукою. Навіть якщо Ви абсолютний новачок у шитті, Ви легко впораєтеся за допомогою цієї машинки. Міні швейна машинка зручна та легка, її можна поставити на будь-яку гладку поверхню. На корпусі машинки є стрижень для намотування ниток на шпульку, який значно полегшить роботу. Ви полюбите робити акуратні і красиві рядки, а Ваш будинок стане ще охайнішим, адже тепер не буде ніяких ниток, що стирчать, і витрати коштів на ательє.</p>
 <p>Робота машинки здійснюється завдяки ножній педалі, точнісінько як на справжній професійній швейній машинці, але однією з переваг є те, що машинка займає в сім разів менше місця.</p>
 <p>Це дозволяє її брати з собою на дачу, оскільки вона працює і від батарейок (до комплекту не входять) або електрики.</p>
@@ -37390,7 +37390,7 @@
         <param name="Тип кофемолки">Ножевая</param>
         <param name="Тип привода">Электропривод</param>
       </offer>
-      <offer id="255315" available="true">
+      <offer id="255315" available="false">
         <name>Плита електрична Suntera DP-1915 2 кВт, електроплита 2 конфорки, двокомфорочна плита Black</name>
         <categoryId>641</categoryId>
         <price>800</price>
@@ -37401,7 +37401,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucvifakcfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcivaapeuckfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cviaapekcvifvcj.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>-2</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — оптимальне рішення для компактних кухонь та обмеженого простору. Модель має потужність 2 кВт, що забезпечує швидке та рівномірне нагрівання посуду, дозволяючи готувати різноманітні страви з комфортом та ефективністю. Управління здійснюється за допомогою поворотних перемикачів, що робить експлуатацію простою та інтуїтивно зрозумілою навіть для недосвідчених користувачів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -37523,7 +37523,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3qwferwsdafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwfref.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3qewasdrdsafds.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Скляний з підсвічуванням електричний чайник rainberg RB-2251 з дисковим нагрівальним елементом відмінно впишеться в інтер&#8217;єр вашої кухні, порадує гарним дизайном та простотою використання.</p>
 <p>Корпус чайника стійкий до забруднення, має міцну поверхню, виготовлену із жаростійкого харчового боросилікатного скла.</p>
 <p><strong>Особливості:</strong></p>
@@ -42179,14 +42179,14 @@
         <keyword>Вело Фонарь</keyword>
         <keywords>Велоліхтар 604-LED, Вело Фонарь 604-LED, 100LUM, 100 LUM, водонепроникний, водонепроницаемый, Велоліхтар, Вело Фонарь</keywords>
       </offer>
-      <offer id="697136" available="true">
+      <offer id="697136" available="false">
         <name>М&apos;ясорубка Domotec MS-2026 4500Вт з функцією реверсу та соковижималкою</name>
         <categoryId>63005</categoryId>
         <price>1960</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws99485</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yvapyyvuyvfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>М&#8217;ясорубка Domotec MS-2026 4500W</strong>&mdash; це функціональний та надійний прилад для швидкої переробки м&#8217;яса, риби, овочів та інших продуктів у домашніх умовах. Поєднання високої потужності в 4500 Вт і збільшеної труби, що подає забезпечує швидку і ефективну роботу. Пристрій оснащений <strong>функцією реверсу</strong>, яка дозволяє без зусиль очищати шнек при блокуванні, а також <strong>насадками для ковбас, кеббе та соковижималкою</strong>, що робить його універсальним кухонним помічником.</p>
 <p>Корпус пристрою виконаний із міцного пластику, ріжучий ніж виготовлений із високоякісної нержавіючої сталі. Всі деталі легко розбираються та очищаються, що робить експлуатацію зручною та безпечною. Механічний фіксатор надійно закріплює блок м&#8217;ясорубки під час роботи, виключаючи люфт та зрушення. Domotec MS-2026 &mdash; ідеальне рішення для тих, хто цінує функціональність, потужність та комфорт у використанні.</p>
 <ul>
@@ -42425,7 +42425,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvfyavyfpypyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkfpyfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaypuyvfpauyfay.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Аерофритюрниця Domotec MS-3224 &mdash; ідеальне рішення для тих, хто цінує зручність, швидкість і корисну їжу. забезпечує рівномірне приготування з мінімальною кількістю олії.</p>
 <p>Два нагрівальні елементи забезпечують швидке прогрівання та стабільну температуру. З легкістю готуйте картоплю фрі, курку, рибу, стейки, овочі та випічку &mdash; смачно, корисно та без зайвих калорій.</p>
 <p>Сенсорна панель з 15 автоматичними програмами робить керування максимально простим. Таймер до 60 хвилин і регулювання температури 80-200°C дозволяють ідеально налаштувати режим під будь-яку страву.</p>
@@ -46434,7 +46434,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws35427</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdgesafdsa.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Лазерний рівень Laser Level 4D16 у кейсі з двома акумуляторами – це надійне рішення для точного та зручного позиціонування у будівництві та ремонті. Завдяки продуманій комплектації та міцному кейсу, пристрій готовий до роботи в будь-яких умовах, забезпечуючи високу якість вимірювань і довговічність експлуатації. Конструкція в сучасному синьому кольорі підкреслює професійний рівень обладнання, а наявність двох акумуляторів гарантує тривалу автономну роботу без перебоїв.</p>
 <h2>Ключові переваги</h2>
 <ul>

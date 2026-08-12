@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-12 16:54">
+<yml_catalog date="2026-08-12 20:39">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4224,7 +4224,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvfayvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvyfafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uavymapufvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар BL-520-T6 поєднує в собі міцність, функціональність і сучасну світлотехніку, що робить його незамінним інструментом для професіоналів та любителів активного відпочинку. Його анодований алюмінієвий корпус забезпечує довговічність і захист від ударів, а міцне скло надійно захищає світлодіоди серії T6. Компактний розмір і зручний ремінець гарантують комфортне носіння, а потужний акумулятор із USB-зарядкою дозволяє використовувати пристрій тривалий час без заміни батарей.</p>
 <h2>Основні сильні сторони</h2>
 <ul>
@@ -19239,7 +19239,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="189811" available="true">
+      <offer id="189811" available="false">
         <name>Тактичний кишеньковий ліхтар Police 525/8468-ХРЕ+СОВ, Потужний ручний ліхтарик, Кишеньковий міні ліхтар</name>
         <categoryId>150410</categoryId>
         <price>260</price>
@@ -19255,7 +19255,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cuafvmku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfvikcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ujcvfiakcfi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Тактичний кишеньковий ліхтар Police 525/8468-ХРЕ+СОВ</b>&nbsp;&ndash; малогабаритний, компактний, легкий, зручний ручний ліхтарик, а також незамінний помічник у повсякденній експлуатації.&nbsp; Прилад настільки маленький, що розміщується на долоні.</p>
 <p>Ця модель оснащена двома потужними світлодіодами, які можуть світити довгий час і не потребуватимуть заміни.&nbsp;<b>Працює від літій іонного акумулятора</b>, який можна перезаряджати безліч разів. Заряджається через <b>micro USB&nbsp;</b>роз&#8217;єм будь-яким пристроєм, що має USB вихід. Це може бути зарядка для телефону, комп&#8217;ютера, ноутбука, автомагнітола та ін.</p>
 <p>Кишеньковий ліхтарик має сучасну оптичну функцію<b>&nbsp;zoom,</b>&nbsp;завдяки якій Ви зможете регулювати світловий потік залежно від своїх завдань. Об&#8217;єкти можна без зусиль розглянути і зблизька, і на значній відстані. Прилад має 3 режими роботи.</b></p>
@@ -37390,7 +37390,7 @@
         <param name="Тип кофемолки">Ножевая</param>
         <param name="Тип привода">Электропривод</param>
       </offer>
-      <offer id="255315" available="false">
+      <offer id="255315" available="true">
         <name>Плита електрична Suntera DP-1915 2 кВт, електроплита 2 конфорки, двокомфорочна плита Black</name>
         <categoryId>641</categoryId>
         <price>800</price>
@@ -37401,7 +37401,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucvifakcfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcivaapeuckfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cviaapekcvifvcj.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — оптимальне рішення для компактних кухонь та обмеженого простору. Модель має потужність 2 кВт, що забезпечує швидке та рівномірне нагрівання посуду, дозволяючи готувати різноманітні страви з комфортом та ефективністю. Управління здійснюється за допомогою поворотних перемикачів, що робить експлуатацію простою та інтуїтивно зрозумілою навіть для недосвідчених користувачів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -42260,7 +42260,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkevyvarvyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypyvpuypy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyvpyvpvyykf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Велокомп’ютер SunDing SD-548C – це ідеальне рішення для велосипедистів, які прагнуть контролювати ключові параметри своєї поїздки без зайвих дротів і складних налаштувань. Ця модель поєднує простоту використання, захист від вологи та широкий функціонал, що робить її надійним помічником і в місті, і на складних трасах.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -43175,7 +43175,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grsdgsdgsgs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sdegsagss.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sdgsdagssdas.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Сковорідка з антипригарним двостороннім (зовнішнім та внутрішнім) мармуровим покриттям, завдяки якому їжа не пригорає, і не чіпляється, вимагаючи мінімальної кількості олії, стане незамінною річчю на вашій кухні та всім любителям здорового харчування.</p>
 <p>Торгівельна марка<span>&nbsp;</span><strong>Unique</strong><span>&nbsp;</span>&mdash; відома своїми традиціями створення якісного та не дорогого посуду.</p>
 <p><strong>Сковорода UNIQUE Granite coating<span>&nbsp;</span></strong>виготовлена ​​з литого алюмінію з багатошаровим антипригарним мармуровим покриттям. Перевага цього покриття &mdash; це багатошарове покриття з кількох шарів кам&#8217;яної крихти на мінеральній основі. Таке покриття визнано одним із найбезпечніших для здоров&#8217;я людей та навколишнього середовища. Сковорода UNIQUE Granite coating з антипригарними властивостями, вона зносостійка та довговічна. Нова система пористого антипригарного покриття дозволяє просмажувати продукти до хрусткої скоринки. Стильна і зручна довговічна сковорода UNIQUE з гранітним покриттям знайде своє місце на будь-якій кухні.</p>
@@ -44451,7 +44451,7 @@
         <keyword>Ручка</keyword>
         <keywords>Ручка для ванної, Ручка для ванной, Ручка для ванної кімнати на вакуумних присосках, Ручка для ванной комнаты на вакуумных присосках, Ручка для ванної кімнати, Ручка для ванной комнаты, Ручка</keywords>
       </offer>
-      <offer id="209964" available="true">
+      <offer id="209964" available="false">
         <name>Набір для фарбування стін стелі підлоги валик з резервуаром Paint Roller 5 в 1</name>
         <categoryId>14201612</categoryId>
         <price>450</price>
@@ -44463,7 +44463,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkjcfyvak3jcufvk3.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvvae3ckuvyacu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rweasdfrwqasd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Набір Paint Roller</strong>&nbsp;&ndash; зручне та сучасне рішення для самостійного фарбування стін, стелі чи підлоги під час ремонту. У набір входять два валики різних розмірів, кожен із яких має внутрішній резервуар для фарби. Всередині резервуару знаходиться система каналів та отворів, яка рівномірно і точно розподіляє фарбу, дозволяючи наносити її без зайвих зусиль, патьоків або бризок.</p>
 <p>Валик чудово фарбує практично будь-яку поверхню. Товщина шару фарби, що наноситься, безпосередньо залежить від сили натискання на валик: чим сильніше натискання, тим товщі шар. Валік легко миється, підходить для багаторазового використання та значно заощаджує час фарбування.</p>
 <p><strong>Перш першим використанням рясно змочіть валик під струменем холодної води, а потім висушіть його. Після заповнення фарбою необхідно зарядити валик. Для цього проводьте валиком по старій газеті протягом 2-3 хвилин, поки фарба рівномірно не стане видно по всій поверхні валика. Після цього Paint Roller готовий до використання.</strong></p>

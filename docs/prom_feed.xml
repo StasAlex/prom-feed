@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-14 09:04">
+<yml_catalog date="2026-08-14 12:59">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -2006,7 +2006,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="215577" available="true">
+      <offer id="215577" available="false">
         <name>Міксер ручний MAGIO МG-231 300 Вт, міксер для збивання, міксер ручний для кухні, міксер для кухні</name>
         <categoryId>612</categoryId>
         <price>1010</price>
@@ -2022,7 +2022,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuaivpreckufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivpeckuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cupk43kcf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Пропонуємо звернути увагу на професійний міксер MAGIO MG-231 – прилад, що стане незамінним помічником на вашій кухні. Компактний, потужний і багатофункціональний, цей міксер розроблений для ефективної роботи з різними продуктами, від легких кремів до щільного тіста. Продумана ергономіка та просте керування дозволять вам оптимізувати час приготування і досягти стійких відмінних результатів.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -7301,7 +7301,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4ukyaypavyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekpyavyppkav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kyvpaypaypayv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -9662,7 +9662,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyrvkypkkyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oapvrpaoerey.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekrrvayyke.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Професійний набір для стрижки волосся VGR V-640</strong>&mdash; це високоякісний комплект, розроблений для чоловіків, які прагнуть ідеального догляду за волоссям. Поєднуючи потужність і передові технології, V-640 стане вашим надійним помічником як у професійній, так і в домашній обстановці.</p>
 <p><strong>Переваги VGR V-640:</strong></p>
 <ul>
@@ -24128,7 +24128,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpivfpuifpfpui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvipivfpifuif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rviravipvipiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Акумуляторна електробритва для стрижки бороди VGR V-310 &#8211; це надійний та ефективний пристрій, створений для тих, хто цінує акуратний та стильний вигляд своєї бороди. Цей водонепроникний триммер надає можливість підтримувати вашу бороду в ідеальному стані, дозволяючи легко регулювати довжину стрижки за допомогою різних насадок. Завдяки точним та гострим лезам, VGR V-310 забезпечує плавне та комфортне гоління, мінімізуючи подразнення шкіри.</p>
 <p>Цей електричний триммер працює на акумуляторі, що робить його портативним та зручним у використанні. Більш того, водонепроникна конструкція дозволяє вам використовувати його в душі або легко миється після використання. VGR V-310 &#8211; це ідеальне рішення для чоловіків, які бажають виглядати на найвищому рівні та підтримувати бороду в ідеальній формі, довіряючи це надійному інструменту.</p>
 <p><strong>Характеристики:</strong></p>
@@ -31192,7 +31192,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="366637" available="false">
+      <offer id="366637" available="true">
         <name>Ночник Проектор Астронавт зоряного неба та галактики Космонавт 8 режимів з пультом ДК</name>
         <categoryId>6370701</categoryId>
         <price>600</price>
@@ -31208,7 +31208,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rafsgerwfersadf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfsaerewasdfersad.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rfsdaerfsdgfeasdfads.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><b>Ночник-проектор Зоряного неба Космонавт</b><span>&nbsp;</span>прекрасний вибір для дитячої кімнати, який створить для дитини астмосферу зоряної Галактики.</p>
 <p>Проектор в образі космонавта покаже вам проекцію звідного неба, а також усієї Галактики.</p>
 <p>Голова космонавта тримається на магнітах, тому її можна повертати у різні боки, а також регулювати руки. Фігурка стійко стоїть на базовій основі під виглядом місячної поверхні.</p>
@@ -32763,7 +32763,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivpuifivfiiuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/repvfipfipifpui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivfpivfpifpuifp.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар BL-T701A-TG &mdash; це потужний та універсальний акумуляторний ліхтар, створений для активного відпочинку, роботи у темний час доби та екстремальних умов. Він оснащений одним потужним діодом TG з п&#8217;ятьма режимами роботи спереду (100%, 75%, 50%, SOS, стробоскоп) та чотирма додатковими режимами ззаду (100% white, 50% white, red, red стробоскоп), що дозволяє гнучко керувати освітленням у будь-яких ситуаціях.</p>
 <p>Корпус ліхтаря виконаний із поєднання міцного пластику та металу, що забезпечує надійність, легкість та стійкість до механічних пошкоджень. Оптичний зум дозволяє регулювати ширину світлового променя &mdash; від широкої плями до вузькоспрямованого світла.</p>
 <p>Живлення забезпечують три акумулятори формату 18650, які заряджаються через USB Type-C. В комплект входить сам ліхтар, кабель для заряджання та три акумулятори 18650. BL-T701A-TG поєднує компактність, високу потужність та багатофункціональність, роблячи його надійним інструментом для будь-яких умов.</p>
@@ -32927,7 +32927,7 @@
         <param name="Тип">Универсальная солнечная батарея</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="6656" available="true">
+      <offer id="6656" available="false">
         <name>Щипці фен для волосся мультистайлер GEMEI GM-4831 7в1, класичний фен для волосся потужний для волосся</name>
         <categoryId>617</categoryId>
         <price>920</price>
@@ -32943,7 +32943,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavpvik.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekipvipiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reipvisavi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Gеmеї GМ-4831 &ndash; універсальний потужний мультистайлер з величезною кількістю функцій для створення різноманітних зачісок. З його допомогою ви створите дрібні та великі кучері, об&#8217;єм та багато іншого.</p>
 <p>Має 1 швидкість та 3 температурні режими. Вибір температури здійснюється за допомогою перемикача в середній частині корпусу &ndash; з урахуванням індивідуальної структури та стану волосся.</p>
 <p>Фен-щітка виконана в мінімалістичному дизайні. Оснащений довгим шнуром для зручності використання та можливістю повороту на 360 градусів.</p>
@@ -35935,7 +35935,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tergffsfdhgsgrdgdrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgfsdgsafdser4.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ergdsfsdhrfsfsgffg.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ідеальний варіант для приготування їжі на виїзді або на дачній ділянці. Особливо оцінять таганок любителі домашньої їжі. Призначений для приготування їжі в побутових умовах. Таганок має одну маленьку конфорку та ручку керування. Так як модель досить легка і компактна, ви легко зможете її брати з собою в будь-яку подорож.</p>
 <p>Настільна газова плита призначена для приготування їжі в побутових умовах від зрідженого (балонного) газу. Завдяки компактним розмірам газова плитка легко може бути транспортована з постійного житла до місць тимчасового проживання (на дачу, до гуртожитку тощо).Настільна плита економічна та надійна в роботі, зручна та проста в обслуговуванні.</p>
 <p><strong>Характеристики:</strong></p>
@@ -38893,7 +38893,7 @@
         <param name="Тип питания">Батарейки</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="298202" available="true">
+      <offer id="298202" available="false">
         <name>Швейна машинка електрична FHSM-505 побутова для шиття та домашнього використання з педаллю на 13 функцій</name>
         <categoryId>62707</categoryId>
         <price>1170</price>
@@ -38909,7 +38909,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfivfkcviafvuifs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcufivakvamvfiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyfvakcfyvfyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>FHSM-505 &#8211; це багатофункціональна, портативна швейна машинка, що працює 12 типами рядків. Підійде як початківцям, так і досвідченим кравчиням.</p>
 <p>Машинка для шиття має не громіздкий розмір.&nbsp;Легка та портативна.</p>
 <p>Шиє 12 типами рядків, які ви можете вибрати, виставивши конкретне число з певним типом рядка.</p>
@@ -39048,7 +39048,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kciaukvifaucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kfaiuiafifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfivakcviafvif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Вафельниця – це універсальний прилад для приготування різноманітних вафель: від класичних хрустких до десертів із начинкою з вареного згущеного молока або ягідної смородини. Можливість готувати як солодкі, так і закусочні вафлі з гарячою начинкою відкриває широкі кулінарні горизонти та допомагає створювати багатошарові тістечка та оригінальні гастрономічні шедеври.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -41400,7 +41400,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kavyfrrvyprkjkpu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nukvyokrfpavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeavpyonkuyrvykrvfyay.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Це розумний дозатор! Вам не доведеться ні на що натискати, а варто лише піднести руки до дозатора і диспенсер видасть вам необхідну порцію мила автоматично. Система дозування активується за допомогою високочутливого інфрачервоного сенсора.</p>
 <p>Сенсорна мильниця Soap Magic, призначена для використання в домашніх умовах, офісі та громадських місцях. Така високотехнологічна мильниця Magic &#038; Soap стане ідеальним подарунком в кімнату дитячого садка або шкільний клас. Цей сенсорний помічник буде на стажі гігієнічної чистоти та здоров&#8217;я дитини.</p>
 <p>Сенсорна чутливість мильниці Soap Magic звільняє вас від необхідності торкатися брудними руками до миючих засобів. Унікальна мильниця працює автоматично, в системі &laquo;hands-free&raquo;. Вам, всього лише, потрібно піднести руку до носика гаджета, і миючий засіб вийде в потрібній для вас кількості.</p>
@@ -45401,7 +45401,7 @@
         <vendorCode>ws51754-1</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvfpuvyfpfpfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pfpuyfpfyyfpy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Кавоварка Domotec MS-102S &mdash; компактний і прилад для швидкого приготування кави. Вона поєднує стильний дизайн і практичність, роблячи процес приготування напою легким і зручним.</p>
 <p>Настільна конструкція забезпечує простоту використання: досить засипати мелена кава в чашу, налити воду та натиснути кнопку &mdash; ароматна кава буде готова за 3-5 хвилин. Потужність 600 Вт прискорює нагрівання, а максимальний об&#8217;єм 550 мл дає змогу приготувати кілька порцій за один раз.</p>
 <p>Кавоварка обладнана автоматичною системою вимкнення за недостатнього рівня води, що робить роботу безпечною. Корпус із пластику та дно чаші з неіржавкої сталі гарантують довговічність, а нагрівальний елемент із неіржавкої сталі підтримує стабільну температуру напою.</p>
@@ -46271,7 +46271,7 @@
         <keyword>Мини насос</keyword>
         <keywords>Міні насос велосипедний, Мини насос велосипедный, Міні насос велосипедний BL-2121 3 Бар, Мини насос велосипедный BL-2121 3 Бар, Міні насос велосипедний BL-2121, Мини насос велосипедный BL-2121, Міні насос, Мини насос</keywords>
       </offer>
-      <offer id="654963" available="true">
+      <offer id="654963" available="false">
         <name>Вішалка для одягу Double-Pole 72-130х45х100-160см</name>
         <categoryId>150203</categoryId>
         <price>420</price>
@@ -46279,7 +46279,7 @@
         <vendorCode>ws71455</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpivpifpuipufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpyvfpyvayfay.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Підлогова вішалка стійка телескопічна подвійна для одягу та взуття Double Pole.</b><span>&nbsp;Розміщення речей у квартирі, а особливо в квартирі невеликого розміру, справа непроста, є всього кілька варіантів при яких кількість вільного місця залишається більше &#8211; це або вбудована шафа на всю стіну</span>.</p>
 <p><span>Представляємо Вам зручний і вигідний спосіб розміщення якщо не всіх необхідних речей &#8211; Стійка для одягу &#8211; Double Pole.<br />
 Трубки стійки Double Pole виготовлені з алюмінію, і покриті захисною фарбою оливкового кольору, порожнисті всередині, тому стійка навіть у збірці буде важити не більше 1,5 кг. запобігають випадковому падінню одягу якщо вона буде просто накинута на стійку.</p>

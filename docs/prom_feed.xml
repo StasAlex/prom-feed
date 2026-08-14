@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-14 01:43">
+<yml_catalog date="2026-08-14 09:04">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4079,7 +4079,7 @@
         <param name="Состояние">Новое</param>
         <param name="Потребляемая мощность">2000</param>
       </offer>
-      <offer id="298712" available="true">
+      <offer id="298712" available="false">
         <name>Електром&apos;ясорубка, шатківниця та соковитискач DOMOTEC MS-2024 3000 Вт, томати, терки/шатківниці</name>
         <categoryId>63005</categoryId>
         <price>2690</price>
@@ -4095,7 +4095,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refsdafrdsafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdfedsfasdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwsadfaadsfsfesd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Перед вами не просто побутова електрична м&#8217;ясорубка Домотек, а багатофункціональний, компактний, високоефективний та надійний помічник на кухні. Бургери, ковбаски, домашні сосиски- все це диво Вам запросто накрутить наша електро м&#8217;ясорубка<span>&nbsp;</span><b>DOMOTEC MS-2024,</b><span>&nbsp;</span>вона готова взятися за найскладніші завдання: подрібнити, прокрутити та перетворити м&#8217;ясо на ніжний фарш.</p>
 <p><b>Електрична м&#8217;ясорубка з функцією соковижималки Domotec MS-2024</b><span>&nbsp;</span>з насадкою для томатів і двома функціями подрібнення, нарізки та нарізки скибочками. М&#8217;ясорубка Домотек призначена для виготовлення фаршу з м&#8217;яса, риби, грибів, нарізки овочів та фруктів, профілювання пісочного та пельменного тіста. Електром&#8217;ясорубка з функцією соковижималки шнекового типу має функцію реверс, зворотне обертання ножів, що запобігає ущільненню продуктів усередині м&#8217;ясорубки та забезпечує якісне подрібнення.</p>
 <p>Так само в наборі насадка для приготування домашнього томатного або іншого соку.</p>
@@ -7362,7 +7362,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="460720" available="true">
+      <offer id="460720" available="false">
         <name>Портативна колонка TG642 з RGB підсвічуванням та ремінцем, акумуляторна колонка для музики. Колір: чорний</name>
         <categoryId>6371101</categoryId>
         <price>690</price>
@@ -7378,7 +7378,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tewsdewsafdrefesa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/heesdrsafdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tgsdfwresafefsd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -7878,7 +7878,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/recuypuvpucu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n4upyvpfeuvpfyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4euuyvfecuyvpyf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>T&amp;G TG-658 Bluetooth Speaker &#8211; це компактна колонка, яка ідеально підходить для будь-якого випадку. Влаштовуєте ви вечірку вдома, відпочиваєте біля басейну або вирушаєте в похід на природу, TG-658 забезпечить вам якісний звук і тривалий час автономної роботи.</p>
 <p>TG-658 оснащена чипом декодування звуку Bluetooth 5.3, який забезпечує стабільне і надійне з&#8217;єднання з вашим смартфоном, планшетом або ноутбуком. Колонка також оснащена вбудованим мікрофоном, тому ви можете використовувати її для дзвінків у режимі гучного зв&#8217;язку.</p>
 <p>TG-658 оснащена динаміком потужністю 8 Вт, який забезпечує насичений і повний звук. У колонку також вбудований підсилювач басів, тому ви зможете насолоджуватися улюбленою музикою з чистими басами.</p>
@@ -9258,7 +9258,7 @@
         <param name="Тип трубы всасывания">Телескопическая</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="532560" available="true">
+      <offer id="532560" available="false">
         <name>Електрочайник Magio MG-971 термостійкий 1.7 л 1500 Вт Стильний електричний чайник Тихий побутовий чайник</name>
         <categoryId>640</categoryId>
         <price>1400</price>
@@ -9274,7 +9274,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvayppvyfpyyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvpvyfpfayfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpyvfpvyyfu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник потужністю 1500 Вт створений для швидкого та безпечного нагрівання води об’ємом до 1,7 літра. Він поєднує у собі інноваційні технічні рішення та продуманий дизайн, що робить процес приготування напоїв зручним та ефективним. Конструкція пристрою розроблена з урахуванням максимальної безпеки та довговічності, що важливо для щоденного використання у домашніх та офісних умовах.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -17527,7 +17527,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rsdhrdhrdshrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tshdssdgdsae.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htdsfrdhdrtsdrth.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна машинка для стрижки VGR V-886C GOLD&#038;</strong>&mdash; професійний інструмент з потужним двигуном 9000 оборотів за хвилину, керамічним лезом та DLC-покриттям, що забезпечує рівний та чистий зріз. Літій-іонний акумулятор 3200 мА гарантує до 200 хвилин автономної роботи. LED-дисплей відображає заряд, швидкість та стан пристрою. Зручний гумовий корпус полегшує роботу, а металеві насадки забезпечують точну довжину стрижки. На фото підтверджено заявлені параметри: 9000 RPM, батарея 3200 мА, час роботи 200 хвилин.</p>
 <h2><strong>Переваги:</strong></h2>
 <ul>
@@ -20845,7 +20845,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eASDRDADS.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/easdferfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfedad.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Фен MAGIO MG-169 &mdash; це ідеальний фен, що зробить Ваше волосся ще більш шовквістим, доглянутим і красивим. Ця модель має високу потужність &mdash; 2600 Вт, тому укладання з його допомогою має бути швидким і легким.</span></p>
 <p><span>Корпус фена зроблений з якісного термостійкого пластику, а завдяки покриттю Soft Touch рука не ковзає, що робить використання ще комфортнішим. При цьому є можливість регулювання трьох температурних режимів та двох швидкостей повітряного потоку, що дозволяє підбирати необхідні режими роботи під кожне укладання та тип волосся. Фен MAGIO MG-169 таким чином дбає про них і не дає пересушити.</span></p>
 <p><span>Подача холодного повітря дозволить закріпити зачіску та зробити її більш стійкою.</span></p>
@@ -31192,7 +31192,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="366637" available="true">
+      <offer id="366637" available="false">
         <name>Ночник Проектор Астронавт зоряного неба та галактики Космонавт 8 режимів з пультом ДК</name>
         <categoryId>6370701</categoryId>
         <price>600</price>
@@ -31208,7 +31208,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rafsgerwfersadf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfsaerewasdfersad.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rfsdaerfsdgfeasdfads.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Ночник-проектор Зоряного неба Космонавт</b><span>&nbsp;</span>прекрасний вибір для дитячої кімнати, який створить для дитини астмосферу зоряної Галактики.</p>
 <p>Проектор в образі космонавта покаже вам проекцію звідного неба, а також усієї Галактики.</p>
 <p>Голова космонавта тримається на магнітах, тому її можна повертати у різні боки, а також регулювати руки. Фігурка стійко стоїть на базовій основі під виглядом місячної поверхні.</p>
@@ -36527,7 +36527,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cupiavaprprkirkv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ukvirvaravirk-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecupviarivrvi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Прилад для вимірювання артеріального тиску автоматичний, в комплект входять манжета для вимірювання, дисплей на який виводяться результати, мішечок для зберігання.</p>
 <p>Тонометр Arm Style має функції вимірювання тиску, частоти пульсу, також він показує поточний час. Апарат простий у використанні, великі цифри на дисплеї полегшують читання результатів людям із поганим зором. Крім цього, в пам&#8217;яті тонометра зберігаються результати попередніх 99 вимірів.</p>
 <p>Тонометр Arm Style може працювати і від 4 батарейок класу АА, що уможливлює його експлуатацію поза домом. На завершення слід зазначити, що в даній моделі є індикатор аритмії.</p>
@@ -38410,7 +38410,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fdshdsgdfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htrsdhdfshdfsh.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htshdshgdsdsx.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>З акумуляторним пилососом LT-113CG-T ви отримаєте максимальну свободу під час прибирання завдяки його бездротовій роботі. Пилосос обладнаний потужним акумулятором, який дає змогу працювати до 30 хвилин без підзаряджання. Його висока потужність всмоктування (120 Вт) забезпечить ефективне прибирання навіть у найбільш важкодоступних куточках автомобіля, видаляючи пил, пісок, бруд і волосся свійських тварин. До комплекту входять кілька насадок, включно зі щіткою для сидінь, насадкою для щілин і турбощіткою для килимів, що робить прибирання ще ефективнішим.</p>
 <p>Пилосос обладнаний багатоступеневою системою фільтрації, яка допомагає утримувати пил і бруд всередині пристрою. Фільтр легко очищається й миється, що продовжує термін експлуатації пилососа. Легкий і компактний дизайн дає змогу зручно зберігати його в багажнику автомобіля або в будь-якому іншому зручному місці.</p>
 <p>Цей пилосос стане незамінним помічником як для автомобілістів, так і для дачників і домашніх користувачів, забезпечуючи швидке та якісне прибирання без зайвих зусиль.</p>
@@ -45849,7 +45849,7 @@
         <keyword>Мобильный воздухоохладитель</keyword>
         <keywords>Мобільний повітроохолоджувач Domotec, Мобильный воздухоохладитель Domotec, Мобільний повітроохолоджувач Domotec MS-1628, Мобильный воздухоохладитель Domotec MS-1628, 60Вт — компактний підлоговий клімат-контроль, 60Вт — компактный напольный климат-контроль, Мобільний повітроохолоджувач, Мобильный воздухоохладитель</keywords>
       </offer>
-      <offer id="866573" available="true">
+      <offer id="866573" available="false">
         <name>Глюкометр Glucose Meter GLM-76 з тест-смужками 50 шт — прилад для вимірювання цукру в крові</name>
         <categoryId>200913</categoryId>
         <price>430</price>
@@ -45859,7 +45859,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epufnpefipfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/akuvifpeucfpku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/peuifpkuvipufpu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Глюкометр GLM-76 відрізняється простим та інтуїтивно зрозумілим інтерфейсом, що робить його зручним у використанні для всіх користувачів, незалежно від рівня підготовки. Інтелектуальна система забезпечує швидкі та точні результати вимірювання рівня глюкози в крові</span><span></span></p>
 <p><span>Регулярний контроль цукру в крові допомагає своєчасно реагувати на зміни стану здоров&rsquo;я, коригувати дієту та медикаментозну терапію. Це сприяє зниженню ризику розвитку ускладнень цукрового діабету, таких як проблеми із зором, захворювання нирок та серцево-судинні патології</span></p>
 <h2><span><strong>Переваги:</strong></span></h2>

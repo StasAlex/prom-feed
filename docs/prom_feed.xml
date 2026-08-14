@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-14 12:59">
+<yml_catalog date="2026-08-14 16:48">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -21022,7 +21022,7 @@
         <param name="Тип лампы">Светодиодная</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="332489" available="true">
+      <offer id="332489" available="false">
         <name>Пилосос Rainberg RB-658TB колбовий з регулятором потужності та турбощіткою 5L - 5200 Вт, пилосос домашній</name>
         <categoryId>608</categoryId>
         <price>3740</price>
@@ -21038,7 +21038,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4ucaviapkuifvaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuifvauivfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcuvifaukvifai.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Пристрій для швидкого та ефективного прибирання домашніх та інших приміщень.</p>
 <p>Потужний електромотор забезпечує сильне всмоктування всіх частинок пилу та гризі всередину пилозбірника.</p>
 <p><strong>Основні особливості контейнерного пилососу Rainberg RB-658:</strong></p>
@@ -30168,7 +30168,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grefsdsaedas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gtrwadsferfdsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gtrfsderfdsa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><b>Електрична м&#8217;ясорубка Domotec MS-2023 2800W<span>&nbsp;</span></b>призначена для виготовлення фаршу з м&#8217;яса, риби, грибів, нарізки овочів та фруктів, профілювання пісочного та пельменного тіста.</p>
 <p> ></p>
 <p>Електром&#8217;ясорубка шнекового типу має функцію реверс, що запобігає ущільненню продуктів усередині м&#8217;ясорубки та забезпечує якісне подрібнення.</p>
@@ -30743,7 +30743,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">13</param>
       </offer>
-      <offer id="332485" available="true">
+      <offer id="332485" available="false">
         <name>Пилосос контейнерний Rainberg RB-652 турбощітка 3700 Вт 4 л</name>
         <categoryId>608</categoryId>
         <price>2350</price>
@@ -30759,7 +30759,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ujcfvaiukcvfiavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuipecuaifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcfviafisvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Контейнерний пилосос Rainberg</strong>&nbsp;Німеччина циклонного типу.&nbsp;<br />Пилозбірник великого об&#8217;єму достатньо лише дістати контейнер, викинути сміття та за необхідності вимити його.&nbsp;</p>
 <p>Завдяки потужності двигуна 3700W &nbsp;прибирання буде набагато швидше та ефективніше.&nbsp;</p>
 <p>Дана модель пилососа без мішка має фільтр очищення повітря, що запобігає попаданню пилу назад у приміщення.&nbsp;</p>
@@ -44362,7 +44362,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/ez323r4c.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/dz2x32.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/dze2r23.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Настільне косметичне складне дзеркало з LED-підсвічуванням для макіяжів з бічними дзеркалами, сенсорним датчиком включення та збільшувальними секціями.</p>
 <p><strong>Незамінна річ для будь-якої дівчини.</strong></p>
 <p>Світлодіоди на дзеркалі забезпечують рівномірне освітлення обличчя з усіх боків у будь-який час доби, що дозволить вам рівномірно нанести косметику, не допускаючи помилок.</p>

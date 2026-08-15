@@ -152,6 +152,16 @@ SRC = "https://www.websklad.biz.ua/wp-content/uploads/current-Universalnaya.xml"
 # дата последнего наличия по каждому Артикулу).
 OOS_EVICT_DAYS = 30   # сколько дней держим карточку без наличия, потом выводим
 
+# Приём новинок поставщика — раз в месяц (1-го числа) или вручную через
+# REFRESH_NEW=1. В остальные дни фид только обновляет наличие/цены у уже
+# заведённых карточек: состав каталога не меняется вообще.
+NEW_INTAKE_DAY = 1
+
+def new_intake_allowed(today):
+    if os.environ.get("REFRESH_NEW") == "1":
+        return True
+    return datetime.date.fromisoformat(today).day == NEW_INTAKE_DAY
+
 def _load_state(path):
     """Файл-состояние: {vendorCode: {first_seen, last_in_stock}} — членство в фиде."""
     try:
@@ -340,6 +350,8 @@ def build(src_path, out_path):
 
     # 4) добор новинок (в наличии, прошли фильтр качества) на свободные слоты, по рангу
     free = MAX_OFFERS - len(kept)
+    if free > 0 and not new_intake_allowed(today):
+        free = 0
     if free > 0:
         newbies = sorted((c for c in candidates if not c["incumbent"] and c["avail"]),
                          key=lambda c: c["rank"], reverse=True)[:free]
@@ -416,6 +428,8 @@ if __name__ == "__main__":
     kept, ncats, prices, added_new, oos_in_feed, evicted = build(src, out)
     prices.sort()
     print("offers kept:", kept, "| categories:", ncats)
-    print("добавлено новых:", added_new, "| без наличия (карточка держится):", oos_in_feed, "| выведено:", evicted)
+    print("добавлено новых:", added_new,
+          "(приём новинок:", "ДА" if new_intake_allowed(datetime.date.today().isoformat()) else "нет, только 1-го числа",
+          ") | без наличия (карточка держится):", oos_in_feed, "| выведено:", evicted)
     print("price min/median/max:", prices[0], prices[len(prices)//2], prices[-1])
     print("output:", out, "size:", os.path.getsize(out), "bytes")

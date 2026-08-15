@@ -1,8 +1,15 @@
 name: Update Prom feed
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    # раз в сутки, 05:00 UTC (08:00 Киев) — состав каталога стабильный,
+    # обновляются только наличие и цены
+    - cron: '0 5 * * *'
   workflow_dispatch:
+    inputs:
+      refresh_new:
+        description: 'Забрать новинки поставщика на свободные слоты (обычно только 1-го числа)'
+        type: boolean
+        default: false
 permissions:
   contents: write
 jobs:
@@ -14,6 +21,8 @@ jobs:
         with:
           python-version: '3.11'
       - name: Build feed
+        env:
+          REFRESH_NEW: ${{ inputs.refresh_new && '1' || '0' }}
         run: python build_prom_feed.py download docs/prom_feed.xml
       - name: Commit
         run: |

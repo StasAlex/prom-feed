@@ -190,7 +190,8 @@ KEEP_CATS = None  # None = whole catalog; or a set like {"342","339"} to restric
 # id/vendorCode. Cat 339 = "Сумки, клатчи, кошельки, очки". Keep it out entirely.
 EXCLUDE_CATS = {"339"}
 MAX_PICS = 10  # Prom hard cap: no more than 10 photos per product
-MAX_OFFERS = 750  # держим 750 дропшип-офферов; ~150 слотов резерв под свои сумки
+MAX_OFFERS = 700  # цель: 900 товаров на Prom всего (план 1000, запас 100).
+# 700 дропшип + свои: ~147 сумок + 20 новых (серпень 2026) + 31 куля = ~898.
 # (свои сумки — ОТДЕЛЬНЫЙ каталог, ведётся вручную, сюда никогда не попадает)
 
 # Card-quality gate: the source has no sales data, so as a first pass we keep

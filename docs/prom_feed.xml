@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-16 05:33">
+<yml_catalog date="2026-08-17 05:39">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -212,7 +212,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kcfaeuifvaifauvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/iueayapivfaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euayfeafufy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Забезпечте собі бездоганний догляд за деталями образу за допомогою тримера для носа і вух GM-3109 2в1 — інструмента, що поєднує універсальність і ефективність у компактному форматі. Цей пристрій розроблений для плавного і точного видалення небажаного волосся у важкодоступних зонах, а також для професійної окантовки, що дозволить підкреслити ваш ідеальний стиль щодня.</p>
 <h2>Раціональні причини обрати</h2>
 <ul>
@@ -314,7 +314,7 @@
         <param name="Тип прибора">Гигиенический триммер</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="6668" available="true">
+      <offer id="6668" available="false">
         <name>Електроплита настільна DOMOTEC MS-5851 900 Вт, Кухонна плита електро для кухні на 1 конфорку</name>
         <categoryId>641</categoryId>
         <price>980</price>
@@ -330,7 +330,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uayvpeuayvfufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavpeuafayfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvpuaauyvfayv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5851, ви зможете запросто приготувати собі їжу на поточний день.</p>
 <p>Її можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Регулювати працездатність плити можна за допомогою механічного перемикача. Емалеве покриття плити Domotec додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><b>Компанія Domotec</b>&nbsp;довгі роки випускає переносні електроплити, які також довго служать своїм господарям. Саме тому компанія давно завоювала споживачів свого товару по всьому світу. Адже головні принципи компанії Domotec – це якісна продукція, яка виконує всі умови для продуктивної роботи. Цими ж якостями володіє і плитка MS – ndash; 5851, зроблена за всіма правилами та стандартами переносних електроплиток.</p>
@@ -1211,7 +1211,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="102155" available="true">
+      <offer id="102155" available="false">
         <name>Епілятор Gemei GM-7006 4в1 - Професійний бездротовий епілятор бритва з насадками триммер + пемза</name>
         <categoryId>3314</categoryId>
         <price>770</price>
@@ -1227,7 +1227,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujcviaucjfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kucvfikucfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfak3jcfvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Епілятор GM-7006 Professional 4in1</strong>&nbsp;ідеально підходить для лінії бікіні, пахв і ніг.</p>
 <p>Ефективний і безболісний на відміну від традиційних методів хімічної епіляції та щипців, які вимагають багато часу та приносять великий біль, цей епілятор може видалити волосся лише за п&#8217;ять хвилин без болю чи дискомфорту.</p>
 <p>Елегантний дизайн розроблений спеціально для жінок та дівчат. Елегантний дизайн розроблений спеціально для зручного використання, насадки змінюються просто та швидко.</p>
@@ -1320,7 +1320,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfviakujcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cvfikcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucak3cvif.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Епілятор GM-7006 Professional 4in1</strong>&nbsp;ідеально підходить для лінії бікіні, пахв і ніг.</p>
 <p>Ефективний і безболісний на відміну від традиційних методів хімічної епіляції та щипців, які вимагають багато часу та приносять великий біль, цей епілятор може видалити волосся лише за п&#8217;ять хвилин без болю чи дискомфорту.</p>
 <p>Елегантний дизайн розроблений спеціально для жінок та дівчат. Елегантний дизайн розроблений спеціально для зручного використання, насадки змінюються просто та швидко.</p>
@@ -1540,7 +1540,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="157418" available="true">
+      <offer id="157418" available="false">
         <name>Електрична щітка Shuke SK-601 акумуляторна. Ультразвукова щітка для зубів + 3 насадки. Колір: чорний</name>
         <categoryId>330502</categoryId>
         <price>360</price>
@@ -1556,7 +1556,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3rqwadsfrewd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ewdasftr3wqa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wasdffgt43rwd.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Чистка зубів &mdash; це не таке просте заняття як здається на перший погляд і точно добре вичистити зуби звичайною щіткою це дуже складно.<br />З появою електричних зубних щіток цей процес значно спростився, більше того, з їх допомогою додалися нові можливості такі як полірування, освітлення і догляд за яснами.<br />Все це можливо завдяки новим технологіям, за допомогою яких щетинки вібрують і пульсують з частотою 2600 мікровібрацій на хвилину що дозволяє не тільки якісно вичистити зуби, але й прибрати наліт і пігментацію зубів після чого вони будуть мати гарний здоровий вигляд.</p>
 <p>Електрична зубна щітка дозволяє ретельно та дбайливо чистити зуби та доглядати за порожниною рота.</p>
 <p>Акумуляторна масажна зубна щітка з 5 режимами роботи робить процес чищення зубів простим та приємним.</p>
@@ -8206,7 +8206,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nkprvaavuvpifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupkviaipavepuifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n5ukrvaavpuifuf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Набір тримера та шейвера VGR V-641 2 в 1 Professional Set &#8211; це ідеальне рішення для тих, хто цінує професійний догляд за своїм виглядом, не жертвуючи при цьому зручністю та надійністю.</p>
 <p>Металевий корпус та прецизійні леза забезпечують високу якість та довговічність пристрою. Леза з нержавіючої сталі гарантують гостру та безперервну стрижку, забезпечуючи чудовий результат.</p>
 <p>Набір включає тример і шейвер, надаючи повний спектр функцій для догляду за вашим зовнішнім виглядом. Завдяки компактному та ергономічному дизайну, цей набір легко брати із собою у поїздки або на ділові зустрічі.</p>
@@ -8278,7 +8278,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twefsdrefasdr3wafesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nkpvaafauvyfyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupyavucfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><b>Бездротова машинка для стрижки волосся</b>&nbsp;&mdash; це професійний триммер з потужним мотором, ергономічним дизайном та чотирма змінними насадками для створення різноманітних стрижок у будь-яких умовах.</p>
 <p><b>Машинка<span>&nbsp;</span></b>&mdash;&nbsp; професійний триммер, створений для максимальної зручності та точності. Вона оснащена потужним та тихим мотором, який забезпечує плавне та рівномірне стриження. Завдяки ергономічному дизайну та легкій вазі машинка зручно лежить у руці, дозволяючи легко маневрувати та досягати ідеальних результатів. У комплект входять чотири змінні насадки, що дає змогу вибирати бажану довжину стрижки та створювати різноманітні образи.</p>
 <p><b>Ця машинка для стрижки волосся ідеально підходить</b><span>&nbsp;</span>як для домашнього, так і для професійного використання. Її бездротова конструкція забезпечує свободу рухів та дозволяє використовувати пристрій у будь-якому зручному місці. Батарея високої ємності забезпечує тривалу роботу без заряджання, а компактний розмір робить її ідеальним варіантом для подорожей. Високоякісні леза з нержавіючої сталі гарантують довговічність та бездоганну точність кожної стрижки.</p>
@@ -11621,7 +11621,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="604765" available="true">
+      <offer id="604765" available="false">
         <name>Занурювальний ручний блендер RAF R.780 1500Вт</name>
         <categoryId>64301</categoryId>
         <price>860</price>
@@ -11637,7 +11637,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hredfhdfshggsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gdsgdsagsgse.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfshdrgdsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Погружний блендер R780 — це професійний кухонний інструмент з потужним електричним мотором 1500 Вт та максимальною швидкістю обертання 12000 об/хв, що забезпечує швидке та рівномірне подрібнення різноманітних продуктів. Завдяки чотирилезовій системі з нержавної сталі та функції подрібнення льоду, він ідеально підходить як для приготування смузі та крем-супів, так і для подрібнення твердих інгредієнтів. Ергономічний корпус з пластику та зручне керування з регулюванням швидкості роблять процес роботи максимально комфортним та ефективним.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -13202,7 +13202,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaravipvipki.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaiavipif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkavrvaaik.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Тостер RAF R2102<span>&nbsp;</span></strong>&ndash; це зручний та функціональний пристрій, призначений для швидкого та рівномірного підсмажування хліба. Компактний дизайн дозволяє легко розмістити його на будь-якій кухні, а елегантний зовнішній вигляд робить його чудовим доповненням до інтер&#8217;єру.</p>
 <p><strong>Завдяки<span>&nbsp;</span></strong>механічному управлінню та п&#8217;яти рівням підсмажування, тостер дозволяє готувати тости з різним ступенем крихкості, підлаштовуючись під переваги кожного користувача.</p>
 <p><strong>Пристрій обладнаний<span>&nbsp;</span></strong>трьома корисними функціями: розморожування, підігрів та скасування. Функція розморожування дозволяє підсмажувати навіть заморожені скибочки хліба, а режим підігріву ідеально підходить для розігріву раніше підготовлених тостів.</p>
@@ -19992,7 +19992,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266161" available="true">
+      <offer id="266161" available="false">
         <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200W. Колір: чорний</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -20008,7 +20008,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип&#8217;ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -21345,7 +21345,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="340339" available="true">
+      <offer id="340339" available="false">
         <name>Годинник наручний чоловічий SKMEI 1515BK BLACK, годинник наручний електронний тактичний. Колір: чорний</name>
         <categoryId>151105</categoryId>
         <price>690</price>
@@ -21361,7 +21361,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecufcuiavifc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cuiavfpcepfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuipfeufivpi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Годинник <strong>SKMEI 1515BK BLACK</strong> &mdash; це вражаюча комбінація брутального дизайну та багатофункціональності, створена для чоловіків, які шукають надійність, стиль і практичність в одному аксесуарі. Повністю чорне оформлення з металевим браслетом, масивним корпусом і великою кількістю функціональних елементів робить цей годинник справжнім акцентом у будь-якому образі. Аналогово-цифрове відображення дозволяє швидко зчитувати час, а захисна кришка на головці додає технічного характеру моделі.</p>
 <p>SKMEI 1515 оснащено набором функцій, які роблять його корисним у повсякденному житті: дата, день тижня, будильник, секундомір, підсвітка, подвійний час та 12/24-годинний формат. Кварцовий механізм забезпечує точність, а водозахист 30 метрів дозволяє не турбуватися про контакт із водою у побутових умовах. Ця модель поєднує статусний вигляд із практичністю &mdash; чудовий вибір як для офісу, так і для неформального стилю.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -21802,7 +21802,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4upvyvpkvpavyay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eayvfuafavavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uyavpeyaapafyv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся VGR V-121</strong><span>&nbsp;</span>&#8211; подарує Вам великий досвід та заощадить Ваші гроші на похід у перукарню. Машинка корисна як удома, так і для професійного використання в салонах та барбершопах!</p>
 <p>Набір для стрижки волосся VGR є універсальною машинкою для стрижки з 8 насадками. Леза з нержавіючої сталі. У комплекті 8 насадок 3/6/9/9/12/16/20мм.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий. Голить чітко і чисто. Підійде для стрижки бороди, окантування, шліфування стрижки, а також відмінна альтернатива для делікатних місць. Тим часом машинка підійде і для стрижки дітей завдяки тихій роботі двигуна. Цей новий професійний набір для стрижки волосся надасть Вам та вашій родині відмінну стрижку.</p>
@@ -22643,7 +22643,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ciavpuivauvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuaipeuivauviiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivpeuivauvifaiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ваги кухонні<span>&nbsp;</span><strong>MG-780<span>&nbsp;</span></strong>&#8211; це надійний інструмент для точного вимірювання ваги різних продуктів у кухонних умовах.<br / ><br /><strong>Ось їхні основні характеристики:</strong></p>
 <ul>
 <li>Тип: Водонепроникні-електронні, що робить їх зручними для використання у вологому середовищі кухні.</li>
@@ -34438,7 +34438,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyraprpayvroap.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oreapvprvay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeaprevrvyrv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ручний електричний відпарювач – універсальний пристрій для догляду за одягом і текстилем, який швидко і без зусиль розгладжує складки на тканинах будь-якого типу. Завдяки паровій обробці волокна зберігають свою форму, об’єм і еластичність, уникаючи розтягнень і стиснень, властивих традиційному прасуванню праскою. Це ідеальний вибір для делікатних матеріалів, таких як льон, вельвет, ворсові тканини, шерсть і синтетика, що дозволяє зберегти первісний вигляд і продовжити термін служби ваших речей.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -34657,7 +34657,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapipifpii.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vavpvivpfiivpifp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavipavipivfvifafiv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Світлодіодний ліхтарик Г-подібний налобний Police 6609-LED — це сучасний пристрій для надійного освітлення в будь-яких умовах. Оснащений сучасним світлодіодом T6, він забезпечує світловий потік до 1000 люменів, що в десять разів перевищує потужність традиційних ламп розжарювання. Компактний і зручний у використанні, цей налобний ліхтар призначений для забезпечення яскравого та рівномірного світла при мінімальних витратах енергії.</p>
 <h2>Ключові особливості та переваги</h2>
 <ul>
@@ -37933,7 +37933,7 @@
         <param name="Тип кофеварки">Гейзерная</param>
         <param name="Назначение">Бытовое</param>
       </offer>
-      <offer id="600276" available="true">
+      <offer id="600276" available="false">
         <name>Акумуляторний безщітковий лобзик 24V з 2 АКБ у пластиковому кейсі з регулюванням швидкості та кута нахилу</name>
         <categoryId>14200399</categoryId>
         <price>2350</price>
@@ -37949,7 +37949,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdsgsdgsaegs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfgdfsgsdags.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfgsdgesagsr.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторний лобзик 24В</strong><span>&nbsp;</span>&ndash; це потужний та надійний електроінструмент, призначений для точного та ефективного різання різних матеріалів. Завдяки своїй мобільності та незалежності від мережі, він ідеально підходить для використання на об&#8217;єктах, де відсутня можливість підключення до мережі.</p>
 <p>Лобзик дозволяє виконувати як прямолінійні, так і криволінійні пропили, забезпечуючи високу якість роботи в будь-яких умовах. Прогумована рукоятка забезпечує зручність використання, а захищена ріжуча область та міцний корпус забезпечують безпеку роботи.</p>
 <p><strong>Параметри</strong>:</p>
@@ -38212,7 +38212,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpypuyvrkrkf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krpkyvfpyfrkuyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eraarvpyvapvychya.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Велоліхтар BK09/Z-03-3T6</strong>&mdash; це універсальний велосипедний світлодіодний ліхтар із функцією Power Bank, який поєднує яскраве освітлення та можливість підзарядки мобільних пристроїв. Оснащений сучасним Li-Ion акумулятором та зручним зарядним портом Type-C, цей ліхтар забезпечує надійну роботу навіть під час тривалих поїздок. Завдяки кріпленню під телефон він стає багатофункціональним аксесуаром, що дозволяє одночасно освітлювати дорогу та використовувати смартфон для навігації чи прослуховування музики.</p>
 <p>Високопотужні світлодіоди гарантують яскравий світловий потік, роблячи поїздки у темний час доби безпечними. Міцний корпус захищає від вологи та ударів, а вбудований Power Bank дозволяє завжди залишатися на зв&#8217;язку. Це ідеальне рішення для любителів активного відпочинку, велоподорожей та щоденних міських поїздок.</p>
 <h2><strong>Переваги:</strong></h2>
@@ -40327,7 +40327,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyvravyrpvapyvfpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nrkavayrpvaypryvfpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnkevaypkvyavyfau.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Мангал-барбекю — це ідеальний супутник для любителів відпочинку на природі, який забезпечує простоту і комфорт приготування їжі на відкритому повітрі. Компактний та складаний, він легко транспортується у вигляді зручного кейса, дозволяючи швидко організувати процес смаження м’ясних та овочевих страв без необхідності рити яму або споруджувати опори з цегли. Цей гриль зроблений із холоднокатаної сталі та оснащений практичними функціями, які значно покращують якість та зручність готування на вуглях.</p>
 <h2>Раціональні причини обрати мангал-барбекю</h2>
 <ul>
@@ -40647,7 +40647,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaivpivpifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkavpiavifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvairvpivfiv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Гранітне покриття &#8211; це насіння в кілька шарів кам&#8217;яна крихта на мінеральній основі.</p>
 <p>Сковорода UNIQUE Granite coating має антипригарні властивості, зносостійка та довговічна.</p>
 <p>Нова система антипригарного покриття дозволяє просмажувати продукти до хрусткої скоринки.</p>
@@ -42727,7 +42727,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/ez323r4c.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/dz2x32.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/dze2r23.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Настільне косметичне складне дзеркало з LED-підсвічуванням для макіяжів з бічними дзеркалами, сенсорним датчиком включення та збільшувальними секціями.</p>
 <p><strong>Незамінна річ для будь-якої дівчини.</strong></p>
 <p>Світлодіоди на дзеркалі забезпечують рівномірне освітлення обличчя з усіх боків у будь-який час доби, що дозволить вам рівномірно нанести косметику, не допускаючи помилок.</p>
@@ -43858,14 +43858,14 @@
         <keyword>Мини насос</keyword>
         <keywords>Міні насос велосипедний, Мини насос велосипедный, Міні насос велосипедний BL-2121 3 Бар, Мини насос велосипедный BL-2121 3 Бар, Міні насос велосипедний BL-2121, Мини насос велосипедный BL-2121, Міні насос, Мини насос</keywords>
       </offer>
-      <offer id="724329" available="true">
+      <offer id="724329" available="false">
         <name>Набір 4в1 DOMOTEC акумуляторних інструментів для саду</name>
         <categoryId>14200914</categoryId>
         <price>4070</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws18511</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdgsdafseaes.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Набір акумуляторних інструментів 4в1 &#8211; ​​це практичний і потужний комплект для догляду за садом та дачною ділянкою.</span></p>
 <p><span>Він включає пил, секатор, триммер, повітродув, що робить його ідеальним помічником для будь-яких завдань на свіжому повітрі.</span></p>
 <p><span>За допомогою цього набору можна підрізати гілки, косити траву, формувати кущі, прибирати листя та сміття.</span></p>
@@ -43976,7 +43976,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws35427</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdgesafdsa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Лазерний рівень Laser Level 4D16 у кейсі з двома акумуляторами – це надійне рішення для точного та зручного позиціонування у будівництві та ремонті. Завдяки продуманій комплектації та міцному кейсу, пристрій готовий до роботи в будь-яких умовах, забезпечуючи високу якість вимірювань і довговічність експлуатації. Конструкція в сучасному синьому кольорі підкреслює професійний рівень обладнання, а наявність двох акумуляторів гарантує тривалу автономну роботу без перебоїв.</p>
 <h2>Ключові переваги</h2>
 <ul>

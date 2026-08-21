@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-20 05:35">
+<yml_catalog date="2026-08-21 05:37">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -508,7 +508,7 @@
         <param name="Триммер для окантовки">Нет</param>
       </offer>
       <offer id="12012" available="false">
-        <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, окантувальна машинка. Колір: чорний</name>
+        <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, окантувальна машинка Black</name>
         <categoryId>28290204</categoryId>
         <price>360</price>
         <currencyId>UAH</currencyId>
@@ -551,13 +551,13 @@
         <keyword>Аккумуляторная машинка</keyword>
         <keyword>Акумуляторна машинка для стрижки волосся Gemei</keyword>
         <keyword>Аккумуляторная машинка для стрижки волос Gemei</keyword>
-        <keyword>окантувальна машинка</keyword>
-        <keyword>окантовочная машинка</keyword>
+        <keyword>окантувальна машинка Black</keyword>
+        <keyword>окантовочная машинка Black</keyword>
         <keyword>Акумуляторна машинка для стрижки</keyword>
         <keyword>Аккумуляторная машинка для стрижки</keyword>
         <keyword>Акумуляторна машинка для стрижки волосся</keyword>
         <keyword>Аккумуляторная машинка для стрижки волос</keyword>
-        <keywords>Акумуляторна машинка, Аккумуляторная машинка, Акумуляторна машинка для стрижки волосся Gemei, Аккумуляторная машинка для стрижки волос Gemei, окантувальна машинка, окантовочная машинка, Акумуляторна машинка для стрижки, Аккумуляторная машинка для стрижки, Акумуляторна машинка для стрижки волосся, Аккумуляторная машинка для стрижки волос</keywords>
+        <keywords>Акумуляторна машинка, Аккумуляторная машинка, Акумуляторна машинка для стрижки волосся Gemei, Аккумуляторная машинка для стрижки волос Gemei, окантувальна машинка Black, окантовочная машинка Black, Акумуляторна машинка для стрижки, Аккумуляторная машинка для стрижки, Акумуляторна машинка для стрижки волосся, Аккумуляторная машинка для стрижки волос</keywords>
         <param name="Производитель">Gemei</param>
         <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
         <param name="Цвет корпуса">Черный</param>
@@ -573,7 +573,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="12091" available="true">
-        <name>Машинка для стрижки 10в1 GEMEI GM-592, тример для бороди, триммер бездротової. Колір: чорний</name>
+        <name>Машинка для стрижки 10в1 GEMEI GM-592, тример для бороди, триммер бездротової Black</name>
         <categoryId>28290204</categoryId>
         <price>690</price>
         <currencyId>UAH</currencyId>
@@ -618,13 +618,13 @@
         <keyword>Машинка для стрижки 10в1 GEMEI GM-592</keyword>
         <keyword>тример для бороди</keyword>
         <keyword>тример для бороды</keyword>
-        <keyword>триммер бездротової</keyword>
-        <keyword>триммер беспроводной</keyword>
+        <keyword>триммер бездротової Black</keyword>
+        <keyword>триммер беспроводной Black</keyword>
         <keyword>Машинка для стрижки 10в1</keyword>
         <keyword>Машинка для стрижки 10в1 GEMEI</keyword>
         <keyword>Машинка</keyword>
         <keyword>GEMEI</keyword>
-        <keywords>Машинка для стрижки, Машинка для стрижки 10в1 GEMEI GM-592, тример для бороди, тример для бороды, триммер бездротової, триммер беспроводной, Машинка для стрижки 10в1, Машинка для стрижки 10в1 GEMEI, Машинка, GEMEI</keywords>
+        <keywords>Машинка для стрижки, Машинка для стрижки 10в1 GEMEI GM-592, тример для бороди, тример для бороды, триммер бездротової Black, триммер беспроводной Black, Машинка для стрижки 10в1, Машинка для стрижки 10в1 GEMEI, Машинка, GEMEI</keywords>
         <param name="Производитель">GEMEI</param>
         <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
         <param name="Цвет корпуса">Серый</param>
@@ -1398,7 +1398,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="140798" available="true">
-        <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, підстригальна машинка. Колір: білий</name>
+        <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, підстригальна машинка White</name>
         <categoryId>28290204</categoryId>
         <price>360</price>
         <currencyId>UAH</currencyId>
@@ -1441,13 +1441,13 @@
         <keyword>Аккумуляторная машинка</keyword>
         <keyword>Акумуляторна машинка для стрижки волосся Gemei</keyword>
         <keyword>Аккумуляторная машинка для стрижки волос Gemei</keyword>
-        <keyword>підстригальна машинка</keyword>
-        <keyword>подстригательная машинка</keyword>
+        <keyword>підстригальна машинка White</keyword>
+        <keyword>подстригательная машинка White</keyword>
         <keyword>Акумуляторна машинка для стрижки</keyword>
         <keyword>Аккумуляторная машинка для стрижки</keyword>
         <keyword>Акумуляторна машинка для стрижки волосся</keyword>
         <keyword>Аккумуляторная машинка для стрижки волос</keyword>
-        <keywords>Акумуляторна машинка, Аккумуляторная машинка, Акумуляторна машинка для стрижки волосся Gemei, Аккумуляторная машинка для стрижки волос Gemei, підстригальна машинка, подстригательная машинка, Акумуляторна машинка для стрижки, Аккумуляторная машинка для стрижки, Акумуляторна машинка для стрижки волосся, Аккумуляторная машинка для стрижки волос</keywords>
+        <keywords>Акумуляторна машинка, Аккумуляторная машинка, Акумуляторна машинка для стрижки волосся Gemei, Аккумуляторная машинка для стрижки волос Gemei, підстригальна машинка White, подстригательная машинка White, Акумуляторна машинка для стрижки, Аккумуляторная машинка для стрижки, Акумуляторна машинка для стрижки волосся, Аккумуляторная машинка для стрижки волос</keywords>
         <param name="Производитель">Gemei</param>
         <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
         <param name="Цвет корпуса">Серый</param>
@@ -2503,7 +2503,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ujcvyakcufvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcfyvkcuvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cvaykucvyf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Тостер MAGIO MG-278 — це функціональне та стильне рішення для сучасної кухні, яке не лише швидко та рівномірно підсмажить хліб, а й спростить щоденне приготування тостів. Компактний прилад з потужністю 830 Вт обладнаний зручними режимами та елементами керування, що дозволяють адаптувати процес підсмаження під індивідуальні вподобання кожного користувача.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -4725,7 +4725,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4twesdgtesdgtesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwqsadftr3ef.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcavpkeupyva-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електронні кухонні ваги Magio MG-698 — це точне та надійне обладнання, призначене для комфортного вимірювання маси продуктів з максимальною навантаженням до 5 кг. Міцна скляна платформа забезпечує довговічність і стійкість до впливу хімічних речовин, а компактні розміри дозволяють використовувати ваги навіть на обмеженій за площею кухні.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -4918,7 +4918,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cukyavypeuayyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ekuyavypkeapfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavfukauvyfmayv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>У верхній частині корпусу розташовані два індикатори, які повідомлять про підключення пристрою з електромережі, а також про досягнення оптимального нагріву для приготування. На ручці електроприладу передбачений спеціальний затиск, за допомогою якого ви гарантовано рівномірно просмажите сендвіч, оскільки він щільно прилягатиме до обох нагрітих зон. Пластини мають рифлену форму, що в тандемі з антипригарним покриттям забезпечує випаровування соків, які стікають у спеціальні канавки і не прилипають до їжі, завдяки чому вона виходить соковитою, але не жирною. Прилад має потужність 2200 Ватт, два індикатори роботи, автоматичний термостат, що забезпечує постійну підтримку температури та захист від перегріву. Має 4 види насадок (знімних форм): &#8220;Вафлі гофре&#8221; &#8211; приготування ароматних брюссельських вафель, які стануть чудовим десертом, або замінять на сніданок звичні оладки. &#8220;Сендвічі&#8221; ― використовуючи тостерний хліб прямокутної форми, ви приготуєте справжні англійські сендвічі зі всілякими начинками. Під час приготування вони поділяються на гарні трикутні шматочки. &#8220;Гриль&#8221; &#8211; універсальна насадка. Її ребриста поверхня створює апетитний малюнок у вигляді смуг. Підрум&#8217;янити сосиски, шматочки хліба, лаваш і навіть приготувати яєчню – ті небагато речей, які може справжній гриль. &#8220;Горішниця&#8221; &#8211; дозволить насолодитися десертом родом із дитинства. Приготування печива &#8220;горішки&#8221; не триватиме багато часу.</p>
 <p><strong>Характеристики</strong>: Мультимейкер Rainberg RB-5408 4в1 вафельниця, бутербродниця, горішниця, гриль 2200 Вт</p>
 <ul>
@@ -8206,7 +8206,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nkprvaavuvpifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupkviaipavepuifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n5ukrvaavpuifuf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Набір тримера та шейвера VGR V-641 2 в 1 Professional Set &#8211; це ідеальне рішення для тих, хто цінує професійний догляд за своїм виглядом, не жертвуючи при цьому зручністю та надійністю.</p>
 <p>Металевий корпус та прецизійні леза забезпечують високу якість та довговічність пристрою. Леза з нержавіючої сталі гарантують гостру та безперервну стрижку, забезпечуючи чудовий результат.</p>
 <p>Набір включає тример і шейвер, надаючи повний спектр функцій для догляду за вашим зовнішнім виглядом. Завдяки компактному та ергономічному дизайну, цей набір легко брати із собою у поїздки або на ділові зустрічі.</p>
@@ -8777,7 +8777,7 @@
         <param name="Цвет корпуса">Черный</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="482088" available="true">
+      <offer id="482088" available="false">
         <name>Фен-щітка VGR V-493 Мультистайлер 4в1 з насадками 1000 Вт професійний повітряний Браш Стайлер</name>
         <categoryId>617</categoryId>
         <price>1090</price>
@@ -8793,7 +8793,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4cupakiavuvifaviuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cupiapkappkivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupivaprkviviavi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Незважаючи на невеликий розмір, потужність фена-браш становить 1000 Вт. Цієї потужності цілком достатньо, щоб висушити та ідеально укласти волосся в домашніх умовах, а 2 температурних режими та функція &laquo;Холодний обдув&raquo; дозволять красиво укласти навіть неслухняні локони. Завдяки 4 насадкам, які входять до комплекту, Ви з легкістю можете міняти укладання щодня.</span></p>
 <p><span>Нагрівання легко регулюється перемикачем режимів, що сприяє створенню ідеального укладання. Два режими забезпечують повний контроль за процесом сушіння волосся, що дуже зручно для формування акуратного стильного укладання.</span></p>
 <p><span>Корисна функція &laquo;захист від перегріву&raquo; відключить прилад, якщо він перегріється під час використання.</span><span></span></p>
@@ -9440,7 +9440,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="558971" available="true">
+      <offer id="558971" available="false">
         <name>Машинка для стрижки VGR V-015 акумуляторна бездротова професійна 6 насадок</name>
         <categoryId>28290204</categoryId>
         <price>3410</price>
@@ -9456,7 +9456,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uyppyfrnpkaprkup.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kppivfpipuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaravirkvri.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся VGR V-015 &ndash; це потужний та надійний інструмент для професійного та домашнього використання. Вона забезпечує точність та комфорт завдяки гострим лезам з DLC покриттям та вбудованому векторному двигуну, який працює зі швидкістю 9000 обертів на хвилину. Ця машинка дозволяє стригти волосся на різну довжину завдяки шести магнітним насадкам (1.5 мм, 3 мм, 4,5 мм, 6 мм, 10 мм, 13 мм), що ідеально підходить для створення стильних зачісок.</p>
 <p><strong>Основні характеристики:</strong></p>
 <ul>
@@ -9846,7 +9846,7 @@
         <param name="Страна-производитель товара">Китай</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="559618" available="true">
+      <offer id="559618" available="false">
         <name>Акумуляторна чоловіча електробритва VGR V-352 для гоління бороди та вусів шейвер для ідеальної гладкості</name>
         <categoryId>3314</categoryId>
         <price>980</price>
@@ -9862,7 +9862,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupivarkavipekp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupivarkvaireiprva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvifpvifpivpifp.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроритва VGR V-352</strong><span>&nbsp;</span>&ndash; це інструмент, який ідеально підходить як для гоління, так і для стрижки волосся &laquo;під нуль&raquo;. Незамінна річ для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, приголомшливій ергономіці та чудовому функціоналі.</p>
 <p>Особливістю шейвера є наявність двох сіток, що голять, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Сітки, що голять, рухливі, що дозволить не тільки регулювати момент натискання, але й забезпечить чітке повторення контурів обличчя або голови для максимально якісного результату. Завдяки сучасному мотору із частотою коливань 7500 об/хв, зріз волосся буде дуже чистим.</p>
 <p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та є гіпоалергенними. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі також можуть бути замінені.</p>
@@ -10674,7 +10674,7 @@
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="580972" available="true">
-        <name>Акумуляторна машинка для стрижки волосся VGR V-280 з дисплеєм та насадками якісна. Колір: золотий</name>
+        <name>Акумуляторна машинка для стрижки волосся VGR V-280 з дисплеєм та насадками якісна Gold</name>
         <categoryId>28290204</categoryId>
         <price>1150</price>
         <currencyId>UAH</currencyId>
@@ -13893,7 +13893,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="634087" available="true">
+      <offer id="634087" available="false">
         <name>Тример VGR 2 до 1 V-603</name>
         <categoryId>3314</categoryId>
         <price>820</price>
@@ -13909,7 +13909,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfgsdgsads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gadsgdsageases.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rhdgsdadsae.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Тример акумуляторний VGR V-603 призначений для дбайливого видалення небажаних волосків у носі та вухах, а також окантування шиї, скронь та бороди. Зручна головка забезпечує швидке, просте та комфортне підрівнювання без неприємних відчуттів. Тример працює від акумулятора, який заряджається від USB, що робить його універсальним і незамінним у далеких поїздках, адже його можна заряджати від автомобільної зарядки або павербанка.</p>
 <p>У комплект входить 2 насадки, кожна з яких призначена для певної мети. За допомогою насадки для стрижки можна зручно підрівняти бороду або щетину, зробити окантовку скронь та шиї. Друга насадка відмінно підійде для безболісного видалення небажаної рослинності в носі та вухах.</p>
 <p>Тример для носа та вух VGR V-603 &ndash; це професійний інструмент для догляду, який поєднує два важливих функціональних елементи. Виготовлений із високоякісного металу, чоловічий триммер забезпечує надійність та довговічність у використанні. Завдяки ергономічному дизайну машинка для носа зручно лежить у руці, дозволяючи легко досягати важких місць.</p>
@@ -21550,7 +21550,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ecuifvveppucifav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ecupivapeuivvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifpenukcfpfavif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>SKMEI 1586AG ARMY GREEN — це годинник для тих, хто шукає надійність, витривалість і яскравий зовнішній вигляд в одному аксесуарі. Його масивний корпус із агресивним дизайном, поєднаний із зеленим тканинним ремінцем, підкреслює військово-спортивний стиль і надає виробу унікального характеру. Цифрова та аналогова індикація дозволяє швидко орієнтуватися в часі, а зручне розташування кнопок забезпечує легке керування функціями навіть у рукавичках.</p>
 <p>Модель оснащена великим набором функцій: подвійний час, будильник, секундомір, дата, день тижня, автоматичний календар, підсвітка та формат часу 12/24 год. Завдяки водозахисту WR50M цей годинник підходить для активного способу життя — будь то спорт, похід чи повсякденні завдання. SKMEI 1586AG стане надійним помічником у будь-яких умовах і підкреслить ваш сильний стиль.</p>
 <h2>Характеристики:</h2>
@@ -21953,7 +21953,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewdsrwedfeasdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwdsferfdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wsaferwfed.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електричний дисковий чайник Rainberg RB-709 — це поєднання функціональності, безпеки та зручності. Його сучасні технічні рішення дозволяють швидко та ефективно нагрівати воду, мінімізуючи ризики та забезпечуючи комфорт у повсякденному використанні. Завдяки скляному корпусу ви завжди бачите рівень води, а інтуїтивні індикатори сповіщають про роботу приладу. Це ідеальне рішення для дому, офісу або дачі.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -22627,7 +22627,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="433910" available="true">
+      <offer id="433910" available="false">
         <name>Ваги кухонні MAGIO MG-780 водонепроникні, ваги для кондитера, кухонні ваги міні</name>
         <categoryId>15230411</categoryId>
         <price>800</price>
@@ -22643,7 +22643,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ciavpuivauvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuaipeuivauviiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uaivpeuivauvifaiv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ваги кухонні<span>&nbsp;</span><strong>MG-780<span>&nbsp;</span></strong>&#8211; це надійний інструмент для точного вимірювання ваги різних продуктів у кухонних умовах.<br / ><br /><strong>Ось їхні основні характеристики:</strong></p>
 <ul>
 <li>Тип: Водонепроникні-електронні, що робить їх зручними для використання у вологому середовищі кухні.</li>
@@ -25748,7 +25748,7 @@
         <param name="Тип">Стайлеры воздушные</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="634324" available="true">
+      <offer id="634324" available="false">
         <name>Електричний фен браш для укладання волосся VGR V-494 800Вт Pink</name>
         <categoryId>617</categoryId>
         <price>840</price>
@@ -25764,7 +25764,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sdesafesfaefs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdesafesfes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gsdgesaeses.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Приведіть своє укладання в дію з нашим повітряним мультистайлером VGR V-494. Цей стайлер дає вам безліч опцій для створення різних зачісок, забезпечуючи при цьому високу потужність та зручність використання.</p>
 <p><strong>Основні характеристики:</strong></p>
 <p>Потужність та налаштування. Потужність повітряного мультистайлера становить 800 Вт, що забезпечує ефективне та швидке укладання волосся. Два налаштування нагріву та два налаштування швидкості дозволяють вибирати відповідний режим для вашого укладання.</p>
@@ -27140,7 +27140,7 @@
         <keywords>Хлібопічка DARIO DBM, Хлебопечь DARIO DBM, Хлібопічка DARIO, Хлебопечь DARIO, Хлібопічка, Хлебопечь</keywords>
       </offer>
       <offer id="686807" available="false">
-        <name>Хлібопічка ViLgrand VBM6091. Колір: білий</name>
+        <name>Хлібопічка ViLgrand VBM6091 White</name>
         <categoryId>605</categoryId>
         <price>3410</price>
         <currencyId>UAH</currencyId>
@@ -27193,14 +27193,16 @@
 </ul>]]></description>
         <keyword>Хлібопічка ViLgrand VBM6091</keyword>
         <keyword>Хлебопечка ViLgrand VBM6091</keyword>
+        <keyword>Хлібопічка ViLgrand VBM6091 White</keyword>
+        <keyword>Хлебопечка ViLgrand VBM6091 White</keyword>
         <keyword>Хлібопічка ViLgrand</keyword>
         <keyword>Хлебопечка ViLgrand</keyword>
         <keyword>Хлібопічка</keyword>
         <keyword>Хлебопечка</keyword>
-        <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
+        <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand VBM6091 White, Хлебопечка ViLgrand VBM6091 White, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
       </offer>
       <offer id="686808" available="false">
-        <name>Хлібопічка ViLgrand VBM6091. Колір: чорний</name>
+        <name>Хлібопічка ViLgrand VBM6091 Black</name>
         <categoryId>605</categoryId>
         <price>3410</price>
         <currencyId>UAH</currencyId>
@@ -27253,11 +27255,13 @@
 </ul>]]></description>
         <keyword>Хлібопічка ViLgrand VBM6091</keyword>
         <keyword>Хлебопечка ViLgrand VBM6091</keyword>
+        <keyword>Хлібопічка ViLgrand VBM6091 Black</keyword>
+        <keyword>Хлебопечка ViLgrand VBM6091 Black</keyword>
         <keyword>Хлібопічка ViLgrand</keyword>
         <keyword>Хлебопечка ViLgrand</keyword>
         <keyword>Хлібопічка</keyword>
         <keyword>Хлебопечка</keyword>
-        <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
+        <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand VBM6091 Black, Хлебопечка ViLgrand VBM6091 Black, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
       </offer>
       <offer id="692047" available="true">
         <name>Тример VGR V-227 GOLD. Колір: золотий</name>
@@ -27701,7 +27705,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="692375" available="true">
+      <offer id="692375" available="false">
         <name>Фен для волосся дорожній VGR V-432 PINK, з концентратором 1000 Вт, іонізація та 2 режими. Колір: рожевий</name>
         <categoryId>617</categoryId>
         <price>570</price>
@@ -27717,7 +27721,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oerkvipeivapif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revirivpiapif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivapripipifu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Дорожній фен VGR V-432 &#8211; це стильний та функціональний інструмент для укладання волосся, створений для досягнення професійних результатів не виходячи з дому. Він<strong>обладнаний складною ручкою</strong>, що робить його компактним і зручним для зберігання та транспортування.</p>
 <p>З потужністю 1000 Вт та концентратором фен<strong>забезпечує швидке сушіння волосся</strong>, надання їм об&#8217;єму без перегрівання пасм. Два режими роботи дозволяють вибрати оптимальну температуру та швидкість повітряного потоку залежно від типу волосся та бажаного результату.</p>
 <h2><strong>Особливості:</strong></h2>
@@ -28354,7 +28358,7 @@
         <param name="Состояние">Новое</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="4964" available="true">
+      <offer id="4964" available="false">
         <name>Блендер DOMOTEC MS-5103 3в1 занурювальний 500Вт ручний занурювальний блендер, електричний блендер</name>
         <categoryId>64301</categoryId>
         <price>920</price>
@@ -28370,7 +28374,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/redsafr3weads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rewasdfr3qweasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwadsrwasd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Блендер <strong>Domotec MS 5103</strong> &ndash; це справжній агрегат, який виконує безліч функцій завдяки змінним насадкам. Той, хто йде в комплекте, дозволяє змішувати рідкі продукти, збивати коктейлі, безе і легкі муси. Приготувати дитяче пюре з варених овочів та фруктів допоможе спеціальна насадка для пюре, а стандартна блендерна насадка ефективно справляється змішуванням та збиванням супів-пюре, однорідних соусів та підлив, а також коктейлів.</p>
 <p>Блендер має компактні розміри, але при цьому має гарну потужність у <strong>500 Вт</strong>. Окрім моторної частини в комплекті є кілька <strong>насадок</strong>, <strong>чаша</strong> для подрібнення овочів. Ріжучі деталі подрібнювача, віночок та занурювальна частина блендер виконані з високоякісної <strong>нержавіючої сталі.</strong></p>
 <p><strong>Характеристики:</strong></p>
@@ -30275,7 +30279,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="298623" available="true">
-        <name>Чайник Unique зі свистком UN-5306 2,7л мармур, для газових плит, чайник нержавіюча сталь. Колір: темно-сірий</name>
+        <name>Чайник Unique зі свистком UN-5306 2,7л мармур, для газових плит, чайник нержавіюча сталь Dark Gray</name>
         <categoryId>640</categoryId>
         <price>840</price>
         <currencyId>UAH</currencyId>
@@ -30320,9 +30324,9 @@
         <keyword>7л мрамор</keyword>
         <keyword>для газових плит</keyword>
         <keyword>для газовых плит</keyword>
-        <keyword>чайник нержавіюча сталь</keyword>
-        <keyword>чайник нержавейка</keyword>
-        <keywords>Чайник Unique, Чайник Unique со, Чайник Unique зі свистком UN-5306, Чайник Unique со свистком UN-5306, 7л мармур, 7л мрамор, для газових плит, для газовых плит, чайник нержавіюча сталь, чайник нержавейка</keywords>
+        <keyword>чайник нержавіюча сталь Dark Gray</keyword>
+        <keyword>чайник нержавейка Dark Gray</keyword>
+        <keywords>Чайник Unique, Чайник Unique со, Чайник Unique зі свистком UN-5306, Чайник Unique со свистком UN-5306, 7л мармур, 7л мрамор, для газових плит, для газовых плит, чайник нержавіюча сталь Dark Gray, чайник нержавейка Dark Gray</keywords>
         <param name="Производитель">Unique</param>
         <param name="Общий объем чайника">2.7 (л)</param>
         <param name="Материал чайника">Нержавеющая сталь</param>
@@ -31271,7 +31275,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcakvfyauyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkcfyvakffavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kayvekuafvyukyva-1.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Кухонний ніжовий набір Magio MG-1096 — це комплексне рішення для щоденної роботи на кухні, що об’єднує п’ять спеціалізованих ножів та зручну підставку з магнітом. Кожен ніж має оптимальні розміри леза та товщину, що забезпечує комфорт у виконанні різних кулінарних завдань, від нарізання хліба до тонкої обробки овочів. Магнітна підставка з дерева надійно фіксує інструменти, упорядковуючи робочий простір і забезпечуючи безпеку зберігання.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -32598,7 +32602,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvifpifpivpifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapivpivfpvifvpivai.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvipvipvifpivpvifpivf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Відкрийте для себе новий рівень приготування кави з кавомолкою-мультимолкою SeaBreeze SB-0602. Це не просто звичайна кавомолка; вона стане вашим незамінним помічником на кухні, забезпечуючи свіжість та насичений смак кожної чашки. Завдяки сучасному дизайну та стильному вигляду, ця кавомолка легко впишеться у будь-який інтер&#8217;єр.</p>
 <p>Уявіть, як ви насолоджуєтеся ароматом свіжомолотої кави прямо з ранку. SeaBreeze SB-0602 пропонує вам можливість обирати ступінь помолу, що дозволяє експериментувати з різними сортами кави та створювати унікальні напої. Ваша уява &#8211; єдине обмеження у приготуванні ідеальної кави.</p>
 <p>Не тільки для кави! SeaBreeze SB-0602 також ідеально підходить для подрібнення спецій, горіхів та інших інгредієнтів. Завдяки потужному мотору та багатофункціональному дизайну, ви зможете легко та швидко готувати смачні страви, що вразять ваших близьких.</p>
@@ -33054,7 +33058,7 @@
         <param name="Производитель">Без бренда</param>
       </offer>
       <offer id="62097" available="false">
-        <name>Мобільна зарядка портативна Power Bank 30000 mAh UKC, Зовнішній акумулятор, Зарядка power bank. Колір: чорний</name>
+        <name>Мобільна зарядка портативна Power Bank 30000 mAh UKC, Зовнішній акумулятор, Зарядка power bank Black</name>
         <categoryId>71109</categoryId>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -33099,11 +33103,11 @@
         <keyword>Портативная мобильная зарядка Power Bank</keyword>
         <keyword>Зовнішній акумулятор</keyword>
         <keyword>Внешний аккумулятор</keyword>
-        <keyword>Зарядка power bank</keyword>
+        <keyword>Зарядка power bank Black</keyword>
         <keyword>Мобільна зарядка портативна Power</keyword>
         <keyword>Портативная мобильная зарядка Power</keyword>
         <keyword>Мобільна зарядка портативна Power Bank</keyword>
-        <keywords>Мобільна зарядка портативна, Портативная мобильная зарядка, Мобільна зарядка портативна Power Bank 30000 mAh, Портативная мобильная зарядка Power Bank, Зовнішній акумулятор, Внешний аккумулятор, Зарядка power bank, Мобільна зарядка портативна Power, Портативная мобильная зарядка Power, Мобільна зарядка портативна Power Bank</keywords>
+        <keywords>Мобільна зарядка портативна, Портативная мобильная зарядка, Мобільна зарядка портативна Power Bank 30000 mAh, Портативная мобильная зарядка Power Bank, Зовнішній акумулятор, Внешний аккумулятор, Зарядка power bank Black, Мобільна зарядка портативна Power, Портативная мобильная зарядка Power, Мобільна зарядка портативна Power Bank</keywords>
         <param name="Производитель">UKC</param>
         <param name="Страна производитель">Китай</param>
         <param name="Цвет корпуса">Черный</param>
@@ -34422,7 +34426,7 @@
         <param name="Дополнительные функции">Защита от перегрева</param>
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
       </offer>
-      <offer id="603706" available="true">
+      <offer id="603706" available="false">
         <name>Ручний вертикальний відпарювач RAF R.1313B для одягу з мірною чашею для води на 1000 Вт</name>
         <categoryId>63006</categoryId>
         <price>540</price>
@@ -34438,7 +34442,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyraprpayvroap.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oreapvprvay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeaprevrvyrv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ручний електричний відпарювач – універсальний пристрій для догляду за одягом і текстилем, який швидко і без зусиль розгладжує складки на тканинах будь-якого типу. Завдяки паровій обробці волокна зберігають свою форму, об’єм і еластичність, уникаючи розтягнень і стиснень, властивих традиційному прасуванню праскою. Це ідеальний вибір для делікатних матеріалів, таких як льон, вельвет, ворсові тканини, шерсть і синтетика, що дозволяє зберегти первісний вигляд і продовжити термін служби ваших речей.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -34484,7 +34488,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Регулировка силы пара">Да</param>
       </offer>
-      <offer id="654956" available="true">
+      <offer id="654956" available="false">
         <name>Кавомолка RAF R-7113 потужна роторна, електричний подрібнювач, з нержавіючої сталі 150 Вт</name>
         <categoryId>6300401</categoryId>
         <price>360</price>
@@ -34499,7 +34503,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/dfgsdgsdgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfgdsgsdgsase.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpvyfpkfpkufpuy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Завдяки кавомолці електричної RAF</strong>, Ви зможете за лічені хвилини перемолоти кавові зерна для подальшого приготування ароматної кави.</p>
 <p>Представлений пристрій стане справжньою знахідкою для любителів кави, які не хочуть задовольнятися розчинною кавою. Крім кавових зерен, прилад можна використовувати для подрібнення рису, шоколаду, бобів, горіхів, спецій та іншого насіння.</p>
 <p>Кавомолка RAF за лічені секунди подрібнить кавові зерна і дасть можливість насолодитися ароматною ранковою кавою.</p>
@@ -36846,6 +36850,54 @@
         <param name="Тип">Приемник</param>
         <param name="Тюнер">Аналоговый</param>
         <param name="Состояние">Новое</param>
+      </offer>
+      <offer id="594944" available="true">
+        <name>Набір міні прецизійних викруток для ремонту електроніки 115 в 1</name>
+        <categoryId>14200399</categoryId>
+        <price>360</price>
+        <currencyId>UAH</currencyId>
+        <vendorCode>ws45326</vendorCode>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpypkypuf.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/kuvivaprkiavi.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpyuypuyvauf.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvuyvfucyfpuy.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyppkyvpuyf.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavpucyfprkpy.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/peuyvpfyvfpuyfvay.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvpyfpueyfpyv.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuypkypuyfpu.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuirpviaviviku.jpg</picture>
+        <quantity_in_stock>5</quantity_in_stock>
+        <description><![CDATA[<p>Представляємо універсальний набір інструментів, розроблений для точного та зручного ремонту різного електронного обладнання та побутових приладів. Цей комплект об’єднує 81 вид викруткових насадок і безліч додаткових аксесуарів, які дозволять швидко і якісно вирішити завдання будь-якої складності — від дрібних електронних схем до великої техніки.</p>
+<h2>Що ви отримуєте</h2>
+<ul>
+<li>81 тип викруток для роботи з різними кріпленнями та деталями</li>
+<li>Ручка викрутки та адаптер для змінних насадок</li>
+<li>Гнучкий і жорсткий подовжувачі для доступу до важкодоступних місць</li>
+<li>Пінцет і піддевалки для акуратної роботи з дрібними деталями</li>
+<li>Ключ для SIM-карти, присоска для екрану та пристрій для намагнічування/розмагнічування біт</li>
+<li>Компактний і міцний кейс для зручного зберігання та транспортування</li>
+</ul>
+<h2>Для щоденного використання</h2>
+<p>Цей набір оптимально підходить як для професійних майстрів, так і для любителів, які займаються ремонтом техніки в домашніх умовах. Універсальні викрутки та широкий спектр аксесуарів дозволяють працювати з комп’ютерами, побутовою електронікою, меблями і навіть дитячими іграшками. Комплект зручно зберігати в гаражі, вдома або автомобілі завдяки його компактним розмірам і легкій вазі. Підвищуйте ефективність ремонту і знижуйте ризик пошкоджень завдяки інструментам, виготовленим з міцного та антикорозійного хромо-ванадієвого сплаву.</p>
+<h2>Характеристики</h2>
+<ul>
+<li>Матеріал: пластик, загартована сталь, хромо-ванадієвий сплав</li>
+<li>Розмір набору: 16 х 9 см</li>
+<li>Вага: 0,6 кг</li>
+<li>Колір: чорно-сірий</li>
+<li>Комплектація: ручка викрутки, адаптер, гнучкий подовжувач, жорсткий подовжувач, присоска, ключ для SIM-карт, піддевалки, розмагнічувач/намагнічувач, пінцет, скоби, 81 насадка для викруток, кейс для зберігання</li>
+</ul>]]></description>
+        <keyword>Набір міні прецизійних</keyword>
+        <keyword>Набор мини прецизионных</keyword>
+        <keyword>Набір міні прецизійних викруток для ремонту</keyword>
+        <keyword>Набор мини прецизионных отверток</keyword>
+        <keyword>Набір міні прецизійних викруток</keyword>
+        <keyword>Набор мини</keyword>
+        <keyword>Набір міні</keyword>
+        <keyword>Набор</keyword>
+        <keyword>Набір</keyword>
+        <keywords>Набір міні прецизійних, Набор мини прецизионных, Набір міні прецизійних викруток для ремонту, Набор мини прецизионных отверток, Набір міні прецизійних викруток, Набор мини, Набір міні, Набор, Набір</keywords>
       </offer>
       <offer id="596240" available="true">
         <name>Міні швейна машинка FHSM 202 4 в 1 з педаллю та підсвічуванням + адаптер 220V, Швейна машина для дітей</name>
@@ -39194,50 +39246,6 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="594944" available="true">
-        <name>Набір міні прецизійних викруток для ремонту електроніки 115 в 1</name>
-        <categoryId>14200399</categoryId>
-        <price>360</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws45326</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpypkypuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kuvivaprkiavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpyuypuyvauf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvuyvfucyfpuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyppkyvpuyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavpucyfprkpy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/peuyvpfyvfpuyfvay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvpyfpueyfpyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuypkypuyfpu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuirpviaviviku.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
-        <description><![CDATA[<p><strong>Універсальність</strong></p>
-<p>Цей комплект для ремонту електронного обладнання містить 81 тип викруток. Їх можна використовувати, незалежно від рівня умінь &mdash; чи то професіонал чи любитель. Він стане в нагоді при ремонті комп&#8217;ютерів, меблів, побутової електроніки та іграшок</p>
-<p><strong>Зручність</strong></p>
-<p>Разом з викрутками, в наборі йдуть інструменти, які допоможуть дістатися складнодоступних елементів і зручно справлятися з малими деталями, а саме: пластичний і жорсткий подовжувачі викрутки, скребки, пінцети, піддевчики, ключ для сім-карти, присоска та намагнічувач/ розмагнічувач</p>
-<p><strong>Якість</strong></p>
-<p>Виготовлений із антикорозійного, твердого хромо-ванадієвого сплаву набір інструментів буде служити вам довгий час.</p>
-<p><strong>Компактність</strong></p>
-<p>Весь інструментарій зберігається у зручному невеликому кейсі, який можна зберігати вдома, у гаражі та автомобілі &#8211; він майже не займає місця</p>
-<p><strong>Характеристики</strong></p>
-<ul>
-<li>Матеріал: Пластик, загартована сталь, хромо-ванадієвий сплав</li>
-<li>Розмір: 16 х 9 см</li>
-<li>Вага: 0,6 кг</li>
-<li>Колір: Чорно-сірий</li>
-</ul>
-<p>Комплектація: 1*Ручка викрутки; 1*Адаптер для викруток; 1*Гнучкий подовжувач; 1 * Подовжувач; 1*Присоска; 1*Ключ для сім-карт; 1*Піддівчики; 1*Размагнічувач/Намагнічувач; 1*Пінцет; 2*дужки; 81*насадка &mdash; викрутка; 1*Кейс для зберігання;</p>]]></description>
-        <keyword>Набір міні прецизійних</keyword>
-        <keyword>Набор мини прецизионных</keyword>
-        <keyword>Набір міні прецизійних викруток для ремонту</keyword>
-        <keyword>Набор мини прецизионных отверток</keyword>
-        <keyword>Набір міні прецизійних викруток</keyword>
-        <keyword>Набор мини</keyword>
-        <keyword>Набір міні</keyword>
-        <keyword>Набор</keyword>
-        <keyword>Набір</keyword>
-        <keywords>Набір міні прецизійних, Набор мини прецизионных, Набір міні прецизійних викруток для ремонту, Набор мини прецизионных отверток, Набір міні прецизійних викруток, Набор мини, Набір міні, Набор, Набір</keywords>
-      </offer>
       <offer id="595620" available="true">
         <name>Прикоренева плойка гофре Domotec MS-4904 30 W керамічна праска для волосся</name>
         <categoryId>63303</categoryId>
@@ -39555,7 +39563,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об&#8217;єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -40214,7 +40222,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gefdsagesagsees.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rdsffgsdadsagser.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grsdagdsaggse.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна автомийка високого тиску 3.2</strong>&ndash; це ідеальне рішення для швидкого та ефективного миття автомобілів, велосипедів, фасадів будівель, садових меблів та інших поверхонь без необхідності підключення до мережі. Завдяки потужному акумулятору на 24 В та енергоефективному мотору з потужністю 550 Вт, цей пристрій забезпечує потужний потік води зі швидкістю 19500 об/хв та витратою до 4 літрів на хвилину.</p>
 <div>
 <div>
@@ -40275,7 +40283,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavipvifpvifpipf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapvifpipifaiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkevpvifvppvifif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка потужністю 3000 Вт — це ефективне і універсальне рішення для швидкої та зручної переробки різних продуктів. Конструкція з нержавіючої сталі та наявність кількох насадок дозволяють максимально розширити функціонал приладу, забезпечуючи високу продуктивність і простоту у використанні. Ергономічний дизайн з компактними габаритами легко впишеться в будь-який кухонний простір, а наявність реверсу допоможе позбутися можливих заїдань. Цей прилад оптимальний для домашнього застосування, економлячи ваш час і сили при приготуванні фаршу, ковбас та інших страв.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -40327,7 +40335,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyvravyrpvapyvfpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nrkavayrpvaypryvfpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnkevaypkvyavyfau.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Мангал-барбекю — це ідеальний супутник для любителів відпочинку на природі, який забезпечує простоту і комфорт приготування їжі на відкритому повітрі. Компактний та складаний, він легко транспортується у вигляді зручного кейса, дозволяючи швидко організувати процес смаження м’ясних та овочевих страв без необхідності рити яму або споруджувати опори з цегли. Цей гриль зроблений із холоднокатаної сталі та оснащений практичними функціями, які значно покращують якість та зручність готування на вуглях.</p>
 <h2>Раціональні причини обрати мангал-барбекю</h2>
 <ul>
@@ -42866,7 +42874,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Тип держателя">Настольный</param>
       </offer>
-      <offer id="581065" available="true">
+      <offer id="581065" available="false">
         <name>Комплект органайзерів 4 шт для зберігання речей та білизни</name>
         <categoryId>121245</categoryId>
         <price>420</price>
@@ -42878,7 +42886,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupyyvuayvfafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpapkyvauyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvairvyyav.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Представляємо набір з 4 органайзерів, що миються, для зберігання одягу в гардеробі &mdash; ідеальне рішення для організації вашої шафи та підтримання порядку в будинку.</strong></p>
 <p>Наші органайзери виготовлені з&nbsp;<strong>удосконаленого товстого матеріалу</strong>&nbsp;і мають міцний дизайн зі зручними ручками, що робить їх великими, міцними і максимально зручними. /strong>&nbsp;у використанні. Обгорнуті щільною Оксфордською тканиною, вони зберігають свою форму, не деформуються і не ламаються з часом.</p>
 <p><strong>Переваги нашого органайзера для одягу:</strong></p>
@@ -43211,7 +43219,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nkpvivfpkpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ervavapkpfifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvarkvrkvravi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>GPS-трекер GF-07 &#8211; це не тільки мобільна система оповіщення з режимом охорони по датчику звуку, але і трекер стеження за транспортом, будь-яким об&#8217;єктом, що рухається. Може виступати у вигляді туристичного трекера, з якого, у разі екстреної ситуації, можна зателефонувати, натиснувши кнопку SOS, і через вбудований мікрофон повідомити важливу інформацію. Є можливість зателефонувати на сімку в трекері та через чутливий мікрофон почути, що відбувається в радіусі до 2,5-3 метрів. Працює за допомогою звичайної SIM картки. Передає свої координати на смартфон, а також надсилає туди отриману звукову інформацію.</p>
 <p>Трекер заряджається від USB-кабелю. При повній зарядці може працювати до 7 днів.</p>
 <p><strong>Характеристики GPS-трекера GF-07:</strong></p>
@@ -43788,7 +43796,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/12/IMG_5933.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/12/IMG_5930.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/12/IMG_5932.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Настільне косметичне складне дзеркало з LED-підсвічуванням для макіяжів з бічними дзеркалами, сенсорним датчиком включення та збільшувальними секціями.</p>
 <p><strong>Незамінна річ для будь-якої дівчини.</strong></p>
 <p>Світлодіоди на дзеркалі забезпечують рівномірне освітлення обличчя з усіх боків у будь-який час доби, що дозволить вам рівномірно нанести косметику, не допускаючи помилок.</p>
@@ -44054,7 +44062,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws65854</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvfyamvyfavyffvy.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Автоматична двомісна туристична намет розроблена для зручного і швидкого відпочинку на природі. Інноваційний автоматичний механізм дозволяє розгорнути намет за лічені секунди без особливих зусиль і спеціальних навичок. Просторі розміри 200x150x135 см забезпечують комфортне розміщення двох осіб, створюючи затишний простір незалежно від умов.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>

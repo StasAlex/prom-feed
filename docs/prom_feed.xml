@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-21 05:37">
+<yml_catalog date="2026-08-22 05:32">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -314,7 +314,7 @@
         <param name="Тип прибора">Гигиенический триммер</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="6668" available="false">
+      <offer id="6668" available="true">
         <name>Електроплита настільна DOMOTEC MS-5851 900 Вт, Кухонна плита електро для кухні на 1 конфорку</name>
         <categoryId>641</categoryId>
         <price>980</price>
@@ -330,7 +330,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uayvpeuayvfufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavpeuafayfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvpuaauyvfayv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5851, ви зможете запросто приготувати собі їжу на поточний день.</p>
 <p>Її можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Регулювати працездатність плити можна за допомогою механічного перемикача. Емалеве покриття плити Domotec додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><b>Компанія Domotec</b>&nbsp;довгі роки випускає переносні електроплити, які також довго служать своїм господарям. Саме тому компанія давно завоювала споживачів свого товару по всьому світу. Адже головні принципи компанії Domotec – це якісна продукція, яка виконує всі умови для продуктивної роботи. Цими ж якостями володіє і плитка MS – ndash; 5851, зроблена за всіма правилами та стандартами переносних електроплиток.</p>
@@ -3805,7 +3805,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/asdfredsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wadsfdsfafdsfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eqASDFREWDASFDSA.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>М&#8217;ясорубка Rainberg RB 674 &#8211; це ваш надійний напарник та помічник на кухні. Якісна та доступна за своєю вартістю модель електричної м&#8217;ясорубки від фірми Rainberg призначена для виготовлення домашнього фаршу з м&#8217;яса різних видів, овочів, риби, а також грибів. Пристрій оснащується додатковими змінними насадками та пристроями, що дає можливість застосування для приготування домашніх ковбасок та печива. Потужність електричного мотора 3000 Вт легко впорається з більшістю різноманітних завдань. Модель комплектується набором корисних аксесуарів: змінні металеві сіточки для фаршу різного діаметру: 3, 5, 7 мм, дозволять готувати смачний та соковитий домашній фарш різного ступеня консистенції. Стильний корпус з елементами з нержавіючого металу та міцного пластику надають зовнішньому вигляду сучасності та елегантності.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -7065,7 +7065,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="455444" available="true">
+      <offer id="455444" available="false">
         <name>Фен MAGIO MG-167, Електричний фен для сушіння волосся, Легкий професійний фен, Жіночий фен для волосся</name>
         <categoryId>617</categoryId>
         <price>480</price>
@@ -7081,7 +7081,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgdadafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesdftedsdfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4egtesdatedsatsdaeas.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Фен MG-167 створений для тих, хто цінує комфорт і ефективність у догляді за волоссям. Компактний та ергономічний, він забезпечує професійний рівень сушіння і укладки в будь-яких умовах, будь то вдома чи в подорожах. Завдяки складній ручці пристрій зручно зберігати і транспортувати, що робить цей фен незамінним аксесуаром на щодень і в дорозі.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -9105,7 +9105,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="505181" available="true">
+      <offer id="505181" available="false">
         <name>Машинка для стрижки волосся MAGIO MG-593, Професійна електробритва для стрижки волосся домашня</name>
         <categoryId>28290204</categoryId>
         <price>800</price>
@@ -9121,7 +9121,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ecupivapuifpkfuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kupivarkviapkfpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/upivafpeuivfpviapu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся Magio (MG-593)</strong></p>
 <ul>
 <li>Потужність: 25 Вт</li>
@@ -10673,7 +10673,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="580972" available="true">
+      <offer id="580972" available="false">
         <name>Акумуляторна машинка для стрижки волосся VGR V-280 з дисплеєм та насадками якісна Gold</name>
         <categoryId>28290204</categoryId>
         <price>1150</price>
@@ -10689,7 +10689,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reiavrkviprfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivaapviapifvupi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivarpvpifi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки VGR Professional Premium Gold V-280</strong><span>&nbsp;</span>&mdash; це потужний та стильний інструмент, створений для професіоналів, які прагнуть ідеального результату. З незнімним ножовим блоком шириною 45 мм та мінімальною довжиною зрізу 0,8 мм, дана модель ідеально підходить для створення плавних переходів та чітких ліній, що робить її незамінною для технік фейду.</p>
 <p><strong>Особливості моделі VGR Professional Premium Gold V-280:</strong></p>
 <ul>
@@ -15509,7 +15509,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaviravipvaipv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaviavipv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaivpvaipvavif.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Бездротовий триммер для стрижки VGR V-935 GOLD є стильною професійною моделлю з відмінним дизайном, відмінною ергономікою і великою функціональністю. Сучасна модель, яка включає практичність і технологічність, безсумнівно, сподобається будь-якому стилісту. Модель дуже проста у використанні, тому відмінно підійде як для професійного, так і домашнього використання. Якщо подивитися на всі тримери VGR, то ця модель дуже помітна та яскраво виділяється з модельного ряду.</p>
 <p>Модель VGR V-935 оснащена незнімним ножовим блоком Т-подібної форми шириною 40 мм. Верхнє рухоме лезо виготовлене з кераміки, а лезо нижнього ножа виготовлено з нержавіючої порошкової сталі з покриттям DLC. Нагадаємо, це спеціальне вуглецеве покриття, яке відрізняється алмазоподібними властивостями. Завдяки технології DLC ножі значно довше залишаються гострими, точними і мають м&#8217;який зріз будь-якого, навіть найжорсткішого волосся.</p>
 <p>Тример працює від вбудованого Li-Ion акумулятора ємністю 2000mAh, що забезпечує машинку автономною роботою протягом 180 хвилин. Повна зарядка триватиме 3 години. Літієвий акумулятор без ефекту пам&#8217;яті, тому його можна заряджати ніколи незалежно від рівня заряду. Таким чином модель ідеально підходить на потік, а у вас завжди під рукою буде заряджений інструмент. Тример не працює від шнура під час заряджання.</p>
@@ -21105,7 +21105,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kuaivfavifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivauvfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cavifuvfvi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Кухонний електричний міксер RAF R-6630</strong><span>&nbsp;</span>просто незамінний на вашій кухні. Він простий у роботі, але при цьому багатофункціональний. Прилад здатний збити продукт до будь-якої консистенції. Швидкість та якість змішування інгредієнтів залежить від потужності пристрою. За такої потужності ви зможете досить швидко приготувати крем або замісити тісто, налаштувавши пристрій на задану швидкість.</p>
 <p><strong>&nbsp;Міксер RAF R-6630 має 5 режимів швидкостей</strong>. Також є режим &laquo;Турбо&raquo;, що збиває дуже швидко. Для зручності виконання різних функцій є два види насадок &ndash; віночки для збивання та гаки для тіста. Змінити їх можна простим натисканням кнопки. <strong></strong></p>
 <p><strong>Режими роботи:</strong></p>
@@ -21550,7 +21550,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ecuifvveppucifav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ecupivapeuivvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifpenukcfpfavif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>SKMEI 1586AG ARMY GREEN — це годинник для тих, хто шукає надійність, витривалість і яскравий зовнішній вигляд в одному аксесуарі. Його масивний корпус із агресивним дизайном, поєднаний із зеленим тканинним ремінцем, підкреслює військово-спортивний стиль і надає виробу унікального характеру. Цифрова та аналогова індикація дозволяє швидко орієнтуватися в часі, а зручне розташування кнопок забезпечує легке керування функціями навіть у рукавичках.</p>
 <p>Модель оснащена великим набором функцій: подвійний час, будильник, секундомір, дата, день тижня, автоматичний календар, підсвітка та формат часу 12/24 год. Завдяки водозахисту WR50M цей годинник підходить для активного способу життя — будь то спорт, похід чи повсякденні завдання. SKMEI 1586AG стане надійним помічником у будь-яких умовах і підкреслить ваш сильний стиль.</p>
 <h2>Характеристики:</h2>
@@ -21786,7 +21786,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="344976" available="false">
+      <offer id="344976" available="true">
         <name>Професійна машинка VGR V-121 провідна машинка для стрижки волосся керамічне лезо, 8 насадок</name>
         <categoryId>28290204</categoryId>
         <price>540</price>
@@ -21802,7 +21802,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4upvyvpkvpavyay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eayvfuafavavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uyavpeyaapafyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся VGR V-121</strong><span>&nbsp;</span>&#8211; подарує Вам великий досвід та заощадить Ваші гроші на похід у перукарню. Машинка корисна як удома, так і для професійного використання в салонах та барбершопах!</p>
 <p>Набір для стрижки волосся VGR є універсальною машинкою для стрижки з 8 насадками. Леза з нержавіючої сталі. У комплекті 8 насадок 3/6/9/9/12/16/20мм.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий. Голить чітко і чисто. Підійде для стрижки бороди, окантування, шліфування стрижки, а також відмінна альтернатива для делікатних місць. Тим часом машинка підійде і для стрижки дітей завдяки тихій роботі двигуна. Цей новий професійний набір для стрижки волосся надасть Вам та вашій родині відмінну стрижку.</p>
@@ -27466,7 +27466,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekpyvpyfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revarvpfpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayrkvry.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся на акумуляторі VGR V-974 &mdash; це надійний і зручний інструмент для догляду за волоссям, що підходить як для професійних салонів, так і для домашнього використання. Тример для стрижки VGR V-974 оснащений двигуном потужністю 7 Вт із частотою обертання 8000 об/хв, що забезпечує рівну та акуратну стрижку. Літій-іонний акумулятор ємністю 2500 мАч гарантує до 210 хвилин автономної роботи, а час повної зарядки складає 3 години. Ергономічний корпус та міцні нержавіючі леза забезпечують довговічність та високу точність зрізу.</p>
 <p>Акумуляторний триммер VGR V-974 укомплектований 4 насадками для регулювання довжини волосся. LED-дисплей відображає рівень заряду акумулятора та вибрані режими роботи, що підвищує зручність експлуатації. Бездротовий формат роботи забезпечує повну свободу рухів, а компактність і універсальність роблять машинку придатною для будь-яких завдань для догляду за волоссям.</p>
 <p>Акумуляторна машинка для стрижки VGR V-974 поєднує в собі функціональність, зручність та високу якість. Тример для стрижки волосся на акумуляторі VGR V-974 стане чудовим вибором для перукарів та домашніх користувачів, які цінують надійність та комфорт.</p>
@@ -29585,7 +29585,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukyvapeuyva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuyvapekyva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvapeuyva-1.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Мультиварка<span>&nbsp;</span><strong>Sea Breeze SB-044&nbsp;</strong>легко замінює кілька приладів на вашій кухні і завдяки наявності автоматичних режимів натисканням однієї кнопки створює популярні страви на кожен день. Об&#8217;єм ємності для приготування з подвійним антипригарним покриттям складає 6 літрів. Чаша стійка до появи подряпин.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -33137,7 +33137,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcfviaucr4cuuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfiap4cufivaac.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufyvapkcjfyvauc.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Многофункціональний кемпінговий ліхтар для використання у похідних умовах і не тільки. Це світлодіодна лампа із зручним гачком, для перенесення чи підвішування в наметі, над столом, над галявиною тощо. Ідеальний варіант автономного освітлення для походів, &laquo;дикого&raquo; відпочинку в наметах, риболовлі, пікніках, може використовуватися і на дачі, і в приватному будинку, і навіть у квартирі як резервне джерело світла. На ліхтарі є сонячна панель, яка дозволяє заряджати пристрій від сонячних променів.</p>
 <p><strong>Характеристики</strong>:</p>
 <ul>
@@ -33822,7 +33822,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="462219" available="false">
+      <offer id="462219" available="true">
         <name>Портативна колонка TG655 5W з RGB підсвічуванням та ремінцем, Bluetooth колонка для вулиці. Колір: чорний</name>
         <categoryId>6371101</categoryId>
         <price>570</price>
@@ -33838,7 +33838,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/npfeyvfeuyvfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4euavkppavpa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/npeuvyfafav.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ця колонка ідеально підходить для любителів подорожей. Вона легко поміщається в рюкзак або сумку, завдяки чому ви зможете насолоджуватися улюбленою музикою де завгодно.</p>
 <ul>
 <li>Підключення Bluetooth: автоматичне вимкнення за відсутності сигналу.</li>
@@ -34556,7 +34556,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kppivfpvipifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vpivpivpvipiviv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivpivpvifpifpi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Відкрийте для себе новий рівень приготування кави з кавомолкою-мультимолкою SeaBreeze SB-0603. Це не просто звичайна кавомолка; вона стане вашим незамінним помічником на кухні, забезпечуючи свіжість та насичений смак кожної чашки. Завдяки сучасному дизайну та стильному вигляду, ця кавомолка легко впишеться у будь-який інтер&#8217;єр.</p>
 <p>Уявіть, як ви насолоджуєтеся ароматом свіжомолотої кави прямо з ранку. SeaBreeze SB-0603 пропонує вам можливість обирати ступінь помолу, що дозволяє експериментувати з різними сортами кави та створювати унікальні напої. Ваша уява &#8211; єдине обмеження у приготуванні ідеальної кави.</p>
 <p>Не тільки для кави! SeaBreeze SB-0603 також ідеально підходить для подрібнення спецій, горіхів та інших інгредієнтів. Завдяки потужному мотору та багатофункціональному дизайну, ви зможете легко та швидко готувати смачні страви, що вразять ваших близьких.</p>
@@ -36025,7 +36025,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvirrvkerkik.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reirvipkpfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/erviririv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Автомобільний пилосос «Vacuum cleaner car accessories» – це ефективне рішення для швидкого та якісного прибирання салону вашої машини. Завдяки потужному мотору та продуманому комплекту насадок він видаляє навіть найдрібніший пил та дрібне сміття з важкодоступних місць, забезпечуючи чистоту та комфорт у поїздках.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -37064,7 +37064,7 @@
         <keyword>Велофара</keyword>
         <keywords>Велофара BC25S, 300LM, Велофара</keywords>
       </offer>
-      <offer id="4979" available="false">
+      <offer id="4979" available="true">
         <name>Запальничка імпульсна JL317 Explorer, Вітрозахисна запальничка, Запальничка юсб з гравіюванням</name>
         <categoryId>15230432</categoryId>
         <price>360</price>
@@ -37080,7 +37080,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ergsfsdgtesads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgdfsgrgsafdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/regsdfsdgfdafds.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><span>Електроімпульсна&nbsp; USB запальничка JL317 Explorer &ndash; це електронна акумуляторна запальничка, яка перезаряджається USB! Оскільки джерелом займання сигарети служить не відкрите полум&#8217;я, Ви можете спокійно прикурювати за будь-якої погоди, включаючи дощ та сильний вітер. А також Вам не доведеться постійно заправляти запальничку бензином чи газом. Ця запальничка набагато практичніша, зручніша і безпечніша за газові аналоги. По-перше, запальничкою неможливо випадково обпектися.</span></p>
 <p><span>По-друге, відпадає необхідність заправки газом. Вона живиться від USB-заряджання. Чим рідше ви курите, тим довше запальничка не потребує підзарядки. Для контролю стану заряду акумулятора на панелі виведено індикатор, сенсорна кнопка.</span></p>
 <p>Електроімпульсна запальничка&mdash; це абсолютна новинка. Девайс працює зовсім за іншим принципом, ніж звичні нам газові, бензинові чи електронні запальнички із пружиною розжарювання. Між двома контактами створюється потужний електро-імпульсовий розряд (як у кульовій блискавці), який підпалює абсолютно будь-які предмети, не кажучи вже про сигари та сигарети.</p>
@@ -37204,7 +37204,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3caviapk3ucfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcfvk3jcufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfvakujcfi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Лазер супер потужний Laser pointer YL-303 &ndash; потужна лазерна указка одна з найяскравіших з представлених на сьогоднішній день. Лазерна указка дозволяє в повноті бачити зелений промінь на відстані 10000 метрів. Вдалину світить дуже далеко і яскраво. Промінь лазера добре видно з боку. Їм зручно показувати на нічному небі зірки та їх сузір&#8217;я. Особливо ефективно цей лазер світить у тумані, при цьому зелений промінь, проходячи крізь дрібні крапельки туману, дуже добре видно.</p>
 <p><strong>УВАГА!!!</strong></p>
 <ul>
@@ -38264,7 +38264,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpypuyvrkrkf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krpkyvfpyfrkuyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eraarvpyvapvychya.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Велоліхтар BK09/Z-03-3T6</strong>&mdash; це універсальний велосипедний світлодіодний ліхтар із функцією Power Bank, який поєднує яскраве освітлення та можливість підзарядки мобільних пристроїв. Оснащений сучасним Li-Ion акумулятором та зручним зарядним портом Type-C, цей ліхтар забезпечує надійну роботу навіть під час тривалих поїздок. Завдяки кріпленню під телефон він стає багатофункціональним аксесуаром, що дозволяє одночасно освітлювати дорогу та використовувати смартфон для навігації чи прослуховування музики.</p>
 <p>Високопотужні світлодіоди гарантують яскравий світловий потік, роблячи поїздки у темний час доби безпечними. Міцний корпус захищає від вологи та ударів, а вбудований Power Bank дозволяє завжди залишатися на зв&#8217;язку. Це ідеальне рішення для любителів активного відпочинку, велоподорожей та щоденних міських поїздок.</p>
 <h2><strong>Переваги:</strong></h2>
@@ -38825,7 +38825,7 @@
         <param name="Производитель">UKC</param>
         <param name="Количество цветов">145</param>
       </offer>
-      <offer id="363427" available="true">
+      <offer id="363427" available="false">
         <name>Вафельниця електрична кругла Rainberg RB-2254 компактна побутова електровафельниця для товстих вафель</name>
         <categoryId>6300404</categoryId>
         <price>750</price>
@@ -38838,7 +38838,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kciaukvifaucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kfaiuiafifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfivakcviafvif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Вафельниця – це універсальний прилад для приготування різноманітних вафель: від класичних хрустких до десертів із начинкою з вареного згущеного молока або ягідної смородини. Можливість готувати як солодкі, так і закусочні вафлі з гарячою начинкою відкриває широкі кулінарні горизонти та допомагає створювати багатошарові тістечка та оригінальні гастрономічні шедеври.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -42978,7 +42978,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaaiarvipuififiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkavpivafauuif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekavrviapivpipfi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Набір розділових дощок Magio MG-1255B стане незамінним елементом на вашій кухні, забезпечуючи зручність та гігієну в процесі приготування їжі. Виконаний з екологічного пластику, цей набір ідеально підходить для щоденного використання, запобігаючи розмноженню мікробів завдяки відсутності насічок та запахів.</p>
 <h2>Раціональні причини обрати Magio MG-1255B</h2>
 <ul>
@@ -43924,7 +43924,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws18842</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucyfvaufyypuyfuy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Набір торцевих ключів ONEX OX-250S, що складається зі 108 предметів, є універсальним інструментальним комплектом для різних ремонтних і монтажних робіт. Набір включає ключі і головки розміром 1/2&#8243; і 1/4&#8243;, що робить його придатним для роботи з широким спектром кріпильних елементів. Інструменти виготовлені з міцної хромованадієвої сталі, яка забезпечує довговічність та стійкість до корозії. У комплекті є тріскачкові ключі з 72 зубцями для плавної роботи у вузьких та важкодоступних місцях. Всі елементи набору зручно упаковані у міцний пластиковий кейс для спрощеного зберігання та транспортування.</span></p>
 <ul>
 <li><span>Комплект із 108 предметів для виконання різних завдань.</span></li>
@@ -44196,14 +44196,14 @@
         <keyword>Компрессор</keyword>
         <keywords>Компресор автомобільний 12В, Компрессор автомобильный 12В, Компресор автомобільний 12В від прикурювача, Компрессор автомобильный 12В от прикуривателя, Компресор автомобільний, Компрессор автомобильный 12В от, Компресор, Компрессор автомобильный, Компрессор</keywords>
       </offer>
-      <offer id="741742" available="true">
+      <offer id="741742" available="false">
         <name>Акустична колонка з акумулятором ZXX-7676 200Вт портативна переносна колонка Bluetooth на колесах</name>
         <categoryId>6370605</categoryId>
         <price>6930</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws12997</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypyfvpypykfpyupy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>ZXX-7676 &mdash; відмінна колонка з потужним звуком, яскравим підсвічуванням та двома радіомікрофонами. Підключай Bluetooth або флешку, співай караоке та запалюй до 10 годин без розетки. Зручні коліщатка та ручка &mdash; бери із собою хоч на дачу!</p>
 <h2><strong>Переваги:</strong></h2>
 <ul>

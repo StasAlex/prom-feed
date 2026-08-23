@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-22 05:32">
+<yml_catalog date="2026-08-23 05:34">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -507,7 +507,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="12012" available="false">
+      <offer id="12012" available="true">
         <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, окантувальна машинка Black</name>
         <categoryId>28290204</categoryId>
         <price>360</price>
@@ -523,7 +523,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htefdgrtfdsfgrfdsfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ergfdbgrfesdgsdsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twefgefsdaesdasd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся &ndash; річ незамінна для перукарень та салонів краси. Але технології йдуть вперед і тепер машинка для стрижки волосся доступна кожному, і дозволяє заощадити на стрижці!</p>
 <p>Набір для стрижки Gemei GM-6042 допоможе Вам забути про відвідування дорогих салонів та перукарень. Тепер будь-яку стильну зачіску ви створите буквально за лічені хвилини.</p>
 <p>Професійні машинки для стрижки волосся Gemei дозволяють в домашніх умовах зробити модну зачіску і підтримувати її без послуг перукаря. Встановіть потрібну довжину стрижки за допомогою регулятора та увімкніть машинку одним легким рухом. Міняти довжину стрижки максимально просто, як і доглядати машинку. Тример GEMEI GM-6042 дозволяє зробити стрижку різної довжини. Крім того, в комплекті йде спеціальна олія для змащування ножів машинки, а також щіточка для чищення Машинка для стрижки волосся Gemei GM-6042 має низький рівень шуму і вібрації, завдяки чому Ви не зазнаєте ніякого дискомфорту під час роботи з триммером.</p>
@@ -1413,7 +1413,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyfvpkypyfyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuypppyfpyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuavapyvpyfpuy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся &ndash; річ незамінна для перукарень та салонів краси. Але технології йдуть вперед і тепер машинка для стрижки волосся доступна кожному, і дозволяє заощадити на стрижці!</p>
 <p>Набір для стрижки Gemei GM-6042 допоможе Вам забути про відвідування дорогих салонів та перукарень. Тепер будь-яку стильну зачіску ви створите буквально за лічені хвилини.</p>
 <p>Професійні машинки для стрижки волосся Gemei дозволяють в домашніх умовах зробити модну зачіску і підтримувати її без послуг перукаря. Встановіть потрібну довжину стрижки за допомогою регулятора та увімкніть машинку одним легким рухом. Міняти довжину стрижки максимально просто, як і доглядати машинку. Тример GEMEI GM-6042 дозволяє зробити стрижку різної довжини. Крім того, в комплекті йде спеціальна олія для змащування ножів машинки, а також щіточка для чищення Машинка для стрижки волосся Gemei GM-6042 має низький рівень шуму і вібрації, завдяки чому Ви не зазнаєте ніякого дискомфорту під час роботи з триммером.</p>
@@ -2896,7 +2896,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukfyvape4uy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvapufyva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuayvapkyva.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник SB-015 від Sea Breeze – це ідеальне поєднання сучасного дизайну та функціональності для вашої кухні або офісного простору. Завдяки потужності 1800 Вт вода закипає швидко й ефективно, що економить ваш час і створює комфортні умови для щоденного використання. Надійний корпус із пластику та скла не тільки створює стильний вигляд, а й забезпечує довготривалу експлуатацію при дбайливому догляді. Безпека вашої родини чи колег гарантована завдяки системам захисту від перегріву та автоматичному вимкненню при знятті чайника з бази.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -10761,7 +10761,7 @@
         <param name="Страна-производитель товара">Китай</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="581040" available="false">
+      <offer id="581040" available="true">
         <name>Епілятор жіночий багатофункціональний 6 в 1 пінцетний Kemei KM-3066 Х масажер догляд за шкірою 2 швидкості</name>
         <categoryId>3314</categoryId>
         <price>880</price>
@@ -10777,7 +10777,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvkupyvprkyvrkvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvayrkpyfvapvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpyvpyvrkyvrpky.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>6 в 1 багатофункціональний епілятор та лицьові чищення інструменту.&nbsp;</li>
 <li>3 методи для гоління: рафінований для гоління, бритвені простий, безпечний для гоління.&nbsp;</li>
@@ -11779,7 +11779,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orvayavypavypk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orevyrkvyprvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oerapyrvyppvypyv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Кавоварка для дому електрична турка турецька з автовідключенням</span></span></strong>на 3 порції кави 300мл 600Вт &#8211; Все, що вам потрібно зробити, це насипати кавових зерен в чашу, налити гарячу воду, натиснути на кнопку.</p>
 <p>Дуже швидко нагрівається, потужність 600Вт зробить каву готовою за 3-5 хвилин, так що Ви зможете відразу ж насолодитися ним.</p>
 <p><strong>Увага!<span>&nbsp;</span></strong>Вода не повинна затопити датчик, інакше спрацює автовідключення і нагрівання не піде.</p>
@@ -12398,7 +12398,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/upivpivpuipuivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eucfpaivfpvifpiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/puivfipvfpuifu.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Блендер<span>&nbsp;</span><strong>RAF R 7028 2 в 1</strong><span>&nbsp;</span>&ndash; це <span>&nbsp;</span><strong>потужний і багатофункціональний</strong><span>&nbsp;</span>прилад, який поєднує в собі можливості<span>&nbsp;</span><strong>блендера</strong><span>&nbsp;</span>і<span>&nbsp; Завдяки двом змінним чашам і гострим ножам з нержавіючої сталі він стане незамінним пристроєм на вашій кухні для швидкого та якісного приготування різних страв.</p>
 <p>З цим блендером ви легко зможете приготувати<span>&nbsp;</span><strong>смузі, пюре, соуси, фарш, горіхову пасту та багато іншого</strong>. Завдяки <span>&nbsp;</span><strong>потужності 300 Вт</strong>, прилад відмінно справляється з подрібненням овочів, фруктів, горіхів, м&#8217;яса, льоду та інших продуктів.</p>
 <p><strong>Основні переваги:</strong></p>
@@ -18067,7 +18067,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaireatvrevapkiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uiavmvpkvaprukpvapav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvaptrekvarekpvaui.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Професійний фен-щітка для укладання волосся поєднує в собі сучасні технології та продуманий дизайн, щоб забезпечити швидке і безпечне створення різноманітних зачісок. Цей інноваційний пристрій допоможе вам не лише висушити волосся, а й надати йому здоровий вигляд завдяки активній турмалиновій іонізації та рівномірному керамічному нагріву. Легка конструкція і багатофункціональні налаштування роблять цей фен-щітку ідеальним рішенням для комфортного і професійного догляду у домашніх умовах та салоні краси.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -18846,7 +18846,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfmpaufvyaufyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuayvfuyvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuvyafkuvafvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>2 ремінці в комплекті</strong></p>
 <p>Використовує&nbsp;<strong>великий 1,54-дюймовий дисплей</strong>, великі слова, чіткіший, високочутливий сенсорний екран може виконувати різні операції.</p>
 <p>Моніторинг серцевого ритму, режим руху, нагадування інформації, моніторинг сну, <strong>швидкий перегляд різних функцій</strong>&nbsp;і сенсорне керування. З цього моменту починається<strong>&nbsp;розумне життя</strong>.При носінні на руці годинник буде&nbsp;<strong>вимірювати поточну температуру тіла</strong>&nbsp;в режимі&nbsp;<strong>реального часу</strong>. Безперервний вимір температури тіла в <strong>протягом 24 годин</strong>, будьте в курсі свого здоров&#8217;я.</p>
@@ -21597,7 +21597,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="340497" available="true">
+      <offer id="340497" available="false">
         <name>Годинник наручний чоловічий SKMEI 1586BK BLACK, водонепроникний чоловічий годинник, годинник спортивний. Колір: чорний</name>
         <categoryId>151105</categoryId>
         <price>590</price>
@@ -21613,7 +21613,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyapvpyecuyfyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecpvykyecufypuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3uapyvpyvppeucuk.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1586BK BLACK — це втілення сили, надійності та брутального стилю в одному аксесуарі. Його повністю чорне оформлення у поєднанні з масивним корпусом і стрілково-цифровим дисплеєм створює ефектний вигляд, який однаково добре пасує як до тактичного екіпірування, так і до повсякденного міського образу. Модель має потужні функціональні кнопки та текстурований ремінець, що підвищує комфорт при активному носінні.</p>
 <p>SKMEI 1586BK пропонує не лише привабливий дизайн, а й широкий функціонал: подвійний час, будильник, секундомір, дата, день тижня, підсвітка, автоматичний календар і водозахист WR50M. Це годинник, який витримає активне навантаження, пригоди на природі чи спортивні тренування, залишаючись при цьому зручним і функціональним у повсякденному житті.</p>
 <h2>Характеристики:</h2>
@@ -21786,7 +21786,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="344976" available="true">
+      <offer id="344976" available="false">
         <name>Професійна машинка VGR V-121 провідна машинка для стрижки волосся керамічне лезо, 8 насадок</name>
         <categoryId>28290204</categoryId>
         <price>540</price>
@@ -21802,7 +21802,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4upvyvpkvpavyay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eayvfuafavavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uyavpeyaapafyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся VGR V-121</strong><span>&nbsp;</span>&#8211; подарує Вам великий досвід та заощадить Ваші гроші на похід у перукарню. Машинка корисна як удома, так і для професійного використання в салонах та барбершопах!</p>
 <p>Набір для стрижки волосся VGR є універсальною машинкою для стрижки з 8 насадками. Леза з нержавіючої сталі. У комплекті 8 насадок 3/6/9/9/12/16/20мм.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий. Голить чітко і чисто. Підійде для стрижки бороди, окантування, шліфування стрижки, а також відмінна альтернатива для делікатних місць. Тим часом машинка підійде і для стрижки дітей завдяки тихій роботі двигуна. Цей новий професійний набір для стрижки волосся надасть Вам та вашій родині відмінну стрижку.</p>
@@ -23128,7 +23128,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3ukypukyayukauayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuiapivapifuipvifaif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpavvaikepfui.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>VGR V-985 &mdash; це першокласний триммер для чоловіків з міцним корпусом та гострим лезом з нержавіючої сталі. Завдяки літієвій батареї ємністю 1500 мАч і блоку живлення 5 В ви можете насолоджуватися<span>&nbsp;</span><strong>200 хвилинами безперервної роботи</strong><span>&nbsp;</span>після 2,5-годинної зарядки . Цей триммер підходить як для мережного, так і для бездротового використання і оснащений кнопкою УВІМК/ВИМК з турборежумом, а також світлодіодним дисплеєм для індикації заряду акумулятора. За допомогою насадок (1/2/3 мм) і захистіть лезо за допомогою захисного ковпачка, що додається. Кабель USB Type-C, олія та щіточка для очищення доповнюють комплект.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -28475,7 +28475,7 @@
         <param name="Тип кофемолки">Ножевая</param>
         <param name="Тип привода">Электропривод</param>
       </offer>
-      <offer id="5823" available="false">
+      <offer id="5823" available="true">
         <name>Епілятор Yes Finishing Touch, депілятор для ніг та бікіні, депілятор для волосся, жіноча бритва для бікіні</name>
         <categoryId>3314</categoryId>
         <price>270</price>
@@ -28490,7 +28490,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cayvfuayvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfayvukavfavyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyafvkucyfvayv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Видалення волосся на тілі завдає чимало незручностей &ndash; від витраченого часу до побічних ефектів на кшталт вростання та подразнення. Дівчата пробують один спосіб за іншим, вибираючи менше із зол. На відміну від інших варіантів епілятор&nbsp;<strong>Yes Finishing Touch</strong>&nbsp;є однозначним благом. Користуючись цікавою новинкою, ви легко та швидко усунете рослинність на ногах та інших місцях, не відчувши болю. А нові волоски зростатимуть повільніше, тому наступна процедура відбудеться пізніше, ніж у звичайних обставинах.</p>
 <p>Для забезпечення комфорту та хороших результатів було передбачено особливу конструкцію лез епілятора<span>&nbsp;</span><strong>Yes Finishing Touch</strong>, що виключає пошкодження та допомагає збрити всі волоски до єдиного. За кілька хвилин ви позбавитеся зайвої рослинності на будь-якій ділянці тіла. Хіба це не чудово?</p>
 <p>Для епіляції придумано багато способів, але одні пов&#8217;язані з сильним болем, інші не підходять для чутливої шкіри, а треті не надто ефективні. У епілятора <span>&nbsp;</span><strong>Yes Finishing Touch</strong>&nbsp;немає жодного з перерахованих недоліків. У той же час він має переваги.</p>
@@ -28601,7 +28601,7 @@
         <param name="Насадка-триммер для носа и ушей">Да</param>
         <param name="Щеточка для чистки">Да</param>
       </offer>
-      <offer id="6638" available="false">
+      <offer id="6638" available="true">
         <name>Тример для носа та вух GEMEI GM-3107 3в1, електробритва з насадками для бороди, триммер для бороди</name>
         <categoryId>3314</categoryId>
         <price>360</price>
@@ -28617,7 +28617,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ucivakivaivaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifavuvifaviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uivafivfaivavif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Gemei GM 3107</strong>&nbsp;призначений для дбайливого видалення небажаних волосків у носі та вухах. Зручна головка забезпечує швидке, просте та комфортне підрівнювання без неприємних відчуттів.</p>
 <p>Удосконалена система захисту від порізів та висмикування волосків<br />Завдяки сучасним технологіям ріжучий елемент захищений спеціальною ультратонкою сіткою із закругленими кінчиками, які запобігають подразненню шкіри.</p>
 <p>Оптимальний кут нахилу тримера дозволяє легко підрівнювати волоски у вухах та носі &mdash; ви можете бути впевнені в ефективності видалення небажаного волосся. Високоточні прорізи в нерухомому ножі, що обертається, забезпечують ефективне і швидке підрівнювання волосся.</p>
@@ -30531,7 +30531,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="299259" available="false">
+      <offer id="299259" available="true">
         <name>Ліхтарик налобний м&apos;який акумуляторний XQ-T1C USB з червоними задніми вогнями, ліхтар на голову для риболовлі</name>
         <categoryId>150410</categoryId>
         <price>420</price>
@@ -30547,7 +30547,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujviakucvauia.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvffyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkcyfvauvfyayvf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><span>Налобний ліхтар із USB зарядкою XQ-T1C 26LED &#8211; особливість моделі полягає в наявності гнучкого довгого світлодіода. Відсік для акумулятора розташований на потилиці та обладнаний індикатором заряду АКБ. Також на ньому розташовані два габаритні світлодіоди з окремою кнопкою для їх відключення. , на рибалці. Стане незамінним помічником для тих кому потрібне яскраве розсіяне світло на близькій відстані.</span></p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -31275,7 +31275,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcakvfyauyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkcfyvakffavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kayvekuafvyukyva-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Кухонний ніжовий набір Magio MG-1096 — це комплексне рішення для щоденної роботи на кухні, що об’єднує п’ять спеціалізованих ножів та зручну підставку з магнітом. Кожен ніж має оптимальні розміри леза та товщину, що забезпечує комфорт у виконанні різних кулінарних завдань, від нарізання хліба до тонкої обробки овочів. Магнітна підставка з дерева надійно фіксує інструменти, упорядковуючи робочий простір і забезпечуючи безпеку зберігання.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -33709,7 +33709,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcfvakucviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcavifkuvaifiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekaifvpufivaufi.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-625 являє собою ідеальне поєднання функціональності та довговічності. Завдяки використанню нержавіючої сталі та багатошаровому дну він забезпечує рівномірний нагрів і швидке закипання води. Ергономічна бакелітова ручка не нагрівається, що гарантує безпечне використання без ризику опіків. Практичний свисток з механічним клапаном своєчасно сповістить про готовність води, а сумісність з різними типами плит розширює можливості застосування в будь-якому домі.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -36268,7 +36268,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refsdrefasd-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refdsgefsdafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/qewadssgrwasd-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Кухонні ваги MATARIX MX 405 створені для тих, хто цінує точність і зручність у щоденних кулінарних процесах. Цей компактний і легкий пристрій дозволить вам легко зважувати продукти до 5 кг із максимальною похибкою лише 1 грам. Ідеальний вибір для контролю над кількістю інгредієнтів, що особливо важливо під час зимових заготовок або при приготуванні складних рецептів.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -38649,7 +38649,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/auvyfayvavauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uvyfypvpafyufypfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvfapuyfauuy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Блендер із двоярусним лезом Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач впорається з приготуванням кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування.</p>
 <p><strong>Подвійний ніж з нержавіючої сталі</strong><br /> подвійні ножі з якісної нержавіючої сталі (він і дав назву блендера &#8211; Блискавка) і потужному моторі. Містка чаша об&#8217;ємом 2 літри дозволяє готувати велику кількість страв. Вона відокремлена від двигуна кришкою, а леза легко знімаються. Завдяки цьому чашу легко мити.</p>
 <p><strong>Висока потужність</strong></p>
@@ -38777,7 +38777,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ecupfyvaeuyfvayp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuypavvprepyypakv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpayfpekvyarrapvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Набір для дитячої творчості та малювання 145 предметів юний художник у алюмінієвій валізі єдиноріг</strong></p>
 <p>У ньому є 145 предметів на всі випадки: кілька видів олівців, фломастери, фарби, дитина зможе скуштувати всі стилі промальовування, при цьому ви не витратите зайві гроші. У комплекті Ви знайдете все, що потрібно для &laquo;фарбової творчості&raquo;: фарби, олівці, фломастери та інші дрібні аксесуари. прямо &ldquo;під рукою&rdquo;, що досить зручно як для художника-початківця, так і для більш досвідченого!</p>
 <p><b>Особливості:</b></p>
@@ -40169,7 +40169,7 @@
         <keyword>Лампа увлажнитель</keyword>
         <keywords>Лампа зволожувач повітря, Лампа увлажнитель воздуха, Лампа зволожувач повітря Docsal Flame, Лампа увлажнитель воздуха Docsal Flame, Портативний зволожувач лампа біла, Портативный увлажнитель лампа белая, Лампа зволожувач повітря Docsal, Лампа увлажнитель воздуха Docsal, Лампа зволожувач, Лампа увлажнитель</keywords>
       </offer>
-      <offer id="764756" available="true">
+      <offer id="764756" available="false">
         <name>М&apos;ясорубка електрична Rainberg RB-2319 із системою реверсу насадка куббе 3000Вт White</name>
         <categoryId>63005</categoryId>
         <price>1680</price>
@@ -40182,7 +40182,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvvpyvfpypyfyfa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvypyvfpuypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ghrdfsgdfgsasdafs.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>М&#8217;ясорубка&nbsp;<strong>Rainberg RB-2319</strong>&nbsp;3000 Вт &ndash; це ваш надійний напарник та помічник на кухні. Якісна модель електричної м&#8217;ясорубки від фірми Rainberg 2319 призначена для виготовлення домашнього фаршу з м&#8217;яса різних видів, овочів, риби та грибів. Потужність електричного двигуна 3000 Вт легко впорається з більшістю різних завдань. Модель комплектується набором корисних аксесуарів: змінні металеві сіточки для фаршу різного діаметру: 3, 5, 7 мм, дозволять готувати смачний та соковитий домашній фарш різного ступеня консистенції. вид сучасності та елегантності. М&#8217;ясорубка Rainberg RB 2319 оснащується функцією зворотного ходу шнека. Це дозволить витягувати ущільнені м&#8217;ясні залишки в шнековій камері, а також витягнути намотані жили, хрящі та дрібні кісточки.</p>
 <h2>Характеристики:</h2>
 <ul>
@@ -41922,7 +41922,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws84516</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekravypvpyv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ручний відпарювач — компактний і потужний пристрій, який ефективно усуває складки та освіжає одяг і текстильні вироби без використання праски. Завдяки різним режимам подачі пари ви зможете підібрати оптимальний варіант для будь-якої тканини, забезпечивши дбайливий догляд та оновлення зовнішнього вигляду речей вдома і в дорозі.</p>
 <h2>Головні причини покупки</h2>
 <ul>
@@ -44062,7 +44062,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws65854</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvfyamvyfavyffvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Автоматична двомісна туристична намет розроблена для зручного і швидкого відпочинку на природі. Інноваційний автоматичний механізм дозволяє розгорнути намет за лічені секунди без особливих зусиль і спеціальних навичок. Просторі розміри 200x150x135 см забезпечують комфортне розміщення двох осіб, створюючи затишний простір незалежно від умов.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>

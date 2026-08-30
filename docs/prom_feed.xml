@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-29 11:32">
+<yml_catalog date="2026-08-30 10:24">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1211,7 +1211,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="102155" available="true">
+      <offer id="102155" available="false">
         <name>Епілятор Gemei GM-7006 4в1 - Професійний бездротовий епілятор бритва з насадками триммер + пемза</name>
         <categoryId>3314</categoryId>
         <price>770</price>
@@ -1227,7 +1227,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujcviaucjfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kucvfikucfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfak3jcfvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Епілятор GM-7006 Professional 4in1</strong>&nbsp;ідеально підходить для лінії бікіні, пахв і ніг.</p>
 <p>Ефективний і безболісний на відміну від традиційних методів хімічної епіляції та щипців, які вимагають багато часу та приносять великий біль, цей епілятор може видалити волосся лише за п&#8217;ять хвилин без болю чи дискомфорту.</p>
 <p>Елегантний дизайн розроблений спеціально для жінок та дівчат. Елегантний дизайн розроблений спеціально для зручного використання, насадки змінюються просто та швидко.</p>
@@ -1946,7 +1946,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuiapvpre4cufipip.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ckufipreucipku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/neuivyaapn5ukvpipuk.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Професійна машинка для окантовки SK 8017 забезпечує максимально точне та комфортне моделювання волосся і бороди завдяки високотехнологічній літій-іонній батареї та гострому лезу. Цей інструмент розроблений для тих, хто цінує ефективність та безпеку у догляді за зовнішністю. Завдяки здатності працювати до 300 хвилин без підзарядки та швидкій зарядці за 3 години ви отримаєте надійний пристрій для домашнього або професійного використання.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -5046,74 +5046,6 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344224" available="false">
-        <name>Електробритва портативна чоловіча VGR V-357 професійна бритва Шейвер Green</name>
-        <categoryId>3314</categoryId>
-        <price>900</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws98971-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4uyvapuayvapyvf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivpivpivfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkuayvmuayvmfv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ukufavpuavmpyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pufavfkfafafyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcfayvukcavfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uypvakpeuypyafv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvpivfp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpivfppuivvf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/vpivfpvifpvi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Електробритва VGR V-357</span></strong>&#8211; це ідеальний інструмент як для гоління, так і для стрижки волосся &#8220;під нуль&#8221;. Незамінний предмет для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, із приголомшливою ергономікою та чудовим функціоналом.</p>
-<p>Особливістю шейвера є наявність двох сіток, що забезпечують чисте зрізання волосся, як бритвою-верстатом. Блискучі сітки рухливі, що дозволяє не тільки регулювати момент натискання, але й забезпечує чітке повторення контурів обличчя або голови для максимального якісного результату. Завдяки сучасному мотору з частотою коливань 7500 об/хв, стрижка волосся буде надзвичайно чистою.</p>
-<p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та гіпоалергенні. Сітковий картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. За необхідності ножі також можуть бути замінені.</p>
-<p>Шейвер працює від Li-Ion акумулятора (2&#215;600 мАг), який забезпечує 120 хвилин автономної роботи. Акумулятор може бути заряджений та перезаряджений у будь-який час. Для заряджання шейвера можна використовувати будь-який зарядний пристрій для телефону, у комплекті постачається кабель USB Type-C та зарядний блок.</p>
-<p>Корпус бритви виготовлений із високоякісного прозорого пластику. На корпусі є кнопка включення-вимикання, роз&#8217;єм для заряджання USB Type-C, LED-індикатор зарядки у відсотках, повідомлення про своєчасне чищення ножів від щетини та кнопка для від&#8217;єднання головної частини. Для зняття головки потрібно докласти певного зусилля. Це зроблено спеціально, щоб під час роботи ви випадково не від&#8217;єднали голівку та не пошкодили сітки з ножами. Водозахист за стандартом IPX5, що дозволяє використовувати шейвер, не боячись попадання води.</p>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Тип живлення: акумулятор/мережа (комбінована)</li>
-<li>Потужна та функціональна</li>
-<li>Подвійна система повітря</li>
-<li>Гіпоалергенні сітки з титану</li>
-<li>Асинхронні незалежні ножі</li>
-<li>Термін роботи: 2 години</li>
-<li>Час заряджання: 2 години</li>
-<li>Мотор із частотою 7500 об/хв</li>
-<li>Потужність: 5 V Li-Ion акумулятор</li>
-<li>Заряджання від будь-якої зарядки для телефону</li>
-<li>Помірний рівень шуму під час роботи</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Електроритва VGR V-357</li>
-<li>Кабель для заряджання USB Type-C довжиною 1,3 м</li>
-<li>Зарядний блок</li>
-<li>Щітка для очищення</li>
-<li>Тканий чохол для зберігання та транспортування</li>
-<li>Фірмова подарункова коробка</li>
-</ul>]]></description>
-        <keyword>Електробритва портативна чоловіча</keyword>
-        <keyword>Электробритва портативная мужская</keyword>
-        <keyword>Електробритва портативна чоловіча VGR V-357</keyword>
-        <keyword>Электробритва портативная мужская VGR V-357</keyword>
-        <keyword>Електробритва портативна чоловіча VGR</keyword>
-        <keyword>Электробритва портативная мужская VGR</keyword>
-        <keyword>Електробритва портативна</keyword>
-        <keyword>Электробритва портативная</keyword>
-        <keyword>Електробритва</keyword>
-        <keyword>Электробритва</keyword>
-        <keywords>Електробритва портативна чоловіча, Электробритва портативная мужская, Електробритва портативна чоловіча VGR V-357, Электробритва портативная мужская VGR V-357, Електробритва портативна чоловіча VGR, Электробритва портативная мужская VGR, Електробритва портативна, Электробритва портативная, Електробритва, Электробритва</keywords>
-        <param name="Цвет корпуса">Зелёный</param>
-        <param name="Производитель">VGR</param>
-        <param name="Количество бритвенных головок">2</param>
-        <param name="Плавающие бритвенные головки">Да</param>
-        <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
-        <param name="Тип электробритвы">роторная</param>
-        <param name="Возможность влажного бритья">Да</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
-        <param name="Триммер для окантовки">Нет</param>
-      </offer>
       <offer id="344241" available="true">
         <name>Акумуляторна чоловіча міні електробритва VGR V-390 для гоління бороди та вусів шейвер Black</name>
         <categoryId>3314</categoryId>
@@ -5391,7 +5323,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reucyavfpauyfvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pcuayvmfauafyvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/trwfdafefad.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний пристрій розроблений спеціально для справжніх чоловіків, різноманітне поєднання насадок та режимів гоління дозволяють реалізувати будь-які задуми для ідеального зовнішнього вигляду. З цим стайлером неохайна щетина стане доглянутою і стильною. достатньо лише одного руху руки. Безперечні переваги та приємна вартість зробили цю бритву бестселером продажів на світовому ринку.</p>
 <p>Набір для стрижки волосся<span>&nbsp;</span><b>VGR V-172</b><span>&nbsp;</span>є універсальною машинкою для стрижки з різними насадками. Насадка для стрижки волосся, насадка регулювання довжини 3-12 мм, триммер для носа, дизайнерський триммер, вузький триммер, сіткова бритва, насадка 3-4,5 мм. Леза з нержавіючої сталі, вбудований акумулятор та індикатор заряду. Відмінний набір на всі випадки життя замість кількох приладів Вам достатньо мати один такий.</p>
 <p><strong>Технічні характеристики<br /></strong></p>
@@ -26156,7 +26088,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkupvipuiaaifui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpuiviiiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipiva.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Тример VGR V-299 BLACK у строгому чорному корпусі &mdash; це багатофункціональний пристрій для догляду за бородою, вусами та волоссям, що підходить як для домашнього, так і для професійного використання. Оснащений потужним мотором з частотою обертання до 9000 об/хв та вбудованим акумулятором ємністю 2000 мАг, він забезпечує до 240 хвилин автономної роботи та високу продуктивність при роботі з волоссям різної довжини та щільності. Ергономічний корпус зручно лежить у руці, а міцні матеріали гарантують надійність та довговічність.</p>
 <p>Модель комплектується 4 насадками та підтримує 5 рівнів регулювання швидкості, що дозволяє точно налаштовувати роботу тримера під конкретні завдання &mdash; від точного окантування до догляду за густою бородою. LED-дисплей відображає рівень заряду, поточну швидкість, а також нагадування про необхідність обслуговування, забезпечуючи контроль та зручність у процесі експлуатації. VGR V-299 BLACK &mdash; це поєднання потужності, точності та функціональності в одному стильному та практичному пристрої.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -33943,7 +33875,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapipifpii.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vavpvivpfiivpifp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavipavipivfvifafiv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Світлодіодний ліхтарик Г-подібний налобний Police 6609-LED — це сучасний пристрій для надійного освітлення в будь-яких умовах. Оснащений сучасним світлодіодом T6, він забезпечує світловий потік до 1000 люменів, що в десять разів перевищує потужність традиційних ламп розжарювання. Компактний і зручний у використанні, цей налобний ліхтар призначений для забезпечення яскравого та рівномірного світла при мінімальних витратах енергії.</p>
 <h2>Ключові особливості та переваги</h2>
 <ul>
@@ -36722,7 +36654,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 <h2>Раціональні причини обрати</h2>
 <ul>

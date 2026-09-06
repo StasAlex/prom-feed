@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-05 08:53">
+<yml_catalog date="2026-09-06 09:13">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1310,7 +1310,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="104434" available="true">
+      <offer id="104434" available="false">
         <name>Епілятор Gemei GM-7006 4в1 - Професійний бездротовий епілятор бритва з насадками триммер + пемза</name>
         <categoryId>3314</categoryId>
         <price>770</price>
@@ -1326,7 +1326,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfviakujcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cvfikcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucak3cvif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Епілятор GM-7006 Professional 4in1</strong>&nbsp;ідеально підходить для лінії бікіні, пахв і ніг.</p>
 <p>Ефективний і безболісний на відміну від традиційних методів хімічної епіляції та щипців, які вимагають багато часу та приносять великий біль, цей епілятор може видалити волосся лише за п&#8217;ять хвилин без болю чи дискомфорту.</p>
 <p>Елегантний дизайн розроблений спеціально для жінок та дівчат. Елегантний дизайн розроблений спеціально для зручного використання, насадки змінюються просто та швидко.</p>
@@ -1403,7 +1403,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="140798" available="true">
+      <offer id="140798" available="false">
         <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, підстригальна машинка White</name>
         <categoryId>28290204</categoryId>
         <price>360</price>
@@ -1419,7 +1419,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyfvpkypyfyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuypppyfpyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuavapyvpyfpuy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся &ndash; річ незамінна для перукарень та салонів краси. Але технології йдуть вперед і тепер машинка для стрижки волосся доступна кожному, і дозволяє заощадити на стрижці!</p>
 <p>Набір для стрижки Gemei GM-6042 допоможе Вам забути про відвідування дорогих салонів та перукарень. Тепер будь-яку стильну зачіску ви створите буквально за лічені хвилини.</p>
 <p>Професійні машинки для стрижки волосся Gemei дозволяють в домашніх умовах зробити модну зачіску і підтримувати її без послуг перукаря. Встановіть потрібну довжину стрижки за допомогою регулятора та увімкніть машинку одним легким рухом. Міняти довжину стрижки максимально просто, як і доглядати машинку. Тример GEMEI GM-6042 дозволяє зробити стрижку різної довжини. Крім того, в комплекті йде спеціальна олія для змащування ножів машинки, а також щіточка для чищення Машинка для стрижки волосся Gemei GM-6042 має низький рівень шуму і вібрації, завдяки чому Ви не зазнаєте ніякого дискомфорту під час роботи з триммером.</p>
@@ -8393,7 +8393,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="460717" available="true">
+      <offer id="460717" available="false">
         <name>Портативна колонка TG642 з RGB підсвічуванням та ремінцем, гучна блютуз колонка. Колір: зелений</name>
         <categoryId>6371101</categoryId>
         <price>690</price>
@@ -8409,7 +8409,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnypyvvayfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euauavyavyfavvayfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyvfvyavyfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -11001,7 +11001,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="559636" available="true">
+      <offer id="559636" available="false">
         <name>Електробритва-шейвер VGR V-362 чоловіча професійна для сухого гоління з тримером Blue</name>
         <categoryId>3314</categoryId>
         <price>800</price>
@@ -11017,7 +11017,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaikivrvv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekavpkvpifai.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oreiavpvpkif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електробритва V-362 створена для тих, хто цінує якість і надійність у догляді за собою. Завдяки продуманим технологіям та потужному функціоналу, ця бритва забезпечує гладке гоління та акуратне підрівнювання волосся за лічені хвилини.</p>
 <p><strong>Основні характеристики:</strong></p>
 <ul>
@@ -11496,7 +11496,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpvapuivvifiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaipivfpivpiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapifpififv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Набір ножів UNIQUE UN-1838 &mdash; це ідеальне рішення для вашої кухні, що включає 5 ножів та ножиці, упаковані в стильну акрилову підставку. Кожне лезо виготовлене з високоякісної нержавіючої сталі, що забезпечує довговічність та легкість у догляді.</p>
 <p>Набір також включає унікальну акрилову підставку, що обертається, яка не тільки зручна у використанні, але й додає естетичну привабливість на кухні. Антибактеріальне покриття на лезах гарантує безпеку та гігієнічність при приготуванні їжі.</p>
 <p>Ергономічна форма рукояті забезпечує комфортне захоплення та запобігає ковзанню під час роботи.</p>
@@ -11830,7 +11830,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvarkvpkvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaapvayrkvyyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/prayrkavyrk.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу&#8230; і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) &#8211; один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву &#8211; для вас та ваших близьких!</p>
@@ -17232,7 +17232,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eavpvyrvpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvvyvyyvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/erkvyprvypyvpuy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Сучасний та високоефективний пристрій для стрижки та стайлінгу волосся, машинка<span>&nbsp;</span><strong>VGR V-001</strong><span>&nbsp;</span>є ідеальним поєднанням продуктивності, функціональності та зручності у використанні. Маючи передові технології та інноваційні характеристики, вона стане незамінним інструментом як для професіоналів перукарського та стилістичного мистецтва, так і для домашнього використання.</p>
 <p><strong>Переваги:</strong></p>
 <ol>
@@ -22568,7 +22568,7 @@
         <param name="Ножницы кухонные">1 шт.</param>
         <param name="Овощной нож">1 шт.</param>
       </offer>
-      <offer id="398887" available="true">
+      <offer id="398887" available="false">
         <name>Праска з керамічною підошвою Magio MG-534, парова праска-очисник, праска електрична парова</name>
         <categoryId>609</categoryId>
         <price>770</price>
@@ -22584,7 +22584,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekcuayuayvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvpeucapyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n5e4cupykeavy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Праска з керамічною підошвою Magio (MG-534)</strong></p>
 <ul>
 <li>Потужність: 2200 Вт</li>
@@ -22940,69 +22940,6 @@
         <param name="Форма">Круглая</param>
         <param name="Формат времени">12 часов</param>
       </offer>
-      <offer id="424969" available="false">
-        <name>Годинник наручний чоловічий SKMEI 2091BKGYBK, чоловічий годинник стильний годинник на руку, оригінальний чоловічий</name>
-        <categoryId>151105</categoryId>
-        <price>600</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws96631</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwefsaerfdaedafvsaf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuiavfpkifi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdrafdeafdaetrsdfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3refderasdfetsdfdsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rdfsrewafaeasafds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuivpfprkuiipk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifveuiavfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifrpukivupfu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuipfrpekif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifufiuuc.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Годинник <strong>SKMEI 2091BKGYBK</strong> &mdash; це стильне поєднання мінімалізму, технологічності та сучасного дизайну. Модель виконана в матово-чорному кольорі з графітовими деталями, що додає їй стриманої елегантності. Завдяки поєднанню аналогової та цифрової індикації, годинник виглядає ефектно та водночас залишається максимально функціональним. Його геометричний корпус з чіткими лініями ідеально пасує до міського стилю та активного способу життя.</p>
-<p>SKMEI 2091BKGYBK забезпечує власника усім необхідним: точне відображення часу, дата, день тижня, будильник, секундомір, підсвітка, формат 12/24 години. Водонепроникність до 50 метрів дозволяє використовувати годинник у повсякденному житті без обмежень &mdash; він не боїться дощу, бризок чи фізичних навантажень. Це ідеальний вибір для тих, хто шукає універсальний аксесуар з сучасним виглядом та базовими функціями.</p>
-<h2>Характеристики:</h2>
-<ul>
-<li>Модель: SKMEI 2091BKGYBK</li>
-<li>Тип індикації: Аналогово-цифрова</li>
-<li>Водонепроникність: 50M</li>
-<li>Матеріал корпусу: Пластик з матовим покриттям</li>
-<li>Матеріал ремінця: Поліуретан</li>
-<li>Тип дисплея: LED-підсвітка</li>
-<li>Функції: час, дата, день тижня, будильник, секундомір, підсвітка, 12/24-годинний формат</li>
-</ul>
-<h2>Переваги:</h2>
-<ul>
-<li>Сучасний монохромний дизайн у чорному кольорі</li>
-<li>Поєднання стрілок і цифрового дисплея</li>
-<li>Надійний корпус для щоденного використання</li>
-<li>Водостійкість до 50 метрів</li>
-<li>Зручне управління функціями за допомогою кнопок</li>
-<li>Універсальний стиль &mdash; підходить для міста, офісу й активного відпочинку</li>
-</ul>]]></description>
-        <keyword>Годинник наручний чоловічий</keyword>
-        <keyword>Часы наручные мужские</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI 2091BKGYBK</keyword>
-        <keyword>Часы наручные мужские SKMEI 2091BKGYBK</keyword>
-        <keyword>чоловічий годинник стильний годинник на руку</keyword>
-        <keyword>мужские часы стильные часы на руку</keyword>
-        <keyword>оригінальний чоловічий</keyword>
-        <keyword>оригинальные мужские часы</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI</keyword>
-        <keyword>Часы наручные мужские SKMEI</keyword>
-        <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 2091BKGYBK, Часы наручные мужские SKMEI 2091BKGYBK, чоловічий годинник стильний годинник на руку, мужские часы стильные часы на руку, оригінальний чоловічий, оригинальные мужские часы, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI</keywords>
-        <param name="Цвет браслета/ремешка">Черный</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Цвет циферблата">Черный</param>
-        <param name="Браслет/Ремешок">Искусственная кожа</param>
-        <param name="Производитель">Skmei</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Индикация">Римские цифры</param>
-        <param name="Источник питания">Батарейка</param>
-        <param name="Пол">Мужской</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип механизма">Кварцевый</param>
-        <param name="Форма">Круглая</param>
-        <param name="Формат времени">12 часов</param>
-      </offer>
       <offer id="430365" available="true">
         <name>Годинник наручний чоловічий SKMEI 2065AG, водонепроникний чоловічий годинник, чоловічий спортивний</name>
         <categoryId>151105</categoryId>
@@ -23202,7 +23139,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgfsffddsafdsasfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgsdsdfsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tedsfdsadsgwe.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>1. Bluetooth 5.0, швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
 <li>2. 1200 мАг батарея протягом 10 годин гри в обсязі 2/3 на повну зарядку.</li>
@@ -26988,7 +26925,7 @@
         <param name="Тип блендера">Погружной</param>
         <param name="Тип управления">Механическое</param>
       </offer>
-      <offer id="686624" available="true">
+      <offer id="686624" available="false">
         <name>Блендер занурювальний VILGRAND VBH12010</name>
         <categoryId>64301</categoryId>
         <price>1150</price>
@@ -27003,7 +26940,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reyvryvrpfuy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyarvrvyvvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revypvypfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Блендер ViLgrand VBH12010 – це компактний та потужний кухонний прилад, який поєднує в собі багато функцій для приготування різноманітних страв. Завдяки своїй універсальності та стильному дизайну зі світлодіодним підсвічуванням, цей блендер стане чудовим помічником на кухні.</p>
 <h2><strong>Основні характеристики:</strong></h2>
 <ul>
@@ -28864,7 +28801,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="166181" available="true">
+      <offer id="166181" available="false">
         <name>Тактичний ліхтар POLICE BL-X71-P50 Тактичні ліхтарі | Надпотужний ліхтарик</name>
         <categoryId>150410</categoryId>
         <price>540</price>
@@ -28880,7 +28817,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tweght5t43wre.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wergth54tweg.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4whyy5t4wesfgre.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар акумуляторний BL-X71-P50 6987 працює в п&#8217;яти режимах: 100%, 75%, 50%, режим Стробоскоп (аварійне миготливе світло) та режим SOS. Направивши ліхтар у небо в режимі Стробоскоп або SOS, сторонній спостерігач зможе побачити промінь світла в радіусі 1200 метрів.<br />Zoom (масштабування) здійснюється легким рухом однієї руки. Фокус променя змінюється висуванням головної частини ліхтаря. Лікувальна лінза дозволяє змінювати кут розсіювання світла від широкої плями до вузьконаправленого променя.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -31747,71 +31684,6 @@
         <param name="Форма">Круглая</param>
         <param name="Формат времени">12 часов</param>
       </offer>
-      <offer id="462642" available="false">
-        <name>Портативна Bluetooth-колонка TG659 з ремінцем, Bluetooth колонка з підсвічуванням. Колір: синій</name>
-        <categoryId>6371101</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws46355-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuivuavafvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uivfuafvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euipuvaafviai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuuvafavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4euvipuavavif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euavifuvauafvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuivfukavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/t4refdsfefdgfsd-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Портативна Bluetooth-колонка з підтримкою FM-радіо, USB і TF-карти – це універсальне рішення для прослуховування музики будь-де. Завдяки передовим технологіям і зручному керуванню ви отримуєте якісний звук і повний контроль над відтворенням, а компактний розмір забезпечує мобільність і комфорт у використанні.</p>
-<h2>Аргументи на користь вибору</h2>
-<ul>
-<li>Сучасний Bluetooth 5.3 забезпечує стабільне з’єднання з будь-якими пристроями на відстані до 10 метрів.</li>
-<li>Підтримка форматів MP3, WMA і WAV дозволяє відтворювати музику з USB-накопичувачів і TF-карт без використання смартфона або комп’ютера.</li>
-<li>Режим TWS розширює можливості, дозволяючи об’єднати дві колонки для створення об’ємного стереозвуку.</li>
-<li>Інтуїтивне керування через кнопки забезпечує швидкий доступ до включення, перемикання режимів, регулювання гучності і вибору треків.</li>
-<li>Вбудований акумулятор ємністю 500 мАг гарантує автономну роботу до 2 годин.</li>
-<li>Додатковий вхід 3,5 мм (AUX) дозволяє підключати аудіопристрої без Bluetooth, такі як MP3-плеєри, комп’ютери і MP4-плеєри.</li>
-</ul>
-<h2>У яких ситуаціях знадобиться</h2>
-<p>Ця колонка ідеально підходить для відпочинку на природі, поїздок, занять спортом і використання вдома або в офісі. Можливість підключення через численні інтерфейси забезпечує гнучкість у використанні з різними пристроями. Функція FM-радіо дозволить бути в курсі новин і налаштуватись на улюблені радіостанції без підключення до інтернету. Компактні розміри і легка вага роблять колонку зручною для переноски, а якість звуку – гідним супроводом у будь-яких ситуаціях.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Потужність динаміка: 5 Вт</li>
-<li>Діапазон частот: 120 Гц – 18 кГц</li>
-<li>Співвідношення сигнал-шум: не менше 80 дБ</li>
-<li>Підтримувані формати: MP3, WMA, WAV</li>
-<li>Інтерфейси: Bluetooth 5.3, USB 2.0, TF-карта, AUX (3,5 мм)</li>
-<li>Режими відтворення: Bluetooth, USB, TF, FM радіо, TWS</li>
-<li>Акумулятор: 500 мАг</li>
-<li>Час автономної роботи: від 1 до 2 годин</li>
-<li>Діапазон Bluetooth: близько 10 метрів</li>
-<li>Розміри колонки: 90×90×54 мм</li>
-</ul>]]></description>
-        <keyword>Портативна Bluetooth-колонка TG659</keyword>
-        <keyword>Портативная Bluetooth-колонка TG659</keyword>
-        <keyword>Портативна Bluetooth-колонка TG659 з ремінцем</keyword>
-        <keyword>Портативная Bluetooth-колонка TG659 с ремешком</keyword>
-        <keyword>Bluetooth колонка з підсвічуванням</keyword>
-        <keyword>Блютуз колонка с подсветкой</keyword>
-        <keyword>Портативна Bluetooth-колонка</keyword>
-        <keyword>Портативная Bluetooth-колонка</keyword>
-        <keyword>Портативна Bluetooth-колонка TG659 зеленый</keyword>
-        <keyword>Портативная Bluetooth-колонка TG659 зеленый</keyword>
-        <keywords>Портативна Bluetooth-колонка TG659, Портативная Bluetooth-колонка TG659, Портативна Bluetooth-колонка TG659 з ремінцем, Портативная Bluetooth-колонка TG659 с ремешком, Bluetooth колонка з підсвічуванням, Блютуз колонка с подсветкой, Портативна Bluetooth-колонка, Портативная Bluetooth-колонка, Портативна Bluetooth-колонка TG659 зеленый, Портативная Bluetooth-колонка TG659 зеленый</keywords>
-        <param name="Цвет корпуса">Зеленый</param>
-        <param name="Суммарная мощность звука">5</param>
-        <param name="Минимальная частота">60</param>
-        <param name="Максимальная частота">20000</param>
-        <param name="Состояние">Новое</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Формат акустики">Стерео</param>
-        <param name="Тип питания">Аккумулятор, USB-порт</param>
-        <param name="Интерфейсы">USB, micro USB, jack 3.5 мм</param>
-        <param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
-        <param name="Поддерживаемые карты памяти">microSD, TF Card</param>
-        <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
-        <param name="Материал корпуса">Пластик</param>
-      </offer>
       <offer id="483503" available="true">
         <name>Ліхтар ручний акумуляторний PLD-CA166-3, Ліхтар ручний потужний, Тактичний ліхтар, Ручний ліхтарик led</name>
         <categoryId>150410</categoryId>
@@ -32788,7 +32660,7 @@
         <param name="Разъемы">USB</param>
         <param name="Вид">Зарядное устройство</param>
       </offer>
-      <offer id="124984" available="true">
+      <offer id="124984" available="false">
         <name>Акумуляторна кемпінгова LED лампа світильник JD-2022 із сонячною панеллю, кемпінговий ліхтар-лампа</name>
         <categoryId>150410</categoryId>
         <price>360</price>
@@ -32804,7 +32676,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcfviaucr4cuuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfiap4cufivaac.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufyvapkcjfyvauc.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Многофункціональний кемпінговий ліхтар для використання у похідних умовах і не тільки. Це світлодіодна лампа із зручним гачком, для перенесення чи підвішування в наметі, над столом, над галявиною тощо. Ідеальний варіант автономного освітлення для походів, &laquo;дикого&raquo; відпочинку в наметах, риболовлі, пікніках, може використовуватися і на дачі, і в приватному будинку, і навіть у квартирі як резервне джерело світла. На ліхтарі є сонячна панель, яка дозволяє заряджати пристрій від сонячних променів.</p>
 <p><strong>Характеристики</strong>:</p>
 <ul>
@@ -33979,7 +33851,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="582999" available="true">
+      <offer id="582999" available="false">
         <name>Кавоварка гейзерна з нержавіючої сталі UNIQUE UN-1912 270 мл, Гейзерна кавоварка 3 чашки</name>
         <categoryId>638</categoryId>
         <price>420</price>
@@ -33995,7 +33867,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfbdfgds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jthfhgdgfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htdfhgdfgsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Гейзерна кавоварка UNIQUE UN-1912 KP1-6 — це надійний пристрій для домашнього або офісного використання, що дозволяє швидко і ефективно приготувати 6 чашок ароматної кави. Завдяки продуманій конструкції й використанню технічно вдосконалених матеріалів, ця кавоварка гарантує рівномірне заварювання та насичений смак кожної порції.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -34339,7 +34211,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reeaprepaorepyvpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rerkevpvpvyfpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavyrvaoeravyrkv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Велофара Q05 — це ефективне рішення для тих, хто цінує безпеку та комфорт під час їзди на велосипеді у темний час доби. Завдяки потужному світловому потоку в 500 люмен вона забезпечує чітке та яскраве освітлення дороги, дозволяючи своєчасно реагувати на перешкоди та бути помітним для інших учасників руху. Зручність у використанні досягається завдяки вбудованому літій-іонному акумулятору з сучасним зарядним інтерфейсом Type-C та індикатором заряду на корпусі. Компактні розміри та надійний пластиковий корпус роблять цей ліхтар універсальним аксесуаром для щоденних і заміських поїздок.</p>
 <h2>Що відрізняє від конкурентів</h2>
 <ul>
@@ -34882,7 +34754,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tesrdhyrewsredsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rsfahdsgsfasew.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgsagdsafdaew.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Годинник електронний<strong>&nbsp;VST-862S-4</strong>&nbsp;виконаний з сучасним і стильним дизайном.&nbsp;Прикрасить годинник&nbsp;буквально будь-яку квартиру, будинок або студію. Завдяки мінімуму деталей, стилізовані під дерево, чудово впишуться в різні стилі інтер&#8217;єру: від класики і до лофта.</p>
 <p>У неактивному стані годинник у буквальному сенсі зливається з обстановкою.&nbsp;Годинник покритий дуже тонким шаром шпону, через який просвічуються світлодіоди.<br />Живлення годинника відбувається від&nbsp;4 шт ААА батарейок або через USB порт.</p>
 <p>Годинник має додаткові функції будильника, термометра і бездротової зарядки для телефону. Дуже зручно покласти телефон прямо на годинник для його заряджання, а не шукати мережну зарядку і вставляти кабель у телефон.</p>
@@ -34939,7 +34811,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4upkpyyeuckaayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cppepufucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuayecuappu.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар KX-213-COB є ефективним освітлювальним пристроєм, створеним для забезпечення яскравого та рівномірного світла в різних умовах експлуатації. Завдяки використанню інноваційного світлодіода COB та вбудованому акумулятору типорозміру 18650 з можливістю швидкої зарядки через Type-C, ліхтар гарантує безперервну роботу навіть при тривалому застосуванні. Його надійний захист від води, бруду, холоду та тепла дозволяє використовувати пристрій в екстремальних умовах, що робить його універсальним інструментом для активного способу життя та професійних завдань.</p>
 <h2>Основні переваги</h2>
 <ul>
@@ -37756,7 +37628,7 @@
         <keyword>Детский фотоаппарат</keyword>
         <keywords>Дитячий фотоапарат миттєвого, Детский фотоаппарат мгновенной, Дитячий фотоапарат миттєвого друку YT008 PINK, Детский фотоаппарат мгновенной печати YT008 PINK, Дитячий фотоапарат миттєвого друку, Детский фотоаппарат мгновенной печати, Дитячий фотоапарат миттєвого друку YT008, Детский фотоаппарат мгновенной печати YT008, Дитячий фотоапарат, Детский фотоаппарат</keywords>
       </offer>
-      <offer id="692704" available="true">
+      <offer id="692704" available="false">
         <name>Велоліхтар BK09/Z-03-3T6</name>
         <categoryId>342402</categoryId>
         <price>640</price>
@@ -37767,7 +37639,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpypuyvrkrkf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krpkyvfpyfrkuyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eraarvpyvapvychya.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Велоліхтар BK09/Z-03-3T6</strong>&mdash; це універсальний велосипедний світлодіодний ліхтар із функцією Power Bank, який поєднує яскраве освітлення та можливість підзарядки мобільних пристроїв. Оснащений сучасним Li-Ion акумулятором та зручним зарядним портом Type-C, цей ліхтар забезпечує надійну роботу навіть під час тривалих поїздок. Завдяки кріпленню під телефон він стає багатофункціональним аксесуаром, що дозволяє одночасно освітлювати дорогу та використовувати смартфон для навігації чи прослуховування музики.</p>
 <p>Високопотужні світлодіоди гарантують яскравий світловий потік, роблячи поїздки у темний час доби безпечними. Міцний корпус захищає від вологи та ударів, а вбудований Power Bank дозволяє завжди залишатися на зв&#8217;язку. Це ідеальне рішення для любителів активного відпочинку, велоподорожей та щоденних міських поїздок.</p>
 <h2><strong>Переваги:</strong></h2>
@@ -40414,7 +40286,7 @@
         <param name="Состояние">Новое</param>
         <param name="Потребляемая мощность">5900</param>
       </offer>
-      <offer id="664832" available="true">
+      <offer id="664832" available="false">
         <name>Електрична піч Sea Breeze SB-0701 38 л</name>
         <categoryId>605</categoryId>
         <price>3520</price>
@@ -40424,7 +40296,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivfpvifaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvifaifau.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epuifvaivfapifau.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Інноваційна піч Sea Breeze потужністю 1420 Вт створена для тих, хто цінує функціональність та ефективність у приготуванні різноманітних страв. Об’єм у 38 літрів дозволяє готувати одночасно великі порції, а регульований термостат із температурним діапазоном від 10 до 300°C забезпечує максимальний контроль над процесом теплової обробки. Завдяки трьом режимам приготування та таймеру до 90 хвилин, ця модель ідеально підходить для будь-яких кулінарних завдань – від розігріву до запікання, смаження і грилювання.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -41627,14 +41499,14 @@
         <param name="Цвет">Белый</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="697082" available="true">
+      <offer id="697082" available="false">
         <name>Пилосос контейнерний Rainberg RB-651 2500Вт без мішка 3л</name>
         <categoryId>608</categoryId>
         <price>2130</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws38816</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvypyvpyvfpy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Контейнерний пилосос Rainberg RB-651 (2500W)</b>контейнерного типу без мішка для збору пилу. Пилозбірник об&#8217;ємом близько 3 літрів легко миється і чиститься, достатньо дістати контейнер, викинути сміття і за необхідності вимити його. Стильний дизайн поєднується з компактними розмірами та легкою вагою 5 кг, спрощуючи прибирання та заощаджуючи місце.</p>
 <p>Завдяки потужності двигуна 2500W прибирання стане простіше і набагато швидше. Має 4 фільтри очищення повітря, що запобігає попаданню пилу назад у приміщення. Довжина шнура 3,2 метри. Зручна телескопічна труба, потрібні насадки, кнопка змотування шнура</p>
 <h2><b>Характеристики:</b></h2>
@@ -42366,7 +42238,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaypvaypvyfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayvapvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oapravypva.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Покращіть приготування будь-яких страв з пресом для часнику Unique UN-1761 — надійним інструментом, що забезпечує ефективне подрібнення часнику до дрібних кубиків чи пюреподібної консистенції. Цей інструмент стане незамінним помічником на вашій кухні, допомагаючи швидко і зручно додати насичений аромат часнику в улюблені рецепти.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -43532,7 +43404,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws58593</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdsgsdagsasages.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Набір акумуляторних шуруповертів з насадками screw driver sets yellow 12v представляє собою універсальний інструмент для розв’язання різних монтажних та ремонтних завдань. Цей комплект дозволяє виконувати роботи ефективно, без зайвих проводів, забезпечуючи мобільність і зручність у використанні. Компактний та ергономічний корпус, яскраве фарбування та повний набір необхідних біт і свердел роблять його незамінним помічником як для професіоналів, так і для домашніх майстрів.</p>
 <h2>Ключові переваги</h2>
 <ul>

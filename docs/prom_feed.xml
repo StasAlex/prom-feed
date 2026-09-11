@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-10 09:29">
+<yml_catalog date="2026-09-11 09:27">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1484,7 +1484,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfvykcufyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vyakcfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cavyakufvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся VGR V-030 легка та компактна, майже не відчувається в руці. Працює від акумулятора. Заряджається дуже швидко і заряджання вистачає приблизно на дві години роботи.</p>
 <p>Безшумна. Корпус виготовлений із пластику. Швидкознімний ножовий блок виготовлений із нержавіючої сталі. З легкістю можна очистити чи замінити ніж, за потреби. Високоякісна сталь дозволяє виконувати точні роботи максимально близько до шкіри.</p>
 <p>В комплектацію входять насадки, щіточка для чищення, спеціальна олія для ножів, USB-кабель для заряджання.</p>
@@ -2212,7 +2212,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvyvaukvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvkcuyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvakkcuyvf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Вертикальний відпарювач MG-333 – це інноваційне рішення для швидкого та безпечного догляду за одягом і текстилем у вашому домі. Завдяки потужному паровому потоку, пристрій не лише ефективно розгладжує складки, а й очищує тканини від бактерій, забезпечуючи гігієнічну обробку без ризику їх пошкодження. Цей відпарювач працює виключно паром, що робить його безпечним для будь-яких видів текстилю, включаючи делікатні та капризні матеріали.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -2316,7 +2316,7 @@
         <param name="Функция автоотключения">Да</param>
       </offer>
       <offer id="254162" available="true">
-        <name>Електрочайник Magio MG-977, 1.7л, гарний електричний чайник, стильний електричний чайник</name>
+        <name>Електрочайник Magio MG-977 1.7л гарний електричний чайник, стильний електричний чайник</name>
         <categoryId>640</categoryId>
         <price>1450</price>
         <currencyId>UAH</currencyId>
@@ -2368,15 +2368,15 @@
 </ul>]]></description>
         <keyword>Електрочайник Magio MG-977</keyword>
         <keyword>Электрочайник Magio MG-977</keyword>
-        <keyword>гарний електричний чайник</keyword>
-        <keyword>хороший электрический чайник</keyword>
+        <keyword>Електрочайник Magio MG-977 1.7л гарний</keyword>
+        <keyword>Электрочайник Magio MG-977 1.7л хороший</keyword>
         <keyword>стильний електричний чайник</keyword>
         <keyword>стильный электрический чайник</keyword>
+        <keyword>Електрочайник Magio MG-977 1.7л</keyword>
+        <keyword>Электрочайник Magio MG-977 1.7л</keyword>
         <keyword>Електрочайник Magio</keyword>
         <keyword>Электрочайник Magio</keyword>
-        <keyword>Magio</keyword>
-        <keyword>Електрочайник</keyword>
-        <keywords>Електрочайник Magio MG-977, Электрочайник Magio MG-977, гарний електричний чайник, хороший электрический чайник, стильний електричний чайник, стильный электрический чайник, Електрочайник Magio, Электрочайник Magio, Magio, Електрочайник</keywords>
+        <keywords>Електрочайник Magio MG-977, Электрочайник Magio MG-977, Електрочайник Magio MG-977 1.7л гарний, Электрочайник Magio MG-977 1.7л хороший, стильний електричний чайник, стильный электрический чайник, Електрочайник Magio MG-977 1.7л, Электрочайник Magio MG-977 1.7л, Електрочайник Magio, Электрочайник Magio</keywords>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет корпуса">Красный</param>
         <param name="Производитель">Magio</param>
@@ -2818,7 +2818,7 @@
         <param name="Цвет корпуса">Черный</param>
       </offer>
       <offer id="254774" available="true">
-        <name>Блендер занурювальний ручний SeaBreeze SB-090 500 Вт, блендер для кухні, блендер для молочних коктейлів</name>
+        <name>Блендер занурювальний ручний SeaBreeze SB-090 500Вт, блендер для кухні, блендер для молочних коктейлів</name>
         <categoryId>64301</categoryId>
         <price>600</price>
         <currencyId>UAH</currencyId>
@@ -2857,14 +2857,14 @@
         <keyword>Блендер занурювальний ручний</keyword>
         <keyword>Блендер погружной ручной</keyword>
         <keyword>Блендер занурювальний ручний SeaBreeze SB-090</keyword>
-        <keyword>Блендер погружной ручной SeaBreeze SB-090 500 Вт</keyword>
+        <keyword>Блендер погружной ручной SeaBreeze SB-090 500Вт</keyword>
         <keyword>блендер для кухні</keyword>
         <keyword>блендер для кухни</keyword>
         <keyword>блендер для молочних коктейлів</keyword>
         <keyword>блендер для молочных коктейлей</keyword>
         <keyword>Блендер занурювальний ручний SeaBreeze</keyword>
         <keyword>Блендер погружной ручной SeaBreeze</keyword>
-        <keywords>Блендер занурювальний ручний, Блендер погружной ручной, Блендер занурювальний ручний SeaBreeze SB-090, Блендер погружной ручной SeaBreeze SB-090 500 Вт, блендер для кухні, блендер для кухни, блендер для молочних коктейлів, блендер для молочных коктейлей, Блендер занурювальний ручний SeaBreeze, Блендер погружной ручной SeaBreeze</keywords>
+        <keywords>Блендер занурювальний ручний, Блендер погружной ручной, Блендер занурювальний ручний SeaBreeze SB-090, Блендер погружной ручной SeaBreeze SB-090 500Вт, блендер для кухні, блендер для кухни, блендер для молочних коктейлів, блендер для молочных коктейлей, Блендер занурювальний ручний SeaBreeze, Блендер погружной ручной SeaBreeze</keywords>
         <param name="Производитель">Sea breeze</param>
         <param name="Потребляемая мощность">500</param>
         <param name="Цвет">Белый</param>
@@ -2878,7 +2878,7 @@
         <param name="Количество скоростей">1</param>
       </offer>
       <offer id="254789" available="true">
-        <name>Відпарювач портативний SeaBreeze SB-001, парова щітка відпарювач, компактний. Колір: білий</name>
+        <name>Відпарювач портативний SeaBreeze SB-001, парова щітка відпарювач, компактний White</name>
         <categoryId>63006</categoryId>
         <price>1150</price>
         <currencyId>UAH</currencyId>
@@ -2923,11 +2923,11 @@
         <keyword>Отпариватель портативный SeaBreeze SB-001</keyword>
         <keyword>парова щітка відпарювач</keyword>
         <keyword>отпариватель паровая щетка</keyword>
-        <keyword>компактний</keyword>
-        <keyword>компактный</keyword>
+        <keyword>компактний White</keyword>
+        <keyword>компактный White</keyword>
         <keyword>Відпарювач портативний</keyword>
         <keyword>Отпариватель портативный</keyword>
-        <keywords>Відпарювач портативний SeaBreeze, Отпариватель портативный SeaBreeze, Відпарювач портативний SeaBreeze SB-001, Отпариватель портативный SeaBreeze SB-001, парова щітка відпарювач, отпариватель паровая щетка, компактний, компактный, Відпарювач портативний, Отпариватель портативный</keywords>
+        <keywords>Відпарювач портативний SeaBreeze, Отпариватель портативный SeaBreeze, Відпарювач портативний SeaBreeze SB-001, Отпариватель портативный SeaBreeze SB-001, парова щітка відпарювач, отпариватель паровая щетка, компактний White, компактный White, Відпарювач портативний, Отпариватель портативный</keywords>
         <param name="Производитель">Sea breeze</param>
         <param name="Потребляемая мощность">800</param>
         <param name="Цвет корпуса">Белый</param>
@@ -3481,7 +3481,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266220" available="true">
+      <offer id="266220" available="false">
         <name>Мультиварка Rainberg RB-6207 6л 1500Вт з фритюрницею 12 програм скороварка пароварка мультиварка Beige</name>
         <categoryId>606</categoryId>
         <price>1790</price>
@@ -3497,7 +3497,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucvfyakcvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kujcfyvyvakcju.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcufvypkcfv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мультиварка&nbsp;Rainberg RB-6207&nbsp;&#8211; багатофункціональний помічник на кухні з програмним управлінням, призначений для приготування страв у режимах автомат і напівавтомат.</p>
 <p>Вона надійна і проста в управлінні, укомплектована чашею об&#8217;ємом на 6 літри.</p>
 <p>Її потужність складає 1500 Вт.</p>
@@ -4161,7 +4161,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivakcfivafkuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivauv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична м’ясорубка Rainberg RB-671 поєднує потужність і функціональність, забезпечуючи швидку та зручну переробку м’яса, риби, овочів і тіста. Ця модель створена для тих, хто цінує ефективність на кухні і прагне до багатофункціонального пристрою з надійним захистом і комфортною експлуатацією.</p>
 <h2>Чому користувачі обирають цю модель</h2>
 <ul>
@@ -4437,7 +4437,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucjfyvkcuyvavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvyukcfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jucfyvaukyfvfayfv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong BL-1805 COB USB CHARGE поєднує в собі зручність, надійність і багатофункціональність, що робить його незамінним помічником у будь-яких умовах. Завдяки використанню сучасної COB-панелі та трьом режимам роботи він забезпечує яскраве освітлення в компактному корпусі, що актуально як для дому чи гаража, так і для активного відпочинку, туризму та риболовлі. Зручність заряджання через USB і вологостійкість корпусу значно розширюють можливості використання пристрою.</p>
 <h2>Конкурентні переваги</h2>
 <ul>
@@ -4545,7 +4545,7 @@
         <param name="Состояние">Новое</param>
         <param name="Потребляемая мощность">2000</param>
       </offer>
-      <offer id="298328" available="false">
+      <offer id="298328" available="true">
         <name>Набір для стрижки Pro Gemei GM-580 тример 7в1 для стрижки волосся, гоління бороди, для носа та вух, стайлер</name>
         <categoryId>28290204</categoryId>
         <price>690</price>
@@ -4561,7 +4561,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kfyafvfyaypv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvauavyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvafvyavy-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Доглянутий, охайний вигляд,&nbsp;і завжди бути у чудовій формі &#8211; одна із застав успіху.&nbsp;Мати в будинку електричну бритву також актуально, як і інші види повсякденного приладдя, щось на зразок зубної щітки або гребінця.&nbsp; &nbsp;Необхідний чоловічий аксесуар, без якого навряд чи обійдеться кожен чоловік. Тепер не обов&#8217;язково при кожному наближувальному знаменному дні бігти в елітний салон, щоб виглядати шикарно!</p>
 <p><strong>Pro Gemei GM-580&nbsp;</strong>&#8211; не просто бритва, вона втілила в собі 7 функцій одночасно. Зручна, компактна рукоятка, стильний дизайн, і 7 змінних насадок зроблять свою справу. </p>
 <p>Мотор приладу потужністю 3 Вт працює від знімного акумулятора. Зарядити його можна від розетки 220 В за допомогою мережевого кабелю. На це знадобиться 8 годин. Час роботи при повному заряді становитиме 45 хв. Тепер ви не залежите від наявності розетки і можете голитися будь-де. Це дуже зручно, особливо якщо ви їдете поїздом у відрядження чи відпочинок.</p>
@@ -4728,14 +4728,14 @@
         <keyword>Електром&apos;ясорубка</keyword>
         <keyword>Электромясорубка</keyword>
         <keyword>шатківниця та соковитискач DOMOTEC MS-2024 3000 Вт</keyword>
-        <keyword>шинковка и соковыжималка DOMOTEC MS-2024 3000 Вт</keyword>
+        <keyword>шинковка и соковыжималка DOMOTEC MS-2024 3000Вт</keyword>
         <keyword>томати</keyword>
         <keyword>томаты</keyword>
         <keyword>терки/шатківниці</keyword>
         <keyword>терки/шинковки</keyword>
         <keyword>Domotec</keyword>
         <keyword>Електром&apos;ясорубка Domotec</keyword>
-        <keywords>Електром&apos;ясорубка, Электромясорубка, шатківниця та соковитискач DOMOTEC MS-2024 3000 Вт, шинковка и соковыжималка DOMOTEC MS-2024 3000 Вт, томати, томаты, терки/шатківниці, терки/шинковки, Domotec, Електром&apos;ясорубка Domotec</keywords>
+        <keywords>Електром&apos;ясорубка, Электромясорубка, шатківниця та соковитискач DOMOTEC MS-2024 3000 Вт, шинковка и соковыжималка DOMOTEC MS-2024 3000Вт, томати, томаты, терки/шатківниці, терки/шинковки, Domotec, Електром&apos;ясорубка Domotec</keywords>
         <param name="Производитель">Domotec</param>
         <param name="Номинальная мощность">3000</param>
         <param name="Цвет корпуса">Серый</param>
@@ -5393,7 +5393,7 @@
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="303332" available="true">
-        <name>Мультиварка Rainberg RB-6207 З Фритюрницею, 12 Програм, скороварка пароварка мультиварка. Колір коричневий</name>
+        <name>Мультиварка Rainberg RB-6207 З Фритюрницею, 12 Програм, скороварка пароварка мультиварка Brown</name>
         <categoryId>606</categoryId>
         <price>1680</price>
         <currencyId>UAH</currencyId>
@@ -5464,12 +5464,12 @@
         <keyword>Мультиварка Rainberg RB-6207 С Фритюрницей</keyword>
         <keyword>12 Програм</keyword>
         <keyword>12 Программ</keyword>
-        <keyword>скороварка пароварка мультиварка</keyword>
+        <keyword>скороварка пароварка мультиварка Brown</keyword>
         <keyword>Мультиварка Rainberg</keyword>
         <keyword>Rainberg</keyword>
         <keyword>Мультиварка</keyword>
         <keyword>Мультиварка Rainberg скороварка/мультиварка</keyword>
-        <keywords>Мультиварка Rainberg RB-6207, Мультиварка Rainberg RB-6207 З Фритюрницею, Мультиварка Rainberg RB-6207 С Фритюрницей, 12 Програм, 12 Программ, скороварка пароварка мультиварка, Мультиварка Rainberg, Rainberg, Мультиварка, Мультиварка Rainberg скороварка/мультиварка</keywords>
+        <keywords>Мультиварка Rainberg RB-6207, Мультиварка Rainberg RB-6207 З Фритюрницею, Мультиварка Rainberg RB-6207 С Фритюрницей, 12 Програм, 12 Программ, скороварка пароварка мультиварка Brown, Мультиварка Rainberg, Rainberg, Мультиварка, Мультиварка Rainberg скороварка/мультиварка</keywords>
         <param name="Производитель">Rainberg</param>
         <param name="Объем">6</param>
         <param name="Потребляемая мощность">1500</param>
@@ -5749,7 +5749,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupivpuvifavfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epuivpivivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupivpfivfpvifv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong BL-A12-3-P90 — це професійне рішення для тих, хто цінує надійність та зручність у використанні при роботі в умовах недостатнього освітлення. Ергономічне регульоване кріплення на голову забезпечує комфортну фіксацію, а продумана система живлення з трьома акумуляторами 18650 та зарядкою через Type-C роз’єм гарантує тривале безперервне використання без частої заміни батарей. Інтегрований індикатор заряду з чотирма світлодіодами на задній кришці дозволяє своєчасно контролювати рівень енергії та планувати підзарядку без перебоїв.</p>
 <h2>Переваги для користувача</h2>
 <ul>
@@ -5954,7 +5954,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kayvuvaayvmayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyavekufay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tr3wefsda3rwfasd.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Професійна бритва VGR V-335 Shaver з трьома ножовими блоками дозволяє підкоригувати щетину та сформувати акуратну борідку за лічені хвилини. VGR V-335 Shaver повністю видаляє навіть найкоротші волоски, роблячи шкіру ідеально гладкою. Шейвер VGR V-335 не травмує шкірні покриви обличчя та шиї, не залишає слідів. Підходить для створення чіткого окантування та коригування існуючої форми бороди<br />Професійна електробритва (шейвер) для сухого та вологого гоління дозволяє швидко обробляти бороду будь-якої довжини та створювати чіткі контури. Застосовується барберами для обробки контурів та зведення до нуля при фейдингу. Три незалежні голівки гоління забезпечують комфортне гоління з максимальною точністю. Гіпоалергенна титанова сітка виключає мікропошкодження та подразнення шкіри. Сітка та знімні головки, тому їх легко почистити або замінити.</p>
 <p>Потужний роторний двигун працює зі швидкістю 8000 об/хв і відрізняється низьким рівнем шуму та вібрацій.</p>
 <p><strong>Особливості та переваги електробритви:</strong></p>
@@ -7285,7 +7285,7 @@
         <param name="Материал подошвы утюга">керамика</param>
       </offer>
       <offer id="398872" available="true">
-        <name>Праска електрична парова потужністю 2800 Вт з керамічною підошвою</name>
+        <name>Праска електрична парова потужністю 2800Вт з керамічною підошвою</name>
         <categoryId>609</categoryId>
         <price>1150</price>
         <currencyId>UAH</currencyId>
@@ -7324,15 +7324,15 @@
 </ul>]]></description>
         <keyword>Праска електрична парова</keyword>
         <keyword>Утюг электрический паровой</keyword>
-        <keyword>Праска електрична парова потужністю 2800 Вт</keyword>
-        <keyword>Утюг электрический паровой мощностью 2800 Вт</keyword>
+        <keyword>Праска електрична парова потужністю 2800Вт</keyword>
+        <keyword>Утюг электрический паровой мощностью 2800Вт</keyword>
         <keyword>Праска електрична парова потужністю</keyword>
         <keyword>Утюг электрический паровой мощностью</keyword>
         <keyword>Праска електрична</keyword>
         <keyword>Утюг электрический</keyword>
         <keyword>Magio</keyword>
         <keyword>Праска електрична парова Magio</keyword>
-        <keywords>Праска електрична парова, Утюг электрический паровой, Праска електрична парова потужністю 2800 Вт, Утюг электрический паровой мощностью 2800 Вт, Праска електрична парова потужністю, Утюг электрический паровой мощностью, Праска електрична, Утюг электрический, Magio, Праска електрична парова Magio</keywords>
+        <keywords>Праска електрична парова, Утюг электрический паровой, Праска електрична парова потужністю 2800Вт, Утюг электрический паровой мощностью 2800Вт, Праска електрична парова потужністю, Утюг электрический паровой мощностью, Праска електрична, Утюг электрический, Magio, Праска електрична парова Magio</keywords>
         <param name="Производитель">Magio</param>
         <param name="Цвет">Розовый</param>
         <param name="Цвет корпуса">Розовый</param>
@@ -7405,15 +7405,15 @@
 </ul>]]></description>
         <keyword>Блендер Rainberg RB-2223</keyword>
         <keyword>Блендер Rainberg RB-2223 2000 Вт кавомолка</keyword>
-        <keyword>Блендер Rainberg RB-2223 2000 Вт кофемолка</keyword>
+        <keyword>Блендер Rainberg RB-2223 2000Вт кофемолка</keyword>
         <keyword>подрібнювач для коктейлів та смузі</keyword>
         <keyword>измельчитель для коктейлей и смузи</keyword>
         <keyword>блендер для кухні</keyword>
         <keyword>блендер для кухни</keyword>
         <keyword>Блендер Rainberg RB-2223 2000 Вт</keyword>
+        <keyword>Блендер Rainberg RB-2223 2000Вт</keyword>
         <keyword>Блендер Rainberg</keyword>
-        <keyword>Rainberg</keyword>
-        <keywords>Блендер Rainberg RB-2223, Блендер Rainberg RB-2223 2000 Вт кавомолка, Блендер Rainberg RB-2223 2000 Вт кофемолка, подрібнювач для коктейлів та смузі, измельчитель для коктейлей и смузи, блендер для кухні, блендер для кухни, Блендер Rainberg RB-2223 2000 Вт, Блендер Rainberg, Rainberg</keywords>
+        <keywords>Блендер Rainberg RB-2223, Блендер Rainberg RB-2223 2000 Вт кавомолка, Блендер Rainberg RB-2223 2000Вт кофемолка, подрібнювач для коктейлів та смузі, измельчитель для коктейлей и смузи, блендер для кухні, блендер для кухни, Блендер Rainberg RB-2223 2000 Вт, Блендер Rainberg RB-2223 2000Вт, Блендер Rainberg</keywords>
         <param name="Производитель">Rainberg</param>
         <param name="Потребляемая мощность">2000</param>
         <param name="Цвет">Серебристый</param>
@@ -8122,7 +8122,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="455444" available="false">
+      <offer id="455444" available="true">
         <name>Фен MAGIO MG-167, Електричний фен для сушіння волосся, Легкий професійний фен, Жіночий фен для волосся</name>
         <categoryId>617</categoryId>
         <price>480</price>
@@ -8138,7 +8138,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgdadafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesdftedsdfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4egtesdatedsatsdaeas.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Фен MG-167 створений для тих, хто цінує комфорт і ефективність у догляді за волоссям. Компактний та ергономічний, він забезпечує професійний рівень сушіння і укладки в будь-яких умовах, будь то вдома чи в подорожах. Завдяки складній ручці пристрій зручно зберігати і транспортувати, що робить цей фен незамінним аксесуаром на щодень і в дорозі.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -10615,7 +10615,7 @@
         <param name="Страна-производитель товара">Китай</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="559574" available="true">
+      <offer id="559574" available="false">
         <name>Професійний набір для стрижки волосся VGR V-640 акумуляторний Barber Combo PREMIUM. Колір: чорний</name>
         <categoryId>28290204</categoryId>
         <price>2800</price>
@@ -10631,7 +10631,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyrvkypkkyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oapvrpaoerey.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekrrvayyke.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Професійний набір для стрижки волосся VGR V-640</strong>&mdash; це високоякісний комплект, розроблений для чоловіків, які прагнуть ідеального догляду за волоссям. Поєднуючи потужність і передові технології, V-640 стане вашим надійним помічником як у професійній, так і в домашній обстановці.</p>
 <p><strong>Переваги VGR V-640:</strong></p>
 <ul>
@@ -11345,7 +11345,7 @@
         <param name="Овощной нож">1 шт.</param>
       </offer>
       <offer id="566377" available="true">
-        <name>Фен із складною ручкою для волосся VGR V-426 2000Вт, Стильний фен для укладання волосся. Колір: червоний</name>
+        <name>Фен із складною ручкою для волосся VGR V-426 2000Вт, Стильний фен для укладання волосся Red</name>
         <categoryId>617</categoryId>
         <price>670</price>
         <currencyId>UAH</currencyId>
@@ -11389,13 +11389,13 @@
         <keyword>Фен со складной</keyword>
         <keyword>Фен із складною ручкою для волосся VGR V-426</keyword>
         <keyword>Фен со складной ручкой для волос VGR V-426 2000Вт</keyword>
-        <keyword>Стильний фен для укладання волосся</keyword>
-        <keyword>Стильный фен для укладки волос</keyword>
+        <keyword>Стильний фен для укладання волосся Red</keyword>
+        <keyword>Стильный фен для укладки волос Red</keyword>
         <keyword>Фен із складною ручкою</keyword>
         <keyword>Фен со складной ручкой</keyword>
         <keyword>Фен із складною VGR</keyword>
         <keyword>Фен со</keyword>
-        <keywords>Фен із складною, Фен со складной, Фен із складною ручкою для волосся VGR V-426, Фен со складной ручкой для волос VGR V-426 2000Вт, Стильний фен для укладання волосся, Стильный фен для укладки волос, Фен із складною ручкою, Фен со складной ручкой, Фен із складною VGR, Фен со</keywords>
+        <keywords>Фен із складною, Фен со складной, Фен із складною ручкою для волосся VGR V-426, Фен со складной ручкой для волос VGR V-426 2000Вт, Стильний фен для укладання волосся Red, Стильный фен для укладки волос Red, Фен із складною ручкою, Фен со складной ручкой, Фен із складною VGR, Фен со</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Красный</param>
         <param name="Мощность фена">2000</param>
@@ -11599,7 +11599,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="585738" available="true">
-        <name>Електрична турка для кави Marado MA-1625, Турка для заварної кави для приготування кави. Колір: чорний</name>
+        <name>Електрична турка для кави Marado MA-1625, Турка для заварної кави для приготування кави Black</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
         <currencyId>UAH</currencyId>
@@ -11659,7 +11659,7 @@
         <param name="Материал ручки">Пластик</param>
       </offer>
       <offer id="585740" available="true">
-        <name>Електрична турка з автовідключенням під час закипання для кави Marado MA-1625. Колір: зелений</name>
+        <name>Електрична турка з автовідключенням під час закипання для кави Marado MA-1625 Green</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
         <currencyId>UAH</currencyId>
@@ -11719,7 +11719,7 @@
         <param name="Материал ручки">Пластик</param>
       </offer>
       <offer id="585741" available="true">
-        <name>Електрична турка для кави Marado MA-1625, Турка для приготування кави, Турка для заварювання. Колір: білий</name>
+        <name>Електрична турка для кави Marado MA-1625, Турка для приготування кави, Турка для заварювання White</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
         <currencyId>UAH</currencyId>
@@ -11764,11 +11764,11 @@
         <keyword>Электрическая турка для кофе Marado MA-1625</keyword>
         <keyword>Турка для приготування кави</keyword>
         <keyword>Турка для готовки кофе</keyword>
-        <keyword>Турка для заварювання</keyword>
-        <keyword>Турка для заваривания</keyword>
+        <keyword>Турка для заварювання White</keyword>
+        <keyword>Турка для заваривания White</keyword>
         <keyword>Електрична турка для кави</keyword>
         <keyword>Электрическая турка для кофе</keyword>
-        <keywords>Електрична турка, Электрическая турка, Електрична турка для кави Marado MA-1625, Электрическая турка для кофе Marado MA-1625, Турка для приготування кави, Турка для готовки кофе, Турка для заварювання, Турка для заваривания, Електрична турка для кави, Электрическая турка для кофе</keywords>
+        <keywords>Електрична турка, Электрическая турка, Електрична турка для кави Marado MA-1625, Электрическая турка для кофе Marado MA-1625, Турка для приготування кави, Турка для готовки кофе, Турка для заварювання White, Турка для заваривания White, Електрична турка для кави, Электрическая турка для кофе</keywords>
         <param name="Производитель">Marado</param>
         <param name="Цвет корпуса">Белый</param>
         <param name="Объем">500</param>
@@ -12344,14 +12344,14 @@
         <keyword>Занурювальний ручний блендер</keyword>
         <keyword>Погружной ручной блендер</keyword>
         <keyword>Занурювальний ручний блендер RAF R.780 1500Вт</keyword>
-        <keyword>Погружной ручной блендер RAF R.780 1500 Вт</keyword>
+        <keyword>Погружной ручной блендер RAF R.780 1500Вт</keyword>
         <keyword>Занурювальний ручний блендер RAF</keyword>
         <keyword>Погружной ручной блендер RAF</keyword>
         <keyword>Занурювальний ручний блендер RAF R.780</keyword>
         <keyword>Погружной ручной блендер RAF R.780</keyword>
         <keyword>Занурювальний ручний</keyword>
         <keyword>Погружной ручной</keyword>
-        <keywords>Занурювальний ручний блендер, Погружной ручной блендер, Занурювальний ручний блендер RAF R.780 1500Вт, Погружной ручной блендер RAF R.780 1500 Вт, Занурювальний ручний блендер RAF, Погружной ручной блендер RAF, Занурювальний ручний блендер RAF R.780, Погружной ручной блендер RAF R.780, Занурювальний ручний, Погружной ручной</keywords>
+        <keywords>Занурювальний ручний блендер, Погружной ручной блендер, Занурювальний ручний блендер RAF R.780 1500Вт, Погружной ручной блендер RAF R.780 1500Вт, Занурювальний ручний блендер RAF, Погружной ручной блендер RAF, Занурювальний ручний блендер RAF R.780, Погружной ручной блендер RAF R.780, Занурювальний ручний, Погружной ручной</keywords>
         <param name="Производитель">RAF</param>
         <param name="Потребляемая мощность">1500</param>
         <param name="Цвет">Черный</param>
@@ -12439,7 +12439,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Регулировка силы пара">Да</param>
       </offer>
-      <offer id="604808" available="true">
+      <offer id="604808" available="false">
         <name>Кавоварка електрична RAF-R.116, чашка кавова з підігрівом, турка</name>
         <categoryId>6300406</categoryId>
         <price>920</price>
@@ -12455,7 +12455,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orvayavypavypk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orevyrkvyprvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oerapyrvyppvypyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Кавоварка для дому електрична турка турецька з автовідключенням</span></span></strong>на 3 порції кави 300мл 600Вт &#8211; Все, що вам потрібно зробити, це насипати кавових зерен в чашу, налити гарячу воду, натиснути на кнопку.</p>
 <p>Дуже швидко нагрівається, потужність 600Вт зробить каву готовою за 3-5 хвилин, так що Ви зможете відразу ж насолодитися ним.</p>
 <p><strong>Увага!<span>&nbsp;</span></strong>Вода не повинна затопити датчик, інакше спрацює автовідключення і нагрівання не піде.</p>
@@ -12508,7 +12508,7 @@
         <param name="Материал ручки">Пластик</param>
       </offer>
       <offer id="604858" available="true">
-        <name>Вертикальний відпарювач RAF R.3036 з дезінфекцією, Парогенератор Електровідпарювач. Колір: рожевий</name>
+        <name>Вертикальний відпарювач RAF R.3036 з дезінфекцією, Парогенератор Електровідпарювач Pink</name>
         <categoryId>63006</categoryId>
         <price>3360</price>
         <currencyId>UAH</currencyId>
@@ -12557,13 +12557,13 @@
         <keyword>Вертикальный отпариватель RAF</keyword>
         <keyword>Вертикальний відпарювач RAF R.3036 з дезінфекцією</keyword>
         <keyword>Вертикальный отпариватель RAF R.3036</keyword>
-        <keyword>Парогенератор Електровідпарювач</keyword>
-        <keyword>Парогенератор Электроотпариватель</keyword>
+        <keyword>Парогенератор Електровідпарювач Pink</keyword>
+        <keyword>Парогенератор Электроотпариватель Pink</keyword>
         <keyword>Вертикальний відпарювач RAF R.3036</keyword>
         <keyword>Вертикальный отпариватель</keyword>
         <keyword>Вертикальний відпарювач</keyword>
         <keyword>Вертикальный отпариватель RAF розовый</keyword>
-        <keywords>Вертикальний відпарювач RAF, Вертикальный отпариватель RAF, Вертикальний відпарювач RAF R.3036 з дезінфекцією, Вертикальный отпариватель RAF R.3036, Парогенератор Електровідпарювач, Парогенератор Электроотпариватель, Вертикальний відпарювач RAF R.3036, Вертикальный отпариватель, Вертикальний відпарювач, Вертикальный отпариватель RAF розовый</keywords>
+        <keywords>Вертикальний відпарювач RAF, Вертикальный отпариватель RAF, Вертикальний відпарювач RAF R.3036 з дезінфекцією, Вертикальный отпариватель RAF R.3036, Парогенератор Електровідпарювач Pink, Парогенератор Электроотпариватель Pink, Вертикальний відпарювач RAF R.3036, Вертикальный отпариватель, Вертикальний відпарювач, Вертикальный отпариватель RAF розовый</keywords>
         <param name="Производитель">RAF</param>
         <param name="Цвет корпуса">Розовый</param>
         <param name="Время нагрева до образования пара">0.45</param>
@@ -12578,7 +12578,7 @@
         <param name="Индикатор работы">Да</param>
       </offer>
       <offer id="604861" available="true">
-        <name>Відпарювач вертикальний для одягу зі стійкою RAF R.3038 1800 W. Колір: синій</name>
+        <name>Відпарювач вертикальний для одягу зі стійкою RAF R.3038 1800Вт Blue</name>
         <categoryId>63006</categoryId>
         <price>3130</price>
         <currencyId>UAH</currencyId>
@@ -12653,7 +12653,7 @@
         <param name="Индикатор работы">Да</param>
       </offer>
       <offer id="604863" available="true">
-        <name>Відпарювач вертикальний для одягу зі стійкою RAF R.3038 1800 W. Колір: червоний</name>
+        <name>Відпарювач вертикальний для одягу зі стійкою RAF R.3038 1800Вт Red</name>
         <categoryId>63006</categoryId>
         <price>3130</price>
         <currencyId>UAH</currencyId>
@@ -12726,83 +12726,6 @@
         <param name="Тип управления">Механическое</param>
         <param name="Щетка для удаления пыли и ворсинок">Да</param>
         <param name="Индикатор работы">Да</param>
-      </offer>
-      <offer id="604872" available="false">
-        <name>Фен браш стайлер з насадкою, що обертається RAF R.421 електрична гребінець</name>
-        <categoryId>617</categoryId>
-        <price>920</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws38967</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rekrkvyrk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/krvarvayrkvyrv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kvaayvpykyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvarvayrkv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvayvvaykpv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reavvryarvkkuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaravyyer.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rvavyrvrkyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvarrvaykvr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpyyvpuyf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Фен-щітка для сушіння волосся з автоматичним обертанням насадок RAF R.421<span>&nbsp;</span></strong>&mdash; це багатофункціональний прилад, який дозволить вам легко створювати різноманітні укладання. З потужністю 1000 Вт та додатковими функціями, такими як іонізація, холодне повітря та автоматичний поворот головки, цей стайлер ідеально підходить для випрямлення, завивки та надання об&#8217;єму волоссю. У комплект входять дві насадки діаметром 30 мм та 50 мм, що забезпечує універсальність укладання.</p>
-<p><strong>Використання</strong></p>
-<ol>
-<li><strong>Підключення:</strong><span>&nbsp;</span>Підключіть фен-щітку до мережі 220В.</li>
-<li><strong>Вибір режиму:</strong><span>&nbsp;</span>Виберіть потрібний температурний режим (всього 3 режими) за допомогою перемикача.</li>
-<li><strong>Сушіння та укладання:</strong><span>&nbsp;</span>Укладіть волосся, використовуючи одну з насадок. Автоматичне обертання насадок полегшує процес укладання.</li>
-<li><strong>Фінішне укладання:</strong><span>&nbsp;</span>Використовуйте режим холодного обдування для закріплення укладання.</li>
-<li><strong>Зберігання:</strong><span>&nbsp;</span>Після використання вимкніть фен і дайте йому охолонути перед зберіганням.</li>
-</ol>
-<p><strong>Переваги</strong></p>
-<ul>
-<li><strong>Багатофункціональність:</strong><span>&nbsp;</span>Дозволяє не тільки сушити волосся, але й створювати різні укладання, надаючи об&#8217;єм або випрямляючи локони.</li>
-<li><strong>Автоматичне обертання насадок:</strong><span>&nbsp;</span>Спрощує процес укладання та робить його більш комфортним.</li>
-<li><strong>Іонізація:</strong><span>&nbsp;</span>Допомагає усунути статичну електрику і робить волосся гладкішим.</li>
-<li><strong>Холодне обдування:</strong><span>&nbsp;</span>Дозволяє зафіксувати укладання і надає волоссю здорового блиску.</li>
-<li><strong>Компактний та легкий:</strong><span>&nbsp;</span>Вага всього 590 г робить його зручним у використанні.</li>
-</ul>
-<p><strong>Характеристики</strong></p>
-<ul>
-<li><strong>Бренд:</strong><span>&nbsp;</span>RAF</li>
-<li><strong>Тип:</strong><span>&nbsp;</span>Фен-щітка</li>
-<li><strong>Потужність:</strong><span>&nbsp;</span>1000 Вт</li>
-<li><strong>Вигляд живлення:</strong><span>&nbsp;</span>Мережа 220В</li>
-<li><strong>Кількість температурних режимів:</strong><span>&nbsp;</span>3</li>
-<li><strong>Холодне обдування:</strong><span>&nbsp;</span>Так</li>
-<li><strong>Кількість насадок:</strong><span>&nbsp;</span>2</li>
-<li><strong>Функція іонізації:</strong><span>&nbsp;</span>Так</li>
-<li><strong>Насадки:</strong><span>&nbsp;</span>Щітка</li>
-<li><strong>Автоматичне обертання насадок:</strong><span>&nbsp;</span>Так</li>
-<li><strong>Складна ручка:</strong><span>&nbsp;</span>Ні</li>
-<li><strong>Петля для підвішування:</strong><span>&nbsp;</span>Ні</li>
-<li><strong>Автоматичне змотування шнура:</strong><span>&nbsp;</span>Ні</li>
-<li><strong>Колір корпусу:</strong><span>&nbsp;</span>Чорний</li>
-<li><strong>Вага:</strong><span>&nbsp;</span>590 г</li>
-<li><strong>Країна виробник:</strong><span>&nbsp;</span>Китай</li>
-<li><strong>Країна бренду:</strong><span>&nbsp;</span>Китай</li>
-<li><strong>Комплектація:</strong><span>&nbsp;</span>Фен-щітка, насадки, інструкція</li>
-</ul>]]></description>
-        <keyword>Фен браш стайлер</keyword>
-        <keyword>Фен браш стайлер з насадкою</keyword>
-        <keyword>Фен браш стайлер с вращающейся насадкой RAF R.421</keyword>
-        <keyword>що обертається RAF R.421 електрична гребінець</keyword>
-        <keyword>Фен браш стайлер с вращающейся</keyword>
-        <keyword>Фен браш</keyword>
-        <keyword>Gemei</keyword>
-        <keyword>Фен браш стайлер Gemei</keyword>
-        <keyword>Фен браш стайлер стайлеры воздушные</keyword>
-        <keyword>Фен браш стайлеры воздушные</keyword>
-        <keywords>Фен браш стайлер, Фен браш стайлер з насадкою, Фен браш стайлер с вращающейся насадкой RAF R.421, що обертається RAF R.421 електрична гребінець, Фен браш стайлер с вращающейся, Фен браш, Gemei, Фен браш стайлер Gemei, Фен браш стайлер стайлеры воздушные, Фен браш стайлеры воздушные</keywords>
-        <param name="Производитель">Gemei</param>
-        <param name="Тип">Стайлеры воздушные</param>
-        <param name="Потребляемая мощность">1000</param>
-        <param name="Тип питания">Сеть 220 В</param>
-        <param name="Количество насадок">2</param>
-        <param name="Количество режимов работы">2</param>
-        <param name="Терморегулятор">Да</param>
-        <param name="Керамическое покрытие">Да</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Состояние">Новое</param>
       </offer>
       <offer id="604877" available="true">
         <name>Подрібнювач RAF R.7031 настільний електричний блендер-чоппер 3л 1000Вт, Кухонний блендер для овочів</name>
@@ -13083,7 +13006,7 @@
         <param name="Количество скоростей">1</param>
       </offer>
       <offer id="613116" available="true">
-        <name>Кавоварка електрична металева турка RAF R.150 500 мл</name>
+        <name>Кавоварка електрична металева турка RAF R.150 500мл</name>
         <categoryId>6300406</categoryId>
         <price>440</price>
         <currencyId>UAH</currencyId>
@@ -13167,7 +13090,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvayprvyaprkvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvayrvarkvyvkv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvayravykvypyf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тостер<span>&nbsp;</span><strong>RAF R.503</strong><span>&nbsp;</span>&ndash; це універсальний помічник для швидкого та зручного приготування ідеальних тостів. Завдяки <span>&nbsp;</span><strong>потужності 1500 Вт</strong><span>&nbsp;</span>і можливості готувати<span>&nbsp;</span><strong>4 тости одночасно</strong>, цей прилад стане незамінним рішенням для сімейного сніданку або частування гостей.</p>
 <p>Пристрій оснащений<span>&nbsp;</span><strong>6-рівневим регулюванням ступеня підсмажування</strong>, що дозволяє вибрати оптимальний рівень рум&#8217;янцю &ndash; від легкого золотистого відтінку до насиченого хрусткого шару. Тостер також підтримує функцію розморожування для приготування хліба прямо з морозильної камери і функцію підігріву, яка збереже тости тепла.</p>
 <p>Корпус пристрою виготовлений з<span>&nbsp;</span><strong>міцного пластику та металу</strong>, що забезпечує довговічність та стильний зовнішній вигляд. Для безпечного використання тостер має <span>&nbsp;</span><strong>автоматичне відключення</strong>, а<span>&nbsp;</span><strong>знімний піддон для крихт</strong><span>&nbsp;</span>спрощує догляд за приладом.</p>
@@ -13820,7 +13743,7 @@
         <param name="Цвет корпуса">Черный</param>
       </offer>
       <offer id="613289" available="true">
-        <name>Пилосос контейнерний Domotec MS-4404 4500 Вт</name>
+        <name>Пилосос контейнерний Domotec MS-4404 4500Вт</name>
         <categoryId>608</categoryId>
         <price>2130</price>
         <currencyId>UAH</currencyId>
@@ -13871,15 +13794,15 @@
 </ol>]]></description>
         <keyword>Пилосос контейнерний Domotec</keyword>
         <keyword>Пылесос контейнерный Domotec</keyword>
-        <keyword>Пилосос контейнерний Domotec MS-4404 4500 Вт</keyword>
-        <keyword>Пылесос контейнерный Domotec MS-4404 4500 Вт</keyword>
+        <keyword>Пилосос контейнерний Domotec MS-4404 4500Вт</keyword>
+        <keyword>Пылесос контейнерный Domotec MS-4404 4500Вт</keyword>
         <keyword>Пилосос контейнерний Domotec MS-4404</keyword>
         <keyword>Пылесос контейнерный Domotec MS-4404</keyword>
         <keyword>Пилосос контейнерний</keyword>
         <keyword>Пылесос контейнерный</keyword>
         <keyword>Domotec</keyword>
         <keyword>Пилосос</keyword>
-        <keywords>Пилосос контейнерний Domotec, Пылесос контейнерный Domotec, Пилосос контейнерний Domotec MS-4404 4500 Вт, Пылесос контейнерный Domotec MS-4404 4500 Вт, Пилосос контейнерний Domotec MS-4404, Пылесос контейнерный Domotec MS-4404, Пилосос контейнерний, Пылесос контейнерный, Domotec, Пилосос</keywords>
+        <keywords>Пилосос контейнерний Domotec, Пылесос контейнерный Domotec, Пилосос контейнерний Domotec MS-4404 4500Вт, Пылесос контейнерный Domotec MS-4404 4500Вт, Пилосос контейнерний Domotec MS-4404, Пылесос контейнерный Domotec MS-4404, Пилосос контейнерний, Пылесос контейнерный, Domotec, Пилосос</keywords>
         <param name="Производитель">Domotec</param>
         <param name="Цвет корпуса">Синий</param>
         <param name="Страна производитель">Китай</param>
@@ -13896,7 +13819,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="613300" available="true">
-        <name>Кавомолка SeaBreeze SB-083, 200 Вт</name>
+        <name>Кавомолка SeaBreeze SB-083 200Вт</name>
         <categoryId>6300401</categoryId>
         <price>600</price>
         <currencyId>UAH</currencyId>
@@ -13933,15 +13856,15 @@
 </ul>]]></description>
         <keyword>Кавомолка SeaBreeze SB-083</keyword>
         <keyword>Кофемолка SeaBreeze SB-083</keyword>
-        <keyword>200 Вт</keyword>
+        <keyword>Кавомолка SeaBreeze SB-083 200Вт</keyword>
+        <keyword>Кофемолка SeaBreeze SB-083 200Вт</keyword>
         <keyword>Кавомолка SeaBreeze</keyword>
         <keyword>Кофемолка SeaBreeze</keyword>
         <keyword>Sea Breeze</keyword>
         <keyword>Кавомолка SeaBreeze SB-083 Sea Breeze</keyword>
         <keyword>Кофемолка SeaBreeze SB-083 Sea Breeze</keyword>
         <keyword>Кавомолка</keyword>
-        <keyword>Кофемолка</keyword>
-        <keywords>Кавомолка SeaBreeze SB-083, Кофемолка SeaBreeze SB-083, 200 Вт, Кавомолка SeaBreeze, Кофемолка SeaBreeze, Sea Breeze, Кавомолка SeaBreeze SB-083 Sea Breeze, Кофемолка SeaBreeze SB-083 Sea Breeze, Кавомолка, Кофемолка</keywords>
+        <keywords>Кавомолка SeaBreeze SB-083, Кофемолка SeaBreeze SB-083, Кавомолка SeaBreeze SB-083 200Вт, Кофемолка SeaBreeze SB-083 200Вт, Кавомолка SeaBreeze, Кофемолка SeaBreeze, Sea Breeze, Кавомолка SeaBreeze SB-083 Sea Breeze, Кофемолка SeaBreeze SB-083 Sea Breeze, Кавомолка</keywords>
         <param name="Производитель">Sea Breeze</param>
         <param name="Цвет корпуса">Черный</param>
         <param name="Материал">Нержавеющая сталь</param>
@@ -13954,7 +13877,7 @@
         <param name="Тип привода">Электропривод</param>
       </offer>
       <offer id="619363" available="false">
-        <name>Мультимейкер бутербродниця 6 в 1 Rainberg RB-2276 знімні форми з антипригарним покриттям 2200 Вт</name>
+        <name>Мультимейкер бутербродниця 6 в 1 Rainberg RB-2276 знімні форми з антипригарним покриттям 2200Вт</name>
         <categoryId>6300404</categoryId>
         <price>1450</price>
         <currencyId>UAH</currencyId>
@@ -14847,7 +14770,7 @@
         <param name="Триммер для окантовки">Нет</param>
       </offer>
       <offer id="634280" available="true">
-        <name>Фен професійний VGR V-440. Колір: зелений</name>
+        <name>Фен професійний VGR V-440 Green</name>
         <categoryId>617</categoryId>
         <price>1680</price>
         <currencyId>UAH</currencyId>
@@ -14906,15 +14829,15 @@
 </ul>]]></description>
         <keyword>Фен професійний VGR</keyword>
         <keyword>Фен профессиональный VGR</keyword>
+        <keyword>Фен професійний VGR V-440 Green</keyword>
+        <keyword>Фен профессиональный VGR V-440 Green</keyword>
         <keyword>Фен професійний VGR V-440</keyword>
         <keyword>Фен профессиональный VGR V-440</keyword>
         <keyword>Фен професійний</keyword>
         <keyword>Фен профессиональный</keyword>
         <keyword>Фен професійний VGR зелёный</keyword>
         <keyword>Фен профессиональный VGR зелёный</keyword>
-        <keyword>Фен професійний зелёный</keyword>
-        <keyword>Фен профессиональный зелёный</keyword>
-        <keywords>Фен професійний VGR, Фен профессиональный VGR, Фен професійний VGR V-440, Фен профессиональный VGR V-440, Фен професійний, Фен профессиональный, Фен професійний VGR зелёный, Фен профессиональный VGR зелёный, Фен професійний зелёный, Фен профессиональный зелёный</keywords>
+        <keywords>Фен професійний VGR, Фен профессиональный VGR, Фен професійний VGR V-440 Green, Фен профессиональный VGR V-440 Green, Фен професійний VGR V-440, Фен профессиональный VGR V-440, Фен професійний, Фен профессиональный, Фен професійний VGR зелёный, Фен профессиональный VGR зелёный</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Зелёный</param>
         <param name="Мощность фена">1400</param>
@@ -14930,7 +14853,7 @@
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="634281" available="true">
-        <name>Фен професійний VGR V-440. Колір: оранжевий</name>
+        <name>Фен професійний VGR V-440 1400Вт Orange</name>
         <categoryId>617</categoryId>
         <price>1680</price>
         <currencyId>UAH</currencyId>
@@ -14989,15 +14912,15 @@
 </ul>]]></description>
         <keyword>Фен професійний VGR</keyword>
         <keyword>Фен профессиональный VGR</keyword>
+        <keyword>Фен професійний VGR V-440 1400Вт Orange</keyword>
+        <keyword>Фен профессиональный VGR V-440 1400Вт Orange</keyword>
         <keyword>Фен професійний VGR V-440</keyword>
         <keyword>Фен профессиональный VGR V-440</keyword>
+        <keyword>Фен професійний VGR V-440 1400Вт</keyword>
+        <keyword>Фен профессиональный VGR V-440 1400Вт</keyword>
         <keyword>Фен професійний</keyword>
         <keyword>Фен профессиональный</keyword>
-        <keyword>Фен професійний VGR красный</keyword>
-        <keyword>Фен профессиональный VGR красный</keyword>
-        <keyword>Фен професійний красный</keyword>
-        <keyword>Фен профессиональный красный</keyword>
-        <keywords>Фен професійний VGR, Фен профессиональный VGR, Фен професійний VGR V-440, Фен профессиональный VGR V-440, Фен професійний, Фен профессиональный, Фен професійний VGR красный, Фен профессиональный VGR красный, Фен професійний красный, Фен профессиональный красный</keywords>
+        <keywords>Фен професійний VGR, Фен профессиональный VGR, Фен професійний VGR V-440 1400Вт Orange, Фен профессиональный VGR V-440 1400Вт Orange, Фен професійний VGR V-440, Фен профессиональный VGR V-440, Фен професійний VGR V-440 1400Вт, Фен профессиональный VGR V-440 1400Вт, Фен професійний, Фен профессиональный</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Красный</param>
         <param name="Мощность фена">1400</param>
@@ -15013,7 +14936,7 @@
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="634340" available="true">
-        <name>Фен стайлер для укладання та завивки волосся VGR V-497. Колір: жовтий</name>
+        <name>Фен стайлер для укладання та завивки волосся VGR V-497 Yellow</name>
         <categoryId>617</categoryId>
         <price>850</price>
         <currencyId>UAH</currencyId>
@@ -15079,7 +15002,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="634367" available="true">
-        <name>Епілятор VGR 2 до 1 V-758. Колір: жовтий</name>
+        <name>Епілятор VGR 2 до 1 V-758 Yellow</name>
         <categoryId>3314</categoryId>
         <price>690</price>
         <currencyId>UAH</currencyId>
@@ -15138,15 +15061,15 @@
 </ul>]]></description>
         <keyword>Епілятор VGR</keyword>
         <keyword>Эпилятор VGR</keyword>
-        <keyword>Епілятор VGR 2 до 1 V-758</keyword>
-        <keyword>Эпилятор VGR 2 в 1 V-758</keyword>
+        <keyword>Епілятор VGR 2 до 1 V-758 Yellow</keyword>
+        <keyword>Эпилятор VGR 2 в 1 V-758 Yellow</keyword>
         <keyword>Епілятор</keyword>
         <keyword>Эпилятор</keyword>
         <keyword>Епілятор VGR 2 эпилятор</keyword>
         <keyword>Эпилятор VGR 2 желтый</keyword>
         <keyword>Епілятор VGR эпилятор</keyword>
         <keyword>Эпилятор VGR желтый</keyword>
-        <keywords>Епілятор VGR, Эпилятор VGR, Епілятор VGR 2 до 1 V-758, Эпилятор VGR 2 в 1 V-758, Епілятор, Эпилятор, Епілятор VGR 2 эпилятор, Эпилятор VGR 2 желтый, Епілятор VGR эпилятор, Эпилятор VGR желтый</keywords>
+        <keywords>Епілятор VGR, Эпилятор VGR, Епілятор VGR 2 до 1 V-758 Yellow, Эпилятор VGR 2 в 1 V-758 Yellow, Епілятор, Эпилятор, Епілятор VGR 2 эпилятор, Эпилятор VGR 2 желтый, Епілятор VGR эпилятор, Эпилятор VGR желтый</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Желтый</param>
         <param name="Количество пинцетов">32</param>
@@ -15405,7 +15328,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="646816" available="true">
-        <name>Мультипіч ViLgrand VAF6017WDS</name>
+        <name>Мультипіч ViLgrand VAF6017WDS 1700Вт 6л</name>
         <categoryId>64306</categoryId>
         <price>3410</price>
         <currencyId>UAH</currencyId>
@@ -15461,18 +15384,21 @@
 </ul>]]></description>
         <keyword>Мультипіч ViLgrand VAF6017WDS</keyword>
         <keyword>Мультипечь ViLgrand VAF6017WDS</keyword>
+        <keyword>Мультипіч ViLgrand VAF6017WDS 1700Вт 6л</keyword>
+        <keyword>Мультипечь ViLgrand VAF6017WDS 1700Вт 6л</keyword>
+        <keyword>Мультипіч ViLgrand VAF6017WDS 1700Вт</keyword>
+        <keyword>Мультипечь ViLgrand VAF6017WDS 1700Вт</keyword>
         <keyword>Мультипіч ViLgrand</keyword>
         <keyword>Мультипечь ViLgrand</keyword>
         <keyword>Мультипіч</keyword>
         <keyword>Мультипечь</keyword>
-        <keyword>Мультипіч ViLgrand VAF6017WDS сенсорне</keyword>
-        <keyword>Мультипечь ViLgrand VAF6017WDS сенсорне</keyword>
-        <keyword>Мультипіч ViLgrand сенсорне</keyword>
-        <keyword>Мультипечь ViLgrand сенсорне</keyword>
-        <keywords>Мультипіч ViLgrand VAF6017WDS, Мультипечь ViLgrand VAF6017WDS, Мультипіч ViLgrand, Мультипечь ViLgrand, Мультипіч, Мультипечь, Мультипіч ViLgrand VAF6017WDS сенсорне, Мультипечь ViLgrand VAF6017WDS сенсорне, Мультипіч ViLgrand сенсорне, Мультипечь ViLgrand сенсорне</keywords>
+        <keywords>Мультипіч ViLgrand VAF6017WDS, Мультипечь ViLgrand VAF6017WDS, Мультипіч ViLgrand VAF6017WDS 1700Вт 6л, Мультипечь ViLgrand VAF6017WDS 1700Вт 6л, Мультипіч ViLgrand VAF6017WDS 1700Вт, Мультипечь ViLgrand VAF6017WDS 1700Вт, Мультипіч ViLgrand, Мультипечь ViLgrand, Мультипіч, Мультипечь</keywords>
         <param name="Виробник">ViLgrand</param>
         <param name="Тип управління">Сенсорне</param>
         <param name="Стан">Новий</param>
+        <param name="Споживана потужність">1700</param>
+        <param name="Країна виробник">Туреччина</param>
+        <param name="Гарантійний термін">24</param>
       </offer>
       <offer id="647256" available="true">
         <name>М&apos;ясорубка ViLgrand V304-SMG</name>
@@ -15535,7 +15461,7 @@
         <param name="Материал лотка">металл</param>
       </offer>
       <offer id="647582" available="true">
-        <name>Тостер DARIO DT1007 Black</name>
+        <name>Тостер DARIO DT1007 750Вт Black</name>
         <categoryId>639</categoryId>
         <price>800</price>
         <currencyId>UAH</currencyId>
@@ -15575,7 +15501,8 @@
 <li>Додатковий аксесуар: піддон для крихт</li>
 </ul>]]></description>
         <keyword>Тостер DARIO DT1007</keyword>
-        <keyword>Тостер DARIO DT1007 Black</keyword>
+        <keyword>Тостер DARIO DT1007 750Вт Black</keyword>
+        <keyword>Тостер DARIO DT1007 750Вт</keyword>
         <keyword>Тостер DARIO</keyword>
         <keyword>Dario</keyword>
         <keyword>Тостер</keyword>
@@ -15583,8 +15510,7 @@
         <keyword>Тостер DARIO бытовое</keyword>
         <keyword>Тостер DARIO DT1007 черный</keyword>
         <keyword>Тостер DARIO черный</keyword>
-        <keyword>Тостер DARIO DT1007 пластик</keyword>
-        <keywords>Тостер DARIO DT1007, Тостер DARIO DT1007 Black, Тостер DARIO, Dario, Тостер, Тостер DARIO DT1007 бытовое, Тостер DARIO бытовое, Тостер DARIO DT1007 черный, Тостер DARIO черный, Тостер DARIO DT1007 пластик</keywords>
+        <keywords>Тостер DARIO DT1007, Тостер DARIO DT1007 750Вт Black, Тостер DARIO DT1007 750Вт, Тостер DARIO, Dario, Тостер, Тостер DARIO DT1007 бытовое, Тостер DARIO бытовое, Тостер DARIO DT1007 черный, Тостер DARIO черный</keywords>
         <param name="Производитель">Dario</param>
         <param name="Материал корпуса">Пластик</param>
         <param name="Количество отделений">2</param>
@@ -15598,7 +15524,7 @@
         <param name="Цвет корпуса">Черный</param>
       </offer>
       <offer id="647585" available="true">
-        <name>Тостер VILGRAND VT0722P Green</name>
+        <name>Тостер VILGRAND VT0722P 750Вт Green</name>
         <categoryId>639</categoryId>
         <price>800</price>
         <currencyId>UAH</currencyId>
@@ -15634,7 +15560,8 @@
 <li><strong>Кількість ступенів обсмажування:<span>&nbsp;</span></strong>7.0</li>
 </ul>]]></description>
         <keyword>Тостер VILGRAND VT0722P</keyword>
-        <keyword>Тостер VILGRAND VT0722P Green</keyword>
+        <keyword>Тостер VILGRAND VT0722P 750Вт Green</keyword>
+        <keyword>Тостер VILGRAND VT0722P 750Вт</keyword>
         <keyword>Тостер VILGRAND</keyword>
         <keyword>Vilgrand</keyword>
         <keyword>Тостер</keyword>
@@ -15642,8 +15569,7 @@
         <keyword>Тостер VILGRAND бытовое</keyword>
         <keyword>Тостер VILGRAND VT0722P зелёный</keyword>
         <keyword>Тостер VILGRAND зелёный</keyword>
-        <keyword>Тостер VILGRAND VT0722P пластик</keyword>
-        <keywords>Тостер VILGRAND VT0722P, Тостер VILGRAND VT0722P Green, Тостер VILGRAND, Vilgrand, Тостер, Тостер VILGRAND VT0722P бытовое, Тостер VILGRAND бытовое, Тостер VILGRAND VT0722P зелёный, Тостер VILGRAND зелёный, Тостер VILGRAND VT0722P пластик</keywords>
+        <keywords>Тостер VILGRAND VT0722P, Тостер VILGRAND VT0722P 750Вт Green, Тостер VILGRAND VT0722P 750Вт, Тостер VILGRAND, Vilgrand, Тостер, Тостер VILGRAND VT0722P бытовое, Тостер VILGRAND бытовое, Тостер VILGRAND VT0722P зелёный, Тостер VILGRAND зелёный</keywords>
         <param name="Производитель">Vilgrand</param>
         <param name="Материал корпуса">Пластик</param>
         <param name="Количество отделений">2</param>
@@ -15657,7 +15583,7 @@
         <param name="Цвет корпуса">Зелёный</param>
       </offer>
       <offer id="647586" available="true">
-        <name>Тостер VILGRAND VT0722P Blue</name>
+        <name>Тостер VILGRAND VT0722P 750Вт Blue</name>
         <categoryId>639</categoryId>
         <price>800</price>
         <currencyId>UAH</currencyId>
@@ -15693,7 +15619,8 @@
 <li><strong>Кількість ступенів обсмажування:<span>&nbsp;</span></strong>7.0</li>
 </ul>]]></description>
         <keyword>Тостер VILGRAND VT0722P</keyword>
-        <keyword>Тостер VILGRAND VT0722P Blue</keyword>
+        <keyword>Тостер VILGRAND VT0722P 750Вт Blue</keyword>
+        <keyword>Тостер VILGRAND VT0722P 750Вт</keyword>
         <keyword>Тостер VILGRAND</keyword>
         <keyword>Vilgrand</keyword>
         <keyword>Тостер</keyword>
@@ -15701,8 +15628,7 @@
         <keyword>Тостер VILGRAND бытовое</keyword>
         <keyword>Тостер VILGRAND VT0722P голубой</keyword>
         <keyword>Тостер VILGRAND голубой</keyword>
-        <keyword>Тостер VILGRAND VT0722P пластик</keyword>
-        <keywords>Тостер VILGRAND VT0722P, Тостер VILGRAND VT0722P Blue, Тостер VILGRAND, Vilgrand, Тостер, Тостер VILGRAND VT0722P бытовое, Тостер VILGRAND бытовое, Тостер VILGRAND VT0722P голубой, Тостер VILGRAND голубой, Тостер VILGRAND VT0722P пластик</keywords>
+        <keywords>Тостер VILGRAND VT0722P, Тостер VILGRAND VT0722P 750Вт Blue, Тостер VILGRAND VT0722P 750Вт, Тостер VILGRAND, Vilgrand, Тостер, Тостер VILGRAND VT0722P бытовое, Тостер VILGRAND бытовое, Тостер VILGRAND VT0722P голубой, Тостер VILGRAND голубой</keywords>
         <param name="Производитель">Vilgrand</param>
         <param name="Материал корпуса">Пластик</param>
         <param name="Количество отделений">2</param>
@@ -15790,7 +15716,7 @@
         <param name="Тип пылесборника">Контейнер</param>
       </offer>
       <offer id="658542" available="true">
-        <name>Аерофрітюрниця для дому з таймером Rainberg RB-2242 на 6 л безмасляна фритюрниця 3800 Вт. Колір: чорний</name>
+        <name>Аерофрітюрниця для дому з таймером Rainberg RB-2242 на 6л безмасляна фритюрниця 3800Вт Black</name>
         <categoryId>64306</categoryId>
         <price>1960</price>
         <currencyId>UAH</currencyId>
@@ -16128,56 +16054,6 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="681611" available="false">
-        <name>Комплект VGR 2 в 1 V-977 V-377 RED</name>
-        <categoryId>28290204</categoryId>
-        <price>3250</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws88667-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/regdsgdsgsdfdsafse.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reviiifaui.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvappfi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revappfi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvipkif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reavivauiuif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reivapivpii.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revappiviuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reviapivifiu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revappuifu.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Професійний набір VGR V-977 та V-377 забезпечує точний догляд. Оснащений лезами з DLC-покриттям, подвійними титановими фольгами та потужними двигунами (6000-9000 об/хв), він забезпечує плавну роботу. Цей універсальний комбінований набір має 21 рівень швидкості, світлодіодні дисплеї та функцію роботи як від мережі, так і від бездротової. Завдяки довговічним батареям (300 хвилин для тримера, 140 хвилин для бритви) та аксесуарам, що входять до комплекту, таким як насадки-гребінці, мастило та USB-зарядна база, він забезпечує зручність та ефективність в одному портативному пакеті. Компанія VGR, якій довіряють професіонали, встановлює нові стандарти догляду за собою.</p>
-<p>Професійний перукарський комбінований пристрій VGR V-977 &amp; V-377 &mdash; це ідеальний набір для догляду, розроблений для тих, хто прагне точності та ефективності. Тример оснащений лезами з DLC-покриттям і потужним двигуном 6000-8000 об/хв, а бритва &ndash; подвійними титановими сітками та двигуном 7000-9000 об/хв, що забезпечує плавний та точний догляд. Цей набір пропонує 21-й регульований рівень швидкості, інтелектуальні світлодіодні дисплеї та можливість роботи як від мережі, так і бездротової для максимальної гнучкості.</p>
-<p>Завдяки літієвій батареї ємністю 2500 мАг у триммері та літієвій батареї ємністю 1400 мАч у бритві, набір забезпечує тривалий час роботи (до 300 хвилин для тримера та 140 хвилин для бритви). Комплект поставляється з набором аксесуарів, включаючи насадки-гребінці (1,5/3/4,5/6 мм), гумову ручку, мастило та зарядну базу USB Type-C, що робить її зручною та портативною.</p>
-<p>Обидва пристрої підтримують турбо-режим, мають блокування для подорожей та індикатори стану батареї.</p>
-<h3><strong>VGR V-977 (тріммер):</strong></h3>
-<ul>
-<li>Леза з покриттям DLC</li>
-<li>Потужність: 6000-8000 об/хв</li>
-<li>Акумулятор: 2500 мАг</li>
-<li>Термін роботи: до 300 хв</li>
-<li>Час заряджання: &asymp;3,5 години</li>
-</ul>
-<h2><strong>VGR V-377 (бритва):</strong></h2>
-<ul>
-<li>Подвійна титанова фольга</li>
-<li>Потужність: 7000-9000 об/хв</li>
-<li>Акумулятор: 1400 мАг</li>
-<li>Термін роботи: до 140 хв</li>
-<li>Заряджання: USB Type-C</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Тример VGR V-977</li>
-<li>Шейвер VGR V-377</li>
-<li>Набір аксесуарів</li>
-<li>Інструкція</li>
-<li>Фірмова упаковка</li>
-</ul>]]></description>
-        <keyword>Комплект VGR</keyword>
-        <keyword>Комплект VGR 2 в 1 V-977 V-377 RED</keyword>
-        <keyword>Комплект</keyword>
-        <keywords>Комплект VGR, Комплект VGR 2 в 1 V-977 V-377 RED, Комплект</keywords>
-      </offer>
       <offer id="681612" available="true">
         <name>Комплект VGR 2 в 1 V-977 V-377 GOLD</name>
         <categoryId>28290204</categoryId>
@@ -16383,7 +16259,7 @@
         <param name="Триммер для окантовки">Нет</param>
       </offer>
       <offer id="681646" available="true">
-        <name>Електрична фен-щітка VGR V-489 стайлер для укладання волосся 1300 Вт. Колір: синій</name>
+        <name>Електрична фен-щітка VGR V-489 стайлер для укладання волосся 1300Вт Blue</name>
         <categoryId>617</categoryId>
         <price>2180</price>
         <currencyId>UAH</currencyId>
@@ -16509,7 +16385,7 @@
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="686631" available="true">
-        <name>Блендер Dario DB0847</name>
+        <name>Блендер Dario DB0847 800Вт</name>
         <categoryId>64301</categoryId>
         <price>1150</price>
         <currencyId>UAH</currencyId>
@@ -16553,6 +16429,7 @@
 <li>Маса (нетто/брутто): 1,057 / 1,137 кг</li>
 <li>Габаритні розміри виробу: 65<br />]]></description>
         <keyword>Блендер Dario DB0847</keyword>
+        <keyword>Блендер Dario DB0847 800Вт</keyword>
         <keyword>Блендер Dario</keyword>
         <keyword>Dario</keyword>
         <keyword>Блендер</keyword>
@@ -16561,8 +16438,7 @@
         <keyword>Блендер Dario DB0847 пластик</keyword>
         <keyword>Блендер Dario пластик</keyword>
         <keyword>Блендер Dario DB0847 погружной</keyword>
-        <keyword>Блендер Dario погружной</keyword>
-        <keywords>Блендер Dario DB0847, Блендер Dario, Dario, Блендер, Блендер Dario DB0847 черный, Блендер Dario черный, Блендер Dario DB0847 пластик, Блендер Dario пластик, Блендер Dario DB0847 погружной, Блендер Dario погружной</keywords>
+        <keywords>Блендер Dario DB0847, Блендер Dario DB0847 800Вт, Блендер Dario, Dario, Блендер, Блендер Dario DB0847 черный, Блендер Dario черный, Блендер Dario DB0847 пластик, Блендер Dario пластик, Блендер Dario DB0847 погружной</keywords>
         <param name="Производитель">Dario</param>
         <param name="Потребляемая мощность">800</param>
         <param name="Цвет">Черный</param>
@@ -16577,7 +16453,7 @@
         <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="686926" available="true">
-        <name>Фен Vilgrand VHD-2430 Колір: червоний</name>
+        <name>Фен Vilgrand VHD-2430 Red</name>
         <categoryId>617</categoryId>
         <price>880</price>
         <currencyId>UAH</currencyId>
@@ -16630,13 +16506,12 @@
 <li>Гарантія: 24 місяці</li>
 </ul>]]></description>
         <keyword>Фен Vilgrand VHD-2430</keyword>
-        <keyword>Фен Vilgrand VHD-2430 Колір: червоний</keyword>
+        <keyword>Фен Vilgrand VHD-2430 Red</keyword>
         <keyword>Фен Vilgrand</keyword>
-        <keyword>Фен Vilgrand VHD-2430 Колір</keyword>
         <keyword>Vilgrand</keyword>
         <keyword>Фен Vilgrand VHD-2430 красный</keyword>
         <keyword>Фен Vilgrand красный</keyword>
-        <keywords>Фен Vilgrand VHD-2430, Фен Vilgrand VHD-2430 Колір: червоний, Фен Vilgrand, Фен Vilgrand VHD-2430 Колір, Vilgrand, Фен Vilgrand VHD-2430 красный, Фен Vilgrand красный</keywords>
+        <keywords>Фен Vilgrand VHD-2430, Фен Vilgrand VHD-2430 Red, Фен Vilgrand, Vilgrand, Фен Vilgrand VHD-2430 красный, Фен Vilgrand красный</keywords>
         <param name="Производитель">Vilgrand</param>
         <param name="Цвет корпуса">Красный</param>
         <param name="Мощность фена">2400</param>
@@ -16651,7 +16526,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="686940" available="true">
+      <offer id="686940" available="false">
         <name>Фен VILGRAND VHD 2424TI. Цвет: бежевий</name>
         <categoryId>617</categoryId>
         <price>920</price>
@@ -16667,7 +16542,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivarvrvkviiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivaripvpvifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reviarivrpifp.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Фен ViLgrand VHD-2424TI Blue дозволяє максимально швидко висушити волосся та зробити ефектне укладання. Негативні іони, багаторазово посилені Турмаліном, нейтралізують електростатичну напругу на волоссі, зберігаючи його внутрішню вологу. Тим самим волосся стає більш слухняним і блискучим.</p>
 <p>Корпус фена ViLgrand VHD-2424TI Blue містить потужний і надійний мотор 2400 Вт, який створює потоки теплого повітря в двох швидкісних і трьох температурних режимах. Функціональність виробу також підвищується комплектною насадкою-концентратором та дифузором.</p>
 <ul>
@@ -17230,6 +17105,12 @@
         <param name="Виробник">VGR</param>
         <param name="Країна виробник">Китай</param>
         <param name="Стан">Новий</param>
+        <param name="Тип приладу">Універсальна машинка для стрижки</param>
+        <param name="Дитяча/тиха стрижка">Так</param>
+        <param name="Кількість насадок">6</param>
+        <param name="Мінімальна довжина стрижки">0.1</param>
+        <param name="Максимальна довжина підстригання">12</param>
+        <param name="Тример для окантовки">Так</param>
       </offer>
       <offer id="692063" available="true">
         <name>Акумуляторна машинка для стрижки VGR V-662 Колір: золотий</name>
@@ -19045,7 +18926,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uapuyvaauayfvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uayvpuayfvuyvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvfyyaaucfyauyvf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Не кожен має можливість і необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку.</p>
 <p>За допомогою такого компактного кухонного приладу, як Domotec MS-5531, ви зможете запросто приготувати собі їжу на поточний день.<br />Маленька, компактна та дуже практична підійде для розігріву їжі та приготування в побутових умовах. Корпус виробу металевий покритий емаллю. Плита має одну електро конфорку дискову з відкритим типом спірального нагрівального елемента.</p>
 <p>Споживана потужність, регулювання якої здійснюється терморегулятором на передній частині корпусу. Плита має захист від перегріву. Ніжки з гумовою основою забезпечують хорошу стійкість на поверхні. Індикатор роботи світиться під час роботи</p>
@@ -19997,7 +19878,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="232309" available="true">
-        <name>Праска Magio MG-134 2400 Вт, парова праска-очисник, праска електрична парова. Колір: бежевий</name>
+        <name>Праска Magio MG-134 2400 Вт, парова праска-очисник, праска електрична парова Beige</name>
         <categoryId>609</categoryId>
         <price>1230</price>
         <currencyId>UAH</currencyId>
@@ -20038,11 +19919,11 @@
         <keyword>Утюг Magio MG-134 2400 Вт</keyword>
         <keyword>парова праска-очисник</keyword>
         <keyword>паровой утюг-очиститель</keyword>
-        <keyword>праска електрична парова</keyword>
-        <keyword>утюг электрический паровой</keyword>
+        <keyword>праска електрична парова Beige</keyword>
+        <keyword>утюг электрический паровой Beige</keyword>
         <keyword>Праска Magio</keyword>
         <keyword>Утюг Magio</keyword>
-        <keywords>Праска Magio MG-134, Утюг Magio MG-134, Праска Magio MG-134 2400 Вт, Утюг Magio MG-134 2400 Вт, парова праска-очисник, паровой утюг-очиститель, праска електрична парова, утюг электрический паровой, Праска Magio, Утюг Magio</keywords>
+        <keywords>Праска Magio MG-134, Утюг Magio MG-134, Праска Magio MG-134 2400 Вт, Утюг Magio MG-134 2400 Вт, парова праска-очисник, паровой утюг-очиститель, праска електрична парова Beige, утюг электрический паровой Beige, Праска Magio, Утюг Magio</keywords>
         <param name="Производитель">Magio</param>
         <param name="Цвет">Коричневый</param>
         <param name="Цвет корпуса">Коричневый</param>
@@ -20220,8 +20101,69 @@
         <param name="Тип управления">Механическое</param>
         <param name="Цвет корпуса">Белый</param>
       </offer>
+      <offer id="254609" available="true">
+        <name>Тостер Magio MG-285, універсальний тостер, тостер кухонний, тостери для дому, тостер для кухні побутовий</name>
+        <categoryId>639</categoryId>
+        <price>1900</price>
+        <currencyId>UAH</currencyId>
+        <vendorCode>ws89882</vendorCode>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/eadsffrewads.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwdas.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucvyaapekcu.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvaucfyv.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/yvapeuyavau.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3wdsffgrdas.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwadsffgrwads.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwads.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwasd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/ewqdasfrweads.jpg</picture>
+        <quantity_in_stock>3</quantity_in_stock>
+        <description><![CDATA[<p>Тостер MG-285 поєднує в собі стильний лаконічний дизайн і функціональність, забезпечуючи комфортне та зручне приготування тостів на кухні. Потужність 715 Вт дозволяє рівномірно і швидко підрум&#8217;янити хліб, а продумані режими забезпечують індивідуальний підхід до кожного сніданку.</p>
+<h2>Переваги використання</h2>
+<ul>
+<li>Потужність 715 Вт гарантує швидкий і рівномірний нагрів</li>
+<li>7 режимів підсмажування для оптимальної ступені засмаження</li>
+<li>Функція розморожування дозволяє використовувати заморожений хліб без втрати якості</li>
+<li>Автоматичне викидання тостів звільняє від необхідності слідкувати за процесом</li>
+<li>Піддон для крихт спрощує прибирання і підтримує чистоту на кухні</li>
+<li>Лаконічний дизайн легко вписується у будь-який інтер’єр</li>
+</ul>
+<h2>Де буде максимально ефективним</h2>
+<p>Тостер MG-285 ідеально підходить для домашнього використання, забезпечуючи зручність та економію часу на приготування сніданків. Він стане відмінним помічником у квартирах, заміських будинках та офісних кухнях, де цінується поєднання практичності і стильного зовнішнього вигляду. Завдяки різноманіттю режимів підсмажування пристрій підходить для різного типу хліба, а функція розморожування розширює можливості використання продукту.</p>
+<h2>Характеристики</h2>
+<ul>
+<li>Потужність: 715 Вт</li>
+<li>Кількість режимів підсмажування: 7</li>
+<li>Функція розморожування: є</li>
+<li>Автоматичне викидання тостів: передбачено</li>
+<li>Піддон для крихт: вбудований, знімний</li>
+<li>Дизайн: лаконічний, сучасний</li>
+</ul>]]></description>
+        <keyword>Тостер Magio MG-285</keyword>
+        <keyword>універсальний тостер</keyword>
+        <keyword>универсальный тостер</keyword>
+        <keyword>тостер кухонний</keyword>
+        <keyword>тостер кухонный</keyword>
+        <keyword>тостери для дому</keyword>
+        <keyword>тостеры для дома</keyword>
+        <keyword>тостер для кухні побутовий</keyword>
+        <keyword>тостер для кухни бытовой</keyword>
+        <keyword>Тостер Magio</keyword>
+        <keywords>Тостер Magio MG-285, універсальний тостер, универсальный тостер, тостер кухонний, тостер кухонный, тостери для дому, тостеры для дома, тостер для кухні побутовий, тостер для кухни бытовой, Тостер Magio</keywords>
+        <param name="Производитель">Magio</param>
+        <param name="Материал корпуса">Нержавеющая сталь</param>
+        <param name="Количество отделений">2</param>
+        <param name="Количество тостов">2</param>
+        <param name="Источник питания">Электричество</param>
+        <param name="Назначение">Бытовое</param>
+        <param name="Номинальное напряжение">220 В</param>
+        <param name="Регулировка степени обжаривания">Да</param>
+        <param name="Состояние">Новое</param>
+        <param name="Тип управления">Механическое</param>
+        <param name="Цвет корпуса">Коричневый</param>
+      </offer>
       <offer id="254616" available="true">
-        <name>Тостер Magio MG-286, тостер для 2 грінок, електричний горизонтальний тостер</name>
+        <name>Тостер Magio MG-286 тостер для 2 грінок електричний горизонтальний тостер</name>
         <categoryId>639</categoryId>
         <price>1900</price>
         <currencyId>UAH</currencyId>
@@ -20251,16 +20193,16 @@
 <li>Піддон для крихт</li>
 </ul>]]></description>
         <keyword>Тостер Magio MG-286</keyword>
-        <keyword>тостер для 2 грінок</keyword>
-        <keyword>тостер для 2 гренок</keyword>
-        <keyword>електричний горизонтальний тостер</keyword>
-        <keyword>электрический горизонтальный тостер</keyword>
+        <keyword>Тостер Magio MG-286 тостер для 2 грінок</keyword>
+        <keyword>Тостер Magio MG-286 тостер для 2 гренок</keyword>
+        <keyword>Тостер Magio MG-286 тостер</keyword>
         <keyword>Тостер Magio</keyword>
         <keyword>Magio</keyword>
         <keyword>Тостер</keyword>
         <keyword>Тостер Magio MG-286 бытовое</keyword>
         <keyword>Тостер Magio бытовое</keyword>
-        <keywords>Тостер Magio MG-286, тостер для 2 грінок, тостер для 2 гренок, електричний горизонтальний тостер, электрический горизонтальный тостер, Тостер Magio, Magio, Тостер, Тостер Magio MG-286 бытовое, Тостер Magio бытовое</keywords>
+        <keyword>Тостер Magio MG-286 красный</keyword>
+        <keywords>Тостер Magio MG-286, Тостер Magio MG-286 тостер для 2 грінок, Тостер Magio MG-286 тостер для 2 гренок, Тостер Magio MG-286 тостер, Тостер Magio, Magio, Тостер, Тостер Magio MG-286 бытовое, Тостер Magio бытовое, Тостер Magio MG-286 красный</keywords>
         <param name="Производитель">Magio</param>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Количество отделений">2</param>
@@ -20639,7 +20581,7 @@
         <param name="Функция автоотключения">Да</param>
       </offer>
       <offer id="266167" available="true">
-        <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200 Вт Gray</name>
+        <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200Вт Gray</name>
         <categoryId>640</categoryId>
         <price>640</price>
         <currencyId>UAH</currencyId>
@@ -20690,13 +20632,13 @@
         <keyword>Электрочайник Rainberg RB-2220</keyword>
         <keyword>Електрочайник Rainberg RB-2220 скляний дисковий</keyword>
         <keyword>Электрочайник Rainberg RB-2220 стеклянный</keyword>
-        <keyword>Чайник із підсвічуванням 2200 Вт Gray</keyword>
+        <keyword>Чайник із підсвічуванням 2200Вт Gray</keyword>
         <keyword>дисковый прозрачный</keyword>
         <keyword>Електрочайник Rainberg RB-2220 скляний</keyword>
-        <keyword>Чайник с подсветкой 2200 Вт Gray</keyword>
+        <keyword>Чайник с подсветкой 2200Вт Gray</keyword>
         <keyword>Електрочайник Rainberg</keyword>
         <keyword>Электрочайник Rainberg</keyword>
-        <keywords>Електрочайник Rainberg RB-2220, Электрочайник Rainberg RB-2220, Електрочайник Rainberg RB-2220 скляний дисковий, Электрочайник Rainberg RB-2220 стеклянный, Чайник із підсвічуванням 2200 Вт Gray, дисковый прозрачный, Електрочайник Rainberg RB-2220 скляний, Чайник с подсветкой 2200 Вт Gray, Електрочайник Rainberg, Электрочайник Rainberg</keywords>
+        <keywords>Електрочайник Rainberg RB-2220, Электрочайник Rainberg RB-2220, Електрочайник Rainberg RB-2220 скляний дисковий, Электрочайник Rainberg RB-2220 стеклянный, Чайник із підсвічуванням 2200Вт Gray, дисковый прозрачный, Електрочайник Rainberg RB-2220 скляний, Чайник с подсветкой 2200Вт Gray, Електрочайник Rainberg, Электрочайник Rainberg</keywords>
         <param name="Цвет корпуса">Серый</param>
         <param name="Производитель">Rainberg</param>
         <param name="Объем">2</param>
@@ -20853,7 +20795,7 @@
         <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="291227" available="true">
-        <name>Електром&apos;ясорубка Suntera SMG-5420B 1800 Вт, електром&apos;ясорубка соковитискач для томатів, м&apos;ясорубка для дому</name>
+        <name>Електром&apos;ясорубка Suntera SMG-5420B 1800Вт, електром&apos;ясорубка соковитискач для томатів, м&apos;ясорубка для дому</name>
         <categoryId>63005</categoryId>
         <price>2910</price>
         <currencyId>UAH</currencyId>
@@ -20893,15 +20835,15 @@
 </ul>]]></description>
         <keyword>Електром&apos;ясорубка Suntera SMG-5420B</keyword>
         <keyword>Электромясорубка Suntera SMG-5420B</keyword>
-        <keyword>Електром&apos;ясорубка Suntera SMG-5420B 1800 Вт</keyword>
-        <keyword>Электромясорубка Suntera SMG-5420B 1800 Вт</keyword>
+        <keyword>Електром&apos;ясорубка Suntera SMG-5420B 1800Вт</keyword>
+        <keyword>Электромясорубка Suntera SMG-5420B 1800Вт</keyword>
         <keyword>електром&apos;ясорубка соковитискач для томатів</keyword>
         <keyword>электромясорубка соковыжималка для томатов</keyword>
         <keyword>м&apos;ясорубка для дому</keyword>
         <keyword>мясорубка для дома</keyword>
         <keyword>Електром&apos;ясорубка Suntera</keyword>
         <keyword>Электромясорубка Suntera</keyword>
-        <keywords>Електром&apos;ясорубка Suntera SMG-5420B, Электромясорубка Suntera SMG-5420B, Електром&apos;ясорубка Suntera SMG-5420B 1800 Вт, Электромясорубка Suntera SMG-5420B 1800 Вт, електром&apos;ясорубка соковитискач для томатів, электромясорубка соковыжималка для томатов, м&apos;ясорубка для дому, мясорубка для дома, Електром&apos;ясорубка Suntera, Электромясорубка Suntera</keywords>
+        <keywords>Електром&apos;ясорубка Suntera SMG-5420B, Электромясорубка Suntera SMG-5420B, Електром&apos;ясорубка Suntera SMG-5420B 1800Вт, Электромясорубка Suntera SMG-5420B 1800Вт, електром&apos;ясорубка соковитискач для томатів, электромясорубка соковыжималка для томатов, м&apos;ясорубка для дому, мясорубка для дома, Електром&apos;ясорубка Suntera, Электромясорубка Suntera</keywords>
         <param name="Производитель">Suntera</param>
         <param name="Номинальная мощность">1800</param>
         <param name="Цвет корпуса">Черный</param>
@@ -20914,7 +20856,7 @@
         <param name="Материал лотка">металл</param>
       </offer>
       <offer id="291269" available="true">
-        <name>Гриль притискний Rainberg RB-5413 терморегулятор антипригарний 3200 Вт нержавіюча сталь</name>
+        <name>Гриль притискний Rainberg RB-5413 терморегулятор антипригарний 3200Вт нержавіюча сталь</name>
         <categoryId>6300404</categoryId>
         <price>1730</price>
         <currencyId>UAH</currencyId>
@@ -20979,77 +20921,6 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="291294" available="false">
-        <name>Мультиварка пароварка Rainberg RB-6209 45 програм 6л 1000W, Сенсорна мультиварка рисоварка</name>
-        <categoryId>606</categoryId>
-        <price>1900</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws28644</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfviakucvif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ufviakcuvifavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/CVIAAKUCIVFAAVI.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/cjFIVAUKCVIFAAVI.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ufivakucvffvai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfyvakucfyvavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvauvyfavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/jfyvucfvvyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvaaukcyfvafvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvucvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Мультиварка Rainberg RB-6209</strong> це простий і зрозумілий кухонний прилад, який призначений для готування страв різними способами обробки. Управління електронне і дуже просте &ndash; для кожної програми існує власна кнопка, інформація, а також годинник відображається на рідкокристалічному дисплеї. Вашу улюблену страву Ви зможете приготувати в мультиварці Rainberg Німеччина якнайкраще завдяки рівномірному нагріванню їжі. Продукти в мультиварці прогріваються рівномірно з усіх боків &#8211; знизу, з боків та зверху. У мультиварці використовується LED-дисплей, який робить керування та роботу з нею зручним та простим процесом. Навчитися управлінню мультиваркою не важко навіть людям з мінімальним досвідом у використанні побутової техніки.</p>
-<p><strong>Основні характеристики</strong></p>
-<ul>
-<li>Потужність 1000 Вт;</li>
-<li>Об&#8217;єм чаші 5 л;</li>
-<li>Кількість програм 45;</li>
-<li>Дисплей є.</li>
-<li>Мультикомп&#8217;ютерний контроль</li>
-<li>Режими: рис, плов, варіння експрес, суп, розігрів, пара, випічка/хліб, каша, гасіння, смаження, стерилізація.</li>
-</ul>
-<p><strong>Додаткові характеристики</strong></p>
-<ul>
-<li>Пароварка</li>
-<li>Рисоварка</li>
-<li>Автопідігрів;</li>
-<li>Ручний режим</li>
-<li>Управління електронне;</li>
-<li>Внутрішнє покриття каструлі -антипригарне;</li>
-<li>Таймер відстрочки приготування є, 24-годинний;</li>
-<li>Програми приготування;</li>
-</ul>
-<p><strong>Особливості</strong></p>
-<ul>
-<li>Напруга: 220-240 В / 50 Гц;</li>
-<li>Клас захисту II;</li>
-<li>Дисплей: цифровий LED;</li>
-<li>Технологія приготування: теплова обробка без тиску;</li>
-<li>Функція підтримання температури готових страв: до 24 годин;</li>
-<li>Функція розігріву страв: до 24 год.</li>
-</ul>]]></description>
-        <keyword>Мультиварка пароварка Rainberg</keyword>
-        <keyword>Мультиварка пароварка Rainberg RB-6209 45 програм</keyword>
-        <keyword>Мультиварка пароварка Rainberg RB-6209</keyword>
-        <keyword>Сенсорна мультиварка рисоварка</keyword>
-        <keyword>Сенсорная мультиварка рисоварка</keyword>
-        <keyword>Мультиварка пароварка</keyword>
-        <keyword>Rainberg</keyword>
-        <keyword>Мультиварка</keyword>
-        <keyword>Мультиварка пароварка скороварка/мультиварка</keyword>
-        <keyword>Мультиварка пароварка Rainberg бытовое</keyword>
-        <keywords>Мультиварка пароварка Rainberg, Мультиварка пароварка Rainberg RB-6209 45 програм, Мультиварка пароварка Rainberg RB-6209, Сенсорна мультиварка рисоварка, Сенсорная мультиварка рисоварка, Мультиварка пароварка, Rainberg, Мультиварка, Мультиварка пароварка скороварка/мультиварка, Мультиварка пароварка Rainberg бытовое</keywords>
-        <param name="Производитель">Rainberg</param>
-        <param name="Объем">6</param>
-        <param name="Потребляемая мощность">1000</param>
-        <param name="Назначение">Бытовое</param>
-        <param name="Тип прибора">Скороварка/мультиварка</param>
-        <param name="Тип управления">Сенсорное</param>
-        <param name="Покрытие чаши">Покрытие чаши</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Цвет корпуса">Серебристый</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="291315" available="false">
         <name>Електрична м&apos;ясорубка Rainberg RB-677 2600 Вт з насадкою для ковбас, м&apos;ясорубка з металевим редуктором</name>
         <categoryId>63005</categoryId>
@@ -21107,14 +20978,14 @@
         <keyword>Електрична м&apos;ясорубка Rainberg</keyword>
         <keyword>Электрическая мясорубка Rainberg</keyword>
         <keyword>Електрична м&apos;ясорубка Rainberg RB-677 2600 Вт</keyword>
-        <keyword>Электрическая мясорубка Rainberg RB-677 2600 Вт</keyword>
+        <keyword>Электрическая мясорубка Rainberg RB-677 2600Вт</keyword>
         <keyword>м&apos;ясорубка з металевим редуктором</keyword>
         <keyword>мясорубка с металлическим редуктором</keyword>
         <keyword>Електрична м&apos;ясорубка Rainberg RB-677</keyword>
         <keyword>Электрическая мясорубка Rainberg RB-677</keyword>
         <keyword>Електрична м&apos;ясорубка</keyword>
         <keyword>Электрическая мясорубка</keyword>
-        <keywords>Електрична м&apos;ясорубка Rainberg, Электрическая мясорубка Rainberg, Електрична м&apos;ясорубка Rainberg RB-677 2600 Вт, Электрическая мясорубка Rainberg RB-677 2600 Вт, м&apos;ясорубка з металевим редуктором, мясорубка с металлическим редуктором, Електрична м&apos;ясорубка Rainberg RB-677, Электрическая мясорубка Rainberg RB-677, Електрична м&apos;ясорубка, Электрическая мясорубка</keywords>
+        <keywords>Електрична м&apos;ясорубка Rainberg, Электрическая мясорубка Rainberg, Електрична м&apos;ясорубка Rainberg RB-677 2600 Вт, Электрическая мясорубка Rainberg RB-677 2600Вт, м&apos;ясорубка з металевим редуктором, мясорубка с металлическим редуктором, Електрична м&apos;ясорубка Rainberg RB-677, Электрическая мясорубка Rainberg RB-677, Електрична м&apos;ясорубка, Электрическая мясорубка</keywords>
         <param name="Производитель">Rainberg</param>
         <param name="Номинальная мощность">2600</param>
         <param name="Цвет корпуса">Черный</param>
@@ -22387,7 +22258,7 @@
         <param name="Материал">Пластик</param>
         <param name="Питание">Сеть 220В</param>
       </offer>
-      <offer id="374676" available="true">
+      <offer id="374676" available="false">
         <name>Дисковий електричний чайник Rainberg RB-709 2Л 2200Вт скляний із підсвічуванням, безшумний чайник Black</name>
         <categoryId>640</categoryId>
         <price>800</price>
@@ -22402,7 +22273,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewdsrwedfeasdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwdsferfdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wsaferwfed.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електричний дисковий чайник Rainberg RB-709 — це поєднання функціональності, безпеки та зручності. Його сучасні технічні рішення дозволяють швидко та ефективно нагрівати воду, мінімізуючи ризики та забезпечуючи комфорт у повсякденному використанні. Завдяки скляному корпусу ви завжди бачите рівень води, а інтуїтивні індикатори сповіщають про роботу приладу. Це ідеальне рішення для дому, офісу або дачі.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -24737,7 +24608,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="585742" available="false">
+      <offer id="585742" available="true">
         <name>Електрична турка для кави Marado MA-1625, Побутова турка, Бюджетна турка. Колір: коричневий</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
@@ -24752,7 +24623,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypvyrkry.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/varkvypvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krvakvayrkyvreky.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу&#8230; і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) &#8211; один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву &#8211; для вас та ваших близьких!</p>
@@ -25012,7 +24883,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="613169" available="true">
-        <name>Електрогриль RAF R.2683</name>
+        <name>Електрогриль RAF R.2683 2000Вт</name>
         <categoryId>6300404</categoryId>
         <price>1730</price>
         <currencyId>UAH</currencyId>
@@ -25053,15 +24924,15 @@
 </ul>]]></description>
         <keyword>Електрогриль RAF R.2683</keyword>
         <keyword>Электрогриль RAF R.2683</keyword>
+        <keyword>Електрогриль RAF R.2683 2000Вт</keyword>
+        <keyword>Электрогриль RAF R.2683 2000Вт</keyword>
         <keyword>Електрогриль RAF</keyword>
         <keyword>Электрогриль RAF</keyword>
         <keyword>Електрогриль</keyword>
         <keyword>Электрогриль</keyword>
         <keyword>Електрогриль RAF R.2683 бутербродница</keyword>
         <keyword>Электрогриль RAF R.2683 бутербродница</keyword>
-        <keyword>Електрогриль RAF бутербродница</keyword>
-        <keyword>Электрогриль RAF бутербродница</keyword>
-        <keywords>Електрогриль RAF R.2683, Электрогриль RAF R.2683, Електрогриль RAF, Электрогриль RAF, Електрогриль, Электрогриль, Електрогриль RAF R.2683 бутербродница, Электрогриль RAF R.2683 бутербродница, Електрогриль RAF бутербродница, Электрогриль RAF бутербродница</keywords>
+        <keywords>Електрогриль RAF R.2683, Электрогриль RAF R.2683, Електрогриль RAF R.2683 2000Вт, Электрогриль RAF R.2683 2000Вт, Електрогриль RAF, Электрогриль RAF, Електрогриль, Электрогриль, Електрогриль RAF R.2683 бутербродница, Электрогриль RAF R.2683 бутербродница</keywords>
         <param name="Производитель">RAF</param>
         <param name="Цвет корпуса">Серебристый</param>
         <param name="Тип прибора">Бутербродница</param>
@@ -25073,7 +24944,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="627634" available="true">
-        <name>Електрочайник Magio MG-515, 1.5 л, 1500 Вт, з подвійними стінками та регулюванням температури</name>
+        <name>Електрочайник Magio MG-515 1.5л 1500Вт з подвійними стінками та регулюванням температури</name>
         <categoryId>640</categoryId>
         <price>1620</price>
         <currencyId>UAH</currencyId>
@@ -25109,15 +24980,15 @@
 <p><strong>Magio MG-518</strong><span>&nbsp;</span>&ndash; це стиль, зручність та інноваційні технології для вашого щоденного комфорту!</p>]]></description>
         <keyword>Електрочайник Magio MG-515</keyword>
         <keyword>Электрочайник Magio MG-515</keyword>
-        <keyword>1500 Вт</keyword>
-        <keyword>з подвійними стінками та регулюванням температури</keyword>
-        <keyword>с двойными стенками и регулировкой температуры</keyword>
+        <keyword>Електрочайник Magio MG-515 1.5л 1500Вт</keyword>
+        <keyword>Электрочайник Magio MG-515 1.5л 1500Вт с двойными</keyword>
+        <keyword>Електрочайник Magio MG-515 1.5л</keyword>
+        <keyword>Электрочайник Magio MG-515 1.5л</keyword>
         <keyword>Електрочайник Magio</keyword>
-        <keyword>Электрочайник Magio</keyword>
+        <keyword>Электрочайник Magio MG-515 1.5л 1500Вт</keyword>
         <keyword>Magio</keyword>
-        <keyword>Електрочайник</keyword>
-        <keyword>Электрочайник</keyword>
-        <keywords>Електрочайник Magio MG-515, Электрочайник Magio MG-515, 1500 Вт, з подвійними стінками та регулюванням температури, с двойными стенками и регулировкой температуры, Електрочайник Magio, Электрочайник Magio, Magio, Електрочайник, Электрочайник</keywords>
+        <keyword>Электрочайник Magio</keyword>
+        <keywords>Електрочайник Magio MG-515, Электрочайник Magio MG-515, Електрочайник Magio MG-515 1.5л 1500Вт, Электрочайник Magio MG-515 1.5л 1500Вт с двойными, Електрочайник Magio MG-515 1.5л, Электрочайник Magio MG-515 1.5л, Електрочайник Magio, Электрочайник Magio MG-515 1.5л 1500Вт, Magio, Электрочайник Magio</keywords>
         <param name="Материал корпуса">Пластик</param>
         <param name="Цвет корпуса">Зеленый</param>
         <param name="Производитель">Magio</param>
@@ -25420,7 +25291,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="634299" available="true">
-        <name>Фен-щітка стайлер VGR V-484 4 в 1. Колір: фіолетовий</name>
+        <name>Фен-щітка стайлер VGR V-484 4в1 Purple</name>
         <categoryId>617</categoryId>
         <price>1170</price>
         <currencyId>UAH</currencyId>
@@ -25473,15 +25344,15 @@
 </ul>]]></description>
         <keyword>Фен-щітка стайлер VGR</keyword>
         <keyword>Фен-щетка стайлер VGR</keyword>
+        <keyword>Фен-щітка стайлер VGR V-484 4в1 Purple</keyword>
+        <keyword>Фен-щетка стайлер VGR V-484 4в1 Purple</keyword>
         <keyword>Фен-щітка стайлер VGR V-484</keyword>
         <keyword>Фен-щетка стайлер VGR V-484</keyword>
+        <keyword>Фен-щітка стайлер VGR V-484 4в1</keyword>
+        <keyword>Фен-щетка стайлер VGR V-484 4в1</keyword>
         <keyword>Фен-щітка стайлер</keyword>
         <keyword>Фен-щетка стайлер</keyword>
-        <keyword>Фен-щітка</keyword>
-        <keyword>Фен-щетка</keyword>
-        <keyword>Фен-щітка стайлер VGR стайлеры воздушные</keyword>
-        <keyword>Фен-щетка стайлер VGR стайлеры воздушные</keyword>
-        <keywords>Фен-щітка стайлер VGR, Фен-щетка стайлер VGR, Фен-щітка стайлер VGR V-484, Фен-щетка стайлер VGR V-484, Фен-щітка стайлер, Фен-щетка стайлер, Фен-щітка, Фен-щетка, Фен-щітка стайлер VGR стайлеры воздушные, Фен-щетка стайлер VGR стайлеры воздушные</keywords>
+        <keywords>Фен-щітка стайлер VGR, Фен-щетка стайлер VGR, Фен-щітка стайлер VGR V-484 4в1 Purple, Фен-щетка стайлер VGR V-484 4в1 Purple, Фен-щітка стайлер VGR V-484, Фен-щетка стайлер VGR V-484, Фен-щітка стайлер VGR V-484 4в1, Фен-щетка стайлер VGR V-484 4в1, Фен-щітка стайлер, Фен-щетка стайлер</keywords>
         <param name="Производитель">VGR</param>
         <param name="Тип">Стайлеры воздушные</param>
         <param name="Потребляемая мощность">1100</param>
@@ -25494,7 +25365,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="634302" available="true">
-        <name>Фен-щітка стайлер VGR V-484 4 в 1. Колір: червоний</name>
+        <name>Фен-щітка стайлер VGR V-484 4в1 Red</name>
         <categoryId>617</categoryId>
         <price>1170</price>
         <currencyId>UAH</currencyId>
@@ -25547,15 +25418,15 @@
 </ul>]]></description>
         <keyword>Фен-щітка стайлер VGR</keyword>
         <keyword>Фен-щетка стайлер VGR</keyword>
+        <keyword>Фен-щітка стайлер VGR V-484 4в1 Red</keyword>
+        <keyword>Фен-щетка стайлер VGR V-484 4в1 Red</keyword>
         <keyword>Фен-щітка стайлер VGR V-484</keyword>
         <keyword>Фен-щетка стайлер VGR V-484</keyword>
+        <keyword>Фен-щітка стайлер VGR V-484 4в1</keyword>
+        <keyword>Фен-щетка стайлер VGR V-484 4в1</keyword>
         <keyword>Фен-щітка стайлер</keyword>
         <keyword>Фен-щетка стайлер</keyword>
-        <keyword>Фен-щітка</keyword>
-        <keyword>Фен-щетка</keyword>
-        <keyword>Фен-щітка стайлер VGR стайлеры воздушные</keyword>
-        <keyword>Фен-щетка стайлер VGR стайлеры воздушные</keyword>
-        <keywords>Фен-щітка стайлер VGR, Фен-щетка стайлер VGR, Фен-щітка стайлер VGR V-484, Фен-щетка стайлер VGR V-484, Фен-щітка стайлер, Фен-щетка стайлер, Фен-щітка, Фен-щетка, Фен-щітка стайлер VGR стайлеры воздушные, Фен-щетка стайлер VGR стайлеры воздушные</keywords>
+        <keywords>Фен-щітка стайлер VGR, Фен-щетка стайлер VGR, Фен-щітка стайлер VGR V-484 4в1 Red, Фен-щетка стайлер VGR V-484 4в1 Red, Фен-щітка стайлер VGR V-484, Фен-щетка стайлер VGR V-484, Фен-щітка стайлер VGR V-484 4в1, Фен-щетка стайлер VGR V-484 4в1, Фен-щітка стайлер, Фен-щетка стайлер</keywords>
         <param name="Производитель">VGR</param>
         <param name="Тип">Стайлеры воздушные</param>
         <param name="Потребляемая мощность">1000</param>
@@ -25820,7 +25691,7 @@
         <param name="Состояние">Новое</param>
       </offer>
       <offer id="646819" available="true">
-        <name>М&apos;ясорубка ViLgrand V307-SMG</name>
+        <name>М&apos;ясорубка ViLgrand V307-SMG 3000Вт</name>
         <categoryId>63005</categoryId>
         <price>5500</price>
         <currencyId>UAH</currencyId>
@@ -25858,15 +25729,15 @@
 </ul>]]></description>
         <keyword>М&apos;ясорубка ViLgrand V307-SMG</keyword>
         <keyword>Мясорубка ViLgrand V307-SMG</keyword>
+        <keyword>М&apos;ясорубка ViLgrand V307-SMG 3000Вт</keyword>
+        <keyword>Мясорубка ViLgrand V307-SMG 3000Вт</keyword>
         <keyword>М&apos;ясорубка ViLgrand</keyword>
         <keyword>Мясорубка ViLgrand</keyword>
         <keyword>Vilgrand</keyword>
         <keyword>М&apos;ясорубка</keyword>
         <keyword>Мясорубка</keyword>
         <keyword>М&apos;ясорубка ViLgrand V307-SMG серебряный</keyword>
-        <keyword>Мясорубка ViLgrand V307-SMG серебряный</keyword>
-        <keyword>М&apos;ясорубка ViLgrand серебряный</keyword>
-        <keywords>М&apos;ясорубка ViLgrand V307-SMG, Мясорубка ViLgrand V307-SMG, М&apos;ясорубка ViLgrand, Мясорубка ViLgrand, Vilgrand, М&apos;ясорубка, Мясорубка, М&apos;ясорубка ViLgrand V307-SMG серебряный, Мясорубка ViLgrand V307-SMG серебряный, М&apos;ясорубка ViLgrand серебряный</keywords>
+        <keywords>М&apos;ясорубка ViLgrand V307-SMG, Мясорубка ViLgrand V307-SMG, М&apos;ясорубка ViLgrand V307-SMG 3000Вт, Мясорубка ViLgrand V307-SMG 3000Вт, М&apos;ясорубка ViLgrand, Мясорубка ViLgrand, Vilgrand, М&apos;ясорубка, Мясорубка, М&apos;ясорубка ViLgrand V307-SMG серебряный</keywords>
         <param name="Производитель">Vilgrand</param>
         <param name="Номинальная мощность">3000</param>
         <param name="Цвет корпуса">Серебряный</param>
@@ -26500,7 +26371,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="681563" available="false">
+      <offer id="681563" available="true">
         <name>Акумуляторна машинка для стрижки VGR V-279 GREEN</name>
         <categoryId>28290204</categoryId>
         <price>1900</price>
@@ -26516,7 +26387,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgsddgsgsdgr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rsddgsgdsagds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rdgdsagsesa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тример VGR V-299 BLACK у строгому чорному корпусі &mdash; це багатофункціональний пристрій для догляду за бородою, вусами та волоссям, що підходить як для домашнього, так і для професійного використання. Оснащений потужним мотором з частотою обертання до 9000 об/хв та вбудованим акумулятором ємністю 2000 мАг, він забезпечує до 240 хвилин автономної роботи та високу продуктивність при роботі з волоссям різної довжини та щільності. Ергономічний корпус зручно лежить у руці, а міцні матеріали гарантують надійність та довговічність.</p>
 <p>Модель комплектується 4 насадками та підтримує 5 рівнів регулювання швидкості, що дозволяє точно налаштовувати роботу тримера під конкретні завдання &mdash; від точного окантування до догляду за густою бородою. LED-дисплей відображає рівень заряду, поточну швидкість, а також нагадування про необхідність обслуговування, забезпечуючи контроль та зручність у процесі експлуатації. VGR V-299 BLACK &mdash; це поєднання потужності, точності та функціональності в одному стильному та практичному пристрої.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -26769,7 +26640,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
       <offer id="686578" available="true">
-        <name>Блендер ViLgrand VBH6209. Колір: білий</name>
+        <name>Блендер ViLgrand VBH6209 600Вт White</name>
         <categoryId>64301</categoryId>
         <price>800</price>
         <currencyId>UAH</currencyId>
@@ -26811,6 +26682,8 @@
 <li>Підсвітка LED: голуба</li>
 </ul>]]></description>
         <keyword>Блендер ViLgrand VBH6209</keyword>
+        <keyword>Блендер ViLgrand VBH6209 600Вт White</keyword>
+        <keyword>Блендер ViLgrand VBH6209 600Вт</keyword>
         <keyword>Блендер ViLgrand</keyword>
         <keyword>Vilgrand</keyword>
         <keyword>Блендер</keyword>
@@ -26818,9 +26691,7 @@
         <keyword>Блендер ViLgrand белый</keyword>
         <keyword>Блендер ViLgrand VBH6209 пластик</keyword>
         <keyword>Блендер ViLgrand пластик</keyword>
-        <keyword>Блендер ViLgrand VBH6209 погружной</keyword>
-        <keyword>Блендер ViLgrand погружной</keyword>
-        <keywords>Блендер ViLgrand VBH6209, Блендер ViLgrand, Vilgrand, Блендер, Блендер ViLgrand VBH6209 белый, Блендер ViLgrand белый, Блендер ViLgrand VBH6209 пластик, Блендер ViLgrand пластик, Блендер ViLgrand VBH6209 погружной, Блендер ViLgrand погружной</keywords>
+        <keywords>Блендер ViLgrand VBH6209, Блендер ViLgrand VBH6209 600Вт White, Блендер ViLgrand VBH6209 600Вт, Блендер ViLgrand, Vilgrand, Блендер, Блендер ViLgrand VBH6209 белый, Блендер ViLgrand белый, Блендер ViLgrand VBH6209 пластик, Блендер ViLgrand пластик</keywords>
         <param name="Производитель">Vilgrand</param>
         <param name="Потребляемая мощность">600</param>
         <param name="Цвет">Белый</param>
@@ -27569,7 +27440,7 @@
         <param name="Тип двигуна">Роторный</param>
       </offer>
       <offer id="692373" available="true">
-        <name>Фен для волосся дорожній VGR V-432 GREEN, з концентратором 1000 Вт, іонізація та 2 режими. Колір: зелений</name>
+        <name>Фен для волосся дорожній VGR V-432 GREEN, з концентратором 1000Вт, іонізація та 2 режими. Колір: зелений</name>
         <categoryId>617</categoryId>
         <price>570</price>
         <currencyId>UAH</currencyId>
@@ -27619,13 +27490,13 @@
         <keyword>Фен для волос</keyword>
         <keyword>Фен для волосся дорожній VGR V-432 GREEN</keyword>
         <keyword>Фен для волос дорожный VGR V-432 GREEN</keyword>
-        <keyword>з концентратором 1000 Вт</keyword>
-        <keyword>с концентратором 1000 Вт</keyword>
+        <keyword>з концентратором 1000Вт</keyword>
+        <keyword>с концентратором 1000Вт</keyword>
         <keyword>іонізація та 2 режими</keyword>
         <keyword>ионизация и 2 режима</keyword>
         <keyword>Фен для волосся дорожній</keyword>
         <keyword>Фен для волос дорожный</keyword>
-        <keywords>Фен для волосся, Фен для волос, Фен для волосся дорожній VGR V-432 GREEN, Фен для волос дорожный VGR V-432 GREEN, з концентратором 1000 Вт, с концентратором 1000 Вт, іонізація та 2 режими, ионизация и 2 режима, Фен для волосся дорожній, Фен для волос дорожный</keywords>
+        <keywords>Фен для волосся, Фен для волос, Фен для волосся дорожній VGR V-432 GREEN, Фен для волос дорожный VGR V-432 GREEN, з концентратором 1000Вт, с концентратором 1000Вт, іонізація та 2 режими, ионизация и 2 режима, Фен для волосся дорожній, Фен для волос дорожный</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Зелёный</param>
         <param name="Мощность фена">1000</param>
@@ -28419,7 +28290,7 @@
         <param name="Тип блендера">Погружной</param>
         <param name="Тип управления">Механическое</param>
       </offer>
-      <offer id="4988" available="true">
+      <offer id="4988" available="false">
         <name>Кавомолка MAGIO MG-205 200 Вт, Кавомолка побутова електрична, Портативна кавомолка, Подрібнювач кави</name>
         <categoryId>6300401</categoryId>
         <price>750</price>
@@ -28435,7 +28306,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4euayvpyvfayfvaauf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfayvkfauvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavuayvfayvyav.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Кавомолка Magio МG-205 Кавомолка &mdash; це незамінний пристрій на будь-якій кухні, особливо для любителів кави. Безперечним фактом є те, що кавові зерна краще зберігають свій смак у цілісному стані, а для заварювання напою потрібні мелені зерна. Для того, щоб завжди мати можливість насолоджуватися кавою зі свіжозмелених зерен.</p>
 <p>Кавомолка MAGIO MG-205 має компактні габарити і не займе багато місця, а також є можливість сховати мережевий шнур у корпус кавомолки. У кавомолці MAGIO MG-205 можна перемолоти одразу до 70 г зерен. Кавомолка має гострі леза з нержавіючої сталі, а також прозору кришку, через яку видно ступінь помелу зерен.</p>
 <p>Особливості кавомолки: прозора кришка. Корпус та леза з нержавіючої сталі. Система безпеки: експлуатація можлива лише із закритою кришкою. Відсік для зберігання шнура. Завдяки кавомолці Magio МG-205 Ви зможете щоранку радувати себе улюбленими кавовими напоями.</p>
@@ -28617,7 +28488,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ucivakivaivaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ifavuvifaviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uivafivfaivavif.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Gemei GM 3107</strong>&nbsp;призначений для дбайливого видалення небажаних волосків у носі та вухах. Зручна головка забезпечує швидке, просте та комфортне підрівнювання без неприємних відчуттів.</p>
 <p>Удосконалена система захисту від порізів та висмикування волосків<br />Завдяки сучасним технологіям ріжучий елемент захищений спеціальною ультратонкою сіткою із закругленими кінчиками, які запобігають подразненню шкіри.</p>
 <p>Оптимальний кут нахилу тримера дозволяє легко підрівнювати волоски у вухах та носі &mdash; ви можете бути впевнені в ефективності видалення небажаного волосся. Високоточні прорізи в нерухомому ножі, що обертається, забезпечують ефективне і швидке підрівнювання волосся.</p>
@@ -29487,53 +29358,6 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="254609" available="true">
-        <name>Тостер Magio MG-285, універсальний тостер, тостер кухонний, тостери для дому, тостер для кухні побутовий</name>
-        <categoryId>639</categoryId>
-        <price>1900</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws89882</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/eadsffrewads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwdas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucvyaapekcu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvaucfyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/yvapeuyavau.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3wdsffgrdas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwadsffgrwads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdsrwasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ewqdasfrweads.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
-        <description><![CDATA[<p><span>Тостер MG-285 максимально легко впишеться в інтер&#8217;єр кухні завдяки лаконічному дизайну. Крім дизайнерської сторони, він ще й відмінно підрум&#8217;янить тости до сніданку, оскільки має потужність 715 Вт. Завдяки режиму розморожування можна з легкістю використовувати хліб, що зберігається в холодильнику, а 6 режимів підсмажування дозволяє самостійно контролювати ступінь зарум&#8217;янювання тостів. Вам не доведеться контролювати приготування тостів, оскільки у пристрої є автоматичний викид хліба, а з піддоном для крихт кухня завжди залишиться чистою та акуратною.</span></p>
-<p><b>Легко впишеться в інтер&#8217;єр кухні</b></p>
-<p><span>Тостер MG-285 максимально легко впишеться в інтер&#8217;єр кухні завдяки лаконічному дизайну. Крім дизайнерської сторони, він ще й відмінно підрум&#8217;янить тости до сніданку, оскільки має потужність 715 Вт.<br /></span></p>
-<h4><b>7 режимів підсмажування</b></h4>
-<p><span>Завдяки режиму розморожування можна з легкістю використовувати хліб, що зберігається в холодильнику, а 7 режимів підсмажування дозволяє самостійно контролювати ступінь зарум&#8217;янювання тостів.<br /></span></p>
-<h4><b>Автоматичний викид хліба</b></h4>
-<p><span>Вам не доведеться контролювати приготування тостів, оскільки у пристрої є автоматичний викид хліба, а з піддоном для крихт кухня завжди залишиться чистою та акуратною.</span></p>]]></description>
-        <keyword>Тостер Magio MG-285</keyword>
-        <keyword>універсальний тостер</keyword>
-        <keyword>универсальный тостер</keyword>
-        <keyword>тостер кухонний</keyword>
-        <keyword>тостер кухонный</keyword>
-        <keyword>тостери для дому</keyword>
-        <keyword>тостеры для дома</keyword>
-        <keyword>тостер для кухні побутовий</keyword>
-        <keyword>тостер для кухни бытовой</keyword>
-        <keyword>Тостер Magio</keyword>
-        <keywords>Тостер Magio MG-285, універсальний тостер, универсальный тостер, тостер кухонний, тостер кухонный, тостери для дому, тостеры для дома, тостер для кухні побутовий, тостер для кухни бытовой, Тостер Magio</keywords>
-        <param name="Производитель">Magio</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Количество отделений">2</param>
-        <param name="Количество тостов">2</param>
-        <param name="Источник питания">Электричество</param>
-        <param name="Назначение">Бытовое</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Регулировка степени обжаривания">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Цвет корпуса">Коричневый</param>
-      </offer>
       <offer id="254798" available="true">
         <name>Настільна плита електрична Sea Breeze SB-062 1000 Вт, настільна одноконфоркова, плита побутова</name>
         <categoryId>641</categoryId>
@@ -30392,7 +30216,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufvyfauyvfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cvfyukcvavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cyfvaukafvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар для кемпінгу W-52-SMD+COB &#8211; це універсальний ручний ліхтарик з поворотним СОВ світлодіодом з білим і червоним світлом, плюс додатково на торці встановлений &nbsp;SMD діод.</p>
 <p>Акумулятор вбудований, заряджається від USB-порту. Дуже зручний спосіб заряджання, так як ліхтар можна зарядити від портативного зарядного пристрою повербанка, від зарядного USB в автомобілі, від ноутбука і т.д.</p>
 <p>Світлодіод має безліч регулювань нахилу і кілька режимів роботи: COB білий 100%, COB білий 50%, SMD 100%, COB червоний (на затиск) 100%, стробоскоп.</p>
@@ -30462,9 +30286,9 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvaukafvyy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/yvakuafvyayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyaafuvfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvauvyfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvyauvfyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyauvfvy.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvauyfvvy.jpg</picture>
         <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Блендер<span>&nbsp;</span><strong>Magio MG-646</strong><span>&nbsp;</span> дозволить вам урізноманітнити ваше меню та приготувати новий кулінарний шедевр. Потужність блендера становить 800 Вт, що забезпечує ефективну безшумну роботу протягом тривалого часу. Занурювальна частина виконана з нержавіючої сталі &mdash; запорука стійкості до зносу та довговічності. Блендер може працювати на 13 швидкостях, що плавно перемикаються. Перемикач знаходиться на ручці приладу, що дуже зручно. У комплект входить пластикова мірна склянка. Ці властивості у поєднанні з компактним дизайном роблять блендер незамінним помічником на вашій кухні.</p>
 <p><strong>Характеристики:</strong></p>
@@ -30975,7 +30799,7 @@
         <param name="Овощной нож">1 шт.</param>
       </offer>
       <offer id="392923" available="true">
-        <name>Пилосос без мішка Rainberg RB-651 контейнерний 2500 Вт, шнур 3,2 метра з колбою об&apos;ємом 3 л</name>
+        <name>Пилосос без мішка Rainberg RB-651 контейнерний 2500 Вт, шнур 3,2 метра з колбою об&apos;ємом 3л</name>
         <categoryId>608</categoryId>
         <price>2460</price>
         <currencyId>UAH</currencyId>
@@ -31015,13 +30839,13 @@
         <keyword>Пылесос без мешка</keyword>
         <keyword>Пилосос без мішка Rainberg RB-651 контейнерний</keyword>
         <keyword>Пылесос без мешка Rainberg RB-651 TB контейнерный</keyword>
-        <keyword>2 метра з колбою об&apos;ємом</keyword>
-        <keyword>2 метров с колбой объёмом</keyword>
+        <keyword>2 метра з колбою об&apos;ємом 3л</keyword>
+        <keyword>2 метров с колбой объёмом 3л</keyword>
         <keyword>Пилосос без мішка Rainberg</keyword>
         <keyword>Пылесос без мешка Rainberg</keyword>
         <keyword>Пилосос без мішка Rainberg RB-651</keyword>
         <keyword>Пылесос без мешка Rainberg RB-651</keyword>
-        <keywords>Пилосос без мішка, Пылесос без мешка, Пилосос без мішка Rainberg RB-651 контейнерний, Пылесос без мешка Rainberg RB-651 TB контейнерный, 2 метра з колбою об&apos;ємом, 2 метров с колбой объёмом, Пилосос без мішка Rainberg, Пылесос без мешка Rainberg, Пилосос без мішка Rainberg RB-651, Пылесос без мешка Rainberg RB-651</keywords>
+        <keywords>Пилосос без мішка, Пылесос без мешка, Пилосос без мішка Rainberg RB-651 контейнерний, Пылесос без мешка Rainberg RB-651 TB контейнерный, 2 метра з колбою об&apos;ємом 3л, 2 метров с колбой объёмом 3л, Пилосос без мішка Rainberg, Пылесос без мешка Rainberg, Пилосос без мішка Rainberg RB-651, Пылесос без мешка Rainberg RB-651</keywords>
         <param name="Производитель">Rainberg</param>
         <param name="Цвет корпуса">Зелёный</param>
         <param name="Страна производитель">Китай</param>
@@ -31934,7 +31758,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuapyvpkpyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euaivpuivfppkifr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnpekmpuifvpkf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Стайлер оснащений зручною ручкою та простий у використанні. Завдяки універсальності цього набору, ви зможете створювати безліч зачісок &#8211; від гладких пасм до об&#8217;ємних локонів &#8211; у домашніх умовах, як у професійному салоні.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -31979,7 +31803,7 @@
         <param name="Производитель">Без бренда</param>
       </offer>
       <offer id="653603" available="true">
-        <name>Блендер Domotec R.314B занурювальний 5 в 1 800 Вт</name>
+        <name>Блендер Domotec R.314B занурювальний 5в1 800 Вт</name>
         <categoryId>64301</categoryId>
         <price>980</price>
         <currencyId>UAH</currencyId>
@@ -32027,16 +31851,16 @@
 <li>Простота чищення: всі деталі, за винятком блоку двигуна, можна мити в посудомийній машині.</li>
 </ul>]]></description>
         <keyword>Блендер Domotec R.314B</keyword>
-        <keyword>Блендер Domotec R.314B занурювальний 5 в 1 800 Вт</keyword>
-        <keyword>Блендер Domotec R.314B погружной 5 в 1 800 Вт</keyword>
+        <keyword>Блендер Domotec R.314B занурювальний 5в1 800 Вт</keyword>
+        <keyword>Блендер Domotec R.314B погружной 5в1 800Вт</keyword>
         <keyword>Блендер Domotec R.314B занурювальний</keyword>
         <keyword>Блендер Domotec R.314B погружной</keyword>
+        <keyword>Блендер Domotec R.314B занурювальний 5в1</keyword>
+        <keyword>Блендер Domotec R.314B погружной 5в1</keyword>
         <keyword>Блендер Domotec</keyword>
         <keyword>Domotec</keyword>
         <keyword>Блендер</keyword>
-        <keyword>Блендер Domotec R.314B черный</keyword>
-        <keyword>Блендер Domotec черный</keyword>
-        <keywords>Блендер Domotec R.314B, Блендер Domotec R.314B занурювальний 5 в 1 800 Вт, Блендер Domotec R.314B погружной 5 в 1 800 Вт, Блендер Domotec R.314B занурювальний, Блендер Domotec R.314B погружной, Блендер Domotec, Domotec, Блендер, Блендер Domotec R.314B черный, Блендер Domotec черный</keywords>
+        <keywords>Блендер Domotec R.314B, Блендер Domotec R.314B занурювальний 5в1 800 Вт, Блендер Domotec R.314B погружной 5в1 800Вт, Блендер Domotec R.314B занурювальний, Блендер Domotec R.314B погружной, Блендер Domotec R.314B занурювальний 5в1, Блендер Domotec R.314B погружной 5в1, Блендер Domotec, Domotec, Блендер</keywords>
         <param name="Производитель">Domotec</param>
         <param name="Состояние">Новое</param>
         <param name="Цвет">Черный</param>
@@ -32051,7 +31875,7 @@
         <param name="Тип управления">Механическое</param>
       </offer>
       <offer id="674598" available="true">
-        <name>Кавомолка SeaBreeze SB-0602</name>
+        <name>Кавомолка SeaBreeze SB-0602 300Вт</name>
         <categoryId>6300401</categoryId>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -32081,15 +31905,15 @@
 </ul>]]></description>
         <keyword>Кавомолка SeaBreeze SB-0602</keyword>
         <keyword>Кофемолка SeaBreeze SB-0602</keyword>
+        <keyword>Кавомолка SeaBreeze SB-0602 300Вт</keyword>
+        <keyword>Кофемолка SeaBreeze SB-0602 300Вт</keyword>
         <keyword>Кавомолка SeaBreeze</keyword>
         <keyword>Кофемолка SeaBreeze</keyword>
         <keyword>Sea Breeze</keyword>
         <keyword>Кавомолка SeaBreeze SB-0602 Sea Breeze</keyword>
         <keyword>Кофемолка SeaBreeze SB-0602 Sea Breeze</keyword>
         <keyword>Кавомолка</keyword>
-        <keyword>Кофемолка</keyword>
-        <keyword>Кавомолка SeaBreeze SB-0602 бытовое</keyword>
-        <keywords>Кавомолка SeaBreeze SB-0602, Кофемолка SeaBreeze SB-0602, Кавомолка SeaBreeze, Кофемолка SeaBreeze, Sea Breeze, Кавомолка SeaBreeze SB-0602 Sea Breeze, Кофемолка SeaBreeze SB-0602 Sea Breeze, Кавомолка, Кофемолка, Кавомолка SeaBreeze SB-0602 бытовое</keywords>
+        <keywords>Кавомолка SeaBreeze SB-0602, Кофемолка SeaBreeze SB-0602, Кавомолка SeaBreeze SB-0602 300Вт, Кофемолка SeaBreeze SB-0602 300Вт, Кавомолка SeaBreeze, Кофемолка SeaBreeze, Sea Breeze, Кавомолка SeaBreeze SB-0602 Sea Breeze, Кофемолка SeaBreeze SB-0602 Sea Breeze, Кавомолка</keywords>
         <param name="Производитель">Sea Breeze</param>
         <param name="Цвет корпуса">Бежевый</param>
         <param name="Материал">Нержавеющая сталь</param>
@@ -32102,7 +31926,7 @@
         <param name="Тип привода">Электропривод</param>
       </offer>
       <offer id="686643" available="true">
-        <name>Міксер із чашею Dario DM3010B</name>
+        <name>Міксер із чашею Dario DM3010B 300Вт</name>
         <categoryId>612</categoryId>
         <price>860</price>
         <currencyId>UAH</currencyId>
@@ -32143,15 +31967,15 @@
 </ul>]]></description>
         <keyword>Міксер із чашею</keyword>
         <keyword>Миксер с чашей</keyword>
-        <keyword>Міксер із чашею Dario DM3010B</keyword>
-        <keyword>Миксер с чашей Dario DM3010B</keyword>
+        <keyword>Міксер із чашею Dario DM3010B 300Вт</keyword>
+        <keyword>Миксер с чашей Dario DM3010B 300Вт</keyword>
         <keyword>Міксер із чашею Dario</keyword>
         <keyword>Миксер с чашей Dario</keyword>
+        <keyword>Міксер із чашею Dario DM3010B</keyword>
+        <keyword>Миксер с чашей Dario DM3010B</keyword>
         <keyword>Міксер</keyword>
         <keyword>Миксер</keyword>
-        <keyword>Dario</keyword>
-        <keyword>Міксер із чашею бежевый</keyword>
-        <keywords>Міксер із чашею, Миксер с чашей, Міксер із чашею Dario DM3010B, Миксер с чашей Dario DM3010B, Міксер із чашею Dario, Миксер с чашей Dario, Міксер, Миксер, Dario, Міксер із чашею бежевый</keywords>
+        <keywords>Міксер із чашею, Миксер с чашей, Міксер із чашею Dario DM3010B 300Вт, Миксер с чашей Dario DM3010B 300Вт, Міксер із чашею Dario, Миксер с чашей Dario, Міксер із чашею Dario DM3010B, Миксер с чашей Dario DM3010B, Міксер, Миксер</keywords>
         <param name="Производитель">Dario</param>
         <param name="Цвет корпуса">Бежевый</param>
         <param name="Потребляемая мощность">300</param>
@@ -32179,7 +32003,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkupyvfpuyup.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reayrpyfpuvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reaypyvpvyf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Велофара BC25S — це функціональне рішення для тих, хто цінує безпеку та комфорт під час велосипедних поїздок у темний час доби. Цей потужний ліхтар із яскравістю 300 люмен забезпечує відмінне освітлення дороги і гарантує вашу помітність для інших учасників руху. Надійний захист від вологи та вбудований акумулятор роблять пристрій універсальним помічником у будь-яких умовах експлуатації.</p>
 <h2>Раціональні причини вибрати</h2>
 <ul>
@@ -32209,9 +32033,11 @@
         <keyword>Велофара</keyword>
         <keyword>Велофара BC25S cliff</keyword>
         <keyword>Велофара BC25S китай</keyword>
-        <keywords>Велофара BC25S, 300LM, Велофара, Велофара BC25S cliff, Велофара BC25S китай</keywords>
+        <keyword>Велофара BC25S новий</keyword>
+        <keywords>Велофара BC25S, 300LM, Велофара, Велофара BC25S cliff, Велофара BC25S китай, Велофара BC25S новий</keywords>
         <param name="Виробник">Cliff</param>
         <param name="Країна виробник">Китай</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="708672" available="false">
         <name>Велоліхтар F0-60-2T6, водонепроникний</name>
@@ -33724,7 +33550,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpiifpuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpipuiirkfki.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pirkpifpfipu.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Потужний налобний ліхтар&nbsp;YM-309 червоне та біле світло&nbsp;буде Вам корисним помічником і вдома, і на відпочинку та на роботі.&nbsp;Для меншої помітності на відкритому просторі використовуйте для освітлення червоне світло. Таким чином Ви значно убезпечите себе від виявлення.&nbsp;</p>
 <p>У ліхтарику використовується світлодіод СОВ від всесвітньо відомої американської компанії CREE. Ліхтар оснащений вбудованим червоним та білим світлодіодом. Світлодіодний ліхтар YM-309 дає яскраве та рівномірне світло, добре освітлює робочий простір для виконання різних видів робіт у нічний час та у погано освітлених місцях.</p>
 <p>Корпус налобного ліхтаря виготовлений з АВС пластику&nbsp; &#8211; Міцний і в той же час легкий. Пилловологозахищений. Живлення світлодіодного ліхтаря від вбудованого акумулятора, який можна заряджати через Type-C.</p>
@@ -34233,7 +34059,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об&#8217;ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -34404,7 +34230,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="4382" available="false">
+      <offer id="4382" available="true">
         <name>Електроплита DOMOTEC MS-5811 1500 Вт, переносна настільна електроплита, електроплита на 1 конфорку</name>
         <categoryId>641</categoryId>
         <price>600</price>
@@ -34419,7 +34245,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4rwefstwreafsasdfs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wefsdrwefaasdfesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4refsderwfsda.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Працездатність електроплити Domotec MS-5811 1500W регулюється за допомогою механічного перемикача. Має одну конфорку зі спіральним нагрівальним елементом.</p>
 <p>Ніжки не ковзають поверхнею &ndash; вони прогумовані, завдяки чому ви з комфортом зможете експлуатувати цей прилад.</p>
 <p>У приладу зручне, інтуїтивно зрозуміле керування. Приємний, стильний дизайн.</p>
@@ -34475,7 +34301,7 @@
         <param name="Функция автоотключения">Нет</param>
       </offer>
       <offer id="5018" available="true">
-        <name>Потрійна плойка GEMEI GM-1956-25, праска для завивки волосся, плойка для прикореневого об&apos;єму</name>
+        <name>Потрійна плойка GEMEI GM-1956 65Вт, праска для завивки волосся, плойка для прикореневого об&apos;єму</name>
         <categoryId>63303</categoryId>
         <price>690</price>
         <currencyId>UAH</currencyId>
@@ -34522,15 +34348,15 @@
 </ul>]]></description>
         <keyword>Потрійна плойка GEMEI</keyword>
         <keyword>Тройная плойка GEMEI</keyword>
-        <keyword>Потрійна плойка GEMEI GM-1956-25</keyword>
-        <keyword>Тройная плойка GEMEI GM-1956-25</keyword>
+        <keyword>Потрійна плойка GEMEI GM-1956 65Вт</keyword>
+        <keyword>Тройная плойка GEMEI GM-1956 65Вт</keyword>
         <keyword>праска для завивки волосся</keyword>
         <keyword>утюжок для завивки волос</keyword>
         <keyword>плойка для прикореневого об&apos;єму</keyword>
         <keyword>плойка для прикорневого объема</keyword>
-        <keyword>Потрійна плойка</keyword>
-        <keyword>Тройная плойка</keyword>
-        <keywords>Потрійна плойка GEMEI, Тройная плойка GEMEI, Потрійна плойка GEMEI GM-1956-25, Тройная плойка GEMEI GM-1956-25, праска для завивки волосся, утюжок для завивки волос, плойка для прикореневого об&apos;єму, плойка для прикорневого объема, Потрійна плойка, Тройная плойка</keywords>
+        <keyword>Потрійна плойка GEMEI GM-1956</keyword>
+        <keyword>Тройная плойка GEMEI GM-1956</keyword>
+        <keywords>Потрійна плойка GEMEI, Тройная плойка GEMEI, Потрійна плойка GEMEI GM-1956 65Вт, Тройная плойка GEMEI GM-1956 65Вт, праска для завивки волосся, утюжок для завивки волос, плойка для прикореневого об&apos;єму, плойка для прикорневого объема, Потрійна плойка GEMEI GM-1956, Тройная плойка GEMEI GM-1956</keywords>
         <param name="Производитель">Gemei</param>
         <param name="Цвет корпуса">Розовый</param>
         <param name="Количество режимов работы">2</param>
@@ -34599,7 +34425,7 @@
         <param name="Конструкция формы">Разборная</param>
       </offer>
       <offer id="214736" available="true">
-        <name>Ваги кухонні механічні MATARIX MX-405 5 кг, Ваги для кухні для продуктів. Колір: оранжевий</name>
+        <name>Ваги кухонні механічні MATARIX MX-405 5 кг, Ваги для кухні для продуктів Orange</name>
         <categoryId>15230411</categoryId>
         <price>320</price>
         <currencyId>UAH</currencyId>
@@ -34639,13 +34465,13 @@
         <keyword>Весы кухонные механические</keyword>
         <keyword>Ваги кухонні механічні MATARIX MX-405 5 кг</keyword>
         <keyword>Весы кухонные механические MATARIX MX-405 5 кг</keyword>
-        <keyword>Ваги для кухні для продуктів</keyword>
-        <keyword>Весы для кухни для продуктов</keyword>
+        <keyword>Ваги для кухні для продуктів Orange</keyword>
+        <keyword>Весы для кухни для продуктов Orange</keyword>
         <keyword>Ваги кухонні механічні MATARIX</keyword>
         <keyword>Весы кухонные механические MATARIX</keyword>
         <keyword>Ваги кухонні механічні MATARIX MX-405</keyword>
         <keyword>Весы кухонные механические MATARIX MX-405</keyword>
-        <keywords>Ваги кухонні механічні, Весы кухонные механические, Ваги кухонні механічні MATARIX MX-405 5 кг, Весы кухонные механические MATARIX MX-405 5 кг, Ваги для кухні для продуктів, Весы для кухни для продуктов, Ваги кухонні механічні MATARIX, Весы кухонные механические MATARIX, Ваги кухонні механічні MATARIX MX-405, Весы кухонные механические MATARIX MX-405</keywords>
+        <keywords>Ваги кухонні механічні, Весы кухонные механические, Ваги кухонні механічні MATARIX MX-405 5 кг, Весы кухонные механические MATARIX MX-405 5 кг, Ваги для кухні для продуктів Orange, Весы для кухни для продуктов Orange, Ваги кухонні механічні MATARIX, Весы кухонные механические MATARIX, Ваги кухонні механічні MATARIX MX-405, Весы кухонные механические MATARIX MX-405</keywords>
         <param name="Производитель">MATARIX</param>
         <param name="Материал корпуса">Пластик</param>
         <param name="Цвет корпуса">Оранжевый</param>
@@ -35134,7 +34960,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="697134" available="false">
+      <offer id="697134" available="true">
         <name>Електрична м&apos;ясорубка Domotec MS-2027 4500 Вт з насадкою для томатів, ковбас та терками</name>
         <categoryId>63005</categoryId>
         <price>2240</price>
@@ -35147,7 +34973,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gtesdaegsdagggsasa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grgsdagassgsfsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/regdfgrsdgsggsae.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>За допомогою<strong>м&#8217;ясорубки Domotec MS-2027</strong>ви зможете легко приготувати фарш, ковбаси, томатний сік, а також натерти овочі. Її потужний мотор 4500 Вт забезпечує високу продуктивність та відмінну якість подрібнення, а надійні ножі з нержавіючої сталі гарантують довгий термін служби.</p>
 <p>М&#8217;ясорубка шнекового типу має функцію реверс, зворотне обертання ножів, що запобігає ущільненню продуктів усередині м&#8217;ясорубки та забезпечує якісне подрібнення.</p>
 <p>Шнек та три формувальні диски для подрібнення та рубання виконані з нержавіючої сталі. У процесі експлуатації ви зможете використовувати функцію &laquo;Реверс&raquo;, якою оснащена модель &#8211; для очищення спіралі від волокон, що намоталися на неї, можна використовувати реверсний хід, який розкручує шнек у зворотному напрямку і таким чином звільняє його.</p>
@@ -36477,14 +36303,14 @@
         <keyword>Міні швейна машинка</keyword>
         <keyword>Мини швейная машинка</keyword>
         <keyword>Міні швейна машинка FHSM 202 4 в 1 з педаллю</keyword>
-        <keyword>Мини швейная машинка FHSM 202 4 в 1 с педалью</keyword>
+        <keyword>Мини швейная машинка FHSM 202 4в1 с педалью</keyword>
         <keyword>Швейна машина для дітей</keyword>
         <keyword>Швейная машина для детей</keyword>
         <keyword>Міні швейна машинка FHSM</keyword>
         <keyword>Мини швейная машинка FHSM</keyword>
         <keyword>Міні швейна</keyword>
         <keyword>Мини швейная</keyword>
-        <keywords>Міні швейна машинка, Мини швейная машинка, Міні швейна машинка FHSM 202 4 в 1 з педаллю, Мини швейная машинка FHSM 202 4 в 1 с педалью, Швейна машина для дітей, Швейная машина для детей, Міні швейна машинка FHSM, Мини швейная машинка FHSM, Міні швейна, Мини швейная</keywords>
+        <keywords>Міні швейна машинка, Мини швейная машинка, Міні швейна машинка FHSM 202 4 в 1 з педаллю, Мини швейная машинка FHSM 202 4в1 с педалью, Швейна машина для дітей, Швейная машина для детей, Міні швейна машинка FHSM, Мини швейная машинка FHSM, Міні швейна, Мини швейная</keywords>
         <param name="Тип швейной машины">Электромеханическая</param>
         <param name="Вышивальный блок">Нет</param>
         <param name="Страна производитель">Китай</param>
@@ -36821,7 +36647,7 @@
         <param name="Головка в комплекте">Есть</param>
       </offer>
       <offer id="213591" available="true">
-        <name>Ваги кухонні механічні MATARIX MX-405 5 кг, ваги харчові, ваги зі знімною чашею. Колір: синій</name>
+        <name>Ваги кухонні механічні MATARIX MX-405 5 кг, ваги харчові, ваги зі знімною чашею Blue</name>
         <categoryId>15230411</categoryId>
         <price>320</price>
         <currencyId>UAH</currencyId>
@@ -36860,11 +36686,11 @@
         <keyword>Весы кухонные механические MATARIX MX-405 5 кг</keyword>
         <keyword>ваги харчові</keyword>
         <keyword>весы пищевые</keyword>
-        <keyword>ваги зі знімною чашею</keyword>
-        <keyword>весы со съемной чашей</keyword>
+        <keyword>ваги зі знімною чашею Blue</keyword>
+        <keyword>весы со съемной чашей Blue</keyword>
         <keyword>Ваги кухонні механічні MATARIX</keyword>
         <keyword>Весы кухонные механические MATARIX</keyword>
-        <keywords>Ваги кухонні механічні, Весы кухонные механические, Ваги кухонні механічні MATARIX MX-405 5 кг, Весы кухонные механические MATARIX MX-405 5 кг, ваги харчові, весы пищевые, ваги зі знімною чашею, весы со съемной чашей, Ваги кухонні механічні MATARIX, Весы кухонные механические MATARIX</keywords>
+        <keywords>Ваги кухонні механічні, Весы кухонные механические, Ваги кухонні механічні MATARIX MX-405 5 кг, Весы кухонные механические MATARIX MX-405 5 кг, ваги харчові, весы пищевые, ваги зі знімною чашею Blue, весы со съемной чашей Blue, Ваги кухонні механічні MATARIX, Весы кухонные механические MATARIX</keywords>
         <param name="Производитель">MATARIX</param>
         <param name="Материал корпуса">Пластик</param>
         <param name="Цвет корпуса">Синий</param>
@@ -37104,7 +36930,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="433937" available="false">
+      <offer id="433937" available="true">
         <name>Ваги кухонні SeaBreeze SB-072, Електричні кухонні ваги, Точні кухонні ваги. Колір: рожевий</name>
         <categoryId>15230411</categoryId>
         <price>330</price>
@@ -37120,7 +36946,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/resfdgrtsdsfgtefae.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4wesgesdgesdsgfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/esgtesdgesdfafsd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дані ваги<strong><span>&nbsp;</span>SeaBreeze SB-072</strong>&nbsp;прекрасно підходить для визначення ваги ягід, фруктів, овочів, цукерок, м&#8217;яса, а також цукру, борошна, гречки, рису та інших сипких продуктів.&nbsp;</p>
 <p>Терези для кухні виготовлені з легкого, але міцного пластику, який не зможе пошкодитися при транспортуванні. В основі ваг є спеціальне прогумоване покриття, яке не дає їм ковзати і захищає днище від пошкоджень або попадання води. Дані ваги працюють від стандартних батарей типу АА, які бонусом додаються в комплекті. На панелі є спеціальний дисплей, на якому ви можете побачити вимірювану вагу, а також три кнопки, які відповідають за включення/вимкнення, одиницю вимірювання, а також кнопка &#8220;тара&#8221;, завдяки якій ви можете дізнатися вагу без урахування самої тари. Максимальна можлива вага, що зважується, &#8211; до <span>&nbsp;</span><strong>10 кг</strong>, а крок вимірювання &#8211; 1 грам. Ваги скидають вагу автоматично, тому не потребують постійного обнулення і таким чином економлять витрату батарейок. Спростіть життя собі та своїм близьким разом із цими кухонними вагами!</p>]]></description>
         <keyword>Ваги кухонні SeaBreeze</keyword>
@@ -37898,7 +37724,7 @@
         <keywords>Ліхтар налобний акумуляторний, Фонарь налобный аккумуляторный, Ліхтар налобний акумуляторний KX-302-LED+2COB, Фонарь налобный аккумуляторный KX-302-LED+2COB, Ліхтар налобний, Фонарь налобный, Ліхтар, Фонарь</keywords>
       </offer>
       <offer id="711307" available="true">
-        <name>Електрочайник SeaBreeze SB-013</name>
+        <name>Електрочайник SeaBreeze SB-013 1.8л 1500Вт</name>
         <categoryId>640</categoryId>
         <price>540</price>
         <currencyId>UAH</currencyId>
@@ -37929,15 +37755,15 @@
 </ul>]]></description>
         <keyword>Електрочайник SeaBreeze SB-013</keyword>
         <keyword>Электрочайник SeaBreeze SB-013</keyword>
+        <keyword>Електрочайник SeaBreeze SB-013 1.8л 1500Вт</keyword>
+        <keyword>Электрочайник SeaBreeze SB-013 1.8л 1500Вт</keyword>
+        <keyword>Електрочайник SeaBreeze SB-013 1.8л</keyword>
+        <keyword>Электрочайник SeaBreeze SB-013 1.8л</keyword>
         <keyword>Електрочайник SeaBreeze</keyword>
         <keyword>Электрочайник SeaBreeze</keyword>
         <keyword>Sea Breeze</keyword>
         <keyword>Електрочайник SeaBreeze SB-013 Sea Breeze</keyword>
-        <keyword>Электрочайник SeaBreeze SB-013 Sea Breeze</keyword>
-        <keyword>Електрочайник</keyword>
-        <keyword>Электрочайник</keyword>
-        <keyword>Електрочайник SeaBreeze SB-013 электрочайник</keyword>
-        <keywords>Електрочайник SeaBreeze SB-013, Электрочайник SeaBreeze SB-013, Електрочайник SeaBreeze, Электрочайник SeaBreeze, Sea Breeze, Електрочайник SeaBreeze SB-013 Sea Breeze, Электрочайник SeaBreeze SB-013 Sea Breeze, Електрочайник, Электрочайник, Електрочайник SeaBreeze SB-013 электрочайник</keywords>
+        <keywords>Електрочайник SeaBreeze SB-013, Электрочайник SeaBreeze SB-013, Електрочайник SeaBreeze SB-013 1.8л 1500Вт, Электрочайник SeaBreeze SB-013 1.8л 1500Вт, Електрочайник SeaBreeze SB-013 1.8л, Электрочайник SeaBreeze SB-013 1.8л, Електрочайник SeaBreeze, Электрочайник SeaBreeze, Sea Breeze, Електрочайник SeaBreeze SB-013 Sea Breeze</keywords>
         <param name="Материал корпуса">Нержавеющая сталь</param>
         <param name="Цвет корпуса">Серебристый</param>
         <param name="Производитель">Sea Breeze</param>
@@ -38091,7 +37917,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvvpyvfpypyfyfa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvypyvfpuypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ghrdfsgdfgsasdafs.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Мясорубка Rainberg RB-2319 потужністю 3000 Вт — професійний кухонний пристрій, призначений для ефективного та різноманітного приготування фаршу в домашніх умовах. Ця модель поєднує в собі надійність та функціональність, забезпечуючи швидку переробку м’яса різних видів, риби, овочів і грибів. Висока потужність мотору гарантує стабільну роботу при великих навантаженнях, а оновлений дизайн і продумані аксесуари дозволяють оптимізувати процес подрібнення продуктів і розширюють можливості домашньої кулінарії.</p>
 <h2>Головні переваги моделі</h2>
 <ul>
@@ -38125,7 +37951,16 @@
         <keyword>Мясорубка электрическая</keyword>
         <keyword>М&apos;ясорубка</keyword>
         <keyword>Мясорубка</keyword>
-        <keywords>М&apos;ясорубка електрична Rainberg, Мясорубка электрическая Rainberg, М&apos;ясорубка електрична Rainberg RB-2319, Мясорубка электрическая Rainberg RB-2319, М&apos;ясорубка електрична, Мясорубка электрическая, М&apos;ясорубка, Мясорубка</keywords>
+        <keyword>М&apos;ясорубка електрична Rainberg новий</keyword>
+        <keyword>Мясорубка электрическая Rainberg новий</keyword>
+        <keywords>М&apos;ясорубка електрична Rainberg, Мясорубка электрическая Rainberg, М&apos;ясорубка електрична Rainberg RB-2319, Мясорубка электрическая Rainberg RB-2319, М&apos;ясорубка електрична, Мясорубка электрическая, М&apos;ясорубка, Мясорубка, М&apos;ясорубка електрична Rainberg новий, Мясорубка электрическая Rainberg новий</keywords>
+        <param name="Виробник">Rainberg</param>
+        <param name="Номінальна потужність">3000</param>
+        <param name="Продуктивність м&apos;ясорубки">1</param>
+        <param name="Реверс">Так</param>
+        <param name="Кількість решіток">1</param>
+        <param name="Захист від перевантажень">Так</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="190201" available="true">
         <name>Набір для творчості в алюмінієвій валізі Єдиноріг 145 предметів, чемодан для малювання дитячий кейс. Колір рожевий</name>
@@ -38269,7 +38104,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kciaukvifaucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kfaiuiafifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfivakcviafvif.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Вафельниця – це універсальний прилад для приготування різноманітних вафель: від класичних хрустких до десертів із начинкою з вареного згущеного молока або ягідної смородини. Можливість готувати як солодкі, так і закусочні вафлі з гарячою начинкою відкриває широкі кулінарні горизонти та допомагає створювати багатошарові тістечка та оригінальні гастрономічні шедеври.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -38968,9 +38803,18 @@
         <keyword>Мясорубка электрическая</keyword>
         <keyword>М&apos;ясорубка</keyword>
         <keyword>Мясорубка</keyword>
-        <keywords>М&apos;ясорубка електрична Rainberg, Мясорубка электрическая Rainberg, М&apos;ясорубка електрична Rainberg RB-2319, Мясорубка электрическая Rainberg RB-2319, М&apos;ясорубка електрична, Мясорубка электрическая, М&apos;ясорубка, Мясорубка</keywords>
+        <keyword>М&apos;ясорубка електрична Rainberg новий</keyword>
+        <keyword>Мясорубка электрическая Rainberg новий</keyword>
+        <keywords>М&apos;ясорубка електрична Rainberg, Мясорубка электрическая Rainberg, М&apos;ясорубка електрична Rainberg RB-2319, Мясорубка электрическая Rainberg RB-2319, М&apos;ясорубка електрична, Мясорубка электрическая, М&apos;ясорубка, Мясорубка, М&apos;ясорубка електрична Rainberg новий, Мясорубка электрическая Rainberg новий</keywords>
+        <param name="Виробник">Rainberg</param>
+        <param name="Номінальна потужність">3000</param>
+        <param name="Продуктивність м&apos;ясорубки">1</param>
+        <param name="Реверс">Так</param>
+        <param name="Кількість решіток">1</param>
+        <param name="Захист від перевантажень">Так</param>
+        <param name="Стан">Новий</param>
       </offer>
-      <offer id="764817" available="true">
+      <offer id="764817" available="false">
         <name>Блендер стаціонарний Rainberg RB-2202 кухонний подрібнювач 1300W чаша металева на 2л чоппер</name>
         <categoryId>64301</categoryId>
         <price>610</price>
@@ -38982,7 +38826,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об&#8217;єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -39097,6 +38941,22 @@
         <keyword>Набір</keyword>
         <keyword>Набор</keyword>
         <keywords>Набір посуду EDENBERG, Набор посуды EDENBERG, Набір посуду EDENBERG EB-3989 з гранітним, Набор посуды EDENBERG EB-3989 с антипригарным, Набір посуду EDENBERG EB-3989, Набор посуды EDENBERG EB-3989, Набір посуду, Набор посуды, Набір, Набор</keywords>
+        <param name="Матеріал">Алюміній</param>
+        <param name="Тип дна">Багатошарове</param>
+        <param name="Виробник">Edenberg</param>
+        <param name="Кількість предметів в наборі">10</param>
+        <param name="Каструля">3</param>
+        <param name="Сотейник/ківш">1</param>
+        <param name="Сковорода">1</param>
+        <param name="Внутрішнє покриття">граніт</param>
+        <param name="Зовнішнє покриття">граніт</param>
+        <param name="Кришки">Жаростійке скло</param>
+        <param name="Ручки">Алюміній</param>
+        <param name="Антипригарне покриття">Весь набір</param>
+        <param name="Колір">Сірий</param>
+        <param name="Тип плити">Газова, Склокерамічна, Індукційна, Електрична</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Стан">Новий</param>
       </offer>
       <offer id="127272" available="true">
         <name>Овочерізка Nicer Dicer Twist багатофункціональна мультирізка, подрібнювач для продуктів</name>
@@ -39690,8 +39550,8 @@
         <keyword>Автомийка</keyword>
         <keywords>Автомийка акумуляторна високого, Автомойка аккумуляторная высокого, Автомийка акумуляторна високого тиску 3.2 BX-3219, Автомойка аккумуляторная высокого давления, Автомийка акумуляторна високого тиску, Автомойка аккумуляторная, Автомийка акумуляторна, Автомойка, Автомийка</keywords>
       </offer>
-      <offer id="808099" available="false">
-        <name>М&apos;ясорубка SeaBreeze SB-0802</name>
+      <offer id="808099" available="true">
+        <name>М&apos;ясорубка SeaBreeze SB-0802 3000Вт</name>
         <categoryId>63005</categoryId>
         <price>1960</price>
         <currencyId>UAH</currencyId>
@@ -39701,7 +39561,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavipvifpvifpipf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapvifpipifaiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkevpvifvppvifif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка потужністю 3000 Вт — це ефективне і універсальне рішення для швидкої та зручної переробки різних продуктів. Конструкція з нержавіючої сталі та наявність кількох насадок дозволяють максимально розширити функціонал приладу, забезпечуючи високу продуктивність і простоту у використанні. Ергономічний дизайн з компактними габаритами легко впишеться в будь-який кухонний простір, а наявність реверсу допоможе позбутися можливих заїдань. Цей прилад оптимальний для домашнього застосування, економлячи ваш час і сили при приготуванні фаршу, ковбас та інших страв.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -39731,11 +39591,24 @@
 </ul>]]></description>
         <keyword>М&apos;ясорубка SeaBreeze SB-0802</keyword>
         <keyword>Мясорубка SeaBreeze SB-0802</keyword>
+        <keyword>М&apos;ясорубка SeaBreeze SB-0802 3000Вт</keyword>
+        <keyword>Мясорубка SeaBreeze SB-0802 3000Вт</keyword>
         <keyword>М&apos;ясорубка SeaBreeze</keyword>
         <keyword>Мясорубка SeaBreeze</keyword>
         <keyword>М&apos;ясорубка</keyword>
         <keyword>Мясорубка</keyword>
-        <keywords>М&apos;ясорубка SeaBreeze SB-0802, Мясорубка SeaBreeze SB-0802, М&apos;ясорубка SeaBreeze, Мясорубка SeaBreeze, М&apos;ясорубка, Мясорубка</keywords>
+        <keyword>М&apos;ясорубка SeaBreeze SB-0802 sea breeze</keyword>
+        <keyword>Мясорубка SeaBreeze SB-0802 sea breeze</keyword>
+        <keywords>М&apos;ясорубка SeaBreeze SB-0802, Мясорубка SeaBreeze SB-0802, М&apos;ясорубка SeaBreeze SB-0802 3000Вт, Мясорубка SeaBreeze SB-0802 3000Вт, М&apos;ясорубка SeaBreeze, Мясорубка SeaBreeze, М&apos;ясорубка, Мясорубка, М&apos;ясорубка SeaBreeze SB-0802 sea breeze, Мясорубка SeaBreeze SB-0802 sea breeze</keywords>
+        <param name="Виробник">Sea breeze</param>
+        <param name="Номінальна потужність">3000</param>
+        <param name="Матеріал корпусу">Алюміній, Пластик</param>
+        <param name="Реверс">Так</param>
+        <param name="Кількість решіток">2</param>
+        <param name="Захист від перевантажень">Так</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Стан">Новий</param>
+        <param name="Насадка для томатів">Да</param>
       </offer>
       <offer id="809453" available="false">
         <name>Мангал складаний 36х28х20см BBQ для барбекю</name>
@@ -39788,7 +39661,7 @@
         <keyword>Мангал</keyword>
         <keywords>Мангал складаний 36х28х20см, Мангал складной 36х28х20см, Мангал складаний 36х28х20см BBQ для барбекю, Мангал складной 36х28х20см BBQ для барбекю, Мангал складаний 36х28х20см BBQ, Мангал складной 36х28х20см BBQ, Мангал складаний, Мангал складной, Мангал</keywords>
       </offer>
-      <offer id="5019" available="false">
+      <offer id="5019" available="true">
         <name>Плойка потрійна хвиля GEMEI GM-1988-25 керамічне покриття з регулювань температури</name>
         <categoryId>63303</categoryId>
         <price>600</price>
@@ -39801,7 +39674,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvyakucfyvavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kucyavkcuvyfaayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/237183013_images_19349109331.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Трійна плойка GM-1956 призначена як для використання як самостійно в домашніх умовах, так і в салонах краси. Пристрій має керамічне покриття, яке надає можливість доглядати за вашим чарівним волоссям. Тепер ваше волосся буде не тільки прекрасним, але й здоровим.</p>
 <p>Абсолютно кожна дівчина знає, що останнім етапом створення образа є зачіска. Але ж не кожна жінка хоче відвідувати салони краси. Що ж робити у цій ситуації? Тут вам допоможе потрійна плойка GM-1956. З її допомогою можна створити унікальну зачіску на волосся будь-якої довжини та будь-якого типу. Сьогодні будь-хто охочий зможе зробити свою унікальну зачіску, не залишаючи свій будинок.</p>
 <p>Трійна плойка нагрівається за короткий період часу. Для кожного типу волосся можна виставити свою температуру нагріву. Пристрій нагрівається від 180 до 210 градусів. Головне не забувайте використовувати захисний засіб для волосся. Погодьтеся, здорове волосся, це запорука успіху будь-якого образу.</p>
@@ -39821,14 +39694,14 @@
         <keyword>Плойка потрійна хвиля</keyword>
         <keyword>Плойка тройная волна</keyword>
         <keyword>Плойка потрійна хвиля GEMEI GM-1988-25 керамічне</keyword>
-        <keyword>Плойка тройная волна GEMEI GM-1988-25</keyword>
+        <keyword>Плойка тройная волна GEMEI GM-1988 керамическое</keyword>
         <keyword>Плойка потрійна хвиля GEMEI</keyword>
         <keyword>Плойка тройная волна GEMEI</keyword>
         <keyword>Плойка потрійна хвиля GEMEI GM-1988-25</keyword>
-        <keyword>Плойка тройная</keyword>
+        <keyword>Плойка тройная волна GEMEI GM-1988</keyword>
         <keyword>Плойка потрійна</keyword>
-        <keyword>Gemei</keyword>
-        <keywords>Плойка потрійна хвиля, Плойка тройная волна, Плойка потрійна хвиля GEMEI GM-1988-25 керамічне, Плойка тройная волна GEMEI GM-1988-25, Плойка потрійна хвиля GEMEI, Плойка тройная волна GEMEI, Плойка потрійна хвиля GEMEI GM-1988-25, Плойка тройная, Плойка потрійна, Gemei</keywords>
+        <keyword>Плойка тройная</keyword>
+        <keywords>Плойка потрійна хвиля, Плойка тройная волна, Плойка потрійна хвиля GEMEI GM-1988-25 керамічне, Плойка тройная волна GEMEI GM-1988 керамическое, Плойка потрійна хвиля GEMEI, Плойка тройная волна GEMEI, Плойка потрійна хвиля GEMEI GM-1988-25, Плойка тройная волна GEMEI GM-1988, Плойка потрійна, Плойка тройная</keywords>
         <param name="Производитель">Gemei</param>
         <param name="Цвет корпуса">Золотистый</param>
         <param name="Количество режимов работы">2</param>
@@ -40695,6 +40568,31 @@
         <keyword>Аерофритюрка Domotec</keyword>
         <keyword>Аэрофритюрница</keyword>
         <keywords>Аерофритюрка Domotec Air, Аэрофритюрница Domotec Air, Аерофритюрка Domotec Air Fryer MS-3224 сенсорне, Аэрофритюрница Domotec Air Fryer MS-3224, Аерофритюрка Domotec Air Fryer, Аэрофритюрница Domotec Air Fryer, Аерофритюрка Domotec Air Fryer MS-3224, Аэрофритюрница Domotec, Аерофритюрка Domotec, Аэрофритюрница</keywords>
+        <param name="Виробник">Domotec</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Номінальна напруга">220 В</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь, Пластик</param>
+        <param name="Колір корпусу">Білий</param>
+        <param name="Матеріал">Скло</param>
+        <param name="Стан">Новий</param>
+        <param name="Кількість програм приготування">12</param>
+        <param name="Відстрочка старту">Так</param>
+        <param name="Покриття чаші">Тефлонове</param>
+        <param name="Призначення">Побутове</param>
+        <param name="Тип приладу">Мультиварка</param>
+        <param name="Тип управління">Сенсорне</param>
+        <param name="Антипригарне покриття чаші">Так</param>
+        <param name="Таймер">Так</param>
+        <param name="Плавне регулювання температури">Так</param>
+        <param name="Терморегулятор">Так</param>
+        <param name="Тип нагрівального елементу">ТЕН</param>
+        <param name="Максимальний час установки таймера">60 хв</param>
+        <param name="Колір">Білий</param>
+        <param name="Тип">Каструля</param>
+        <param name="Знімна чаша">Так</param>
+        <param name="Місткість картоплі">1000 г</param>
+        <param name="Максимальний час відстрочки старту">24 годин</param>
+        <param name="Об&apos;єм чаші">5 л</param>
       </offer>
       <offer id="863525" available="true">
         <name>Робот-пилосос ES28 для сухого та вологого прибирання</name>
@@ -40752,7 +40650,33 @@
         <keyword>Робот-пылесос ES28 для сухой</keyword>
         <keyword>Робот-пилосос</keyword>
         <keyword>Робот-пылесос</keyword>
-        <keywords>Робот-пилосос ES28, Робот-пылесос ES28, Робот-пилосос ES28 для сухого та вологого, Робот-пылесос ES28 для сухой и влажной уборки, Робот-пилосос ES28 для сухого, Робот-пылесос ES28 для сухой, Робот-пилосос, Робот-пылесос</keywords>
+        <keyword>Робот-пилосос ES28 procraft</keyword>
+        <keyword>Робот-пылесос ES28 procraft</keyword>
+        <keywords>Робот-пилосос ES28, Робот-пылесос ES28, Робот-пилосос ES28 для сухого та вологого, Робот-пылесос ES28 для сухой и влажной уборки, Робот-пилосос ES28 для сухого, Робот-пылесос ES28 для сухой, Робот-пилосос, Робот-пылесос, Робот-пилосос ES28 procraft, Робот-пылесос ES28 procraft</keywords>
+        <param name="Виробник">Procraft</param>
+        <param name="Тип">Робот</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Живлення">Акумулятор</param>
+        <param name="Об&apos;єм пилозбірника">0.4</param>
+        <param name="Тип акумулятора">Li-Ion</param>
+        <param name="Гарантійний термін">6</param>
+        <param name="Стан">Новий</param>
+        <param name="Максимальний діаметр гілок">45 мм</param>
+        <param name="Об&apos;єм травозбірника">40 л</param>
+        <param name="Ріжучий механізм">Ножовий</param>
+        <param name="Тип запуску">Електростартер</param>
+        <param name="Тип приводу">Електродвигун (від мережі)</param>
+        <param name="Тип травозбірника">Комбінований</param>
+        <param name="Форм-фактор">Пересувний</param>
+        <param name="Тип інструменту">Садові секатори</param>
+        <param name="Матеріал рукоятки">Комбінований</param>
+        <param name="Форма леза">Вигнута</param>
+        <param name="Класифікація косметичного засобу">Мас маркет</param>
+        <param name="Область застосування">Повіки</param>
+        <param name="Тип відтінку та кольору">Перламутровий</param>
+        <param name="Тип тіней">Компактні</param>
+        <param name="Колір">Червоний</param>
+        <param name="Вага">1.2 кг</param>
       </offer>
       <offer id="4335" available="false">
         <name>Алкотестер цифровий з мундштуками, Хороший алкотестер, Алкотестер алкоголю персональний, Цифровий драгер</name>
@@ -41842,6 +41766,8 @@
         <keywords>Марміт Magio MG-1210, Мармит Magio MG-1210, Марміт Magio MG-1210 прямокутний 3л, Мармит Magio MG-1210 прямоугольный 3л, Марміт Magio MG-1210 прямокутний, Мармит Magio MG-1210 прямоугольный, Марміт Magio, Мармит Magio, Марміт, Мармит</keywords>
         <param name="Виробник">Magio</param>
         <param name="Матеріал">Нержавіюча сталь</param>
+        <param name="Гарантійний термін">12</param>
+        <param name="Стан">Нове</param>
       </offer>
       <offer id="784187" available="true">
         <name>Портативний акумуляторний шуруповерт Boxer BX-3310 24В</name>
@@ -41946,6 +41872,22 @@
         <keyword>Набір</keyword>
         <keyword>Набор из</keyword>
         <keywords>Набір із трьох, Набор из трех, Набір із трьох емальованих каструль Edenberg, Набор из трех эмалированных кастрюль Edenberg, Набір із трьох емальованих, Набор из трех эмалированных, Набір із трьох емальованих каструль, Набор из трех эмалированных кастрюль, Набір, Набор из</keywords>
+        <param name="Матеріал">Емальована сталь</param>
+        <param name="Тип дна">Багатошарове</param>
+        <param name="Виробник">Edenberg</param>
+        <param name="Кількість предметів в наборі">6</param>
+        <param name="Каструля">3</param>
+        <param name="Внутрішнє покриття">емаль</param>
+        <param name="Зовнішнє покриття">емаль</param>
+        <param name="Кришки">Емальований метал</param>
+        <param name="Ручки">Емальований метал</param>
+        <param name="Антипригарне покриття">Весь набір</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Стан">Новий</param>
+        <param name="Кришка">емальований метал</param>
+        <param name="Ручка">Емальований метал</param>
+        <param name="Матеріал леза">Нержавіюча сталь</param>
+        <param name="Підходить для миття в посудомийній машині">Так</param>
       </offer>
       <offer id="812604" available="true">
         <name>Дитячий фотоапарат M03 Panda Green</name>
@@ -42040,7 +41982,19 @@
         <keyword>Вертикальный отпариватель Domotec MS-1323</keyword>
         <keyword>Вертикальний відпарювач</keyword>
         <keyword>Вертикальный отпариватель</keyword>
-        <keywords>Вертикальний відпарювач Domotec, Вертикальный отпариватель Domotec, Вертикальний відпарювач Domotec MS-1323 ручний, Вертикальный отпариватель Domotec MS-1323 ручной, Вертикальний відпарювач Domotec MS-1323, Вертикальный отпариватель Domotec MS-1323, Вертикальний відпарювач, Вертикальный отпариватель</keywords>
+        <keyword>Вертикальний відпарювач Domotec електрочайник</keyword>
+        <keyword>Вертикальный отпариватель Domotec електрочайник</keyword>
+        <keywords>Вертикальний відпарювач Domotec, Вертикальный отпариватель Domotec, Вертикальний відпарювач Domotec MS-1323 ручний, Вертикальный отпариватель Domotec MS-1323 ручной, Вертикальний відпарювач Domotec MS-1323, Вертикальный отпариватель Domotec MS-1323, Вертикальний відпарювач, Вертикальный отпариватель, Вертикальний відпарювач Domotec електрочайник, Вертикальный отпариватель Domotec електрочайник</keywords>
+        <param name="Виробник">Domotec</param>
+        <param name="Споживана потужність">1500</param>
+        <param name="Об&apos;єм котла (бака для води)">0.4</param>
+        <param name="Регулювання сили пара">Так</param>
+        <param name="Продуктивність пари">27</param>
+        <param name="Тип управління">Механічне</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Стан">Новий</param>
+        <param name="Колір корпусу">Білий</param>
+        <param name="Тип">Електрочайник</param>
       </offer>
       <offer id="864794" available="true">
         <name>Мультимейкер зі знімними формами 10 в 1 Domotec MS-209 2000Вт</name>
@@ -42529,7 +42483,13 @@
         <keyword>Набор аккумуляторных</keyword>
         <keyword>Набір</keyword>
         <keyword>Набор</keyword>
-        <keywords>Набір акумуляторних інструментів, Набор аккумуляторных инструментов, Набір акумуляторних інструментів 24 В Boxer, Набор аккумуляторных инструментов 24 В Boxer, Набір акумуляторних, Набор аккумуляторных, Набір, Набор</keywords>
+        <keyword>Набір акумуляторних інструментів набір</keyword>
+        <keyword>Набор аккумуляторных инструментов набір</keyword>
+        <keywords>Набір акумуляторних інструментів, Набор аккумуляторных инструментов, Набір акумуляторних інструментів 24 В Boxer, Набор аккумуляторных инструментов 24 В Boxer, Набір акумуляторних, Набор аккумуляторных, Набір, Набор, Набір акумуляторних інструментів набір, Набор аккумуляторных инструментов набір</keywords>
+        <param name="Виробник">Boxer</param>
+        <param name="Стан">Новий</param>
+        <param name="Кількість в наборі інструментів">3</param>
+        <param name="Тип">Набір електроінструменту</param>
       </offer>
       <offer id="808096" available="true">
         <name>Плойка для волосся Magio MG-670</name>
@@ -42576,7 +42536,23 @@
         <keyword>Плойка для волосся Magio</keyword>
         <keyword>Плойка для волос Magio</keyword>
         <keyword>Плойка</keyword>
-        <keywords>Плойка для волосся, Плойка для волос, Плойка для волосся Magio MG-670, Плойка для волос Magio MG-670, Плойка для волосся Magio, Плойка для волос Magio, Плойка</keywords>
+        <keyword>Плойка для волосся tabu</keyword>
+        <keyword>Плойка для волос tabu</keyword>
+        <keyword>Плойка tabu</keyword>
+        <keywords>Плойка для волосся, Плойка для волос, Плойка для волосся Magio MG-670, Плойка для волос Magio MG-670, Плойка для волосся Magio, Плойка для волос Magio, Плойка, Плойка для волосся tabu, Плойка для волос tabu, Плойка tabu</keywords>
+        <param name="Виробник">Tabu</param>
+        <param name="Споживана потужність">300</param>
+        <param name="Кількість насадок">2</param>
+        <param name="Країна виробник">Китай</param>
+        <param name="Гарантійний термін">12</param>
+        <param name="Стан">Новий</param>
+        <param name="Кількість швидкостей">5</param>
+        <param name="Режим Турбо">Так</param>
+        <param name="Тип міксера">Ручний</param>
+        <param name="Матеріал корпусу">Нержавіюча сталь, Пластик</param>
+        <param name="Тип нагрівального елементу">Прихований нагрівальний елемент</param>
+        <param name="Об`єм">3.9 л</param>
+        <param name="Живлення">Мережа 220В</param>
       </offer>
       <offer id="9509" available="false">
         <name>Пульсоксиметр Fingertip pulse oximeter LK87, Пульсоксиметр для вимірювання пульсу та сатурації портативний</name>
@@ -43513,14 +43489,14 @@
         <keyword>Дитяче</keyword>
         <keywords>Дитяче баскетбольне кільце, Детское баскетбольное кольцо, Дитяче баскетбольне кільце з електронним таблом, Детское баскетбольное кольцо с электронным таблом, Дитяче баскетбольне кільце з електронним, Детское баскетбольное кольцо с электронным, Дитяче баскетбольне, Детское баскетбольное, Дитяче</keywords>
       </offer>
-      <offer id="809492" available="false">
+      <offer id="809492" available="true">
         <name>Намет туристичний з антимоскітною сіткою і каркасом 200x150x135см Похідний намет 2х спальних місць</name>
         <categoryId>240409</categoryId>
         <price>920</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws65854</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvfyamvyfavyffvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Автоматична двомісна туристична намет розроблена для зручного і швидкого відпочинку на природі. Інноваційний автоматичний механізм дозволяє розгорнути намет за лічені секунди без особливих зусиль і спеціальних навичок. Просторі розміри 200x150x135 см забезпечують комфортне розміщення двох осіб, створюючи затишний простір незалежно від умов.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>

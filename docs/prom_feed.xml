@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-13 10:05">
+<yml_catalog date="2026-09-14 10:29">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -150,7 +150,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcaipivfpauv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euivfuavfvfav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vufaviavfai.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електробритва одна з найбільш затребуваних побутових приладів для чоловіків. Якщо вам потрібна якісна акумуляторна електробритва для сухого гоління з ножами, що плавають, і вбудованим триммером для підрівнювання вусів і бороди, то модель Gemei GM 7090 &mdash; це саме те, що вам потрібно.</p>
 <p>Дана модель Gemei GM 7090 має ергономічний, стильний корпус, виготовлений з високотехнологічного ABS пластику, з антиковзними вставками з боків. Конструкція з трьома плаваючими ножами із гігієнічної нержавіючої сталі ідеально підходить для сухого гоління. Ризик порізів зведений до нуля, так як гострі ножі, що вібрують, для гоління голівок захищені нержавіючою дрібнокомірчастою сіточкою. Великою перевагою такої бритви вважається його автономність: протягом 90 хвилин може працювати за рахунок акумулятора. У нижній частині корпусу розташований індикатор рівня заряду. Дана роторна електробритва добре справляється з щетиною, що нерівномірно зростає, і забезпечують більш якісне гоління.</p>
 <p>Модель Gemei GM 7090 оснащена висувним триммером &mdash; дуже зручним пристосуванням для підрівнювання вусів, бакенбардів та бороди. Електрична бритва Gemei GM 7090 стане чудовим подарунком для чоловіка на будь-яке свято.</p>
@@ -1862,7 +1862,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="172865" available="true">
+      <offer id="172865" available="false">
         <name>Тактичний ручний ліхтар Police T6-26+T6+COB</name>
         <categoryId>150410</categoryId>
         <price>360</price>
@@ -1878,7 +1878,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdasda.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3waserfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rewdasfedasd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар з акумуляторним живленням та потужними діодами T6 стане незамінним помічником у будь-яких умовах. Його металевий корпус забезпечує надійність і довговічність, а вологостійка конструкція дозволяє використовувати пристрій навіть у складних погодних умовах. Завдяки чотирьом режимам роботи та оптичному зуму ви зможете адаптувати світловий потік під свої потреби, забезпечуючи максимальний комфорт і ефективність освітлення.</p>
 <h2>Переваги пристрою</h2>
 <ul>
@@ -2067,67 +2067,6 @@
         <param name="Дополнительные функции">Защита от перегрева</param>
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
-      </offer>
-      <offer id="215577" available="false">
-        <name>Міксер ручний MAGIO МG-231 300 Вт, міксер для збивання, міксер ручний для кухні, міксер для кухні</name>
-        <categoryId>612</categoryId>
-        <price>1010</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws89598</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kjucfyak3juc.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4ckuapen54cukaiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kjucfvaypkeckuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3jucpke4k3.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/jfyvpkcjfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcfayak3jcf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4kucaivprn54cku.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kuaivpreckufvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivpeckuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/cupk43kcf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Пропонуємо звернути увагу на професійний міксер MAGIO MG-231 – прилад, що стане незамінним помічником на вашій кухні. Компактний, потужний і багатофункціональний, цей міксер розроблений для ефективної роботи з різними продуктами, від легких кремів до щільного тіста. Продумана ергономіка та просте керування дозволять вам оптимізувати час приготування і досягти стійких відмінних результатів.</p>
-<h2>Аргументи на користь вибору</h2>
-<ul>
-<li>Потужність 300 Вт гарантує швидке і якісне збивання, що зекономить ваш час і забезпечить однорідну консистенцію.</li>
-<li>П’ять рівнів швидкості дозволяють точно налаштувати інтенсивність роботи під будь-який тип продукту — від легких повітряних кремів до густого тіста.</li>
-<li>Насадки для збивання яєць і замішування тесту універсальні і легко замінюються завдяки кнопці викиду, що прискорює процес підготовки.</li>
-<li>Корпус з нержавіючої сталі підвищує міцність пристрою та сприяє гігієнічності, забезпечуючи довготривалу службову здатність.</li>
-<li>Зручна ручка створена для комфортного тривалого використання без надмірного навантаження на руку та зап’ястя.</li>
-<li>Компактний дизайн зменшує займане місце на кухонній поверхні та полегшує зберігання пристрою навіть у невеликому просторі.</li>
-</ul>
-<h2>Сфера застосування</h2>
-<p>Міксер MAGIO MG-231 адаптований для роботи з широким спектром кулінарних завдань. Він ідеально підходить для замішування тіста різної консистенції — від м’якого для пирогів до більш щільного для хліба чи печива. Також прилад ефективно збиває суміші для коктейлів, мусів та кремів, що дозволяє готувати десерти та напої з ідеальною текстурою. Завдяки регульованій швидкості і зручній ручці, міксер підходить як для домашнього користування, так і для професійних кухонь, де потрібна надійність і оперативність.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Потужність: 300 Вт</li>
-<li>Кількість швидкостей: 5</li>
-<li>Матеріал корпусу: нержавіюча сталь</li>
-<li>Насадки: для збивання яєць, для замішування тесту</li>
-<li>Механізм заміни насадок: кнопка викиду</li>
-<li>Дизайн: компактний, зручно розташована ручка</li>
-</ul>]]></description>
-        <keyword>Міксер ручний MAGIO</keyword>
-        <keyword>Миксер ручной MAGIO</keyword>
-        <keyword>Міксер ручний MAGIO МG-231 300 Вт</keyword>
-        <keyword>Миксер ручной MAGIO МG-231 300 Вт</keyword>
-        <keyword>міксер для збивання</keyword>
-        <keyword>миксер для взбивания</keyword>
-        <keyword>міксер ручний для кухні</keyword>
-        <keyword>ручной миксер для кухни</keyword>
-        <keyword>міксер для кухні</keyword>
-        <keyword>миксер для кухни</keyword>
-        <keywords>Міксер ручний MAGIO, Миксер ручной MAGIO, Міксер ручний MAGIO МG-231 300 Вт, Миксер ручной MAGIO МG-231 300 Вт, міксер для збивання, миксер для взбивания, міксер ручний для кухні, ручной миксер для кухни, міксер для кухні, миксер для кухни</keywords>
-        <param name="Производитель">Magio</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Потребляемая мощность">300</param>
-        <param name="Количество насадок">4</param>
-        <param name="Количество скоростей">7</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Питание">Сеть 220В</param>
-        <param name="Режим Турбо">Нет</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип миксера">Ручной</param>
-        <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="232262" available="true">
         <name>Електробритва MAGIO MG-687 3 голівки, сухе/вологе гоління, висувний триммер</name>
@@ -3331,7 +3270,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufivap3ufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfiavpuiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwadsffgtrweasd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроплита двоконфоркова Rainberg RB-008</strong><span>&nbsp;</span>&#8211; справжня знахідка для людей, які цінують свій час.<br />Відкриті нагрівальні спіралі, кожна потужністю 3500Вт, забезпечують миттєвий розігрів та швидке приготування їжі вдома та на дачі. Вбудовані термостати підтримують заданий режим приготування їжі. П&#8217;ять режимів потужності для кожної конфорки.</p>
 <p>Компактна електроплита в елегантному дизайні &mdash; відмінне рішення як як додаткова варильна панель на дачі або в будинку, так і в якості окремої електричної плити на невеликій кухні. Проста та зручна в експлуатації з подвійною варильною панеллю. Кожна плита настроюється індивідуально &mdash; можна використовувати дві пластини разом чи окремо. Ця модель оснащена захистом від перегріву, не ковзними гумовими ніжками для безпечного використання.</p>
 <div><strong>Переваги плитки:</strong></p>
@@ -6407,7 +6346,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/herdfbhdfsgrgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgrsgesaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfhrdsgrsafe.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>VGR V-106 &#8211; це професійний комплект для догляду за тілом, який пропонує функціональність 6 в 1 та вражає точністю свого леза, виготовленого з високоякісної нержавіючої сталі. Корпус має світлодіодний дисплей, що відображає рівень заряду у відсотках.</p>
 <p><strong>Важливими компонентами цього набору &#8220;VGR V-106&#8221; є:</strong></p>
 <ul>
@@ -10136,72 +10075,6 @@
         <param name="Тип трубы всасывания">Телескопическая</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="532560" available="false">
-        <name>Електрочайник Magio MG-971 термостійкий 1.7 л 1500 Вт Стильний електричний чайник Тихий побутовий чайник</name>
-        <categoryId>640</categoryId>
-        <price>1400</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws38969</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaypvyfpyvfpvyfyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rvapvyfpvypykfp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ypvyfpuvypvfypvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/vaypyvpuypvypyfyup.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ervyyvpyvpypy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/evypyvfpvyfpvypyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kyvfpvyfpvyfpyfp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rvayppvyfpyyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kvpvyfpfayfu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpyvfpvyyfu.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Електрочайник потужністю 1500 Вт створений для швидкого та безпечного нагрівання води об’ємом до 1,7 літра. Він поєднує у собі інноваційні технічні рішення та продуманий дизайн, що робить процес приготування напоїв зручним та ефективним. Конструкція пристрою розроблена з урахуванням максимальної безпеки та довговічності, що важливо для щоденного використання у домашніх та офісних умовах.</p>
-<h2>Аргументи на користь вибору</h2>
-<ul>
-<li>Високоякісний трьохшаровий корпус з внутрішньою колбою з нержавіючої сталі забезпечує довготривалу експлуатацію без корозії та виділення сторонніх запахів.</li>
-<li>Металевий зовнішній корпус із захистом від опіків гарантує безпеку навіть при дотику під час кип’ятіння води.</li>
-<li>Потужність 1500 Вт забезпечує швидкий нагрів 1,7 літра води, економлячи ваш час на приготування чайних чи кавових напоїв.</li>
-<li>Прихований нагрівальний елемент запобігає накопиченню накипу та спрощує догляд за пристроєм.</li>
-<li>Наявність індикації ввімкнення допомагає контролювати роботу приладу в реальному часі.</li>
-<li>Багаторівнева система захисту: блокування включення без води, захист від перегріву та автоматичне вимкнення при закипанні подбають про вашу безпеку та продовжать термін служби чайника.</li>
-</ul>
-<h2>Ідеально підходить для</h2>
-<p>Цей електрочайник стане незамінним помічником у вашому домі, офісі або будь-якому іншому робочому просторі. Його ємність 1,7 літра дозволяє швидко приготувати достатню кількість гарячої води для сім’ї або колективу до 4-5 осіб. Виріб підійде тим, хто цінує комфорт та безпеку, а також шукає надійний прилад для регулярного використання — у приготуванні чаю, кави, швидкому заварюванні круп або навіть стерилізації посуду.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Потужність: 1500 Вт</li>
-<li>Об’єм: 1,7 літра</li>
-<li>Матеріал внутрішньої колби: нержавіюча сталь</li>
-<li>Корпус: трьохшаровий з металевим зовнішнім покриттям</li>
-<li>Захист корпусу від опіків</li>
-<li>Прихований нагрівальний елемент</li>
-<li>Індикація увімкнення</li>
-<li>Захист від перегріву</li>
-<li>Блокування увімкнення без води</li>
-<li>Автоматичне вимкнення після закипання</li>
-</ul>]]></description>
-        <keyword>Електрочайник Magio MG-971</keyword>
-        <keyword>Электрочайник Magio MG-971</keyword>
-        <keyword>Електрочайник Magio MG-971 термостійкий</keyword>
-        <keyword>Электрочайник Magio MG-971 термостойкий</keyword>
-        <keyword>Електрочайник Magio</keyword>
-        <keyword>Тихий бытовой чайник</keyword>
-        <keyword>Magio</keyword>
-        <keyword>Электрочайник Magio</keyword>
-        <keyword>Електрочайник</keyword>
-        <keyword>Електрочайник Magio MG-971 электрочайник</keyword>
-        <keywords>Електрочайник Magio MG-971, Электрочайник Magio MG-971, Електрочайник Magio MG-971 термостійкий, Электрочайник Magio MG-971 термостойкий, Електрочайник Magio, Тихий бытовой чайник, Magio, Электрочайник Magio, Електрочайник, Електрочайник Magio MG-971 электрочайник</keywords>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Цвет корпуса">Коричневый</param>
-        <param name="Производитель">Magio</param>
-        <param name="Объем">1.7</param>
-        <param name="Потребляемая мощность">1500</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Индикатор работы">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип">Электрочайник</param>
-        <param name="Покрытие нагревательного элемента">покрытие из нержавеющей стали</param>
-        <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-        <param name="Функция автоотключения">Да</param>
-      </offer>
       <offer id="544645" available="true">
         <name>Електричний гриль-барбекю Magio MG-356 з регульованою температурою до 230°C</name>
         <categoryId>6300404</categoryId>
@@ -13513,7 +13386,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaravipvipki.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaiavipif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkavrvaaik.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Тостер RAF R2102<span>&nbsp;</span></strong>&ndash; це зручний та функціональний пристрій, призначений для швидкого та рівномірного підсмажування хліба. Компактний дизайн дозволяє легко розмістити його на будь-якій кухні, а елегантний зовнішній вигляд робить його чудовим доповненням до інтер&#8217;єру.</p>
 <p><strong>Завдяки<span>&nbsp;</span></strong>механічному управлінню та п&#8217;яти рівням підсмажування, тостер дозволяє готувати тости з різним ступенем крихкості, підлаштовуючись під переваги кожного користувача.</p>
 <p><strong>Пристрій обладнаний<span>&nbsp;</span></strong>трьома корисними функціями: розморожування, підігрів та скасування. Функція розморожування дозволяє підсмажувати навіть заморожені скибочки хліба, а режим підігріву ідеально підходить для розігріву раніше підготовлених тостів.</p>
@@ -20288,7 +20161,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип&#8217;ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -21312,7 +21185,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euivapeuiiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcfivakuvaifivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcfivakuaviavi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Чайник MG-499</strong><span>&nbsp;об&#8217;ємом 1,7 л поєднує в собі стильний дизайн з чудовою якістю та довговічністю. Корпус виготовлений з прозорого термостійкого скла, завдяки чому у воді просто ні звідки з&#8217;явитися неприємним присмакам або навіть небезпечним для здоров&#8217;я речовинам. Внутрішній світловий індикатор роботи ефектно осяює киплячу воду різнобарвним підсвічуванням. При натисканні кнопки механізм відкриття кришки спрацьовує м&#8217;яко і плавно, виключаючи розбризкування конденсату з кришки. Прихований нагрівальний елемент забезпечує швидке кип&#8217;ятіння, надійність та простоту очищення чайника, а вбудований контролер захищає від перегріву. Комплексна система безпеки для запобігання короткому замиканню та википанню води. Захист від перегріву забезпечить автоматичне вимкнення при недостатньому рівні води.</span></p>
 <ul>
 <li><span><strong>Потужність</strong>, Вт 2000</span></li>
@@ -31269,7 +31142,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuapyvpkpyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euaivpuivfppkifr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnpekmpuifvpkf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Стайлер оснащений зручною ручкою та простий у використанні. Завдяки універсальності цього набору, ви зможете створювати безліч зачісок &#8211; від гладких пасм до об&#8217;ємних локонів &#8211; у домашніх умовах, як у професійному салоні.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -31789,68 +31662,6 @@
         <param name="Емкость аккумулятора">1200 мА/ч</param>
         <param name="Тип">Универсальная солнечная батарея</param>
         <param name="Производитель">Без бренда</param>
-      </offer>
-      <offer id="6656" available="false">
-        <name>Щипці фен для волосся мультистайлер GEMEI GM-4831 7в1, класичний фен для волосся потужний для волосся</name>
-        <categoryId>617</categoryId>
-        <price>920</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws37577</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reviarpvpvifpi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revirvrpif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapivfpuifpiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvfpuvifpivchyachs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revkpvifpvipivfpvifpki.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reivpivvai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revairariiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pavpvik.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rekipvipiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reipvisavi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Gеmеї GМ-4831 &ndash; універсальний потужний мультистайлер з величезною кількістю функцій для створення різноманітних зачісок. З його допомогою ви створите дрібні та великі кучері, об&#8217;єм та багато іншого.</p>
-<p>Має 1 швидкість та 3 температурні режими. Вибір температури здійснюється за допомогою перемикача в середній частині корпусу &ndash; з урахуванням індивідуальної структури та стану волосся.</p>
-<p>Фен-щітка виконана в мінімалістичному дизайні. Оснащений довгим шнуром для зручності використання та можливістю повороту на 360 градусів.</p>
-<p>В комплектацію входять концентратор, гребінь, насадка-щітка, кругла щітка-брашинг, насадка для завивки.</p>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Потужність: 220-240 B 50/60 Гц, 2200 Bт;</li>
-<li>Захист від перегріву;</li>
-<li>1 швидкість;</li>
-<li>3 температурні режими;</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Концентратор;</li>
-<li>гребінець (для надання об&#8217;єму від коріння);</li>
-<li>Насадка-щітка (для вирівнювання);</li>
-<li>Кругла щітка-брашинг (для круглих локонів);</li>
-<li>Кругла щітка &ndash; брашинг (для дрібних локонів);</li>
-<li>Насадка для завивки.</li>
-</ul>]]></description>
-        <keyword>Щипці фен</keyword>
-        <keyword>Щипцы фен</keyword>
-        <keyword>Щипці фен для волосся мультистайлер GEMEI GM-4831</keyword>
-        <keyword>Щипцы фен для волос мультистайлер GEMEI GM-4831</keyword>
-        <keyword>класичний фен для волосся потужний для волосся</keyword>
-        <keyword>классический фен для волос мощный для волос</keyword>
-        <keyword>Щипці фен для волосся</keyword>
-        <keyword>Щипцы фен для волос</keyword>
-        <keyword>Щипці фен для волосся мультистайлер</keyword>
-        <keyword>Щипцы фен для волос мультистайлер</keyword>
-        <keywords>Щипці фен, Щипцы фен, Щипці фен для волосся мультистайлер GEMEI GM-4831, Щипцы фен для волос мультистайлер GEMEI GM-4831, класичний фен для волосся потужний для волосся, классический фен для волос мощный для волос, Щипці фен для волосся, Щипцы фен для волос, Щипці фен для волосся мультистайлер, Щипцы фен для волос мультистайлер</keywords>
-        <param name="Производитель">Gemei</param>
-        <param name="Цвет корпуса">Розовый</param>
-        <param name="Мощность фена">2200</param>
-        <param name="Количество режимов работы">5</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Количество температурных режимов">3</param>
-        <param name="Функция ионизации">Нет</param>
-        <param name="Холодный обдув">Да</param>
-        <param name="Режим Турбо">Да</param>
-        <param name="Тип">Фен</param>
-        <param name="Турмалиновое покрытие">Нет</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип питания">Сеть 220 В</param>
       </offer>
       <offer id="22210" available="true">
         <name>Туристичний ліхтар лампи на сонячній батареї з павером CAMPING MH-5800T (6+1 LED) Brown</name>
@@ -33481,7 +33292,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об&#8217;ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -36025,7 +35836,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwefefsdasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4efsdgtwesfgas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jucfvaypecuyavp-1.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Кухонні ваги MATARIX MX 405 — незамінний інструмент для точного вимірювання ваги продуктів до 5 кг. Вони оптимально підходять для всіх, хто цінує зручність і точність при приготуванні страв та заготовок.</p>
 <h2>Ключові особливості та переваги</h2>
 <ul>
@@ -36477,7 +36288,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvyapkyvfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvaypvaypyvpyfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpyvpyvfppyyv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><b>Гейзерна кавоварка UNIQUE UN-1901</b><span>&nbsp;</span>&#8211; швидкий і зручний спосіб приготувати смачну каву. Виготовлена ​​із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
 <p><b>Гейзерна кавоварка складається з трьох основних частин:</b></p>
 <ul>
@@ -41686,7 +41497,7 @@
         <vendorCode>ws76834</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euaypvpyvayfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n4eukpaipyvfyfv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Набір кухонного приладдя 12 предметів UNIQUE UN-1871 — це універсальне рішення для комфортної та організованої роботи на будь-якій кухні. З його допомогою ви значно спростите процес приготування і подачі страв, зберігаючи порядок і чистоту у робочій зоні. Всі інструменти продумані до дрібниць, щоб забезпечити зручність використання та високу функціональність у кожній деталі.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -42553,7 +42364,7 @@
         <keyword>Электрическая блинница</keyword>
         <keywords>Електрична млинець Domotec, Электрическая блинница Domotec, Електрична млинець Domotec MS-5209B, Электрическая блинница Domotec MS-5209B, Електрична млинець, Электрическая блинница</keywords>
       </offer>
-      <offer id="784270" available="true">
+      <offer id="784270" available="false">
         <name>Набір торцевих ключів з тріскачками 46 шт. Champion CP-248 ключі та набори торцевих головок</name>
         <categoryId>14200399</categoryId>
         <price>430</price>
@@ -42562,7 +42373,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/auyfvapuyfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/puypyvfyfauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kaufvyuafypuyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Набір торцевих ключів із храповим механізмом CHAMPION CP-248 складається з 46 предметів, що робить його ідеальним вибором для професійних механіків та домашніх умільців. Завдяки храпному механізму інструменти забезпечують зручність та ефективність при виконанні робіт, дозволяючи швидко і без зусиль змінювати положення ключа без необхідності знімати його з гайки. Виготовлені із високоякісних матеріалів, ключі гарантують надійність та тривалий термін служби.</span></p>
 <ul>
 <li><span>Широкий асортимент розмірів для різних типів гайок та болтів.</span></li>
@@ -42801,7 +42612,7 @@
         <keywords>Потрійне дзеркало, Тройное зеркало, Потрійне дзеркало для макіяжу з підсвічуванням, Тройное зеркало для макияжа с подсветкой, Дзеркало зі світлодіодом, Зеркало с светодиодом, Настільне LED дзеркало, Настольное led зеркало, Потрійне дзеркало для макіяжу, Тройное зеркало для макияжа</keywords>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="515790" available="true">
+      <offer id="515790" available="false">
         <name>Міні насос велосипедний BL-2121 3 Бар</name>
         <categoryId>14200506</categoryId>
         <price>260</price>
@@ -42809,7 +42620,7 @@
         <vendorCode>ws62625</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuaypvfpeyvfuepyvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuayvffppfyprk.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Незалежно від того, ви щоденний велосипедист чи прихильник тривалих велопрогулянок, правильний тиск у колесах є ключем до комфортної їзди та тривалого терміну служби шин. Велосипедний насос з телескопічним поршнем, виготовлений з легкого і міцного алюмінію, забезпечить швидке та ефективне накачування коліс до оптимального тиску. Завдяки універсальному клапану, цей насос підходить для будь-яких типів вентилів, а максимальний робочий тиск до 3 Бар гарантує відповідність більшості стандартів велосипедних шин.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>

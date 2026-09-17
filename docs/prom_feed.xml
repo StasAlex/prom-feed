@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-16 09:47">
+<yml_catalog date="2026-09-17 09:54">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -576,7 +576,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="12012" available="true">
+      <offer id="12012" available="false">
         <name>Акумуляторна машинка для стрижки волосся Gemei GM-6042, окантувальна машинка Black</name>
         <categoryId>28290204</categoryId>
         <price>360</price>
@@ -592,7 +592,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htefdgrtfdsfgrfdsfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ergfdbgrfesdgsdsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/twefgefsdaesdasd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся &ndash; річ незамінна для перукарень та салонів краси. Але технології йдуть вперед і тепер машинка для стрижки волосся доступна кожному, і дозволяє заощадити на стрижці!</p>
 <p>Набір для стрижки Gemei GM-6042 допоможе Вам забути про відвідування дорогих салонів та перукарень. Тепер будь-яку стильну зачіску ви створите буквально за лічені хвилини.</p>
 <p>Професійні машинки для стрижки волосся Gemei дозволяють в домашніх умовах зробити модну зачіску і підтримувати її без послуг перукаря. Встановіть потрібну довжину стрижки за допомогою регулятора та увімкніть машинку одним легким рухом. Міняти довжину стрижки максимально просто, як і доглядати машинку. Тример GEMEI GM-6042 дозволяє зробити стрижку різної довжини. Крім того, в комплекті йде спеціальна олія для змащування ножів машинки, а також щіточка для чищення Машинка для стрижки волосся Gemei GM-6042 має низький рівень шуму і вібрації, завдяки чому Ви не зазнаєте ніякого дискомфорту під час роботи з триммером.</p>
@@ -1561,7 +1561,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvypkyvpuyfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapkypfuy-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvpuyfvyfuyfpy.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Супер яскравий ліхтар Police BL-1831-T6. Усередині знаходиться дуже потужний світлодіод фірми СREE Т6. Потужність світлового потоку даного світлодіода 1200 lumen !!! </p>
 <p>Ліхтар BL-1831 T6 має 5 режимів роботи: Турбо, Середній, Економ рівні яскравості, режим Стробоскоп (аварійне миготливе світло) та режим SOS. Направивши ліхтар у небо у режимі Стробоскоп або SOS, сторонній спостерігач зможе побачити промінь світла у радіусі 1000 метрів. Перемикання режимів здійснюється підлогою натисканням силіконової кнопки включення, яка знаходиться біля основи головки ліхтаря.</p>
 <p>Масштабування від 1 до 2000х здійснюється легким рухом однієї руки. Фокус променя змінюється висуванням головної частини ліхтаря від основи перед. Фокусувальна лінза дає можливість змінювати кут розсіювання світла від широкої плями до вузькоспрямованого променя.</p>
@@ -1625,7 +1625,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cukfama3jcvifvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcvfiak3jcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcvak3jcfviv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ліхтарі &laquo;Police&raquo; зазвичай використовують правоохоронні органи, рятувальні служби та мисливці. Адже у всіх ліхтарів, висока дальність свічення променя, вони надійні, ударостійкі, мають захист від вологи та пилу та у всіх корпус виконаний з анондованого алюмінію, який використовується в авіабудуванні.</p>
 <p>Цей ліхтар був спеціально розроблений для роботи у важких погодних та непередбачуваних умовах. Такі ліхтарі відмінно підходять для використання разом зі зброєю; мають відмінний захист від бруду; від попадання води та пилу. Також у них є спеціальні зубці, для руйнування дрібних перешкод, типу скла. Ці ліхтарі можна використовувати як для домашнього використання, так і для походів, наприклад на рибалку. Оснащені новим видом світлодіодів, вони забезпечують більшу силу свічення, порівняно з галогенними лампами та старими діодами, які, як правило, вже ніхто не використовує і не виробляє.</p>
 <p><strong>Опис:</strong></p>
@@ -3417,7 +3417,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="267142" available="true">
+      <offer id="267142" available="false">
         <name>Електрочайник MAGIO MG-106, дисковий 1.5Л, стильний електричний чайник, маленький електрочайник</name>
         <categoryId>640</categoryId>
         <price>1230</price>
@@ -3433,7 +3433,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kucvyk3cvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujcyvfaukcufyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufyvakcfyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li><span>Чайник-термос&nbsp;</span><strong>MG-106</strong><span>&nbsp;об&#8217;ємом 1,5 л поєднує в собі стильний дизайн з чудовою якістю і довговічністю. </span></li>
 <li><span>Чайник-термос завдяки подвійним стінкам нагрівається набагато швидше, економлячи електроенергію та час, а ефект термоса збереже гарячу воду тривалий час. </span></li>
@@ -4006,7 +4006,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivakcfivafkuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivauv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрична м’ясорубка Rainberg RB-671 поєднує потужність і функціональність, забезпечуючи швидку та зручну переробку м’яса, риби, овочів і тіста. Ця модель створена для тих, хто цінує ефективність на кухні і прагне до багатофункціонального пристрою з надійним захистом і комфортною експлуатацією.</p>
 <h2>Чому користувачі обирають цю модель</h2>
 <ul>
@@ -5097,7 +5097,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wdasfedfsaafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/asdafrefdsdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwdasfa.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Компактний фен Magio MG-166 поєднує ефективність професійного сушіння з ергономікою та мобільністю. Його потужність у 2000 Вт забезпечує швидке висушування волосся, а регульовані температурні режими та швидкості дають можливість адаптувати роботу пристрою під будь-який тип волосся і бажаний стиль укладки. Складна ручка та петелька для підвішування роблять цей фен ідеальним супутником у подорожах або для зручного зберігання в обмеженому просторі ванної кімнати.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -8670,7 +8670,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgtsdgdfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/sdgsdaesdfaedds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wefsdgesdaeafsd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>T&amp;G TG-658 Bluetooth Speaker &#8211; це компактна колонка, яка ідеально підходить для будь-якого випадку. Влаштовуєте ви вечірку вдома, відпочиваєте біля басейну або вирушаєте в похід на природу, TG-658 забезпечить вам якісний звук і тривалий час автономної роботи.</p>
 <p>TG-658 оснащена чипом декодування звуку Bluetooth 5.3, який забезпечує стабільне і надійне з&#8217;єднання з вашим смартфоном, планшетом або ноутбуком. Колонка також оснащена вбудованим мікрофоном, тому ви можете використовувати її для дзвінків у режимі гучного зв&#8217;язку.</p>
 <p>TG-658 оснащена динаміком потужністю 8 Вт, який забезпечує насичений і повний звук. У колонку також вбудований підсилювач басів, тому ви зможете насолоджуватися улюбленою музикою з чистими басами.</p>
@@ -19245,7 +19245,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cuafvmku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfvikcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ujcvfiakcfi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><b>Тактичний кишеньковий ліхтар Police 525/8468-ХРЕ+СОВ</b>&nbsp;&ndash; малогабаритний, компактний, легкий, зручний ручний ліхтарик, а також незамінний помічник у повсякденній експлуатації.&nbsp; Прилад настільки маленький, що розміщується на долоні.</p>
 <p>Ця модель оснащена двома потужними світлодіодами, які можуть світити довгий час і не потребуватимуть заміни.&nbsp;<b>Працює від літій іонного акумулятора</b>, який можна перезаряджати безліч разів. Заряджається через <b>micro USB&nbsp;</b>роз&#8217;єм будь-яким пристроєм, що має USB вихід. Це може бути зарядка для телефону, комп&#8217;ютера, ноутбука, автомагнітола та ін.</p>
 <p>Кишеньковий ліхтарик має сучасну оптичну функцію<b>&nbsp;zoom,</b>&nbsp;завдяки якій Ви зможете регулювати світловий потік залежно від своїх завдань. Об&#8217;єкти можна без зусиль розглянути і зблизька, і на значній відстані. Прилад має 3 режими роботи.</b></p>
@@ -20286,7 +20286,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcaviaukviaavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cfivaaukiavafvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivaukviafvi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Міксер з чашею Domotec MS 1366</strong><span>&nbsp;</span> &#8211; дуже зручний, легкий у використанні та очищенні. Корпус міксера підставка та чаша виготовлені із пластику, а насадки з нержавіючої сталі, продумана до дрібниць ергономіка надає додаткового комфорту у використанні даного міксера. MS 1366 має 7 швидкісних режимів роботи для збивання продуктів різної густини, його потужність дозволяє легко збивати яйця, соуси або бісквітне тісто. У комплекті Domotec MS-1366 є велика чаша, на яку легко встановлюється міксер, тим самим перетворюючи його на стаціонарний прилад, що дозволяє звільнити руки на кухні. Також є два віночки для збивання і додаткові гаки для замішування тіста, що оцінять господині, які люблять радувати свою сім&#8217;ю різною випічкою.</p>
 <p><strong>Особливості та переваги</strong><strong>:</strong></p>
 <ul>
@@ -21743,7 +21743,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kfavyapuafvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uavkafvyayfsvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fapueavfyvvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Універсальний набір ножів на підставці — це продумане рішення для тих, хто цінує функціональність і зручність на кухні. Набір включає різноманітні леза, що забезпечують комфортну роботу з різними продуктами, від хліба і овочів до м’яса і нарізки. Його продумане комплектування охоплює всі основні завдання, роблячи процес приготування їжі швидким і ефективним.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -25088,72 +25088,6 @@
         <param name="Состояние">Новое</param>
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
-      </offer>
-      <offer id="647581" available="false">
-        <name>Тостер DARIO DT1007 Beige</name>
-        <categoryId>639</categoryId>
-        <price>800</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws29231</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpivpvifpifip.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivpvipivf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/vavpvvpipvipiavif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkavpvipvipvipvfpivfpv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kvipvifpivpvifivivf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/revaviapvipvifip.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivfpvifpivfpviavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ivpvifpivpifpuif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviipivpivpivfviavif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pvipvifpvifpivpfi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Розумний тостер Dario DT1007_beige поєднує у собі функціональність та зручність, створюючи ідеальні хрусткі тости за лічені хвилини. Завдяки різноманіттю режимів обсмажування та додатковим опціям розморожування і підігріву цей прилад стане незамінним помічником на кухні, забезпечуючи вам свіжі та апетитні тости в будь-який момент дня.</p>
-<h2>Основні сильні сторони</h2>
-<ul>
-<li>Потужність 750 Вт забезпечує швидкий і рівномірний нагрів</li>
-<li>Два відсіки дозволяють одночасно приготувати по два тости</li>
-<li>Сім рівнів обсмажування підлаштовуються під індивідуальні вподобання</li>
-<li>Функція розморожування дає змогу підсмажити заморожений хліб без додаткових приготувань</li>
-<li>Підігрів підтримує тепло готових тостів до подачі на стіл</li>
-<li>Піддон для крихт полегшує прибирання та підтримує чистоту робочої поверхні</li>
-<li>Компактний корпус із пластику бежевого кольору впишеться в будь-який дизайн кухні</li>
-</ul>
-<h2>Де буде максимально ефективним</h2>
-<p>Тостер Dario DT1007_beige прекрасно підходить для використання в домашніх умовах, де важливі швидкість і якість приготування сніданків та перекусів. Його функціональність оцінять невеликі офісні кухні, готельні номери та студії з обмеженим простором. Прилад оптимальний для тих, хто віддає перевагу різноманіттю ступенів прожарювання та потребує зручного розморожування і підігріву готових виробів.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Потужність: 750 Вт</li>
-<li>Кількість відсіків: 2 шт.</li>
-<li>Максимальна кількість тостів за один цикл: 2 шт.</li>
-<li>Кількість ступенів обсмажування: 7</li>
-<li>Функції: підігрів тостів</li>
-<li>Функції: розморожування</li>
-<li>Високий підйом тостів: відсутній</li>
-<li>Корпус: пластик</li>
-<li>Колір: бежевий</li>
-<li>У комплекті: піддон для крихт</li>
-</ul>]]></description>
-        <keyword>Тостер DARIO DT1007</keyword>
-        <keyword>Тостер DARIO DT1007 Beige</keyword>
-        <keyword>Тостер DARIO</keyword>
-        <keyword>Dario</keyword>
-        <keyword>Тостер</keyword>
-        <keyword>Тостер DARIO DT1007 бытовое</keyword>
-        <keyword>Тостер DARIO бытовое</keyword>
-        <keyword>Тостер DARIO DT1007 бежевый</keyword>
-        <keyword>Тостер DARIO бежевый</keyword>
-        <keyword>Тостер DARIO DT1007 пластик</keyword>
-        <keywords>Тостер DARIO DT1007, Тостер DARIO DT1007 Beige, Тостер DARIO, Dario, Тостер, Тостер DARIO DT1007 бытовое, Тостер DARIO бытовое, Тостер DARIO DT1007 бежевый, Тостер DARIO бежевый, Тостер DARIO DT1007 пластик</keywords>
-        <param name="Производитель">Dario</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Количество отделений">2</param>
-        <param name="Количество тостов">2</param>
-        <param name="Источник питания">Электричество</param>
-        <param name="Назначение">Бытовое</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Регулировка степени обжаривания">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Цвет корпуса">Бежевый</param>
       </offer>
       <offer id="654938" available="true">
         <name>Кільцева LED лампа RGB MJ45 Ring 45 см комплектація адаптер із вбудованим кабелем, тримачі для телефону, пульт</name>
@@ -29243,7 +29177,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekfavyuafvya.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfvaukfayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kuyvaffvvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар на лоб Bailong BL-T06B-P90 поставляється з двома акумуляторами 18650 (хочемо відзначити, що ці акумулятори вважаються тестовими, тому для продовження експлуатації ліхтарика бажано їх замінити більш якісними). Акумуляторний блок знаходиться позаду, що дуже зручно під час носіння. Лінза з оргскла має широкий кут свічення за рахунок поворотного механізму фокусування.</p>
 <p>Характеристики ліхтаря налобного світлодіодного Bailong BL-T06B P90:</p>
 <ul>
@@ -29565,7 +29499,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">13</param>
       </offer>
-      <offer id="332485" available="true">
+      <offer id="332485" available="false">
         <name>Пилосос контейнерний Rainberg RB-652 турбощітка 3700 Вт 4 л</name>
         <categoryId>608</categoryId>
         <price>2350</price>
@@ -29581,7 +29515,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ujcfvaiukcvfiavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuipecuaifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcfviafisvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Контейнерний пилосос Rainberg</strong>&nbsp;Німеччина циклонного типу.&nbsp;<br />Пилозбірник великого об&#8217;єму достатньо лише дістати контейнер, викинути сміття та за необхідності вимити його.&nbsp;</p>
 <p>Завдяки потужності двигуна 3700W &nbsp;прибирання буде набагато швидше та ефективніше.&nbsp;</p>
 <p>Дана модель пилососа без мішка має фільтр очищення повітря, що запобігає попаданню пилу назад у приміщення.&nbsp;</p>
@@ -32110,7 +32044,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4cuypeuyvayvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvkuyvapecufyavk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuyapeypkayv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Ваги SeaBreeze SB-070 — це надійне та зручне рішення для точного визначення маси продуктів на кухні. Їх універсальність дозволяє вимірювати вагу різноманітних інгредієнтів та продуктів, що значно спрощує процес приготування та контролю за порціями. Модель ідеально підходить для зважування як твердих, так і сипучих продуктів, забезпечуючи точність з кроком 1 грам при максимальному навантаженні до 10 кг.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -33443,7 +33377,7 @@
         <param name="Потребляемая мощность">65</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="213686" available="true">
+      <offer id="213686" available="false">
         <name>Набір форм для випікання роз&apos;ємні 3 шт Unique UN-1702, металева форма для випікання набір</name>
         <categoryId>15230414</categoryId>
         <price>450</price>
@@ -33459,7 +33393,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufvyaekuvya.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfvyapkcuvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvakcyvfauc.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір рознімних круглих форм UNIQUE є професійним рішенням для тих, хто прагне досягти ідеального результату при випіканні. Виготовлені з вуглецевої сталі з антипригарним покриттям, ці форми забезпечують одночасно зручність у використанні та надійність у процесі готування. Можливість випікати одразу три коржі різного діаметра робить набір незамінним для створення багатоярусних тортів та різноманітних кондитерських виробів.</p>
 <h2>Чим вирізняється ця модель</h2>
 <ul>
@@ -33515,7 +33449,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refdferfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/trfdsfreafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewasddfeqwadwef-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Прецизійний контроль ваги інгредієнтів — запорука успішного приготування страв, особливо під час зимових заготовок і випічки. Кухонні електронні ваги MATARIX MX 405 забезпечують точність вимірювань до 1 грама при максимальному навантаженні до 5 кг. Компактний розмір і легка конструкція роблять їх незамінним інструментом на будь-якій кухні, допомагаючи уникнути помилок і оптимізувати процес готування.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -33636,7 +33570,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tesrdhyrewsredsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rsfahdsgsfasew.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgsagdsafdaew.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Годинник електронний<strong>&nbsp;VST-862S-4</strong>&nbsp;виконаний з сучасним і стильним дизайном.&nbsp;Прикрасить годинник&nbsp;буквально будь-яку квартиру, будинок або студію. Завдяки мінімуму деталей, стилізовані під дерево, чудово впишуться в різні стилі інтер&#8217;єру: від класики і до лофта.</p>
 <p>У неактивному стані годинник у буквальному сенсі зливається з обстановкою.&nbsp;Годинник покритий дуже тонким шаром шпону, через який просвічуються світлодіоди.<br />Живлення годинника відбувається від&nbsp;4 шт ААА батарейок або через USB порт.</p>
 <p>Годинник має додаткові функції будильника, термометра і бездротової зарядки для телефону. Дуже зручно покласти телефон прямо на годинник для його заряджання, а не шукати мережну зарядку і вставляти кабель у телефон.</p>
@@ -34518,7 +34452,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvirrvkerkik.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reirvipkpfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/erviririv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Автомобільний пилосос «Vacuum cleaner car accessories» – це ефективне рішення для швидкого та якісного прибирання салону вашої машини. Завдяки потужному мотору та продуманому комплекту насадок він видаляє навіть найдрібніший пил та дрібне сміття з важкодоступних місць, забезпечуючи чистоту та комфорт у поїздках.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -35222,7 +35156,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviapkpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviavipf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Міні швейна машинка 4 в 1 &ndash; це компактна міні швейна машинка, яка завжди буде під рукою. Навіть якщо Ви абсолютний новачок у шитті, Ви легко впораєтеся за допомогою цієї машинки. Міні швейна машинка зручна та легка, її можна поставити на будь-яку гладку поверхню. На корпусі машинки є стрижень для намотування ниток на шпульку, який значно полегшить роботу. Ви полюбите робити акуратні і красиві рядки, а Ваш будинок стане ще охайнішим, адже тепер не буде ніяких ниток, що стирчать, і витрати коштів на ательє.</p>
 <p>Робота машинки здійснюється завдяки ножній педалі, точнісінько як на справжній професійній швейній машинці, але однією з переваг є те, що машинка займає в сім разів менше місця.</p>
 <p>Це дозволяє її брати з собою на дачу, оскільки вона працює і від батарейок (до комплекту не входять) або електрики.</p>
@@ -36770,7 +36704,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/auvyfayvavauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uvyfypvpafyufypfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvfapuyfauuy.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Блендер із двоярусним лезом Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач впорається з приготуванням кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування.</p>
 <p><strong>Подвійний ніж з нержавіючої сталі</strong><br /> подвійні ножі з якісної нержавіючої сталі (він і дав назву блендера &#8211; Блискавка) і потужному моторі. Містка чаша об&#8217;ємом 2 літри дозволяє готувати велику кількість страв. Вона відокремлена від двигуна кришкою, а леза легко знімаються. Завдяки цьому чашу легко мити.</p>
 <p><strong>Висока потужність</strong></p>
@@ -37140,7 +37074,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4esggasregagrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesaesgategdgrsagrs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdfgagtyerhgfgra.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Велофара з сигналом MT-007-T6 на акумуляторі створена для тих, хто цінує свою безпеку на дорозі та комфорт під час мандрівок на велосипеді. Вона покращує видимість велосипедиста на дорозі в умовах темряви. Завдяки потужному світлодіоду дана модель чудово справляється з освітленням дороги у безпосередній близькості до велосипеда.</p>
 <p>За допомогою сигналу, який активується виносною кнопкою, можна привернути увагу інших учасників руху, наприклад пішоходів, щоб уникнути зіткнення. Гучності сигналу достатньо, щоб його можна було почути на безпечній відстані.</p>
 <p><strong>Основні характеристики</strong></p>
@@ -38287,7 +38221,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuivpivpipif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpivpuivfpivipvpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvakpivpifupc.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Лампа зволожувач повітря Docsal Flame 3в1 &#8211; це дивовижний пристрій, який перетворить ваш будинок, забезпечуючи комфорт, розслаблення та покращення якості повітря в одному компактному виконанні.&nbsp; в інтер&#8217;єрі, але й виконує кілька важливих функцій. По-перше, вона є зволожувачем повітря з ультразвуковою технологією, що дозволяє зволожувати та очищати повітря у приміщенні. Це особливо корисно в сухих кліматичних умовах або в холодну пору року, коли опалювальні системи можуть сушити повітря.</p>
 <p>По-друге, лампа працює як аромадіфузор. Ви можете додати до неї свої улюблені ефірні олії, щоб створити приємний аромат та покращити атмосферу в приміщенні. Така функція особливо актуальна для створення розслаблюючої або освіжаючої обстановки у вашому будинку. Крім того, лампа оснащена LED підсвічуванням з можливістю регулювання яскравості. Вона може служити вам як нічник, додаткове освітлення на робочому столі або надати затишному освітленню в спальні.</p>
 <p><strong>Переваги:</strong></p>
@@ -38999,7 +38933,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/teggesdagea.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvarvaykpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvairvaykvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Портативний проектор з підтримкою Wi-Fi, Bluetooth та вбудованою операційною системою Android 11 — це універсальне рішення для комфортного перегляду фільмів, спортивних трансляцій та роботи з мультимедійним контентом. Завдяки передвстановленим стрімінговим сервісам (Netflix, Megogo, YouTube) та зручному керуванню за допомогою пульта, ви отримуєте доступ до улюблених каналів без додаткових пристроїв і складних налаштувань.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -40977,7 +40911,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pfivauapuU.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkfviapuifvpauU.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euifufecueu.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна міні кутова шліфувальна машина CP-3420</strong><span>&nbsp;</span>&mdash; компактний і потужний інструмент для різання, шліфування та обробки різних матеріалів. Оснащена безщітковим двигуном, працює від двох акумуляторів 18V і забезпечує швидкість обертання до 19500 об/хв.</p>
 <h2><strong>Переваги:</strong></h2>
 <ul>
@@ -41214,7 +41148,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupyyvuayvfafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpapkyvauyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvairvyyav.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>Представляємо набір з 4 органайзерів, що миються, для зберігання одягу в гардеробі &mdash; ідеальне рішення для організації вашої шафи та підтримання порядку в будинку.</strong></p>
 <p>Наші органайзери виготовлені з&nbsp;<strong>удосконаленого товстого матеріалу</strong>&nbsp;і мають міцний дизайн зі зручними ручками, що робить їх великими, міцними і максимально зручними. /strong>&nbsp;у використанні. Обгорнуті щільною Оксфордською тканиною, вони зберігають свою форму, не деформуються і не ламаються з часом.</p>
 <p><strong>Переваги нашого органайзера для одягу:</strong></p>
@@ -42378,40 +42312,6 @@
         <keyword>Набор торцевых</keyword>
         <keywords>Набір торцевих ключів, Набор торцевых ключей, Набір торцевих ключів з тріскачками 108шт, Набор торцевых ключей с трещотками 108шт, Onex OX-250S ключі та набори торцевих головок, Onex OX-250S ключи и наборы торцевых головок, Набір торцевих ключів з тріскачками, Набор торцевых ключей с трещотками, Набір торцевих, Набор торцевых</keywords>
       </offer>
-      <offer id="811883" available="false">
-        <name>Лазерний рівень 4D16 в кейсі з двома акумуляторами</name>
-        <categoryId>190402</categoryId>
-        <price>1680</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws35427</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/grdgesafdsa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Лазерний рівень Laser Level 4D16 у кейсі з двома акумуляторами – це надійне рішення для точного та зручного позиціонування у будівництві та ремонті. Завдяки продуманій комплектації та міцному кейсу, пристрій готовий до роботи в будь-яких умовах, забезпечуючи високу якість вимірювань і довговічність експлуатації. Конструкція в сучасному синьому кольорі підкреслює професійний рівень обладнання, а наявність двох акумуляторів гарантує тривалу автономну роботу без перебоїв.</p>
-<h2>Ключові переваги</h2>
-<ul>
-<li>Висока точність лазерних ліній для якісного вирівнювання та розмітки поверхонь</li>
-<li>Повний комплект з аксесуарами та надійним кейсом – зручність транспортування та зберігання</li>
-<li>Два акумулятори забезпечують тривалий час роботи без необхідності частого підзаряджання</li>
-</ul>
-<h2>Практичне застосування</h2>
-<p>Лазерний рівень Laser Level 4D16 широко використовується на будівельних майданчиках, при виконанні ремонтних та оздоблювальних робіт, монтажі дверей, вікон, навісних конструкцій та інженерних систем. Він допомагає швидко і точно визначити горизонтальні та вертикальні площини, що значно полегшує завдання вирівнювання та встановлення елементів. Пристрій підходить як для професійних будівельників та монтажників, так і для побутових майстрів, які цінують точність та надійність обладнання.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Корпус лазерного рівня виконаний у міцному синьому кольорі з ергономічною ручкою для зручності перенесення</li>
-<li>Комплексний набір включає лазерний рівень, два літієвих акумулятори, зарядний пристрій, кріплення та монтажні елементи</li>
-<li>Компактний і міцний кейс забезпечує захист обладнання від пошкоджень та зручність зберігання</li>
-<li>Наявність керівництва користувача дозволяє швидко освоїти функції і правильно експлуатувати прилад</li>
-</ul>]]></description>
-        <keyword>Лазерний рівень 4D16</keyword>
-        <keyword>Лазерный уровень 4D16</keyword>
-        <keyword>Лазерний рівень 4D16 в кейсі з двома акумуляторами</keyword>
-        <keyword>Лазерный уровень 4D16 в кейсе с двумя</keyword>
-        <keyword>Лазерний рівень 4D16 в кейсі</keyword>
-        <keyword>Лазерный уровень 4D16 в кейсе</keyword>
-        <keyword>Лазерний рівень</keyword>
-        <keyword>Лазерный уровень</keyword>
-        <keywords>Лазерний рівень 4D16, Лазерный уровень 4D16, Лазерний рівень 4D16 в кейсі з двома акумуляторами, Лазерный уровень 4D16 в кейсе с двумя, Лазерний рівень 4D16 в кейсі, Лазерный уровень 4D16 в кейсе, Лазерний рівень, Лазерный уровень</keywords>
-      </offer>
       <offer id="595691" available="true">
         <name>Дитяче баскетбольне кільце з електронним таблом</name>
         <categoryId>2604</categoryId>
@@ -42496,14 +42396,14 @@
         <keyword>Палатка</keyword>
         <keywords>Намет туристичний, Палатка туристическая, Намет туристичний з антимоскітною сіткою, Палатка туристическая с антимоскитной сеткой, Намет туристичний з антимоскітною, Палатка туристическая с антимоскитной, Намет, Палатка</keywords>
       </offer>
-      <offer id="811889" available="true">
+      <offer id="811889" available="false">
         <name>Акумуляторний шуруповерт з набором насадок і кейсом 12V жовтий</name>
         <categoryId>141711</categoryId>
         <price>1030</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws58593</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdsgsdagsasages.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір акумуляторних шуруповертів з насадками screw driver sets yellow 12v представляє собою універсальний інструмент для розв’язання різних монтажних та ремонтних завдань. Цей комплект дозволяє виконувати роботи ефективно, без зайвих проводів, забезпечуючи мобільність і зручність у використанні. Компактний та ергономічний корпус, яскраве фарбування та повний набір необхідних біт і свердел роблять його незамінним помічником як для професіоналів, так і для домашніх майстрів.</p>
 <h2>Ключові переваги</h2>
 <ul>

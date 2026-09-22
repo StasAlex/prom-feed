@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-21 10:33">
+<yml_catalog date="2026-09-22 09:45">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1021,7 +1021,7 @@
         <param name="Дальность светового луча">500 м</param>
         <param name="Режимы работы фонаря">Максимальный, Средний, Минимальный, Мигающий</param>
       </offer>
-      <offer id="71359" available="false">
+      <offer id="71359" available="true">
         <name>Ліхтар акумуляторний X-Balog BL-B88-P90, яскравий ліхтарик, якісний ліхтарик, потужний ручний ліхтарик</name>
         <categoryId>150410</categoryId>
         <price>630</price>
@@ -1037,7 +1037,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cuaivukvafi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kciaukafvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euavipaukafviiv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Компактний і потужний ліхтар X-Balog BL 1827 P90 стане незамінним інструментом для повсякденного використання, активного відпочинку чи службових завдань. Завдяки сучасному LED-світлодіоду CREE P90, цей ручний ліхтар забезпечує яскраве та якісне освітлення з можливістю регулювання інтенсивності світла, що робить його універсальним пристроєм для різних ситуацій та умов.</p>
 <h2>Раціональні причини обрати X-Balog BL 1827 P90</h2>
 <ul>
@@ -2057,7 +2057,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvyvaukvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvkcuyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvakkcuyvf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Вертикальний відпарювач MG-333 – це інноваційне рішення для швидкого та безпечного догляду за одягом і текстилем у вашому домі. Завдяки потужному паровому потоку, пристрій не лише ефективно розгладжує складки, а й очищує тканини від бактерій, забезпечуючи гігієнічну обробку без ризику їх пошкодження. Цей відпарювач працює виключно паром, що робить його безпечним для будь-яких видів текстилю, включаючи делікатні та капризні матеріали.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -3108,7 +3108,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfviape4kcfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucfvik3ucjifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufvivkucvfiuc.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Шукаєте надійний прилад, який забезпечить швидке та зручне приготування страв для всієї родини? Мультиварка-скороварка з об&#8217;ємом чаші 6 літрів і потужністю 1000 Вт стане оптимальним рішенням для тих, хто цінує час і комфорт на кухні. Завдяки потужному механічному управлінню та 7 автоматичним програмам ви зможете легко опанувати приготування найрізноманітніших страв без зайвих зусиль.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>
@@ -3326,7 +3326,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266220" available="false">
+      <offer id="266220" available="true">
         <name>Мультиварка Rainberg RB-6207 6л 1500Вт з фритюрницею 12 програм скороварка пароварка мультиварка Beige</name>
         <categoryId>606</categoryId>
         <price>1790</price>
@@ -3342,7 +3342,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucvfyakcvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kujcfyvyvakcju.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcufvypkcfv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Мультиварка&nbsp;Rainberg RB-6207&nbsp;&#8211; багатофункціональний помічник на кухні з програмним управлінням, призначений для приготування страв у режимах автомат і напівавтомат.</p>
 <p>Вона надійна і проста в управлінні, укомплектована чашею об&#8217;ємом на 6 літри.</p>
 <p>Її потужність складає 1500 Вт.</p>
@@ -4675,7 +4675,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvaaav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cyfvafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekyvaauavfv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><b>Потужний налобний ліхтарик BL-T78-T6</b><span>&ndash; це універсальний представник лобових ліхтарів популярної фірми Bailong. Модель призначена як для повсякденного використання, так і для туристичних походів, альпінізму, риболовлі. А з унікальною системою Hands-free Ваші руки будуть абсолютно вільними.</span></p>
 <p><span>Ліхтарик BL-T78-T6 має сім найпотужніших світлодіодів: XML-T6, 4шт Cree5 американської фірми-виробника Cree і 2шт ультрафіолетових діода. Світлодіод XML-T6 немає аналогів, так як він забезпечує потужність світлового потоку до 1800 lumen. Для цього ліхтаря немає нездійсненних завдань та неосвітлених просторів. Ліхтарик BL-T78-T6 завжди готовий до роботи!</span></p>
 <p><span>Ліхтарик працює в 6-х режимах: мінімальний режим (1 діод T6), економний режим (2 діоди), середній режим( 4 діоди), 2шт ультрафіолетових діода, повна потужність (5 діодів + 2шт ультрафіолетових діода) ) і миготливий режим. Поворотна головка дозволяє нахиляти ліхтар у необхідному для Вас напрямку (кут нахилу становить 0-90°). Ліхтарик BL-T78-T6 обладнаний надійним пило-вологозахищеним корпусом з удароміцним нетоксичним пластиком, широко відомим своєю довговічністю.</span></p>
@@ -5097,7 +5097,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wdasfedfsaafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/asdafrefdsdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwdasfa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Компактний фен Magio MG-166 поєднує ефективність професійного сушіння з ергономікою та мобільністю. Його потужність у 2000 Вт забезпечує швидке висушування волосся, а регульовані температурні режими та швидкості дають можливість адаптувати роботу пристрою під будь-який тип волосся і бажаний стиль укладки. Складна ручка та петелька для підвішування роблять цей фен ідеальним супутником у подорожах або для зручного зберігання в обмеженому просторі ванної кімнати.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -5487,7 +5487,7 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="338665" available="false">
+      <offer id="338665" available="true">
         <name>Налобний ліхтарик Bailong BL-A12-3-P90, 3+1 режим, алюміній, водостійкий, ударостійкий, акумулятор 3*18650</name>
         <categoryId>150410</categoryId>
         <price>540</price>
@@ -5503,7 +5503,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupivpuvifavfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epuivpivivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupivpfivfpvifv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong BL-A12-3-P90 — це професійне рішення для тих, хто цінує надійність та зручність у використанні при роботі в умовах недостатнього освітлення. Ергономічне регульоване кріплення на голову забезпечує комфортну фіксацію, а продумана система живлення з трьома акумуляторами 18650 та зарядкою через Type-C роз’єм гарантує тривале безперервне використання без частої заміни батарей. Інтегрований індикатор заряду з чотирма світлодіодами на задній кришці дозволяє своєчасно контролювати рівень енергії та планувати підзарядку без перебоїв.</p>
 <h2>Переваги для користувача</h2>
 <ul>
@@ -5692,7 +5692,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344192" available="true">
+      <offer id="344192" available="false">
         <name>Професійна електробритва Шейвер VGR V-335 Shaver з трьома ножовими блоками, бритва для бороди</name>
         <categoryId>3314</categoryId>
         <price>1150</price>
@@ -5708,7 +5708,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kayvuvaayvmayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyavekufay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tr3wefsda3rwfasd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Професійна бритва VGR V-335 Shaver з трьома ножовими блоками дозволяє підкоригувати щетину та сформувати акуратну борідку за лічені хвилини. VGR V-335 Shaver повністю видаляє навіть найкоротші волоски, роблячи шкіру ідеально гладкою. Шейвер VGR V-335 не травмує шкірні покриви обличчя та шиї, не залишає слідів. Підходить для створення чіткого окантування та коригування існуючої форми бороди<br />Професійна електробритва (шейвер) для сухого та вологого гоління дозволяє швидко обробляти бороду будь-якої довжини та створювати чіткі контури. Застосовується барберами для обробки контурів та зведення до нуля при фейдингу. Три незалежні голівки гоління забезпечують комфортне гоління з максимальною точністю. Гіпоалергенна титанова сітка виключає мікропошкодження та подразнення шкіри. Сітка та знімні головки, тому їх легко почистити або замінити.</p>
 <p>Потужний роторний двигун працює зі швидкістю 8000 об/хв і відрізняється низьким рівнем шуму та вібрацій.</p>
 <p><strong>Особливості та переваги електробритви:</strong></p>
@@ -8011,7 +8011,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="460717" available="false">
+      <offer id="460717" available="true">
         <name>Портативна колонка TG642 з RGB підсвічуванням та ремінцем, гучна блютуз колонка. Колір: зелений</name>
         <categoryId>6371101</categoryId>
         <price>690</price>
@@ -8027,7 +8027,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnypyvvayfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euauavyavyfavvayfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyvfvyavyfvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -8921,7 +8921,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="480882" available="false">
+      <offer id="480882" available="true">
         <name>Машинка для стрижки та гоління VGR V-641, Бездротова електробритва, Машинка для стрижки голови</name>
         <categoryId>28290204</categoryId>
         <price>1620</price>
@@ -8937,7 +8937,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nkprvaavuvpifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupkviaipavepuifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n5ukrvaavpuifuf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Набір тримера та шейвера VGR V-641 2 в 1 Professional Set &#8211; це ідеальне рішення для тих, хто цінує професійний догляд за своїм виглядом, не жертвуючи при цьому зручністю та надійністю.</p>
 <p>Металевий корпус та прецизійні леза забезпечують високу якість та довговічність пристрою. Леза з нержавіючої сталі гарантують гостру та безперервну стрижку, забезпечуючи чудовий результат.</p>
 <p>Набір включає тример і шейвер, надаючи повний спектр функцій для догляду за вашим зовнішнім виглядом. Завдяки компактному та ергономічному дизайну, цей набір легко брати із собою у поїздки або на ділові зустрічі.</p>
@@ -9067,7 +9067,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="480950" available="false">
+      <offer id="480950" available="true">
         <name>Професійна машинка для стрижки волосся триммер VGR V-291 з насадками, електробритва Green</name>
         <categoryId>28290204</categoryId>
         <price>590</price>
@@ -9083,7 +9083,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupvkaupyfafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuypyekfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nukykuvkvapav.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Професійна машинка для стрижки VGR V-291 підходить для стрижки волосся різної довжини, вона призначена для домашніх умов, а також для професійного використання в перукарнях, салонах краси, барбершопах.<br />VGR V-291 відмінно справляється зі стрижками будь-якої складності, дозволяє змоделювати форму бороди та вусів. Широкий список насадок закриє потреби навіть найвибагливішого користувача і дозволить заощадити кошти, позбавляючи необхідності походу в барбершоп.</p>
 <p>Машинки з комбінованим живленням працюють від акумулятора або розетки. Робота без дроту зручна при стрижці довгого волосся та позбавляє майстра приймати незручні положення. Також машинка може використовуватися як ведуча від USB, одночасно заряджаючи батарею, що дуже зручно для роботи майстра-перукаря, коли потрібно прийняти багато людей.</p>
 <p><strong>Особливості:</strong></p>
@@ -9207,7 +9207,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="481373" available="true">
+      <offer id="481373" available="false">
         <name>Машинка для стрижки волосся і бороди VGR V-695 з LED дисплеєм IPX7 вологозахист, Окантувальна машинка</name>
         <categoryId>28290204</categoryId>
         <price>1150</price>
@@ -9223,7 +9223,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wr3ewrftewasdfgewatewsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfsgrgrdfvgrsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgesdgrfdsfds.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>Потужний акумулятор&nbsp; 2600 мАг. Час заряджання до 4 годин. Час безперервної роботи на повному заряді акумулятора 300 хвилин;</li>
 <li>Регулювання ножів від 0,5-2,5 мм із кроком 0,5 мм &#8211; допоможе підібрати потрібну довжину волосся при стрижці;</li>
@@ -9648,7 +9648,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tegrgstrefesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4ergsdrefdafdsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4tergdsesdgrgsd.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong Police BL 6699 T6 оснащений одним світлодіодом Cree XM-L T6 потужністю 28000W, який забезпечить яскравий світловий потік на дальній відстані (до 300м.). Даний ліхтар на лоб працює від двох акумуляторів 18650 Li-ion. Корпус даної моделі ліхтарика комбінований з металу та пластику, але, не дивлячись на це, корпус ліхтаря досить надійний і міцний.</p>
 <p>Має регульовану головку ліхтаря до 90 градусів. До того ж, слід зазначити, що ліхтар налобний Police 204C (BL-6699) дуже зручно сидить на голові за рахунок розміщення елемента живлення на потилиці, що забезпечує рівномірний розподіл ваги ліхтарика по всій голові. Джерелом живлення є два акумулятори 18650, який входить в комплект поставки. Світлодіодний ліхтар налобний Police 204С (BL-6699) &#8211; це відмінний ліхтар з дуже потужним світловим потоком, який знадобиться як у побуті, так і для інших завдань.</p>
 <p><strong>Характеристики налобного ліхтаря Bailong Police BL 6699 T6 (BL 204C T6):</strong></p>
@@ -12419,7 +12419,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvyrayrkvchchsm.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvayrevrkeuv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyrkvyryva.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Електричний кавник RAF R.150 &mdash; це зручний та компактний пристрій, призначений для швидкого приготування традиційної турецької кави, а також інших гарячих напоїв. Він оснащений міцним корпусом із нержавіючої сталі, який не тільки стильно виглядає, але й забезпечує довговічність.</p>
 <p>Завдяки потужності 600 Вт кавник швидко нагріває воду, а ергономічна ручка та зручний носик дозволяють без зусиль розливати напій. Обертається на 360&deg; основа спрощує використання, а система подвійного захисту від перегріву робить прилад безпечним.</p>
 <p><strong>Переваги:</strong></p>
@@ -13710,7 +13710,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaipivfauifiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipvipf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oekrvaipvaucif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки VGR V-051 &mdash; це потужний та надійний інструмент для створення акуратних стрижок у домашніх умовах та в салоні. Гостро лезо з DLC-покриттям та роторний двигун забезпечують плавну та ефективну роботу. Завдяки 4 змінним насадкам можна вибрати потрібну довжину стрижки для різних стилів.</p>
 <p>Вбудований акумулятор ємністю 2500 мАг забезпечує до 300 хвилин автономної роботи. Повна зарядка триває 3 години. LED-дисплей інформує про заряд і статус пристрою. Заряджання через USB Type-C дозволяє використовувати машинку де завгодно. Ергономічний металевий корпус робить машинку зручною навіть за тривалого використання. Підтримується робота як від акумулятора, так і від мережі.</p>
 <h2><strong>Особливості:</strong></h2>
@@ -17462,7 +17462,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvipivfirivpuif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/virpkipfipifaivfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvipkivfifirikr.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>VGR Professional Metal Housing (V-992) &ndash; це універсальний інструмент для догляду, який підійде для різних типів волосся та стилів. Завдяки багатофункціональності та надійним характеристикам він стане незамінним помічником як удома, так і у подорожах.</p>
 <p><strong>Основні характеристики:</strong></p>
 <p>Час роботи до 240 хвилин: Тример забезпечує до 4 годин безперервної роботи від одного заряду, що дозволяє підтримувати ідеальний вигляд без необхідності частих підзарядок.</p>
@@ -18183,7 +18183,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="22967" available="true">
+      <offer id="22967" available="false">
         <name>Електроплита Domotec MS-5531, електроплита настільна одноконфоркова, електроплита для дачі. Колір: сірий</name>
         <categoryId>641</categoryId>
         <price>690</price>
@@ -18199,7 +18199,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uapuyvaauayfvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uayvpuayfvuyvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvfyyaaucfyauyvf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Не кожен має можливість і необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку.</p>
 <p>За допомогою такого компактного кухонного приладу, як Domotec MS-5531, ви зможете запросто приготувати собі їжу на поточний день.<br />Маленька, компактна та дуже практична підійде для розігріву їжі та приготування в побутових умовах. Корпус виробу металевий покритий емаллю. Плита має одну електро конфорку дискову з відкритим типом спірального нагрівального елемента.</p>
 <p>Споживана потужність, регулювання якої здійснюється терморегулятором на передній частині корпусу. Плита має захист від перегріву. Ніжки з гумовою основою забезпечують хорошу стійкість на поверхні. Індикатор роботи світиться під час роботи</p>
@@ -20748,7 +20748,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kuaivfavifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivauvfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cavifuvfvi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Кухонний електричний міксер RAF R-6630</strong><span>&nbsp;</span>просто незамінний на вашій кухні. Він простий у роботі, але при цьому багатофункціональний. Прилад здатний збити продукт до будь-якої консистенції. Швидкість та якість змішування інгредієнтів залежить від потужності пристрою. За такої потужності ви зможете досить швидко приготувати крем або замісити тісто, налаштувавши пристрій на задану швидкість.</p>
 <p><strong>&nbsp;Міксер RAF R-6630 має 5 режимів швидкостей</strong>. Також є режим &laquo;Турбо&raquo;, що збиває дуже швидко. Для зручності виконання різних функцій є два види насадок &ndash; віночки для збивання та гаки для тіста. Змінити їх можна простим натисканням кнопки. <strong></strong></p>
 <p><strong>Режими роботи:</strong></p>
@@ -20822,7 +20822,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euivapeuiiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcfivakuvaifivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3jcfivakuaviavi.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>Чайник MG-499</strong><span>&nbsp;об&#8217;ємом 1,7 л поєднує в собі стильний дизайн з чудовою якістю та довговічністю. Корпус виготовлений з прозорого термостійкого скла, завдяки чому у воді просто ні звідки з&#8217;явитися неприємним присмакам або навіть небезпечним для здоров&#8217;я речовинам. Внутрішній світловий індикатор роботи ефектно осяює киплячу воду різнобарвним підсвічуванням. При натисканні кнопки механізм відкриття кришки спрацьовує м&#8217;яко і плавно, виключаючи розбризкування конденсату з кришки. Прихований нагрівальний елемент забезпечує швидке кип&#8217;ятіння, надійність та простоту очищення чайника, а вбудований контролер захищає від перегріву. Комплексна система безпеки для запобігання короткому замиканню та википанню води. Захист від перегріву забезпечить автоматичне вимкнення при недостатньому рівні води.</span></p>
 <ul>
 <li><span><strong>Потужність</strong>, Вт 2000</span></li>
@@ -21100,70 +21100,6 @@
         <keyword>Годинник наручний чоловічий SKMEI 1586AG</keyword>
         <keyword>Часы наручные мужские SKMEI 1586AG</keyword>
         <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 1586AG ARMY, Часы наручные мужские SKMEI 1586AG ARMY GREEN, чоловічий армійський водостійкий тактичний, мужские армейские водостойкие тактические, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI, Годинник наручний чоловічий SKMEI 1586AG, Часы наручные мужские SKMEI 1586AG</keywords>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Производитель">Skmei</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Пол">Мужской</param>
-        <param name="Тип">Спортивные часы</param>
-        <param name="Тип механизма">Электронный</param>
-        <param name="Источник питания">Батарейка</param>
-        <param name="Циферблат">Цифровой</param>
-        <param name="Индикация">Арабские цифры</param>
-        <param name="Формат времени">12/24 часа</param>
-        <param name="Форма">Круглая</param>
-        <param name="Материал">Пластик</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="340497" available="false">
-        <name>Годинник наручний чоловічий SKMEI 1586BK BLACK, водонепроникний чоловічий годинник, годинник спортивний. Колір: чорний</name>
-        <categoryId>151105</categoryId>
-        <price>590</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws61777-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ewasfderwfewasdfd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4cupvaiavepufpavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/wasdfedsferwafsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/erwasdfgrewfasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wfdsgerfas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyapvpavyepufyu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyvpcueuyfavvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyapvpyecuyfyp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecpvykyecufypuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e3uapyvpyvppeucuk.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Годинник SKMEI 1586BK BLACK — це втілення сили, надійності та брутального стилю в одному аксесуарі. Його повністю чорне оформлення у поєднанні з масивним корпусом і стрілково-цифровим дисплеєм створює ефектний вигляд, який однаково добре пасує як до тактичного екіпірування, так і до повсякденного міського образу. Модель має потужні функціональні кнопки та текстурований ремінець, що підвищує комфорт при активному носінні.</p>
-<p>SKMEI 1586BK пропонує не лише привабливий дизайн, а й широкий функціонал: подвійний час, будильник, секундомір, дата, день тижня, підсвітка, автоматичний календар і водозахист WR50M. Це годинник, який витримає активне навантаження, пригоди на природі чи спортивні тренування, залишаючись при цьому зручним і функціональним у повсякденному житті.</p>
-<h2>Характеристики:</h2>
-<ul>
-<li>Тип: комбінований (аналоговий + цифровий)</li>
-<li>Дисплей: стрілковий і цифровий, з LED-підсвіткою</li>
-<li>Функції: подвійний час, будильник, секундомір, дата, день тижня, автокалендар, підсвітка</li>
-<li>Формат часу: 12/24 години</li>
-<li>Матеріал корпусу: ударостійкий пластик</li>
-<li>Матеріал ремінця: армований полімер (чорний)</li>
-<li>Водозахист: 50 метрів (WR50M)</li>
-<li>Живлення: батарейка</li>
-</ul>
-<h2>Переваги:</h2>
-<ul>
-<li>Масивний і агресивний дизайн для чоловіків</li>
-<li>Комбіноване відображення часу: стрілки + цифра</li>
-<li>Зносостійкий корпус і ремінець для активного використання</li>
-<li>Підходить для туризму, спорту та щоденного носіння</li>
-<li>Функціональні кнопки з зручним розташуванням</li>
-<li>Надійний рівень водозахисту WR50M</li>
-</ul>]]></description>
-        <keyword>Годинник наручний чоловічий</keyword>
-        <keyword>Часы наручные мужские</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI 1586BK BLACK</keyword>
-        <keyword>Часы наручные мужские SKMEI 1586BK BLACK</keyword>
-        <keyword>водонепроникний чоловічий годинник</keyword>
-        <keyword>водонепроницаемые мужские часы</keyword>
-        <keyword>годинник спортивний</keyword>
-        <keyword>часы спортивные</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI</keyword>
-        <keyword>Часы наручные мужские SKMEI</keyword>
-        <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 1586BK BLACK, Часы наручные мужские SKMEI 1586BK BLACK, водонепроникний чоловічий годинник, водонепроницаемые мужские часы, годинник спортивний, часы спортивные, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI</keywords>
         <param name="Цвет корпуса">Черный</param>
         <param name="Производитель">Skmei</param>
         <param name="Страна производитель">Китай</param>
@@ -21595,7 +21531,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kvfikrkvaipkf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euiavpavrpukiru.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifvrrkvfrkv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1647BK — це стильний аксесуар у класичному ретро-дизайні з сучасною функціональністю. Його компактний корпус у поєднанні з металевим браслетом чорного кольору виглядає стримано та елегантно, що робить цю модель чудовим вибором як для офісного стилю, так і для повсякденного носіння. Завдяки зручному цифровому дисплею і підсвітці, годинник залишається інформативним навіть у темну пору доби.</p>
 <p>Модель SKMEI 1647BK оснащена всіма базовими функціями: відображення часу, дати, дня тижня, будильник, секундомір, підсвітка дисплею та формат часу 12/24 год. Годинник має водозахист, що дозволяє безперешкодно використовувати його у щоденних умовах. Це ідеальний вибір для тих, хто цінує простоту, функціональність і стиль у мінімалістичному форматі.</p>
 <h2>Характеристики:</h2>
@@ -21970,7 +21906,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgfsffddsafdsasfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgsdsdfsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tedsfdsadsgwe.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>1. Bluetooth 5.0, швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
 <li>2. 1200 мАг батарея протягом 10 годин гри в обсязі 2/3 на повну зарядку.</li>
@@ -22188,7 +22124,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ekpavyvavyfavyuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uypavyauvyafv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3cupaaiyupav.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Різноманітне поєднання насадок та режимів гоління дозволяють реалізувати будь-які задуми для ідеального зовнішнього вигляду. З VGR V-108 неохайна щетина стане доглянутою та стильною &ndash; достатньо лише одного руху руки.</p>
 <p>Для повного заряджання акумулятора потрібно 1.5 години, що забезпечує безперервну роботу машинки близько 120 хвилин. Цей набір зручно брати з собою у поїздки та подорожі, його можна заряджати у будь-якому місці та у будь-який час через ноутбуки, комп&#8217;ютери чи адаптери за допомогою USB-кабелю для заряджання. Заряд, що залишився, відображаються на світлодіодному дисплеї.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий.</p>
@@ -22545,7 +22481,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cppcufeucpeucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euypkucyvpuvafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeappavipifu.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар K372-2COB з датчиком руху — це надійне та зручне рішення для безручного освітлення в будь-яких умовах. Оснащений світлодіодами COB білого та червоного світіння, він забезпечує яскраве та рівномірне світло, а наявність шести режимів роботи дозволяє швидко підібрати комфортний рівень освітлення. Зручна функція датчика руху значно спрощує використання у темний час, а акумулятор із зарядкою USB-Type C забезпечить тривалу роботу без необхідності постійної заміни батарейок.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -23418,7 +23354,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/esdgrsgsdaas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htsdgsdagsgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gsdaesessa.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Занурювальний блендер Domotec MS-5102 400W<span>&nbsp;</span></strong>&ndash; ручний блендер високої якості з ніжкою з нержавіючої сталі, що забезпечує легке та швидке подрібнення ягід, фруктів, супів пюре, коктейлів, дитячого харчування та інших інгредієнтів. Нарізні ножі довго залишаються гострими, що збільшує термін служби приладу. Ця модель підходить для домашнього приготування суп пюре, який багато хто любить. Мами оцінять цей прилад у приготуванні дитячого харчування, адже потужність цього блендера дозволяє зробити це швидко та без зайвих зусиль. Людям, які стежать за своїм харчуванням, так само буде корисно придбати цей занурювальний блендер на своїй кухні, адже що може бути краще, ніж свіжий смузі зранку.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -23481,7 +23417,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="585742" available="true">
+      <offer id="585742" available="false">
         <name>Електрична турка для кави Marado MA-1625, Побутова турка, Бюджетна турка. Колір: коричневий</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
@@ -23496,7 +23432,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypvyrkry.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/varkvypvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krvakvayrkyvreky.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу&#8230; і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) &#8211; один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву &#8211; для вас та ваших близьких!</p>
@@ -23629,7 +23565,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdsfgdsgs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfsghdsgrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htrfdsfdsgsae.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Професійна стрижкова машинка Geemy GM-6605 виконана в стильному, елегантному дизайні з високоякісних матеріалів. Дуже проста у використанні, у комплекті є всі необхідні насадки для ідеальної стрижки.</p>
 <p>Відрізняється своєю легкістю та компактністю, практично не відчувається в руці. Працює від акумулятора, що дозволяє зручно переміщатися під час роботи, не сковуючи та не обмежуючи рухи. Заряджається протягом 6 годин і заряджання вистачає приблизно на годину роботи.</p>
 <p>Рухоме лезо з нержавіючої сталі забезпечує тривале різання і не іржавіє. Завжди залишається гострим та високоміцним.</p>
@@ -26124,7 +26060,7 @@
         <param name="Стан">Новий</param>
         <param name="Тример для окантовки">Так</param>
       </offer>
-      <offer id="692120" available="true">
+      <offer id="692120" available="false">
         <name>Тример VGR V-998. Колір: зелений</name>
         <categoryId>28290204</categoryId>
         <price>670</price>
@@ -26140,7 +26076,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgdsgsdasssd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgdsgdsgsea.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/grdsgsdefsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся на акумуляторі VGR V-998 &mdash; це компактний та зручний інструмент для догляду за волоссям, який підійде як для професійного, так і домашнього використання. Тример для стрижки VGR V-998 оснащений двигуном потужністю 7 Вт з частотою обертання 6500 об/хв, що забезпечує стабільну та акуратну стрижку. Літій-іонний акумулятор ємністю 1200 мАг гарантує до 180 хвилин автономної роботи, а час повної зарядки становить лише 1,5 години. Ергономічний корпус та леза з нержавіючої сталі з титановим покриттям забезпечують довговічність та високу точність зрізу.</p>
 <p>Акумуляторний триммер VGR V-998 укомплектований 4 насадками для регулювання довжини волосся. LED-дисплей відображає рівень заряду акумулятора та вибрані режими роботи, підвищуючи зручність експлуатації. Бездротовий формат забезпечує свободу рухів, а легкість та універсальність роблять машинку чудовим інструментом для догляду за волоссям у будь-яких умовах.</p>
 <p>Акумуляторна машинка для стрижки VGR V-998 поєднує в собі функціональність, зручність та високу якість. Тример для стрижки волосся на акумуляторі VGR V-998 стане чудовим вибором для перукарів та домашніх користувачів, які цінують надійність та комфорт.</p>
@@ -28527,7 +28463,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wdsaferfads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reqwdasferdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/redasferdfds.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Чайник Unique UN-5306 створений для тих, хто цінує поєднання функціональності та стильного дизайну у повсякденному кухонному посуді. Виготовлений з екологічно чистої нержавної сталі з мармуровим покриттям, він гарантує довговічність та безпеку при використанні. Продумана конструкція з дев’ятишаровим дном забезпечує швидке закипання і рівномірний розподіл тепла, що дозволяє економити час і енергоресурси.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -28790,7 +28726,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ufvyfauyvfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cvfyukcvavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cyfvaukafvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар для кемпінгу W-52-SMD+COB &#8211; це універсальний ручний ліхтарик з поворотним СОВ світлодіодом з білим і червоним світлом, плюс додатково на торці встановлений &nbsp;SMD діод.</p>
 <p>Акумулятор вбудований, заряджається від USB-порту. Дуже зручний спосіб заряджання, так як ліхтар можна зарядити від портативного зарядного пристрою повербанка, від зарядного USB в автомобілі, від ноутбука і т.д.</p>
 <p>Світлодіод має безліч регулювань нахилу і кілька режимів роботи: COB білий 100%, COB білий 50%, SMD 100%, COB червоний (на затиск) 100%, стробоскоп.</p>
@@ -29129,7 +29065,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uipavrekvirkifuk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euinruk4rpkeku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4vairkvirkui.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1231BK — це практичний цифровий аксесуар у стильному чорному дизайні, створений для активних людей, які цінують простоту та функціональність. Його круглий корпус із матовим покриттям та ергономічний силіконовий ремінець забезпечують комфорт при щоденному носінні. Великий дисплей з чіткими цифрами дозволяє легко зчитувати інформацію навіть під час тренувань або в русі.</p>
 <p>Модель оснащена всім необхідним: два будильники, секундомір, дата, день тижня, підсвітка, формат часу 12/24 години та автоматичний календар. Годинник має водозахист до 50 метрів, що робить його ідеальним для щоденного використання, включно з фізичною активністю на відкритому повітрі або у спортзалі.</p>
 <h2>Характеристики:</h2>
@@ -30316,7 +30252,7 @@
         <param name="Тип упаковки">Картонная коробка</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="563851" available="true">
+      <offer id="563851" available="false">
         <name>Стайлер для волосся 5 в 1 + Кейс чохол багатофункціональний для всіх типів волосся у зручній валізці</name>
         <categoryId>617</categoryId>
         <price>750</price>
@@ -30332,7 +30268,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuapyvpkpyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euaivpuivfppkifr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rnpekmpuifvpkf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Стайлер оснащений зручною ручкою та простий у використанні. Завдяки універсальності цього набору, ви зможете створювати безліч зачісок &#8211; від гладких пасм до об&#8217;ємних локонів &#8211; у домашніх умовах, як у професійному салоні.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -31054,7 +30990,7 @@
         <param name="Ширина">8 см</param>
         <param name="Длина">11 см</param>
       </offer>
-      <offer id="141792" available="true">
+      <offer id="141792" available="false">
         <name>Літієвий акумулятор 18650 X-Balog 8800mAh 4.2V Li-ion літієва акумуляторна батарейка для ліхтариків</name>
         <categoryId>150410</categoryId>
         <price>120</price>
@@ -31070,7 +31006,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cuape4cuivaae4.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ckuiavpr5euciakc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuap5euie4cu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Акумулятор X-Balog 18650 Li-ion з ємністю 8800mAh та напругою 4.2V представляє собою універсальне джерело живлення, здатне забезпечити тривалу роботу різних електронних пристроїв. Цей літій-іонний акумулятор розроблений для надійного і стабільного енергопостачання обладнання, що потребує високої ємності та довготривалої експлуатації.</p>
 <h2>Сильні сторони пристрою</h2>
 <ul>
@@ -31522,7 +31458,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3qwferwsdafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwfref.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3qewasdrdsafds.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електричний чайник Rainberg RB-2251 виконаний з високоміцного боросилікатного скла та оснащений сучасним дисковим нагрівальним елементом з харчової нержавіючої сталі. Цей чайник не тільки надасть вашому кухонному інтер’єру стильний і сучасний вигляд, але й забезпечить комфортне та безпечне використання завдяки продуманим автоматичним функціям і зручному дизайну.</p>
 <h2>Технологічні переваги</h2>
 <ul>
@@ -31589,7 +31525,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/npfeyvfeuyvfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4euavkppavpa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/npeuvyfafav.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Ця колонка ідеально підходить для любителів подорожей. Вона легко поміщається в рюкзак або сумку, завдяки чому ви зможете насолоджуватися улюбленою музикою де завгодно.</p>
 <ul>
 <li>Підключення Bluetooth: автоматичне вимкнення за відсутності сигналу.</li>
@@ -34836,7 +34772,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwefefsdasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4efsdgtwesfgas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jucfvaypecuyavp-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Кухонні ваги MATARIX MX 405 — незамінний інструмент для точного вимірювання ваги продуктів до 5 кг. Вони оптимально підходять для всіх, хто цінує зручність і точність при приготуванні страв та заготовок.</p>
 <h2>Ключові особливості та переваги</h2>
 <ul>
@@ -35268,7 +35204,7 @@
         <param name="Тип кофеварки">Гейзерная</param>
         <param name="Назначение">Бытовое</param>
       </offer>
-      <offer id="604776" available="true">
+      <offer id="604776" available="false">
         <name>Електрочайник від 220В компактний RAF R-7887 із двома чашками в комплекті 1000Вт</name>
         <categoryId>640</categoryId>
         <price>540</price>
@@ -35284,7 +35220,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oervayravypyfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ervaykppkyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oervyrkvp.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник RAF R-7887 &#8211; це сучасний електричний чайник, що поєднує стильний дизайн і доступну вартість.</p>
 <p>Модель швидко та безпечно закип&#8217;ятить воду для приготування різноманітних гарячих напоїв.</p>
 <p>Електрочайник з ергономічною ручкою завжди знайде своє місце як на домашній кухні, так і в офісі. Крім того, дана модель чайника, завдяки компактності, зможе використовуватися на дачі або поїздці, його зручно брати з собою.</p>
@@ -35633,7 +35569,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivpivfpivpivfafi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpviapivfpifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvpvuifpuivfpuivfaiuf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер 7041 &ndash; це ваш незамінний помічник на кухні, що легко справляється з будь-яким завданням! Завдяки потужному двигуну та гострим лезам з нержавіючої сталі він швидко та якісно подрібнить та змішає будь-які інгредієнти. Велика чаша об&#8217;ємом 3 літри дозволить вам приготувати достатню кількість страв для всієї родини чи великої компанії.</span></p>
 <p><span>З блендером 7041 ви зможете легко приготувати смачні та корисні смузі, ніжні супи-пюре, ароматні соуси, повітряні креми та багато іншого. Інтуїтивно зрозуміле керування та кілька швидкісних режимів дозволяють підібрати оптимальне налаштування для кожного рецепту. Міцний корпус та стійка основа забезпечують надійність та безпеку у використанні. Легко розбирається та миється, що робить догляд за блендером максимально простим та зручним. Відчуйте себе шеф-кухарем із блендером Domotec 7041!</span></p>
 <h2><strong>Позитивні якості:</strong></h2>
@@ -36182,7 +36118,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kciaukvifaucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kfaiuiafifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfivakcviafvif.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Вафельниця – це універсальний прилад для приготування різноманітних вафель: від класичних хрустких до десертів із начинкою з вареного згущеного молока або ягідної смородини. Можливість готувати як солодкі, так і закусочні вафлі з гарячою начинкою відкриває широкі кулінарні горизонти та допомагає створювати багатошарові тістечка та оригінальні гастрономічні шедеври.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -37058,7 +36994,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/paufvauvyfyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvykucvkucvfyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pcvfykucvfyvfy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дзеркало для макіяжу Mirror з LED-підсвічуванням &ndash; це чудовий інструмент для нанесення макіяжу та створення ідеального мейку. Яскраві світлодіоди забезпечують рівномірне освітлення обличчя з усіх боків у будь-який час доби, що дозволить вам рівномірно завдати косметики, не допускаючи помилок. Крім того, невелике дзеркальце з 10-кратним збільшенням дозволить вам наносити макіяж з максимальною точністю.</p>
 <p>Увімкнути та вимкнути дзеркало можна за допомогою спеціальної сенсорної кнопки. Висвітлення працює за рахунок звичайних батарейок. Спеціальна підставка дозволить розмістити на ній різні косметичні дрібниці, наприклад, губну помаду, пудру, тіні для очей або щось інше, а вільне обертання на 180°С. дозволяє зафіксувати косметичне дзеркало у зручному для вас положенні.</p>
 <p><strong>Переваги:</strong></p>
@@ -38297,7 +38233,7 @@
         <keyword>Вело Фонарь</keyword>
         <keywords>Велоліхтар 604-LED, Вело Фонарь 604-LED, 100LUM, 100 LUM, водонепроникний, водонепроницаемый, Велоліхтар, Вело Фонарь</keywords>
       </offer>
-      <offer id="708150" available="true">
+      <offer id="708150" available="false">
         <name>Велокомп&apos;ютер SunDing SD-548C 14 функцій бездротовий</name>
         <categoryId>342401</categoryId>
         <price>480</price>
@@ -38308,7 +38244,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkevyvarvyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypyvpuypy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uyvpyvpvyykf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велокомп’ютер SunDing SD-548C – це ідеальне рішення для велосипедистів, які прагнуть контролювати ключові параметри своєї поїздки без зайвих дротів і складних налаштувань. Ця модель поєднує простоту використання, захист від вологи та широкий функціонал, що робить її надійним помічником і в місті, і на складних трасах.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -40213,7 +40149,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupyyvuayvfafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpapkyvauyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvairvyyav.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Представляємо набір з 4 органайзерів, що миються, для зберігання одягу в гардеробі &mdash; ідеальне рішення для організації вашої шафи та підтримання порядку в будинку.</strong></p>
 <p>Наші органайзери виготовлені з&nbsp;<strong>удосконаленого товстого матеріалу</strong>&nbsp;і мають міцний дизайн зі зручними ручками, що робить їх великими, міцними і максимально зручними. /strong>&nbsp;у використанні. Обгорнуті щільною Оксфордською тканиною, вони зберігають свою форму, не деформуються і не ламаються з часом.</p>
 <p><strong>Переваги нашого органайзера для одягу:</strong></p>
@@ -41031,7 +40967,7 @@
         <keyword>Электрическая блинница</keyword>
         <keywords>Електрична млинець Domotec, Электрическая блинница Domotec, Електрична млинець Domotec MS-5209B, Электрическая блинница Domotec MS-5209B, Електрична млинець, Электрическая блинница</keywords>
       </offer>
-      <offer id="784270" available="false">
+      <offer id="784270" available="true">
         <name>Набір торцевих ключів з тріскачками 46 шт. Champion CP-248 ключі та набори торцевих головок</name>
         <categoryId>14200399</categoryId>
         <price>430</price>
@@ -41040,7 +40976,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/auyfvapuyfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/puypyvfyfauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kaufvyuafypuyf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><span>Набір торцевих ключів із храповим механізмом CHAMPION CP-248 складається з 46 предметів, що робить його ідеальним вибором для професійних механіків та домашніх умільців. Завдяки храпному механізму інструменти забезпечують зручність та ефективність при виконанні робіт, дозволяючи швидко і без зусиль змінювати положення ключа без необхідності знімати його з гайки. Виготовлені із високоякісних матеріалів, ключі гарантують надійність та тривалий термін служби.</span></p>
 <ul>
 <li><span>Широкий асортимент розмірів для різних типів гайок та болтів.</span></li>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-22 09:45">
+<yml_catalog date="2026-09-23 09:50">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -2099,7 +2099,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Регулировка силы пара">Да</param>
       </offer>
-      <offer id="254136" available="true">
+      <offer id="254136" available="false">
         <name>Електрочайник Magio MG-110 1 л 1360 Вт, стильний електричний чайник, гарний електричний чайник</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -2115,7 +2115,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ujcfvyk3cjuv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfyvkcufy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfyvak3cu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник Magio — технологічне рішення для швидкого та зручного нагріву води. Його потужність 1360 Вт забезпечує ефективне кип’ятіння до 1 літра води за мінімальний час, що суттєво економить ваш час на кухні. Конструкція з дисковим нагрівом гарантує рівномірний та швидкий нагрів, а практичний пластиковий корпус забезпечує легкість і безпеку у використанні. Цей компактний прилад стане функціональним елементом вашої кухні, поєднуючи у собі швидкість, комфорт і стиль.</p>
 <h2>Основні сильні сторони</h2>
 <ul>
@@ -3326,7 +3326,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266220" available="true">
+      <offer id="266220" available="false">
         <name>Мультиварка Rainberg RB-6207 6л 1500Вт з фритюрницею 12 програм скороварка пароварка мультиварка Beige</name>
         <categoryId>606</categoryId>
         <price>1790</price>
@@ -3342,7 +3342,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucvfyakcvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kujcfyvyvakcju.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcufvypkcfv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мультиварка&nbsp;Rainberg RB-6207&nbsp;&#8211; багатофункціональний помічник на кухні з програмним управлінням, призначений для приготування страв у режимах автомат і напівавтомат.</p>
 <p>Вона надійна і проста в управлінні, укомплектована чашею об&#8217;ємом на 6 літри.</p>
 <p>Її потужність складає 1500 Вт.</p>
@@ -4202,7 +4202,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="294929" available="true">
+      <offer id="294929" available="false">
         <name>Ліхтарик налобний Bailong BL-T64-T6+4XPE, світлодіодний ліхтар на лоб, потужний налобний ліхтар для риболовлі</name>
         <categoryId>150410</categoryId>
         <price>600</price>
@@ -4218,7 +4218,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucvfykucvyfvayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucvyfafyvayfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucvyfakucvyfavy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Потужний налобний ліхтарик BL-T64-T6&ndash; це універсальний представник лобових ліхтарів популярної фірми Bailong. Модель призначена як для повсякденного використання, так і для туристичних походів, альпінізму, риболовлі. А з унікальною системою Hands-free Ваші руки будуть абсолютно вільними.</p>
 <p>Ліхтар має п&#8217;ять потужних світлодіод плюс COB панель: XML-T6 і 4шт XPE. Світлодіод XML-T6 немає аналогів, так як він забезпечує потужність світлового потоку до 1800 lumen. Для цього ліхтаря немає нездійсненних завдань та неосвітлених просторів.</p>
 <p>Ліхтарик працює в 6-х режимах: мінімальний режим (1 діод T6), економний режим (2 діоди), середній режим (4 діоди), COB панель, повна потужність (5 діодів + COB панель) і миготливий режим. Поворотна головка дозволяє нахиляти ліхтар у необхідному для Вас напрямку (кут нахилу становить 0-90°). Ліхтарик BL-T64-T6 обладнаний надійним пило-вологозахищеним корпусом з удароміцним нетоксичним пластиком, широко відомим своєю довговічністю.</p>
@@ -4266,7 +4266,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="294955" available="true">
+      <offer id="294955" available="false">
         <name>Ліхтар налобний Bailong BL-1805 COB XPE акумуляторний, ліхтар на голову для риболовлі, надійний налобний</name>
         <categoryId>150410</categoryId>
         <price>360</price>
@@ -4282,7 +4282,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucjfyvkcuyvavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvyukcfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jucfyvaukyfvfayfv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong BL-1805 COB USB CHARGE поєднує в собі зручність, надійність і багатофункціональність, що робить його незамінним помічником у будь-яких умовах. Завдяки використанню сучасної COB-панелі та трьом режимам роботи він забезпечує яскраве освітлення в компактному корпусі, що актуально як для дому чи гаража, так і для активного відпочинку, туризму та риболовлі. Зручність заряджання через USB і вологостійкість корпусу значно розширюють можливості використання пристрою.</p>
 <h2>Конкурентні переваги</h2>
 <ul>
@@ -8739,7 +8739,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kafkfauav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euaivfiauavf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eukakfiafv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Інноваційна портативна аудіосистема з підтримкою Bluetooth 5.3 відкриває широкі можливості для якісного відтворення музики. Вона поєднує в собі багатофункціональність, зручність управління і компактність, надаючи користувачеві максимально комфортний досвід прослуховування в будь-яких умовах.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -9083,7 +9083,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupvkaupyfafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuypyekfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/nukykuvkvapav.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Професійна машинка для стрижки VGR V-291 підходить для стрижки волосся різної довжини, вона призначена для домашніх умов, а також для професійного використання в перукарнях, салонах краси, барбершопах.<br />VGR V-291 відмінно справляється зі стрижками будь-якої складності, дозволяє змоделювати форму бороди та вусів. Широкий список насадок закриє потреби навіть найвибагливішого користувача і дозволить заощадити кошти, позбавляючи необхідності походу в барбершоп.</p>
 <p>Машинки з комбінованим живленням працюють від акумулятора або розетки. Робота без дроту зручна при стрижці довгого волосся та позбавляє майстра приймати незручні положення. Також машинка може використовуватися як ведуча від USB, одночасно заряджаючи батарею, що дуже зручно для роботи майстра-перукаря, коли потрібно прийняти багато людей.</p>
 <p><strong>Особливості:</strong></p>
@@ -21051,69 +21051,6 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="340492" available="false">
-        <name>Годинник наручний чоловічий SKMEI 1586AG ARMY GREEN, чоловічий армійський водостійкий тактичний. Колір: зелений</name>
-        <categoryId>151105</categoryId>
-        <price>590</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws61777</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/wadsrewfesd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ifvpucfpfavif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/wfwfsdafds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwafsrewferwasds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwfrdfaeasf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuipfpuecifvpuifav.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3ecuipfecfiaaifuv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3ecuifvveppucifav.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4ecupivapeuivvif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifpenukcfpfavif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>SKMEI 1586AG ARMY GREEN — це годинник для тих, хто шукає надійність, витривалість і яскравий зовнішній вигляд в одному аксесуарі. Його масивний корпус із агресивним дизайном, поєднаний із зеленим тканинним ремінцем, підкреслює військово-спортивний стиль і надає виробу унікального характеру. Цифрова та аналогова індикація дозволяє швидко орієнтуватися в часі, а зручне розташування кнопок забезпечує легке керування функціями навіть у рукавичках.</p>
-<p>Модель оснащена великим набором функцій: подвійний час, будильник, секундомір, дата, день тижня, автоматичний календар, підсвітка та формат часу 12/24 год. Завдяки водозахисту WR50M цей годинник підходить для активного способу життя — будь то спорт, похід чи повсякденні завдання. SKMEI 1586AG стане надійним помічником у будь-яких умовах і підкреслить ваш сильний стиль.</p>
-<h2>Характеристики:</h2>
-<ul>
-<li>Тип: комбінований (аналоговий + цифровий)</li>
-<li>Дисплей: стрілки + цифровий екран з підсвіткою</li>
-<li>Функції: подвійний час, будильник, секундомір, дата, день тижня, автокалендар, формат 12/24 год</li>
-<li>Матеріал корпусу: ударостійкий пластик</li>
-<li>Матеріал ремінця: тканинна основа з армуванням (зелений колір)</li>
-<li>Водозахист: до 50 метрів (WR50M)</li>
-<li>Живлення: батарейка</li>
-</ul>
-<h2>Переваги:</h2>
-<ul>
-<li>Вражаючий брутальний дизайн із мілітарі відтінками</li>
-<li>Комбінація стрілочного та цифрового форматів</li>
-<li>Просте керування, зручне навіть у рукавичках</li>
-<li>Міцна конструкція для активного носіння</li>
-<li>Функціональність для щоденного використання та спорту</li>
-<li>Надійний водозахист і витривалий ремінець</li>
-</ul>]]></description>
-        <keyword>Годинник наручний чоловічий</keyword>
-        <keyword>Часы наручные мужские</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI 1586AG ARMY</keyword>
-        <keyword>Часы наручные мужские SKMEI 1586AG ARMY GREEN</keyword>
-        <keyword>чоловічий армійський водостійкий тактичний</keyword>
-        <keyword>мужские армейские водостойкие тактические</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI</keyword>
-        <keyword>Часы наручные мужские SKMEI</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI 1586AG</keyword>
-        <keyword>Часы наручные мужские SKMEI 1586AG</keyword>
-        <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 1586AG ARMY, Часы наручные мужские SKMEI 1586AG ARMY GREEN, чоловічий армійський водостійкий тактичний, мужские армейские водостойкие тактические, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI, Годинник наручний чоловічий SKMEI 1586AG, Часы наручные мужские SKMEI 1586AG</keywords>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Производитель">Skmei</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Пол">Мужской</param>
-        <param name="Тип">Спортивные часы</param>
-        <param name="Тип механизма">Электронный</param>
-        <param name="Источник питания">Батарейка</param>
-        <param name="Циферблат">Цифровой</param>
-        <param name="Индикация">Арабские цифры</param>
-        <param name="Формат времени">12/24 часа</param>
-        <param name="Форма">Круглая</param>
-        <param name="Материал">Пластик</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="341138" available="false">
         <name>Годинник наручний чоловічий SKMEI 1670BKWT BLACK-WHITE, Армійський годинник протиударний</name>
         <categoryId>151105</categoryId>
@@ -22343,7 +22280,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uippkivuipiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/5ekfepucpkfpkeuik.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4uipvrk.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Багатофункціональний бездротовий епілятор VGR V-703 дозволить вам не тільки комфортно видалити волосся, але й може працювати як масажний прилад та електрична пемза.&nbsp;</p>
 <p><strong>У комплектації є всі необхідні насадки:</strong></p>
 <ul>
@@ -22940,7 +22877,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdggrsaegsaef.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gesdsages.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrgsdesdgewas.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>VGR V-033</strong><span>&nbsp;</span>&#8211; це компактна машинка для стрижки волосся, оснащена ножами з високоміцної нержавіючої сталі, які мало схильні до зносу і механічних пошкоджень, що забезпечує якісну роботу різальних елементів протягом усього терміну служби. Виробником передбачено чотири насадки, що дозволяють отримати потрібну довжину волосся в діапазоні від 3 до 12 мм, і важіль на корпусі для більш точного регулювання, що дає можливість створювати різноманітні стрижки. </p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -26763,7 +26700,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/IMG_4181.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/IMG_4176.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/09/IMG_4177.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<div class="n2-header">
 <div class="n2-pol-top">
 <p>Ефект масажу відомий з давніх-давен. З його допомогою лікували та лікують ушкодження м&#8217;язів, порушення опорно-рухового апарату, захворювання судин тощо. Але масаж &ndash; процедура досить тривала і доступна далеко не завжди, хоча б тому, що сеанси масажу проводяться у певний час, а не тоді, коли захворіло плече, простягло шию або просто болить голова.</p>
@@ -28591,7 +28528,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euavifvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/evpkeavfvvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fiapuifvavi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Налобний ліхтарик X-Balog BL-T07B-P90</strong><span>&nbsp;</span>&#8211; налобний акумуляторний ліхтар з лінзою для фокусування світлового потоку. Має три режими роботи: яскравий, економний та стробоскоп.</p>
 <p>Перевагою є міцний, стійкий до ударів, пошкоджень та вологи, анодований алюмінієвий корпус, який до того ж досить легкий, щоб тримати на голові без додаткового дискомфорту.</p>
 <p>Робота налобного ліхтаря виконується за рахунок акумуляторів, що заряджаються, які можна підзарядити як від прикурювача, так і мережі.</p>
@@ -29065,7 +29002,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uipavrekvirkifuk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euinruk4rpkeku.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4vairkvirkui.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1231BK — це практичний цифровий аксесуар у стильному чорному дизайні, створений для активних людей, які цінують простоту та функціональність. Його круглий корпус із матовим покриттям та ергономічний силіконовий ремінець забезпечують комфорт при щоденному носінні. Великий дисплей з чіткими цифрами дозволяє легко зчитувати інформацію навіть під час тренувань або в русі.</p>
 <p>Модель оснащена всім необхідним: два будильники, секундомір, дата, день тижня, підсвітка, формат часу 12/24 години та автоматичний календар. Годинник має водозахист до 50 метрів, що робить його ідеальним для щоденного використання, включно з фізичною активністю на відкритому повітрі або у спортзалі.</p>
 <h2>Характеристики:</h2>
@@ -32400,7 +32337,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип дна">Многослойное</param>
       </offer>
-      <offer id="744485" available="true">
+      <offer id="744485" available="false">
         <name>Ліхтар налобний Police 6609-LED</name>
         <categoryId>150410</categoryId>
         <price>420</price>
@@ -32413,7 +32350,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapipifpii.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vavpvivpfiivpifp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pavipavipivfvifafiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Світлодіодний ліхтарик Г-подібний налобний Police 6609-LED — це сучасний пристрій для надійного освітлення в будь-яких умовах. Оснащений сучасним світлодіодом T6, він забезпечує світловий потік до 1000 люменів, що в десять разів перевищує потужність традиційних ламп розжарювання. Компактний і зручний у використанні, цей налобний ліхтар призначений для забезпечення яскравого та рівномірного світла при мінімальних витратах енергії.</p>
 <h2>Ключові особливості та переваги</h2>
 <ul>
@@ -33515,66 +33452,6 @@
         <param name="Количество петель">30</param>
         <param name="Производитель">UKC</param>
       </offer>
-      <offer id="6646" available="false">
-        <name>Щипці DOMOTEC MS-4908, випрямляч для волосся 2в1, стайлер для укладання, прасування для вирівнювання</name>
-        <categoryId>63303</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws85957</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvppyfupyku.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/epuyvpuyfvvavfvay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/nkupvyayfayfavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvyakypyfapvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvyfyvfayuv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4upypypyvfav.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kupyvapkppfpavyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pyvfufyavavvfvfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rukavikyyfavy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Domotec MS-4908 – це сучасна плойка з PTC нагрівачем, розроблена для ефективного випрямлення волосся будь-якої структури та довжини. Пристрій забезпечує рівномірний та швидкий нагрів робочої поверхні, що дозволяє досягти професійного результату за мінімальний час. Ергономічний дизайн та зручна не нагріваючася ручка роблять процес укладки комфортним і безпечним, а технологія PTC підтримує стабільну температуру до 200°C, зберігаючи здоров’я волосся.</p>
-<h2>Переваги використання</h2>
-<ul>
-<li>PTC нагрівач забезпечує миттєвий та рівномірний розігрів робочої поверхні.</li>
-<li>Максимальна температура 200°C дозволяє ефективно випрямляти волосся без пошкоджень.</li>
-<li>Рівномірний нагрів запобігає пересушуванню та ламкості волосся.</li>
-<li>Не нагріваючася ручка гарантує комфорт і безпеку під час укладки.</li>
-<li>Поворотний кабель на 360° виключає заплутування і полегшує маневрування.</li>
-<li>Високоякісні та екологічно безпечні матеріали збільшують термін служби приладу.</li>
-<li>Робоча поверхня не прилипає до волосся, забезпечуючи м’яке ковзання та мінімальний дискомфорт.</li>
-</ul>
-<h2>Сфера застосування</h2>
-<p>Плойка Domotec MS-4908 відмінно підходить як для домашнього використання, так і для професійних перукарів та стилістів. Пристрій ефективно справляється з випрямленням волосся різної структури та довжини, від тонкого та пошкодженого до густого та неслухняного. Завдяки швидкому нагріванню та зручному управлінню плойка дозволяє створювати гладкі, блискучі пасма без зайвих витрат часу.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Тип нагрівача: PTC</li>
-<li>Максимальна температура нагріву: 200°C</li>
-<li>Нагрів робочої поверхні: швидкий та рівномірний</li>
-<li>Ручка: ергономічна, не нагрівається</li>
-<li>Кабель: поворотний на 360°</li>
-<li>Матеріал корпусу: високоякісний, екологічно безпечний</li>
-<li>Призначення: для всіх типів волосся, будь-якої довжини та структури</li>
-</ul>]]></description>
-        <keyword>Щипці DOMOTEC MS-4908</keyword>
-        <keyword>Щипцы DOMOTEC MS-4908</keyword>
-        <keyword>випрямляч для волосся 2в1</keyword>
-        <keyword>выпрямитель для волос 2в1</keyword>
-        <keyword>стайлер для укладання</keyword>
-        <keyword>стайлер для укладки</keyword>
-        <keyword>прасування для вирівнювання</keyword>
-        <keyword>утюжок для выравнивания</keyword>
-        <keyword>Щипці DOMOTEC</keyword>
-        <keyword>Щипцы DOMOTEC</keyword>
-        <keywords>Щипці DOMOTEC MS-4908, Щипцы DOMOTEC MS-4908, випрямляч для волосся 2в1, выпрямитель для волос 2в1, стайлер для укладання, стайлер для укладки, прасування для вирівнювання, утюжок для выравнивания, Щипці DOMOTEC, Щипцы DOMOTEC</keywords>
-        <param name="Производитель">Domtec</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Количество режимов работы">1</param>
-        <param name="Тип">Выпрямители</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-        <param name="Керамическое покрытие">Да</param>
-        <param name="Потребляемая мощность">25</param>
-        <param name="Тип питания">Сеть 220 В</param>
-      </offer>
       <offer id="8757" available="true">
         <name>Детектор валют портативний на батарейках 01DL, пристрій для перевірки купюр, портативні детектори валют</name>
         <categoryId>51004</categoryId>
@@ -34443,7 +34320,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviapkpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revaipipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkviavipf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Міні швейна машинка 4 в 1 &ndash; це компактна міні швейна машинка, яка завжди буде під рукою. Навіть якщо Ви абсолютний новачок у шитті, Ви легко впораєтеся за допомогою цієї машинки. Міні швейна машинка зручна та легка, її можна поставити на будь-яку гладку поверхню. На корпусі машинки є стрижень для намотування ниток на шпульку, який значно полегшить роботу. Ви полюбите робити акуратні і красиві рядки, а Ваш будинок стане ще охайнішим, адже тепер не буде ніяких ниток, що стирчать, і витрати коштів на ательє.</p>
 <p>Робота машинки здійснюється завдяки ножній педалі, точнісінько як на справжній професійній швейній машинці, але однією з переваг є те, що машинка займає в сім разів менше місця.</p>
 <p>Це дозволяє її брати з собою на дачу, оскільки вона працює і від батарейок (до комплекту не входять) або електрики.</p>
@@ -35803,7 +35680,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ervaipkivpaivif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oerkavpivfuifiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivfpuifvppipfi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар налобний A16-GT &mdash; це потужний та надійний акумуляторний ліхтар, призначений для активного відпочинку, походів, риболовлі, роботи у темний час доби та інших завдань, що потребують якісного освітлення. Завдяки захисту за стандартом IPX65 він стійкий до води та пилу, що забезпечує надійну роботу в будь-яких погодних умовах.</p>
 <p>Корпус ліхтаря виконаний з комбінації пластику та металу, що робить пристрій міцним та легким одночасно. Модель оснащена одним потужним діодом HP50 із трьома режимами роботи: 100% яскравості, 50% яскравості та стробоскоп. Оптичний зум дозволяє змінювати кут розсіювання світла від широкої плями до вузькоспрямованого променя, забезпечуючи універсальність використання.</p>
 <p>Особливістю ліхтаря є регульований кут нахилу голови, який дозволяє спрямовувати світловий потік точно на потрібний об&#8217;єкт, а вбудована індикація рівня заряду батареї допомагає контролювати ресурс акумуляторів, що залишився.</p>
@@ -36231,7 +36108,7 @@
         <param name="Форма">Круглая</param>
         <param name="Многослойное дно">Да</param>
       </offer>
-      <offer id="515962" available="true">
+      <offer id="515962" available="false">
         <name>Велофара з сигналом Waterproof MT-007-T6 450Lum 18650 з виносною кнопкою Довговічний велосипедний ліхтар</name>
         <categoryId>342402</categoryId>
         <price>480</price>
@@ -36241,7 +36118,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4esggasregagrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesaesgategdgrsagrs.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdfgagtyerhgfgra.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велофара з сигналом MT-007-T6 на акумуляторі створена для тих, хто цінує свою безпеку на дорозі та комфорт під час мандрівок на велосипеді. Вона покращує видимість велосипедиста на дорозі в умовах темряви. Завдяки потужному світлодіоду дана модель чудово справляється з освітленням дороги у безпосередній близькості до велосипеда.</p>
 <p>За допомогою сигналу, який активується виносною кнопкою, можна привернути увагу інших учасників руху, наприклад пішоходів, щоб уникнути зіткнення. Гучності сигналу достатньо, щоб його можна було почути на безпечній відстані.</p>
 <p><strong>Основні характеристики</strong></p>
@@ -36978,7 +36855,7 @@
         <param name="Материал корпуса">Пластик</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="147838" available="true">
+      <offer id="147838" available="false">
         <name>Дзеркало для макіяжу з 16 LED підсвічуванням Mirror White, Дзеркало зі світлом для макіяжу. Колір: чорний</name>
         <categoryId>371033</categoryId>
         <price>360</price>
@@ -36994,7 +36871,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/paufvauvyfyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvykucvkucvfyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pcvfykucvfyvfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Дзеркало для макіяжу Mirror з LED-підсвічуванням &ndash; це чудовий інструмент для нанесення макіяжу та створення ідеального мейку. Яскраві світлодіоди забезпечують рівномірне освітлення обличчя з усіх боків у будь-який час доби, що дозволить вам рівномірно завдати косметики, не допускаючи помилок. Крім того, невелике дзеркальце з 10-кратним збільшенням дозволить вам наносити макіяж з максимальною точністю.</p>
 <p>Увімкнути та вимкнути дзеркало можна за допомогою спеціальної сенсорної кнопки. Висвітлення працює за рахунок звичайних батарейок. Спеціальна підставка дозволить розмістити на ній різні косметичні дрібниці, наприклад, губну помаду, пудру, тіні для очей або щось інше, а вільне обертання на 180°С. дозволяє зафіксувати косметичне дзеркало у зручному для вас положенні.</p>
 <p><strong>Переваги:</strong></p>
@@ -40149,7 +40026,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eupyyvuayvfafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpapkyvauyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvairvyyav.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Представляємо набір з 4 органайзерів, що миються, для зберігання одягу в гардеробі &mdash; ідеальне рішення для організації вашої шафи та підтримання порядку в будинку.</strong></p>
 <p>Наші органайзери виготовлені з&nbsp;<strong>удосконаленого товстого матеріалу</strong>&nbsp;і мають міцний дизайн зі зручними ручками, що робить їх великими, міцними і максимально зручними. /strong>&nbsp;у використанні. Обгорнуті щільною Оксфордською тканиною, вони зберігають свою форму, не деформуються і не ламаються з часом.</p>
 <p><strong>Переваги нашого органайзера для одягу:</strong></p>

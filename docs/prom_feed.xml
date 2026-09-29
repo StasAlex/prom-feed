@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-28 11:34">
+<yml_catalog date="2026-09-29 11:13">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -200,7 +200,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="6631" available="true">
+      <offer id="6631" available="false">
         <name>Сендвічниця DOMOTEC MS-7777, Електробутербродниця, Сендвічниця мультипекар, Бутербродниця електрична</name>
         <categoryId>6300404</categoryId>
         <price>650</price>
@@ -216,7 +216,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/2020/11/IMG_4162.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfyvaakcfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvaekcvfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Шукаєте швидкий та простий спосіб приготувати гарячі бутерброди з хрусткою скоринкою та соковитою начинкою? Електрична сендвичниця Domotec MS 7777 – це функціональний пристрій, що дозволяє всього за 2-3 хвилини створювати смачні страви без зайвих зусиль. Лаконічний дизайн і продумані технічні рішення зроблять процес приготування легким, а очищення приладу – мінімально затратним за часом.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -1213,99 +1213,6 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="102155" available="false">
-        <name>Епілятор Gemei GM-7006 4в1 - Професійний бездротовий епілятор бритва з насадками триммер + пемза</name>
-        <categoryId>3314</categoryId>
-        <price>770</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws15636</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfviaakujcfvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ufvychyasmauc.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/jcfvymauc-1.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfvik3cfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfivk3cvfi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ucvfiakucfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cakcfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ujcviaucjfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kucvfikucfv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/k3cfak3jcfvi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Епілятор GM-7006 Professional 4in1</strong>&nbsp;ідеально підходить для лінії бікіні, пахв і ніг.</p>
-<p>Ефективний і безболісний на відміну від традиційних методів хімічної епіляції та щипців, які вимагають багато часу та приносять великий біль, цей епілятор може видалити волосся лише за п&#8217;ять хвилин без болю чи дискомфорту.</p>
-<p>Елегантний дизайн розроблений спеціально для жінок та дівчат. Елегантний дизайн розроблений спеціально для зручного використання, насадки змінюються просто та швидко.</p>
-<p><strong>Епілятор Gemei GM 7006</strong> має 4 насадки: основна для якісної епіляції, бритва з подвійним лезом і триммером для легкого збривання, насадка-пемза для позбавлення від мозолів, натоптишів, огрубех насадка для філування.</p>
-<p>Такий епілятор замінює чотири окремі пристрої. Має він один робочий режим. Підходить для епіляції у ванній або душі.</p>
-<p>Бритвенна насадка з подвійними лезами зі сталі та захисною сіточкою дозволить обробити найніжніші інтимні зони, без подразнення та хворобливих відчуттів.</p>
-<p>Насадка пемза м&#8217;яко і швидко видаляє шкіру, що огрубіла, роблячи ступні абсолютно гладкими.</p>
-<p>роликова головка, що обертається, діє дбайливо, не потрібно розпарювання шкіри перед використанням.</p>
-<p><strong>Епілятор Gemei GM 7006 4в1</strong>&nbsp;&ndash; просто незамінний прилад в арсеналі будь-якої жінки, яка завжди бажає виглядати бездоганно!</p>
-<p><strong>Епілятор GM-7006</strong>&nbsp;простий і зручний в експлуатації, працює від вбудованого акумулятора. Відсутність дроту живлення сприяє комфорту та дозволяє не прив&#8217;язуватися до розташування розеток у приміщенні. Тривалість безперервного функціонування однією заряді становить 45 хвилин. Для підзарядки батареї в комплекті є адаптер мережі. Передбачена щіточка для очищення насадок. Епілятор має один робочий режим.</p>
-<p><strong>Професійний Gemei GM 7006</strong> допоможе вам викинути верстати, воскові смужки, набори для шугарингу і пінцети в смітник. Ви самі зробите гладкими не тільки свої ніжки та руки із зоною пахв та бікіні, але й зможете робити педикюр самостійно.</p>
-<p><strong>Епілятор GM 7006</strong> має два робочі режими, завдяки чому можна регулювати швидкість обертання головок, тим самим зменшуючи больові відчуття. Модель відрізняється ергономічним корпусом, має плавні контури та спеціальний антиковзний рельєф із зовнішнього боку.</p>
-<p>З цією моделлю ви зробите свою шкіру гладкою та ніжною, при цьому ви не пошкодите шкірний покрив і у вас не буде подразнень. Захоплення волосся в епіляторі точне, з гарною фіксацією, тому все волосся видалятиметься з коренем.</p>
-<p>Завдяки закругленій формі прилад зручно розміщується в долоні.</p>
-<p><b>Особливості епілятора:</b></p>
-<ul>
-<li>Забезпечить швидке та м&#8217;яке видалення небажаної рослинності на будь-якій ділянці тіла, роблячи шкіру ідеально гладкою</li>
-<li>Забезпечує максимальний контакт зі шкірою</li>
-<li>Існує знижений рівень вібрації</li>
-<li>Може використовуватись на сухій шкірі без застосування піни або спеціального гелю</li>
-<li>Має елегантний дизайн, спеціально розроблений для жінок</li>
-<li>Не викликає алергії та роздратування</li>
-<li>Не пошкоджує шкіру</li>
-<li>Довготривалий ефект видалення волосся</li>
-<li>Має два робочі режими, завдяки чому можна регулювати швидкість обертання головок</li>
-<li>Тривалість безперервного функціонування на одному заряді становить 45 хвилин</li>
-<li>Бритвенна насадка з подвійним лезом і триммером для легкого збривання</li>
-<li>Велика епілююча головка (32 пінцети) для видалення волосся на ногах, руках</li>
-<li>2 педикюрні насадки (велике шліфування та делікатне) для позбавлення від мозолів, натоптишів, огрубілої шкіри на ступнях</li>
-<li>Заряджається від мережі 220 в</li>
-</ul>
-<p><b>Характеристики:</b></p>
-<ul>
-<li>Тип епіляції: суха</li>
-<li>Система живлення: акумулятора</li>
-<li>Кількість швидкостей 2</li>
-<li>Кількість пінцетів 32</li>
-<li>Насадки: бритва, для чутливих ділянок, насадка для епіляції, насадка для шліфування ступнів</li>
-<li>Тривалість безперервної роботи від акумулятора: 45 хв.</li>
-</ul>
-<p><b>Комплектація:</b></p>
-<p>4 насадки в комплекті:</p>
-<ol>
-<li>Основна насадка для якісної епіляції</li>
-<li>Бритвенна насадка</li>
-<li>Насадка для шліфування</li>
-<li>Насадка для філування делікатна</li>
-</ol>
-<ul>
-<li>Блок живлення</li>
-<li>Щітка для чищення</li>
-<li>Інструкція</li>
-</ul>]]></description>
-        <keyword>Епілятор Gemei GM-7006</keyword>
-        <keyword>Эпилятор Gemei GM-7006</keyword>
-        <keyword>Епілятор Gemei GM-7006 4в1 - Професійний</keyword>
-        <keyword>Эпилятор Gemei GM-7006 4в1 - Профеcсиональный</keyword>
-        <keyword>Епілятор Gemei GM-7006 4в1</keyword>
-        <keyword>Эпилятор Gemei GM-7006 4в1</keyword>
-        <keyword>Епілятор Gemei</keyword>
-        <keyword>Эпилятор Gemei</keyword>
-        <keyword>Gemei</keyword>
-        <keyword>Епілятор</keyword>
-        <keywords>Епілятор Gemei GM-7006, Эпилятор Gemei GM-7006, Епілятор Gemei GM-7006 4в1 - Професійний, Эпилятор Gemei GM-7006 4в1 - Профеcсиональный, Епілятор Gemei GM-7006 4в1, Эпилятор Gemei GM-7006 4в1, Епілятор Gemei, Эпилятор Gemei, Gemei, Епілятор</keywords>
-        <param name="Производитель">Gemei</param>
-        <param name="Цвет корпуса">Розовый</param>
-        <param name="Количество пинцетов">32</param>
-        <param name="Количество насадок">3</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Тип прибора">Эпилятор</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Тип элементов питания">Li-Ion</param>
-        <param name="Подсветка">Нет</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="104434" available="false">
         <name>Епілятор Gemei GM-7006 4в1 - Професійний бездротовий епілятор бритва з насадками триммер + пемза</name>
         <categoryId>3314</categoryId>
@@ -1781,7 +1688,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwfdasda.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3waserfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rewdasfedasd.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар з акумуляторним живленням та потужними діодами T6 стане незамінним помічником у будь-яких умовах. Його металевий корпус забезпечує надійність і довговічність, а вологостійка конструкція дозволяє використовувати пристрій навіть у складних погодних умовах. Завдяки чотирьом режимам роботи та оптичному зуму ви зможете адаптувати світловий потік під свої потреби, забезпечуючи максимальний комфорт і ефективність освітлення.</p>
 <h2>Переваги пристрою</h2>
 <ul>
@@ -5507,7 +5414,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfrwsadfasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cuafivkcufavivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/puaivucavfiv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Поттативна бритва V-331</strong><span>&nbsp;</span>&ndash; дорожній шейвер, який стане незаменним помічником у боротьбі за ідеальну зовнішність у будь-якому місці.</p>
 <p><strong>Основним</strong><span>&nbsp;</span>перевагою даного пристрою є не тільки те, що воно може працювати без мережі, але також те, що при використанні збудування драження &#038;ndash ; ідеальне рішення для чутливої шкіри.</p>
 <p><strong>Бритва</strong><span>&nbsp;</span> ідеально повторює кожен вигин обличчя, роблячи гоління бездоганним. Ви зможете використати її на обличчі, шиї і навіть на підборідді, забувши назавжди про те, що гоління – ndash; це не зручно. Такий шейвер легко брати із собою у поїздку, адже він компактний і чудово поміститься у будь-яку сумку. Дорожня бритва &ndash; найкраще рішення для сучасного чоловіка. Той, хто розуміється на ідеальному зовнішньому вигляді.</p>
@@ -6122,7 +6029,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/herdfbhdfsgrgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgrsgesaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfhrdsgrsafe.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>VGR V-106 &#8211; це професійний комплект для догляду за тілом, який пропонує функціональність 6 в 1 та вражає точністю свого леза, виготовленого з високоякісної нержавіючої сталі. Корпус має світлодіодний дисплей, що відображає рівень заряду у відсотках.</p>
 <p><strong>Важливими компонентами цього набору &#8220;VGR V-106&#8221; є:</strong></p>
 <ul>
@@ -6686,7 +6593,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cavyfkafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cfavyukvfyayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gtwefsdsgtfdsa.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки<span>&nbsp;</span><strong>VGR V-175</strong><span>&nbsp;</span>зі знімними насадками &#8211; це корисне придбання для чоловіка будь-якого віку. У багатофункціональному пристрої використовуються якісні ножі з нержавіючої сталі для довгої та надійної роботи. Вони впораються з жорстким і густим волоссям. Для її використання необов&#8217;язково мати навички професійного перукаря.</p>
 <p><strong>Тример поєднує кілька пристроїв:</strong></p>
 <ul>
@@ -8035,7 +7942,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="460720" available="false">
+      <offer id="460720" available="true">
         <name>Портативна колонка TG642 з RGB підсвічуванням та ремінцем, акумуляторна колонка для музики. Колір: чорний</name>
         <categoryId>6371101</categoryId>
         <price>690</price>
@@ -8051,7 +7958,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tewsdewsafdrefesa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/heesdrsafdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tgsdfwresafefsd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -10719,7 +10626,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvkupyvprkyvrkvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvayrkpyfvapvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpyvpyvrkyvrpky.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>6 в 1 багатофункціональний епілятор та лицьові чищення інструменту.&nbsp;</li>
 <li>3 методи для гоління: рафінований для гоління, бритвені простий, безпечний для гоління.&nbsp;</li>
@@ -15268,7 +15175,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jrtdfgdsgesase.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jtdsasdghsgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jthgdsgsdhgsags.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>VGR V-307 &mdash; це професійна електробритва нового покоління, розроблена для ідеального та гладкого гоління &#8220;під нуль&#8221;. Модель поєднує в собі міцний металевий корпус, потужний мотор та інноваційні подвійні сітки з титановим покриттям. Цей пристрій стане надійним помічником як для барберів та перукарів, так і для особистого використання в домашніх умовах.</p>
 <p>Бритва оснащена високооборотним мотором на 9000 об/хв, що забезпечує стабільну роботу та бездоганний результат. Завдяки плаваючій системі подвійних сіток з титановим покриттям, шейвер максимально точно повторює контури обличчя та голови, забезпечуючи чисте та безпечне гоління без подразнення. VGR V-307 підходить як для сухої, так і для чутливої шкіри.</p>
 <p>Модель комплектується акумулятором ємністю 2000 мАг, що забезпечує до 180 хвилин автономної роботи на одній зарядці. Повна зарядка триває близько 3 годин. Бритва заряджається через стандартний USB-кабель, що робить її зручною у поїздках та для роботи в салоні.</p>
@@ -18159,7 +18066,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewadsfrwasdafdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wasdfewasdffdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rewadsffrewdasafesd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар BL-A75-P90, стане вкрай зручним помічником, як у побуті, так і в умовах міста, походу, екстрених відключень електрики через збільшений потенціал потужності у вигляді сильного світлодіода P90, та ємного акумулятора в 8000mA ( заяву виробника).</p>
 <p>За допомогою функції фокусування може використовуватися як світильник, що розсіює світло від стін у приміщенні, за принципом ефекту &#8220;Альбедо&#8221;. І так само, як далекобійний ліхтар-фара на крайньому положенні фокусування.</p>
 <p>Заряджається ліхтар за сучасним стандартом Євросоюзу – USB Type-C. Кабель для заряджання йде в комплекті, разом з ємним акумулятором 26650 (який більший за стандартні акумулятори 18650 в 2 рази).</p>
@@ -19459,7 +19366,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип&#8217;ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -20209,7 +20116,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pekuavyaufvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuavauaafv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcayfvukafyv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Силіконовий нічник &ldquo;Панда&rdquo; &ndash; це нічник, який зможе прикрасити не лише дитячу спальню, а й чудово впишеться в інтер&#8217;єр будь-якої кімнати. М&#8217;яким, приглушеним світлом лампа у вигляді китайського ведмедика Панди огорне дитячу кімнату чарівним приємним світлом, подарувавши дітям море радості та почуття захищеності. З таким чудовим другом і казковим персонажем дитині буде зовсім не страшно засинати вночі.</p>
 <p>Лампа нічник Панда розроблена спеціально для тактильного &ldquo;спілкування&rdquo; із силіконовою твариною. Його можна взяти в руки, пом&#8217;яти, притулити до тіла, принести в ліжко і просто поставити поряд. Це не просто силіконовий нічник, це &ndash; чудова іграшка для дитини, з якою вона може не розлучатися.</p>
 <p>Панда &ndash; це світлодіодний нічник з усіма кольорами веселки.</p>
@@ -20929,7 +20836,7 @@
       <offer id="374676" available="true">
         <name>Дисковий електричний чайник Rainberg RB-709 2Л 2200Вт скляний із підсвічуванням, безшумний чайник Black</name>
         <categoryId>640</categoryId>
-        <price>800</price>
+        <price>870</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws72814</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/qwdredsafds.jpg</picture>
@@ -22880,7 +22787,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="585742" available="false">
+      <offer id="585742" available="true">
         <name>Електрична турка для кави Marado MA-1625, Побутова турка, Бюджетна турка. Колір: коричневий</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
@@ -22895,7 +22802,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypvyrkry.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/varkvypvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krvakvayrkyvreky.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу&#8230; і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) &#8211; один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву &#8211; для вас та ваших близьких!</p>
@@ -24471,7 +24378,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkupvipuiaaifui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkpuiviiiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipiva.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тример VGR V-299 BLACK у строгому чорному корпусі &mdash; це багатофункціональний пристрій для догляду за бородою, вусами та волоссям, що підходить як для домашнього, так і для професійного використання. Оснащений потужним мотором з частотою обертання до 9000 об/хв та вбудованим акумулятором ємністю 2000 мАг, він забезпечує до 240 хвилин автономної роботи та високу продуктивність при роботі з волоссям різної довжини та щільності. Ергономічний корпус зручно лежить у руці, а міцні матеріали гарантують надійність та довговічність.</p>
 <p>Модель комплектується 4 насадками та підтримує 5 рівнів регулювання швидкості, що дозволяє точно налаштовувати роботу тримера під конкретні завдання &mdash; від точного окантування до догляду за густою бородою. LED-дисплей відображає рівень заряду, поточну швидкість, а також нагадування про необхідність обслуговування, забезпечуючи контроль та зручність у процесі експлуатації. VGR V-299 BLACK &mdash; це поєднання потужності, точності та функціональності в одному стильному та практичному пристрої.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -27386,7 +27293,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvfiakcufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ckviakcvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fviakjcfviaufvi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з однією конфоркою – це ідеальне рішення для компактних кухонь, офісних приміщень або дачі. Вона поєднує в собі простоту управління та ефективність, забезпечуючи стабільний рівень нагрівання при мінімальних витратах енергії. Цей прилад стане надійним помічником для швидкого приготування страв без зайвих зусиль та налаштувань.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>
@@ -27862,7 +27769,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="298838" available="false">
+      <offer id="298838" available="true">
         <name>Налобний ліхтар X-Balog BL-T07B-P90, потужний тактичний ліхтарик налобний, водонепроникний ліхтар</name>
         <categoryId>150410</categoryId>
         <price>530</price>
@@ -27878,7 +27785,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euavifvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/evpkeavfvvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fiapuifvavi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Налобний ліхтарик X-Balog BL-T07B-P90</strong><span>&nbsp;</span>&#8211; налобний акумуляторний ліхтар з лінзою для фокусування світлового потоку. Має три режими роботи: яскравий, економний та стробоскоп.</p>
 <p>Перевагою є міцний, стійкий до ударів, пошкоджень та вологи, анодований алюмінієвий корпус, який до того ж досить легкий, щоб тримати на голові без додаткового дискомфорту.</p>
 <p>Робота налобного ліхтаря виконується за рахунок акумуляторів, що заряджаються, які можна підзарядити як від прикурювача, так і мережі.</p>
@@ -29152,7 +29059,7 @@
         <param name="Форма">Круглая</param>
         <param name="Формат времени">12 часов</param>
       </offer>
-      <offer id="483503" available="true">
+      <offer id="483503" available="false">
         <name>Ліхтар ручний акумуляторний PLD-CA166-3, Ліхтар ручний потужний, Тактичний ліхтар, Ручний ліхтарик led</name>
         <categoryId>150410</categoryId>
         <price>480</price>
@@ -29168,7 +29075,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcufypueyfepcuavfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyfvpfkpu3cfvay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/5nukpvapavrpkkv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>1. Потужне світло та надійність:</strong></p>
 <p>Ліхтар PLD-CA166-3 пропонує передову LED технологію з білим лазером, забезпечуючи яскраве та чітке освітлення в будь-яких умовах. Завдяки PM10-TG чіпу, ви можете бути впевнені у стабільній роботі вашого ліхтаря.</p>
 <p><strong>2. Зручність у використанні:</strong></p>
@@ -31011,7 +30918,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orevapyvpuyfypr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revpavyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/orevaypkyvapuy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Зручна вага MATARIX MX 403 стане незамінним помічником для будь-якої господині, особливо під час зимових заготовок. Завдяки їм Ви можете зважувати продукти вагою до 7 кг. Це одна з найпопулярніших моделей електронної ваги на кухні.</p>
 <p>Ця модель електронних ваг відрізняється своєю точністю, невибагливістю, дизайном, невеликою вагою, зручними габаритами. У кухонних терезах МХ-403 зібрані всі властивості, необхідні для зважування продуктів та інгредієнтів, а завдяки співвідношенню ціна-якість ставить цю модель на перше місце. Модель електронної ваги для кухні MX-403 працює від батарейок 1.5VX2 AАА, має режим тара та автовимкнення.</p>
 <p><strong>Характеристики:</strong></p>
@@ -31053,7 +30960,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="582999" available="true">
+      <offer id="582999" available="false">
         <name>Кавоварка гейзерна з нержавіючої сталі UNIQUE UN-1912 270 мл, Гейзерна кавоварка 3 чашки</name>
         <categoryId>638</categoryId>
         <price>420</price>
@@ -31069,7 +30976,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfbdfgds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jthfhgdgfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htdfhgdfgsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Гейзерна кавоварка UNIQUE UN-1912 KP1-6 — це надійний пристрій для домашнього або офісного використання, що дозволяє швидко і ефективно приготувати 6 чашок ароматної кави. Завдяки продуманій конструкції й використанню технічно вдосконалених матеріалів, ця кавоварка гарантує рівномірне заварювання та насичений смак кожної порції.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -33140,7 +33047,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cupiavaprprkirkv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ukvirvaravirk-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecupviarivrvi.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Прилад для вимірювання артеріального тиску автоматичний, в комплект входять манжета для вимірювання, дисплей на який виводяться результати, мішечок для зберігання.</p>
 <p>Тонометр Arm Style має функції вимірювання тиску, частоти пульсу, також він показує поточний час. Апарат простий у використанні, великі цифри на дисплеї полегшують читання результатів людям із поганим зором. Крім цього, в пам&#8217;яті тонометра зберігаються результати попередніх 99 вимірів.</p>
 <p>Тонометр Arm Style може працювати і від 4 батарейок класу АА, що уможливлює його експлуатацію поза домом. На завершення слід зазначити, що в даній моделі є індикатор аритмії.</p>
@@ -36878,7 +36785,7 @@
         <param name="Класс отжима">F</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="595077" available="true">
+      <offer id="595077" available="false">
         <name>LED Проектор для дому портативний Смарт з WiFi Bluetooth Android 11 1280х720р White</name>
         <categoryId>150203</categoryId>
         <price>1900</price>
@@ -36894,7 +36801,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/teggesdagea.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvarvaykpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvairvaykvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Портативний проектор з підтримкою Wi-Fi, Bluetooth та вбудованою операційною системою Android 11 — це універсальне рішення для комфортного перегляду фільмів, спортивних трансляцій та роботи з мультимедійним контентом. Завдяки передвстановленим стрімінговим сервісам (Netflix, Megogo, YouTube) та зручному керуванню за допомогою пульта, ви отримуєте доступ до улюблених каналів без додаткових пристроїв і складних налаштувань.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -37458,7 +37365,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdareads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3efsdagewsdaesaesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rfasdgersages.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Цифровий алкотестер з мундштуками являє собою компактну модель алкометра для персонального використання. Продувка в даному алкотестері проводиться за допомогою змінних мундштуків, що вигідно відрізняє цю модель від конкурентів. Мундштуки є багаторазовими. Вони виготовлені з пластмаси та легко піддаються миття, що дозволяє значно економити кошти на придбання мундштуків.</span></p>
 <p><strong><span>Особливості:</span></strong></p>
 <ul>
@@ -38755,7 +38662,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pfivauapuU.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rpkfviapuifvpauU.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euifufecueu.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна міні кутова шліфувальна машина CP-3420</strong><span>&nbsp;</span>&mdash; компактний і потужний інструмент для різання, шліфування та обробки різних матеріалів. Оснащена безщітковим двигуном, працює від двох акумуляторів 18V і забезпечує швидкість обертання до 19500 об/хв.</p>
 <h2><strong>Переваги:</strong></h2>
 <ul>

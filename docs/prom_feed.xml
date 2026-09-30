@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-29 11:13">
+<yml_catalog date="2026-09-30 11:02">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1465,7 +1465,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvypkyvpuyfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapkypfuy-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvpuyfvyfuyfpy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Супер яскравий ліхтар Police BL-1831-T6. Усередині знаходиться дуже потужний світлодіод фірми СREE Т6. Потужність світлового потоку даного світлодіода 1200 lumen !!! </p>
 <p>Ліхтар BL-1831 T6 має 5 режимів роботи: Турбо, Середній, Економ рівні яскравості, режим Стробоскоп (аварійне миготливе світло) та режим SOS. Направивши ліхтар у небо у режимі Стробоскоп або SOS, сторонній спостерігач зможе побачити промінь світла у радіусі 1000 метрів. Перемикання режимів здійснюється підлогою натисканням силіконової кнопки включення, яка знаходиться біля основи головки ліхтаря.</p>
 <p>Масштабування від 1 до 2000х здійснюється легким рухом однієї руки. Фокус променя змінюється висуванням головної частини ліхтаря від основи перед. Фокусувальна лінза дає можливість змінювати кут розсіювання світла від широкої плями до вузькоспрямованого променя.</p>
@@ -2996,7 +2996,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="255331" available="true">
+      <offer id="255331" available="false">
         <name>Мультиварка-скороварка SUNTERA SPC-1100 1000 Вт, пароварка для кухні побутова, антипригарні рисоварки</name>
         <categoryId>606</categoryId>
         <price>2130</price>
@@ -3012,7 +3012,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3ucfviape4kcfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucfvik3ucjifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufvivkucvfiuc.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Шукаєте надійний прилад, який забезпечить швидке та зручне приготування страв для всієї родини? Мультиварка-скороварка з об&#8217;ємом чаші 6 літрів і потужністю 1000 Вт стане оптимальним рішенням для тих, хто цінує час і комфорт на кухні. Завдяки потужному механічному управлінню та 7 автоматичним програмам ви зможете легко опанувати приготування найрізноманітніших страв без зайвих зусиль.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>
@@ -3514,7 +3514,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="271867" available="false">
+      <offer id="271867" available="true">
         <name>Блендер MAGIO MG-642, блендер для дитячого пюре, блендер для дому, блендер для кухні, електричний</name>
         <categoryId>64301</categoryId>
         <price>2910</price>
@@ -3530,7 +3530,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cviukvaifsmakifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcuvifukvifvaif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cufivkucifv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Блендерний набір MG-642 дозволить вам урізноманітнити ваше меню і приготувати новий кулінарний шедевр. Потужність блендера складає 1500 Вт, що забезпечує тривалу роботу. ружна частина&nbsp; виконана&nbsp;з&nbsp;нержавіючої сталі,&nbsp;а&nbsp;ніж&nbsp;з<span>&nbsp;</span><strong>ТИТАНОВИМ&nbsp;покриттям</strong>&nbsp;&mdash;&nbsp;запорука стійкості до зносу&nbsp; ;блендера є<span>&nbsp;</span><strong>спіральний дріт&nbsp;</strong>який не буде заважати під час приготування.&nbsp;Ергономічна рукоятка&nbsp;з приємним покриттям SOFT TOUCH.&nbsp;Блендер може працювати на 13 перемикаються швидкостях. Перемикач знаходиться на рукоятці приладу, що дуже зручно. У комплект входить пластиковий мірний стакан, віночок для збивання і міні-комбайн з покриттям SOFT TOUCH з 3 насадками &nbsp;Насадки: нарізка, шатківниця і терка.&nbsp;Ці властивості у поєднанні з компактним дизайном роблять блендер&nbsp;незамінним помічником на&nbsp;вашій кухні.</p>
 <p><strong>4 в 1: подрібнювач, блендер, міксер, насадки для нарізки скибочками/шатківниці/тертки</strong></p>
 <ul>
@@ -3767,7 +3767,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="291300" available="true">
+      <offer id="291300" available="false">
         <name>М&apos;ясорубка електрична Rainberg RB-671 2200Вт, м&apos;ясорубка з насадками, електром&apos;ясорубка для шатківниці</name>
         <categoryId>63005</categoryId>
         <price>1790</price>
@@ -3783,7 +3783,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivakcfivafkuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jfivauv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрична м’ясорубка Rainberg RB-671 поєднує потужність і функціональність, забезпечуючи швидку та зручну переробку м’яса, риби, овочів і тіста. Ця модель створена для тих, хто цінує ефективність на кухні і прагне до багатофункціонального пристрою з надійним захистом і комфортною експлуатацією.</p>
 <h2>Чому користувачі обирають цю модель</h2>
 <ul>
@@ -5014,73 +5014,6 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="331459" available="false">
-        <name>Ваги кухонні електронні Magio MG-698, Ваги для зважування продуктів, Ваги харчові</name>
-        <categoryId>15230411</categoryId>
-        <price>480</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws97195</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/r3qwfr3ewsdfsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3werasdftrwedsf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/t4efdsgtesdfea.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwesdaftesfdasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwefsdgtrwefds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwasfdtrwesadfd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwesdfgewrsadfsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/4twesdgtesdgtesd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwqsadftr3ef.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcavpkeupyva-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Електронні кухонні ваги Magio MG-698 — це точне та надійне обладнання, призначене для комфортного вимірювання маси продуктів з максимальною навантаженням до 5 кг. Міцна скляна платформа забезпечує довговічність і стійкість до впливу хімічних речовин, а компактні розміри дозволяють використовувати ваги навіть на обмеженій за площею кухні.</p>
-<h2>Чим вирізняється ця модель</h2>
-<ul>
-<li>Плоска платформа з міцного скла розміром 15 х 20 см, стійка до кислот і лугів</li>
-<li>Точне зважування з кроком 1 грам і максимальною навантаженням до 5 кг</li>
-<li>Яскравий LCD-дисплей розміром 45 х 23 мм для зручного зчитування результатів</li>
-<li>Функція обнулення тари для точного вимірювання маси продуктів без врахування ваги посуду</li>
-<li>Вибір одиниць вимірювання для зручності використання</li>
-<li>Індикатор перевантаження та попередження про низький заряд батареї для безпеки і контролю роботи</li>
-<li>Автоматичне вимикання для економії енергії та збільшення терміну служби батарейки</li>
-<li>Живлення від однієї батарейки типу CR2032, що входить у комплект</li>
-</ul>
-<h2>Практичне використання</h2>
-<p>Електронні кухонні ваги Magio MG-698 створені для зручного і точного зважування найрізноманітніших продуктів — від дрібних інгредієнтів до великогабаритних і довгих товарів, таких як спагеті або великі упаковки. Завдяки функції обнулення тари, ви можете зважувати продукти прямо в посуді без додаткових розрахунків. Компактний дизайн і міцна скляна платформа роблять ваги не лише практичними, а й довговічними, а яскравий дисплей полегшує процес контролю ваги, навіть за умов недостатнього освітлення. Ваги ідеально підходять для активних кулінарів, які цінують точність і комфорт при приготуванні страв.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Тип: електронні кухонні ваги</li>
-<li>Конструкція: плоска платформа</li>
-<li>Матеріал платформи: міцне скло</li>
-<li>Розмір ваг: 15 х 20 см</li>
-<li>Максимальне навантаження: 5 кг</li>
-<li>Ціна поділу: 1 г</li>
-<li>Дисплей: LCD, розмір 45 х 23 мм</li>
-<li>Функції: вибір одиниць вимірювання, обнулення тари, індикатор перевантаження, індикатор низького заряду батареї, автоматичне вимкнення</li>
-<li>Тип елементів живлення: 1x CR2032 (у комплекті)</li>
-</ul>]]></description>
-        <keyword>Ваги кухонні електронні</keyword>
-        <keyword>Весы кухонные электронные</keyword>
-        <keyword>Ваги кухонні електронні Magio MG-698</keyword>
-        <keyword>Весы кухонные электронные Magio MG-698</keyword>
-        <keyword>Ваги для зважування продуктів</keyword>
-        <keyword>Кухонные весы для взвешивания продуктов</keyword>
-        <keyword>Ваги харчові</keyword>
-        <keyword>Весы пищевые</keyword>
-        <keyword>Ваги кухонні електронні Magio</keyword>
-        <keyword>Весы кухонные электронные Magio</keyword>
-        <keywords>Ваги кухонні електронні, Весы кухонные электронные, Ваги кухонні електронні Magio MG-698, Весы кухонные электронные Magio MG-698, Ваги для зважування продуктів, Кухонные весы для взвешивания продуктов, Ваги харчові, Весы пищевые, Ваги кухонні електронні Magio, Весы кухонные электронные Magio</keywords>
-        <param name="Производитель">Magio</param>
-        <param name="Материал корпуса">Стекло</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Вид кухонных весов">электронные</param>
-        <param name="Максимальный вес">5</param>
-        <param name="Конструкция тары">платформа</param>
-        <param name="Съемная тара">Нет</param>
-        <param name="Точность измерения">1</param>
-        <param name="Компенсация тары">Да</param>
-        <param name="Тип элементов питания">2 AA</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="331945" available="true">
         <name>Ручний міксер MAGIO MG-950 з двома віночками для кухні потужністю 300 Вт</name>
         <categoryId>612</categoryId>
@@ -5331,7 +5264,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="338703" available="false">
+      <offer id="338703" available="true">
         <name>Електрочайник MAGIO MG-494, чайник прозорий з підсвічуванням, чайник дисковий, електрочайник з підсвічуванням</name>
         <categoryId>640</categoryId>
         <price>2130</price>
@@ -5347,7 +5280,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4uiavpeuifavvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fiavapauiavfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfavpukafyay-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Електричний чайник MG-494 об&#8217;ємом 1,7 літра поєднує сучасний дизайн з функціональністю та безпекою у використанні. Корпус із прозорого термостійкого скла не тільки візуально привабливий, а й гарантує чистоту води без сторонніх присмаків і шкідливих речовин. М’який механізм відкривання кришки запобігає розбризкуванню конденсату, а прихований нагрівальний елемент забезпечує швидке та рівномірне нагрівання рідини. Завдяки вбудованій системі захисту чайник автоматично вимикається при закипанні або відсутності води, що виключає ризики перегріву та короткого замикання.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -5398,7 +5331,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="341937" available="true">
+      <offer id="341937" available="false">
         <name>Електробритва VGR V-331, шейвер бритва тример для стрижки вусів та бороди професійна чоловіча бритва</name>
         <categoryId>3314</categoryId>
         <price>540</price>
@@ -5414,7 +5347,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfrwsadfasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cuafivkcufavivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/puaivucavfiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Поттативна бритва V-331</strong><span>&nbsp;</span>&ndash; дорожній шейвер, який стане незаменним помічником у боротьбі за ідеальну зовнішність у будь-якому місці.</p>
 <p><strong>Основним</strong><span>&nbsp;</span>перевагою даного пристрою є не тільки те, що воно може працювати без мережі, але також те, що при використанні збудування драження &#038;ndash ; ідеальне рішення для чутливої шкіри.</p>
 <p><strong>Бритва</strong><span>&nbsp;</span> ідеально повторює кожен вигин обличчя, роблячи гоління бездоганним. Ви зможете використати її на обличчі, шиї і навіть на підборідді, забувши назавжди про те, що гоління – ndash; це не зручно. Такий шейвер легко брати із собою у поїздку, адже він компактний і чудово поміститься у будь-яку сумку. Дорожня бритва &ndash; найкраще рішення для сучасного чоловіка. Той, хто розуміється на ідеальному зовнішньому вигляді.</p>
@@ -5768,7 +5701,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ipivfpvpvfpivvpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/vifpivfuivvfaif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pivfpvfvpfiv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Сіткова електробритва VGR V-390</strong><span>&nbsp;</span>&#8211; Це ультратонкий, зручний, простий і стильний дизайн. Дана модель має поршневу сіткову систему гоління та розрахована для сухого гоління. Сіткова технологія добре підходить для чоловіків із чутливою шкірою обличчя. Завдяки використанню спеціальної сітки, шкіра менш травмується та не викликає подразнення.</p>
 <p>Модель може працювати як від мережі 100-240 Вт, так і від вбудованого акумулятора. Заряду батареї NiMh вистачає на 45 хвилин безперервної роботи пристрою, а повний цикл зарядки складе 8 годин. Пристрій має одну голючу голівку, яка добре повторює контури обличчя. Навіть у важких місцях бритва добре справляється зі своїм завданням. Змінні пластинчастий ніж і сіточка для гоління легко очищаються і замінюються без додаткових інструментів.</p>
 <p>Вбудований висувний триммер. Завдяки цьому пристосуванню Ви без зайвих зусиль можете підстригати та деталізувати бороду та бакенбарди, щоб надати акуратного вигляду та завершити процедуру догляду за волоссям на обличчі. Точні сталеві леза тримера створюють чіткі прямі лінії і рівномірно підрівнюють найгустіше волосся. Леза не іржавіють, запобігаючи подразненню шкіри. Зручне бездротове підключення дозволяє використовувати шейвер у будь-якому місці навіть від повербанка або комп&#8217;ютера. У комплекті постачається зарядний USB Type-C шнур.</p>
@@ -6029,7 +5962,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/herdfbhdfsgrgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgrsgesaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfhrdsgrsafe.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>VGR V-106 &#8211; це професійний комплект для догляду за тілом, який пропонує функціональність 6 в 1 та вражає точністю свого леза, виготовленого з високоякісної нержавіючої сталі. Корпус має світлодіодний дисплей, що відображає рівень заряду у відсотках.</p>
 <p><strong>Важливими компонентами цього набору &#8220;VGR V-106&#8221; є:</strong></p>
 <ul>
@@ -6745,7 +6678,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfiavpuafvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekaifvpuafvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eukivaukfivafivf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Стильна і надпотужна<strong>&nbsp;праска MG-531</strong>&nbsp;навчить вас любити прасування. Потужність праски &ndash; 3000 Вт, що забезпечує швидке і ефективне проглажування речей. Праска оснащена необхідною сучасному суспільству функцією автоматичного вимкнення. Прилад автоматично відключиться, якщо залишився без нагляду. Висококласна керамічна підошва гарантує ідеальне ковзання по поверхні тканини, а продумана форма і спеціальні отвори &ndash; рівномірний розподіл пари для легкого розгладження складок. Потужний паровий удар дозволить подужати найскладніші місця, розгладити сильно зім&rsquo;яті та пересохлі речі. Функція вертикального відпарювання допоможе впоратися зі шторами або пальто, не знімаючи з вішалки, а також ідеально підходить для делікатних тканин. Система &ldquo;Антикрапля&rdquo; запобігатиме потраплянню води на одяг, яка при низькій температурі не встигає перетворитися в пар. Вона позбавить Вас від постійних розводів на одязі! Для того щоб зволожити і поліпшити якість прасування, праска оснащена функцією розбризкування води.</p>
 <ul font-size:="" open="">
 <li>
@@ -7592,7 +7525,7 @@
         <param name="Состояние">Состояние</param>
         <param name="Тип">Термопот</param>
       </offer>
-      <offer id="455439" available="false">
+      <offer id="455439" available="true">
         <name>М&apos;ясорубка MAGIO MG-271 Premium Line, Електрична м&apos;ясорубка з насадками, Електром&apos;ясорубка для шатківниці</name>
         <categoryId>63005</categoryId>
         <price>5830</price>
@@ -7608,7 +7541,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4wesgsdgfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/regfdgtsgsdfdsfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesdgefsdesfdafsdafds.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Мʼясорубка MG-271 з потужністю 2600 Вт — це ефективне та універсальне рішення для подрібнення мʼяса, риби, овочів і навіть ягід. Завдяки трьом режимам роботи та двом швидкостям ви легко впораєтеся з різними інгредієнтами, включаючи жорсткі мʼясні волокна та жили, забезпечуючи швидке і рівномірне перемелювання продуктів. Зручна завантажувальна платформа запобігає випадінню дрібних шматочків, що робить процес підготовки фаршу максимально комфортним і акуратним.</p>
 <h2>Чим виділяється ця модель</h2>
 <ul>
@@ -9844,7 +9777,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupivarkavipekp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4eupivarkvaireiprva.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pvifpvifpivpifp.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроритва VGR V-352</strong><span>&nbsp;</span>&ndash; це інструмент, який ідеально підходить як для гоління, так і для стрижки волосся &laquo;під нуль&raquo;. Незамінна річ для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, приголомшливій ергономіці та чудовому функціоналі.</p>
 <p>Особливістю шейвера є наявність двох сіток, що голять, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Сітки, що голять, рухливі, що дозволить не тільки регулювати момент натискання, але й забезпечить чітке повторення контурів обличчя або голови для максимально якісного результату. Завдяки сучасному мотору із частотою коливань 7500 об/хв, зріз волосся буде дуже чистим.</p>
 <p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та є гіпоалергенними. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі також можуть бути замінені.</p>
@@ -12104,7 +12037,7 @@
         <param name="Состояние">Новое</param>
         <param name="Материал ручки">Пластик</param>
       </offer>
-      <offer id="613148" available="true">
+      <offer id="613148" available="false">
         <name>Тостер RAF R.503, 1500 Вт, 4 тости, 6 рівнів підсмажування, функції розморожування та підігріву</name>
         <categoryId>639</categoryId>
         <price>1510</price>
@@ -12120,7 +12053,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvayprvyaprkvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvayrvarkvyvkv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkuvayravykvypyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Тостер<span>&nbsp;</span><strong>RAF R.503</strong><span>&nbsp;</span>&ndash; це універсальний помічник для швидкого та зручного приготування ідеальних тостів. Завдяки <span>&nbsp;</span><strong>потужності 1500 Вт</strong><span>&nbsp;</span>і можливості готувати<span>&nbsp;</span><strong>4 тости одночасно</strong>, цей прилад стане незамінним рішенням для сімейного сніданку або частування гостей.</p>
 <p>Пристрій оснащений<span>&nbsp;</span><strong>6-рівневим регулюванням ступеня підсмажування</strong>, що дозволяє вибрати оптимальний рівень рум&#8217;янцю &ndash; від легкого золотистого відтінку до насиченого хрусткого шару. Тостер також підтримує функцію розморожування для приготування хліба прямо з морозильної камери і функцію підігріву, яка збереже тости тепла.</p>
 <p>Корпус пристрою виготовлений з<span>&nbsp;</span><strong>міцного пластику та металу</strong>, що забезпечує довговічність та стильний зовнішній вигляд. Для безпечного використання тостер має <span>&nbsp;</span><strong>автоматичне відключення</strong>, а<span>&nbsp;</span><strong>знімний піддон для крихт</strong><span>&nbsp;</span>спрощує догляд за приладом.</p>
@@ -14385,7 +14318,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ravivavipvivif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvpivfpvpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvpvifpiyaf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>М&#8217;ясорубка ViLgrand V304-SMG дозволяє перетворювати на фарш будь-які види м&#8217;яса завдяки неймовірній потужності 3000 Вт. Корпус, лоток та кришка лотка даного приладу виготовлені з нержавіючої сталі та міцного пластику, що відрізняються високою зносостійкістю.</p>
 <p>М&#8217;ясорубка оснащена функцією реверсу (зворотного ходу) із захистом від випадкового включення, трьома перфорованими дисками для створення фаршу різної консистенції, включаючи ковбасну (кускову), а також надійну систему, що захищає двигун від перегріву. У стандартній комплектації є насадки для кебе та приготування ковбасних виробів.</p>
 <p>М&#8217;ясорубка обладнана збільшеною вихідною горловиною діаметром 60 мм для більш продуктивної роботи та скорочення робочого часу, необхідного на переробку м&#8217;яса.</p>
@@ -14445,7 +14378,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvaifpvifp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipvipviu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kppvifpipvif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тостер Dario DT1007_beige — це інноваційний прилад, який значно розширює можливості приготування тостів у домашніх умовах. Завдяки чітко налагодженим технічним рішенням він перетворює процес сніданку чи перекусу на зручний і швидкий ритуал, зберігаючи смак і свіжість хліба. Цей пристрій спроектовано з урахуванням потреб сучасного користувача, що цінує комфорт і універсальність у побуті.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -14508,7 +14441,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipifpviaviaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvpvifpipvifpivfpvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapvivpipvifpvifpi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Тостери&nbsp;</span><strong>VILGRAND<span>&nbsp;</span></strong><span>з унікальним малюнком на тостах перетворюють сніданок на справжнє диво для ваших дітей. Уявіть радість та здивування в очах вашої дитини, коли на її тості з&#8217;являється веселий сонячний малюнок! Важіль для підйому забезпечує легкість вилучення тосту, а відсіки ідеально підходять для підсмажування улюблених бубликів або скибочок хліба. Завдяки цьому щоразу ви отримуєте ідеально підрум&#8217;янені та смачні тости.</span></p>
 <p><span>Управління тостером VILGRAND максимально зручне та інтуїтивно зрозуміле. Крім того, сім режимів обсмажування дозволяють вибрати оптимальний варіант для різних типів хліба. Потужність 750 Вт забезпечує швидке і ефективне приготування, а функції автовідключення, підігріву, кнопки стоп і підйому маленьких тостів роблять використання тостера ще зручнішим і безпечнішим. Тостери VILGRAND з малюнком &#8211; це не просто кухонна техніка, це спосіб додати радість та веселощі у повсякденні сніданки вашої родини.</span></p>
 <p><strong>Тостер Vilgrand VT0722P green</strong></p>
@@ -15691,7 +15624,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="687239" available="false">
+      <offer id="687239" available="true">
         <name>Фен Magio MG-163</name>
         <categoryId>617</categoryId>
         <price>690</price>
@@ -15707,7 +15640,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reivprvppifpkv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revairpvrr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/reviarvarvikv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Професійний фен з потужністю 2000 Вт — це інструмент, який допоможе ефективно та швидко укласти волосся з урахуванням ваших індивідуальних потреб. Завдяки трьом режимам температури ви легко підберете оптимальний нагрів для різних типів волосся, зменшуючи ризик пошкоджень. Вбудований концентратор спрямовує потік повітря для точного моделювання зачіски, а вбудований захист від перегріву забезпечує безпеку використання навіть при довготривалій роботі.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -18222,7 +18155,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cfivkcvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvifvkcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcfvyaukcvfy-1.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Кухонні ваги MG-695</strong>&nbsp;колір металік &mdash; безпрограшне рішення, яке стане стильним акцентом в інтер&#8217;єрі вашої кухні.</p>
 <p>Чаша та корпус ваг виконані з нержавіючої сталі &mdash; запорука стійкості до зносу та довговічності. Ваги оснащені індикатором навантаження &mdash; при перевищенні допустимого навантаження на дисплеї з&#8217;являється символьне попередження. А функція тарокомпенсації підвищує точність вимірювання кухонної ваги, вона дозволяє не враховувати в результатах зважування масу посуду, в якому знаходяться продукти.</p>
 <p>Точність зважування, цифровий рідкокристалічний дисплей та дизайн органічно впишеться у будь-який кухонний інтер&#8217;єр. Автоматичне вимкнення&nbsp;відключає живлення ваги або&nbsp;переводить їх у режим показу часу.</p>
@@ -18718,7 +18651,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="232309" available="false">
+      <offer id="232309" available="true">
         <name>Праска Magio MG-134 2400 Вт, парова праска-очисник, праска електрична парова Beige</name>
         <categoryId>609</categoryId>
         <price>1230</price>
@@ -18733,8 +18666,8 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fyvpeufyvaufy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcjayvapekuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfyvaekcfau.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kjcfyvk3cjuf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcyvakucfyv.jpg</picture>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Праска Magio MG-134 BR — ефективне рішення для комфортного та якісного прасування будь-яких тканин. Оснащений керамічною підошвою, цей прилад забезпечує бережний та рівномірний вплив на одяг, включаючи делікатні матеріали. Завдяки функції вертикального відпарювання та потужному паровому удару ви легко видалите навіть найскладніші складки, не пошкоджуючи тканину. Інноваційна система самоочищення та функція «Антикрапля» забезпечують довговічність пристрою та зручність використання без ризику протікання води та накопичення накипу.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -20032,7 +19965,7 @@
         <param name="Тип миксера">Стационарный</param>
         <param name="Страна производитель">Китай</param>
       </offer>
-      <offer id="302976" available="true">
+      <offer id="302976" available="false">
         <name>Фен Magio MG-169, потужний універсальний фен, повітряний стайлер для волосся, фен з іонізацією</name>
         <categoryId>617</categoryId>
         <price>1030</price>
@@ -20048,7 +19981,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/eASDRDADS.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/easdferfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwasdfedad.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span>Фен MAGIO MG-169 &mdash; це ідеальний фен, що зробить Ваше волосся ще більш шовквістим, доглянутим і красивим. Ця модель має високу потужність &mdash; 2600 Вт, тому укладання з його допомогою має бути швидким і легким.</span></p>
 <p><span>Корпус фена зроблений з якісного термостійкого пластику, а завдяки покриттю Soft Touch рука не ковзає, що робить використання ще комфортнішим. При цьому є можливість регулювання трьох температурних режимів та двох швидкостей повітряного потоку, що дозволяє підбирати необхідні режими роботи під кожне укладання та тип волосся. Фен MAGIO MG-169 таким чином дбає про них і не дає пересушити.</span></p>
 <p><span>Подача холодного повітря дозволить закріпити зачіску та зробити її більш стійкою.</span></p>
@@ -20224,6 +20157,72 @@
         <param name="Состояние">Новое</param>
         <param name="Тип лампы">Светодиодная</param>
         <param name="Производитель">Без бренда</param>
+      </offer>
+      <offer id="331459" available="true">
+        <name>Ваги кухонні електронні Magio MG-698, Ваги для зважування продуктів, Ваги харчові</name>
+        <categoryId>15230411</categoryId>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <vendorCode>ws97195</vendorCode>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/r3qwfr3ewsdfsd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3werasdftrwedsf.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/t4efdsgtesdfea.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwesdaftesfdasd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/rwefsdgtrwefds.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3qwasfdtrwesadfd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/3rwesdfgewrsadfsd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/4twesdgtesdgtesd.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcavpkeupyva-1.jpg</picture>
+        <quantity_in_stock>5</quantity_in_stock>
+        <description><![CDATA[<p>Електронні кухонні ваги Magio MG-698 — це точне та надійне обладнання, призначене для комфортного вимірювання маси продуктів з максимальною навантаженням до 5 кг. Міцна скляна платформа забезпечує довговічність і стійкість до впливу хімічних речовин, а компактні розміри дозволяють використовувати ваги навіть на обмеженій за площею кухні.</p>
+<h2>Чим вирізняється ця модель</h2>
+<ul>
+<li>Плоска платформа з міцного скла розміром 15 х 20 см, стійка до кислот і лугів</li>
+<li>Точне зважування з кроком 1 грам і максимальною навантаженням до 5 кг</li>
+<li>Яскравий LCD-дисплей розміром 45 х 23 мм для зручного зчитування результатів</li>
+<li>Функція обнулення тари для точного вимірювання маси продуктів без врахування ваги посуду</li>
+<li>Вибір одиниць вимірювання для зручності використання</li>
+<li>Індикатор перевантаження та попередження про низький заряд батареї для безпеки і контролю роботи</li>
+<li>Автоматичне вимикання для економії енергії та збільшення терміну служби батарейки</li>
+<li>Живлення від однієї батарейки типу CR2032, що входить у комплект</li>
+</ul>
+<h2>Практичне використання</h2>
+<p>Електронні кухонні ваги Magio MG-698 створені для зручного і точного зважування найрізноманітніших продуктів — від дрібних інгредієнтів до великогабаритних і довгих товарів, таких як спагеті або великі упаковки. Завдяки функції обнулення тари, ви можете зважувати продукти прямо в посуді без додаткових розрахунків. Компактний дизайн і міцна скляна платформа роблять ваги не лише практичними, а й довговічними, а яскравий дисплей полегшує процес контролю ваги, навіть за умов недостатнього освітлення. Ваги ідеально підходять для активних кулінарів, які цінують точність і комфорт при приготуванні страв.</p>
+<h2>Характеристики</h2>
+<ul>
+<li>Тип: електронні кухонні ваги</li>
+<li>Конструкція: плоска платформа</li>
+<li>Матеріал платформи: міцне скло</li>
+<li>Розмір ваг: 15 х 20 см</li>
+<li>Максимальне навантаження: 5 кг</li>
+<li>Ціна поділу: 1 г</li>
+<li>Дисплей: LCD, розмір 45 х 23 мм</li>
+<li>Функції: вибір одиниць вимірювання, обнулення тари, індикатор перевантаження, індикатор низького заряду батареї, автоматичне вимкнення</li>
+<li>Тип елементів живлення: 1x CR2032 (у комплекті)</li>
+</ul>]]></description>
+        <keyword>Ваги кухонні електронні</keyword>
+        <keyword>Весы кухонные электронные</keyword>
+        <keyword>Ваги кухонні електронні Magio MG-698</keyword>
+        <keyword>Весы кухонные электронные Magio MG-698</keyword>
+        <keyword>Ваги для зважування продуктів</keyword>
+        <keyword>Кухонные весы для взвешивания продуктов</keyword>
+        <keyword>Ваги харчові</keyword>
+        <keyword>Весы пищевые</keyword>
+        <keyword>Ваги кухонні електронні Magio</keyword>
+        <keyword>Весы кухонные электронные Magio</keyword>
+        <keywords>Ваги кухонні електронні, Весы кухонные электронные, Ваги кухонні електронні Magio MG-698, Весы кухонные электронные Magio MG-698, Ваги для зважування продуктів, Кухонные весы для взвешивания продуктов, Ваги харчові, Весы пищевые, Ваги кухонні електронні Magio, Весы кухонные электронные Magio</keywords>
+        <param name="Производитель">Magio</param>
+        <param name="Материал корпуса">Стекло</param>
+        <param name="Цвет корпуса">Черный</param>
+        <param name="Страна производитель">Китай</param>
+        <param name="Вид кухонных весов">электронные</param>
+        <param name="Максимальный вес">5</param>
+        <param name="Конструкция тары">платформа</param>
+        <param name="Съемная тара">Нет</param>
+        <param name="Точность измерения">1</param>
+        <param name="Компенсация тары">Да</param>
+        <param name="Тип элементов питания">2 AA</param>
+        <param name="Состояние">Новое</param>
       </offer>
       <offer id="332489" available="true">
         <name>Пилосос Rainberg RB-658TB колбовий з регулятором потужності та турбощіткою 5L - 5200 Вт, пилосос домашній</name>
@@ -20961,7 +20960,7 @@
         <param name="Ножницы кухонные">1 шт.</param>
         <param name="Овощной нож">1 шт.</param>
       </offer>
-      <offer id="398887" available="false">
+      <offer id="398887" available="true">
         <name>Праска з керамічною підошвою Magio MG-534, парова праска-очисник, праска електрична парова</name>
         <categoryId>609</categoryId>
         <price>770</price>
@@ -20969,15 +20968,15 @@
         <vendorCode>ws32594</vendorCode>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyvapeukafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuyavukayvfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvfpekucayfyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvpekuafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3cfyvafkuafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3wadffrefads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/safddfseweasfdrdsfads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ekcuayuayvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4kuayvpeucapyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/n5e4cupykeavy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/ne4uypkeuyvay.jpg</picture>
+        <picture>https://www.websklad.biz.ua/wp-content/uploads/4cukyvapkevya.jpg</picture>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Праска з керамічною підошвою Magio (MG-534)</strong></p>
 <ul>
 <li>Потужність: 2200 Вт</li>
@@ -21020,7 +21019,7 @@
         <param name="Функция автоотключения">Да</param>
         <param name="Материал подошвы утюга">керамика</param>
       </offer>
-      <offer id="424082" available="true">
+      <offer id="424082" available="false">
         <name>Водостійкий тактичний годинник SKMEI 1881GDWT / Годинник спортивний / Водонепроникний чоловічий годинник</name>
         <categoryId>151105</categoryId>
         <price>600</price>
@@ -21036,7 +21035,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4kvfikrkvaipkf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euiavpavrpukiru.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuifvrrkvfrkv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1647BK — це стильний аксесуар у класичному ретро-дизайні з сучасною функціональністю. Його компактний корпус у поєднанні з металевим браслетом чорного кольору виглядає стримано та елегантно, що робить цю модель чудовим вибором як для офісного стилю, так і для повсякденного носіння. Завдяки зручному цифровому дисплею і підсвітці, годинник залишається інформативним навіть у темну пору доби.</p>
 <p>Модель SKMEI 1647BK оснащена всіма базовими функціями: відображення часу, дати, дня тижня, будильник, секундомір, підсвітка дисплею та формат часу 12/24 год. Годинник має водозахист, що дозволяє безперешкодно використовувати його у щоденних умовах. Це ідеальний вибір для тих, хто цінує простоту, функціональність і стиль у мінімалістичному форматі.</p>
 <h2>Характеристики:</h2>
@@ -22573,7 +22572,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="565536" available="true">
+      <offer id="565536" available="false">
         <name>Налобний ліхтар з білим і червоним світлом COB компактний і яскравий</name>
         <categoryId>150410</categoryId>
         <price>300</price>
@@ -22589,7 +22588,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuayvpyvavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3kuayvpfyay.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyvappuyvffy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар CY-2027-B-COB(білий+червоний) поєднує інноваційні технології освітлення з ергономічним дизайном, що забезпечує комфорт і ефективність у будь-яких умовах. Завдяки надійному COB-світлодіоду ліхтар дає рівномірне та яскраве світло з низьким енергоспоживанням. Два режими – біле та червоне світло – дозволяють оптимально налаштувати освітлення під різні завдання, включаючи активний відпочинок, роботу чи повсякденні справи. Компактність і легкість конструкції роблять цей пристрій зручним для тривалого використання, а практичні опції значно підвищують функціональність у будь-яких ситуаціях.</p>
 <h2>Чому цей товар вартий інвестицій</h2>
 <ul>
@@ -22787,7 +22786,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="585742" available="true">
+      <offer id="585742" available="false">
         <name>Електрична турка для кави Marado MA-1625, Побутова турка, Бюджетна турка. Колір: коричневий</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
@@ -22802,7 +22801,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvypvyrkry.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/varkvypvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/krvakvayrkyvreky.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу&#8230; і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) &#8211; один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву &#8211; для вас та ваших близьких!</p>
@@ -24774,7 +24773,7 @@
         <param name="Тип блендера">Погружной</param>
         <param name="Тип управления">Механическое</param>
       </offer>
-      <offer id="686801" available="false">
+      <offer id="686801" available="true">
         <name>Хлібопічка DARIO DBM 1065</name>
         <categoryId>605</categoryId>
         <price>3360</price>
@@ -24790,7 +24789,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfsgdsgggsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvairvirppifpui.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kivpkivpfpi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Хлібопічка DARIO DBM 1065 black &#8211; надійний помічник у створенні ароматних домашніх хлібів, булочок та інших смакот.</p>
 <p>Завдяки сучасному дизайну та функціональності, ця модель стане прикрасою вашої кухні.</p>
 <h2><strong>Основні переваги:</strong></h2>
@@ -24860,7 +24859,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revyravyrvrkvryv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/revayravrvvrrkvr.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/erarvyrvkrkvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Завдяки сучасному дизайну та функціональності<strong>Vilgrand VBM6091_white,</strong>ця модель стане прикрасою вашої кухні.</p>
 <h2><strong>Основні переваги:</strong></h2>
 <ul>
@@ -25367,7 +25366,7 @@
         <param name="Функціональні особливості">Зарядка от USB</param>
         <param name="Тип двигуна">Роторный</param>
       </offer>
-      <offer id="692373" available="true">
+      <offer id="692373" available="false">
         <name>Фен для волосся дорожній VGR V-432 GREEN, з концентратором 1000Вт, іонізація та 2 режими. Колір: зелений</name>
         <categoryId>617</categoryId>
         <price>570</price>
@@ -25383,7 +25382,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htsdfhrdshd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jrthshdrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/trhdhdshsdh.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Дорожній фен VGR V-432 &#8211; це стильний та функціональний інструмент для укладання волосся, створений для досягнення професійних результатів не виходячи з дому. Він<strong>обладнаний складною ручкою</strong>, що робить його компактним і зручним для зберігання та транспортування.</p>
 <p>З потужністю 1000 Вт та концентратором фен<strong>забезпечує швидке сушіння волосся</strong>, надання їм об&#8217;єму без перегрівання пасм. Два режими роботи дозволяють вибрати оптимальну температуру та швидкість повітряного потоку залежно від типу волосся та бажаного результату.</p>
 <h2><strong>Особливості:</strong></h2>
@@ -26108,7 +26107,7 @@
         <param name="Тип блендера">Погружной</param>
         <param name="Тип управления">Механическое</param>
       </offer>
-      <offer id="4988" available="false">
+      <offer id="4988" available="true">
         <name>Кавомолка MAGIO MG-205 200 Вт, Кавомолка побутова електрична, Портативна кавомолка, Подрібнювач кави</name>
         <categoryId>6300401</categoryId>
         <price>750</price>
@@ -26124,7 +26123,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4euayvpyvfayfvaauf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfayvkfauvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euyavuayvfayvyav.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Кавомолка Magio МG-205 Кавомолка &mdash; це незамінний пристрій на будь-якій кухні, особливо для любителів кави. Безперечним фактом є те, що кавові зерна краще зберігають свій смак у цілісному стані, а для заварювання напою потрібні мелені зерна. Для того, щоб завжди мати можливість насолоджуватися кавою зі свіжозмелених зерен.</p>
 <p>Кавомолка MAGIO MG-205 має компактні габарити і не займе багато місця, а також є можливість сховати мережевий шнур у корпус кавомолки. У кавомолці MAGIO MG-205 можна перемолоти одразу до 70 г зерен. Кавомолка має гострі леза з нержавіючої сталі, а також прозору кришку, через яку видно ступінь помелу зерен.</p>
 <p>Особливості кавомолки: прозора кришка. Корпус та леза з нержавіючої сталі. Система безпеки: експлуатація можлива лише із закритою кришкою. Відсік для зберігання шнура. Завдяки кавомолці Magio МG-205 Ви зможете щоранку радувати себе улюбленими кавовими напоями.</p>
@@ -26248,7 +26247,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdfgdsgtdsfgrsdas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4esdfaersdfaezvfda.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3waersaetfasdaes.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Тример для носа та вух GEMEI GM3001 2 в 1 добре виконує свої безпосередні функції. Він дозволяє за максимально короткий період усунути небажане волосся. З його допомогою можна усунути волосся на скронях або зробити окантовку потилиці. Пристрій має дві насадки, які дозволять створити унікальний образ. Стайлер має невеликі розміри, що дозволяє брати його із собою.</p>
 <p>Стайлер для носа та вух GEMEI GM3001&nbsp;2 в 1 має вбудований акумулятор, який дозволяє користуватися ним без підзарядки. Як тільки він розрядиться, можливо його підзарядити за допомогою кабелю. У свою чергу, він працює від електромережі. Це дозволяє використовувати його в будь-якому місці, а заряджати там, де є розетка.</p>
 <p>Тример для носа та вух GEMEI GM3001&nbsp;2 в 1 має леза, які виготовлені з нержавіючої сталі. Вона не піддається вологи, а це означає, що пристрій прослужить вам довгі роки. Його можна почистити за допомогою спеціальної щіточки, яка йде разом із пристроєм.</p>
@@ -27769,7 +27768,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="298838" available="true">
+      <offer id="298838" available="false">
         <name>Налобний ліхтар X-Balog BL-T07B-P90, потужний тактичний ліхтарик налобний, водонепроникний ліхтар</name>
         <categoryId>150410</categoryId>
         <price>530</price>
@@ -27785,7 +27784,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euavifvifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/evpkeavfvvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/fiapuifvavi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Налобний ліхтарик X-Balog BL-T07B-P90</strong><span>&nbsp;</span>&#8211; налобний акумуляторний ліхтар з лінзою для фокусування світлового потоку. Має три режими роботи: яскравий, економний та стробоскоп.</p>
 <p>Перевагою є міцний, стійкий до ударів, пошкоджень та вологи, анодований алюмінієвий корпус, який до того ж досить легкий, щоб тримати на голові без додаткового дискомфорту.</p>
 <p>Робота налобного ліхтаря виконується за рахунок акумуляторів, що заряджаються, які можна підзарядити як від прикурювача, так і мережі.</p>
@@ -28890,7 +28889,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/y4rgdsfshrgdsfgdrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/t4egfdsgrfg.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ersgfdxdfhrdgrd.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>SKMEI 2109CMGN — це годинник, що створений для тих, хто не боїться виділятися. Його камуфляжний корпус і ремінець роблять цей аксесуар ідеальним для поціновувачів військового стилю або активного способу життя. Завдяки унікальному дизайну й поєднанню аналогового та цифрового дисплеїв, модель виглядає сучасно та функціонально.</p>
 <p>Три окремі цифрові віконця дозволяють слідкувати за кількома часовими зонами одночасно, а водозахист до 50 метрів надає впевненості навіть у складних погодних умовах. Це ідеальний вибір для мандрівників, туристів або всіх, хто цінує надійність та універсальність в одному аксесуарі.</p>
 <h2>Характеристики:</h2>
@@ -32302,7 +32301,7 @@
         <keyword>Кухонный комбайн</keyword>
         <keywords>Кухонний комбайн 3в1, Кухонный комбайн 3в1, Кухонний комбайн 3в1 Crownberg CB-3409, Кухонный комбайн 3в1 Crownberg CB-3409, Кухонний комбайн 3в1 Crownberg, Кухонный комбайн 3в1 Crownberg, Кухонний комбайн, Кухонный комбайн</keywords>
       </offer>
-      <offer id="769208" available="true">
+      <offer id="769208" available="false">
         <name>Контейнерний пилосос Crownberg CB-0115 3000Вт Побутовий безмішковий колбовий з контейнером 3.5л</name>
         <categoryId>608</categoryId>
         <price>3360</price>
@@ -32318,7 +32317,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrtedfsgsdagsgsagsgssage.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htrfdgsdadgassgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htfsfgfdsagsagasgea.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Crownberg CB-0115 &mdash; це сучасний пилосос нового покоління, створений для тих, хто цінує ефективність та комфорт у побуті. Завдяки високій потужності та продуманим деталям, він справляється з прибиранням будь-якого рівня складності, будь то м&#8217;які килими або тверді покриття. Цей пилосос стане вашим незамінним помічником, роблячи процес збирання простим і приємним.</p>
 <p>Основна перевага Crownberg CB-0115 &mdash; його інноваційна система циклонної фільтрації, яка не тільки забезпечує ідеальну чистоту, а й утримує найдрібніші частки пилу. Місткий контейнер для сміття дозволяє рідше займатися його очищенням, а ергономічна конструкція полегшує зберігання та переміщення пристрою.</p>
 <h2><strong>Переваги:</strong></h2>
@@ -33678,7 +33677,7 @@
         <param name="Тип кофемолки">Ножевая</param>
         <param name="Тип привода">Электропривод</param>
       </offer>
-      <offer id="255316" available="false">
+      <offer id="255316" available="true">
         <name>Плита електрична Suntera DP-1925, подвійна електроплита, потужна настільна електроплита Black</name>
         <categoryId>641</categoryId>
         <price>1030</price>
@@ -33689,7 +33688,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 <h2>Раціональні причини обрати</h2>
 <ul>
@@ -34501,57 +34500,6 @@
         <param name="Колір">Чорний</param>
         <param name="Потужність">120 Вт</param>
       </offer>
-      <offer id="708110" available="false">
-        <name>Ліхтар налобний акумуляторний KX-302-LED+2COB</name>
-        <categoryId>150410</categoryId>
-        <price>300</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws18688</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpaivfpifpkifrkif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaiavari.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pravaivfi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/uifaufivpkifpkifirk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/avichipfivrpkfp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvifaaf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reavipviafi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Акумуляторний налобний ліхтар</strong><strong>Bailong KX-302&nbsp;</strong>надійне та зручне джерело світла для вашої комфортної та безпечної активності в умовах недостатнього освітлення.</p>
-<p><strong>Налобний ліхтар</strong> &#8211; це портативне та зручне джерело світла, яке кріпиться безпосередньо на лоб і дозволяє висвітлювати необхідний простір, не займаючи рук.</p>
-<p>Такі ліхтарі потрібні рятувальникам, альпіністам, туристам або просто в побутових умовах. Вони також потрібні, якщо ви зібралися на рибалку, у похід або хочете обстежити, наприклад, печеру.</p>
-<h2><strong>Особливості:</strong></h2>
-<ul>
-<li>Виготовлений з легкого та міцного пластику;</li>
-<li>Має регульоване кріплення на голову;</li>
-<li>Заряджання здійснюється за допомогою кабелю USB &#8211; Type-C;</li>
-<li>Джерелом живлення є акумулятор.,</li>
-</ul>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Тип пристрою: Налобний</li>
-<li>Зарядне пристрій: USB</li>
-<li>Тип діода: LED+COB</li>
-<li>Кількість діодів:&nbsp;3 (LED+2COB)</li>
-<li>Кількість режимів роботи: 3</li>
-<li>Матеріал: Пластик</li>
-<li>Живлення: акумулятор&nbsp;18650</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Ліхтар&nbsp;<strong>Bailong KX-302</strong></li>
-<li>Регульоване кріплення на голову</li>
-<li>1 акумулятор 18650</li>
-<li>Кабель USB &#8211; Type-C</li>
-</ul>]]></description>
-        <keyword>Ліхтар налобний акумуляторний</keyword>
-        <keyword>Фонарь налобный аккумуляторный</keyword>
-        <keyword>Ліхтар налобний акумуляторний KX-302-LED+2COB</keyword>
-        <keyword>Фонарь налобный аккумуляторный KX-302-LED+2COB</keyword>
-        <keyword>Ліхтар налобний</keyword>
-        <keyword>Фонарь налобный</keyword>
-        <keyword>Ліхтар</keyword>
-        <keyword>Фонарь</keyword>
-        <keywords>Ліхтар налобний акумуляторний, Фонарь налобный аккумуляторный, Ліхтар налобний акумуляторний KX-302-LED+2COB, Фонарь налобный аккумуляторный KX-302-LED+2COB, Ліхтар налобний, Фонарь налобный, Ліхтар, Фонарь</keywords>
-      </offer>
       <offer id="711307" available="true">
         <name>Електрочайник SeaBreeze SB-013 1.8л 1500Вт</name>
         <categoryId>640</categoryId>
@@ -35105,61 +35053,6 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="516148" available="false">
-        <name>Велосипедний ліхтар задній зігнутий WQB-514, Велосипедний ліхтар з функцією мигалки</name>
-        <categoryId>342402</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws78987</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kykpryaavyfvypyfuk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ayfvpukfeuc4.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/upyvafkurakykpfku.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/uypvakcyrakrfuk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cuyarkyfepypyfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvpyfepuyffpuf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpaknypfkyakfp.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Велосипедний ліхтар задній габаритний призначений для позначення велосипеда вночі на трасі. Забезпечує безпеку велосипедиста у темний час доби. Велосипедний ліхтар можна також використовувати і для освітлення дороги, білий СОВ світлодіод має достатню яскравість для цього завдання.</p>
-<p>Велосипедний ліхтар оснащений вбудованим літій-іонним акумулятором, який забезпечує тривалий час роботи без необхідності частого заряджання. Заряджання здійснюється через сучасний роз&#8217;єм Type-C, що прискорює процес заряджання та підвищує зручність використання. Одного повного заряду вистачає на кілька годин роботи в режимі постійного освітлення.</p>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Корпус ліхтаря:&nbsp; АВС пластик.</li>
-<li>Живлення:&nbsp;&nbsp;Li-Ion акумулятор</li>
-<li>Заряджання: від Type-C</li>
-<li>Колір &nbsp;ліхтаря: червоний</li>
-<li>Тривалість роботи: 3 годин</li>
-<li>Яскравість: 270 лм</li>
-<li>Акумулятор: 450 мАг</li>
-<li>Вага: 41 г</li>
-<li>Розмір: 6,4&#215;3,9&#215;2,9 см</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Ліхтар з кріпленням&nbsp;</li>
-<li>Кабель Type-C</li>
-</ul>]]></description>
-        <keyword>Велосипедний ліхтар задній</keyword>
-        <keyword>Велосипедный фонарь задний</keyword>
-        <keyword>Велосипедний ліхтар задній зігнутий WQB-514</keyword>
-        <keyword>Велосипедный фонарь задний изогнутый WQB-514</keyword>
-        <keyword>Велосипедний ліхтар з функцією мигалки</keyword>
-        <keyword>Велосипедный фонарь с функцией мигалки</keyword>
-        <keyword>Велосипедний ліхтар задній зігнутий</keyword>
-        <keyword>Велосипедный фонарь задний изогнутый</keyword>
-        <keyword>Велосипедний ліхтар</keyword>
-        <keyword>Велосипедный фонарь</keyword>
-        <keywords>Велосипедний ліхтар задній, Велосипедный фонарь задний, Велосипедний ліхтар задній зігнутий WQB-514, Велосипедный фонарь задний изогнутый WQB-514, Велосипедний ліхтар з функцією мигалки, Велосипедный фонарь с функцией мигалки, Велосипедний ліхтар задній зігнутий, Велосипедный фонарь задний изогнутый, Велосипедний ліхтар, Велосипедный фонарь</keywords>
-        <param name="Цвет">Черный</param>
-        <param name="Крепление фонаря">На подседельный штырь</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Особенности фонаря">Лазерная подсветка, Влагостойкий</param>
-        <param name="Режимы работы фонаря">Минимальный, Средний, Мигающий, Максимальный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип велосипедного фонаря">Габаритные огни</param>
-        <param name="Тип подсветки">Диодная</param>
-        <param name="Производитель">TERRA</param>
-        <param name="Страна производитель">Китай</param>
-      </offer>
       <offer id="516500" available="true">
         <name>Велофара Z818-2x3W+COB (white+red), Довговічний велосипедний ліхтар, Лід фара на велосипед</name>
         <categoryId>342402</categoryId>
@@ -35411,66 +35304,6 @@
         <param name="Язык издания">Английский</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="692642" available="false">
-        <name>Велокомп&apos;ютер SD-587 водонепроникний дротовий спідометр одометр велосипедний комп&apos;ютер</name>
-        <categoryId>342401</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws46174</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reavpkpufyayavyfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reavyrpvypvyfayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/vaacharrvykavry.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaykypvyere.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ekyveukpeyvpyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pavrkvpkpayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/apvyravyrkre.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Багатофункціональна модель велокомп&#8217;ютера SD-587 є однією з найпопулярніших моделей.</p>
-<p>Пристрій для любителів велосипедних прогулянок значно допоможе під час тривалих подорожей. Цей спідометр фіксує поточну швидкість, максимальну та середню швидкість велосипедиста. Ви можете встановити швидкість на спідометрі найбільш комфортну для Вас і орієнтуватися за показаннями приладу, щоб дотримуватися заданих параметрів. Також на циферблаті Ви зможете побачити кількість кілометрів, які Ви проїхали за день та за весь період подорожі. Спідометр вбудований годинник.</p>
-<p>Можна встановлювати велосипеди, мотоцикли, мопеди тощо.</p>
-<h2>Функції:</h2>
-<ul>
-<li>&#8211; SPD &#8211; (SPeeD) Поточна швидкість (до 99,9 км/год);</li>
-<li>&#8211; ODO &#8211; (ODOmeter) Загальний пробіг велосипеда (відраховується з моменту встановлення комп&#8217;ютера на велосипед) сума всіх відстаней, подоланих велосипедом (до 99999 км);</li>
-<li>&#8211; DST &#8211; (DiSTance) Дистанція, відстань, пройдена за поточну поїздку (у будь-який момент це показання можна обнулити) (від 0 до 9999 км);</li>
-<li>&#8211; MXS &ndash; (MaXSpeed) Максимальна зафіксована швидкість за поточну поїздку;</li>
-<li>&#8211; AVS &#8211; (Average Speed) Середня швидкість за поточну подорож;</li>
-<li>&#8211; TM &#8211; (Trip tiMe) Загальна тривалість поточної поїздки (при зупинках відлік часу припиняється, тобто враховується лише час, коли ви рухаєтеся);</li>
-<li>&#8211; CLK &#8211; (CLocK) &#8211; Годинник, поточний час (12 год/24 год);</li>
-<li>&#8211; Scan &#8211; Режим, при якому послідовно відображаються наступні показники: DST, MXS, AVS і TM (кожна висвічується протягом 4 сек.)</li>
-<li>&#8211; &#8220;+&#8221; &#8220;-&#8221; &#8211; (SPEED COMPARATOR) Компаратор, значок-індикатор, який вказує на те, що швидкість обертання педалей нижче або вище за вашу поточну швидкість, ніж середня за поїздку;</li>
-<li>&#8211; Maintance Alert Сигналізація необхідності технічного обслуговування</li>
-<li>&#8211; Freeze Frame Memory Заморожування поточних показань комп&#8217;ютера;</li>
-<li>&#8211; встановлення швидкості &#8211; км/год, Міля/год;</li>
-<li>&#8211; Налаштування кола шин &ndash; 0 мм ~ 9999 мм;</li>
-<li>&#8211; встановлення останнього значення одометра;</li>
-<li>&#8211; Авто: вкл/викл;</li>
-</ul>
-<ul>
-<li>Колір корпусу &ndash; чорний</li>
-<li>Розмір комп&#8217;ютера: 51*42*18 мм;</li>
-<li>Вага: 60 г.</li>
-<li>Упаковка: Блістер</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ol>
-<li>ЖК комп&#8217;ютер спідометр спідометр, одометр з батареєю &#8211; 1 шт;</li>
-<li>Універсальний кронштейн комп&#8217;ютера &ndash; 1 шт;</li>
-<li>Магнітний датчик &ndash; 1 шт;</li>
-<li>Магніт &ndash; 1 шт;</li>
-<li>Набір стяжок &ndash; 6 шт;</li>
-<li>Інструкція &ndash; 1 шт.</li>
-</ol>]]></description>
-        <keyword>Велокомп&apos;ютер SD-587 водонепроникний</keyword>
-        <keyword>Велокомпьютер SD-587 водонепроницаемый</keyword>
-        <keyword>Велокомп&apos;ютер SD-587 водонепроникний дротовий</keyword>
-        <keyword>Велокомпьютер SD-587 водонепроницаемый проволочный</keyword>
-        <keyword>Велокомп&apos;ютер SD-587</keyword>
-        <keyword>Велокомпьютер SD-587</keyword>
-        <keyword>Велокомп&apos;ютер</keyword>
-        <keyword>Велокомпьютер</keyword>
-        <keywords>Велокомп&apos;ютер SD-587 водонепроникний, Велокомпьютер SD-587 водонепроницаемый, Велокомп&apos;ютер SD-587 водонепроникний дротовий, Велокомпьютер SD-587 водонепроницаемый проволочный, Велокомп&apos;ютер SD-587, Велокомпьютер SD-587, Велокомп&apos;ютер, Велокомпьютер</keywords>
-      </offer>
       <offer id="741842" available="true">
         <name>Дитячий фотоапарат M03 PINK RABBIT</name>
         <categoryId>1909</categoryId>
@@ -35534,7 +35367,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdafgsdagsddaaags.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htfdshrdfsfgfsdgfsagsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/gtrsdagagsgsasg.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка Rainberg RB-2319 з потужністю 3000 Вт – це сучасний та функціональний прилад, який значно спростить процес приготування домашнього фаршу. Завдяки високій продуктивності та багатофункціональній комплектації, дана модель ідеально підходить для створення фаршу з м’яса, риби, овочів та грибів. Надійна збірка та зручні аксесуари дозволяють отримувати однорідний продукт потрібної консистенції з мінімальними зусиллями.</p>
 <h2>Причини обрати саме цей варіант</h2>
 <ul>
@@ -36263,7 +36096,7 @@
         <param name="Призначення">Автомобільні</param>
         <param name="Живлення">Акумулятор</param>
       </offer>
-      <offer id="808099" available="false">
+      <offer id="808099" available="true">
         <name>М&apos;ясорубка SeaBreeze SB-0802 3000Вт</name>
         <categoryId>63005</categoryId>
         <price>1960</price>
@@ -36274,7 +36107,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavipvifpvifpipf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvapvifpipifaiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkevpvifvppvifif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка потужністю 3000 Вт — це ефективне і універсальне рішення для швидкої та зручної переробки різних продуктів. Конструкція з нержавіючої сталі та наявність кількох насадок дозволяють максимально розширити функціонал приладу, забезпечуючи високу продуктивність і простоту у використанні. Ергономічний дизайн з компактними габаритами легко впишеться в будь-який кухонний простір, а наявність реверсу допоможе позбутися можливих заїдань. Цей прилад оптимальний для домашнього застосування, економлячи ваш час і сили при приготуванні фаршу, ковбас та інших страв.</p>
 <h2>Ключові переваги</h2>
 <ul>
@@ -36440,7 +36273,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4uivkafuvifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e3kcfkuvafufavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcuavikfikuavifiv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Гейзерна кавоварка&nbsp;UNIQUE UN-1903</strong>&nbsp;&ndash;&nbsp;швидкий і зручний спосіб приготувати смачну каву. Виготовлена із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
 <p><strong>Гейзерна кавоварка складається з трьох основних частин:</strong></p>
 <ul>
@@ -36901,7 +36734,7 @@
         <param name="Состояние">Новое</param>
         <param name="Потребляемая мощность">5900</param>
       </offer>
-      <offer id="664832" available="false">
+      <offer id="664832" available="true">
         <name>Електрична піч Sea Breeze SB-0701 38 л</name>
         <categoryId>605</categoryId>
         <price>3520</price>
@@ -36911,7 +36744,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvipivfpvifaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkpvifaifau.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/epuifvaivfapifau.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Інноваційна піч Sea Breeze потужністю 1420 Вт створена для тих, хто цінує функціональність та ефективність у приготуванні різноманітних страв. Об’єм у 38 літрів дозволяє готувати одночасно великі порції, а регульований термостат із температурним діапазоном від 10 до 300°C забезпечує максимальний контроль над процесом теплової обробки. Завдяки трьом режимам приготування та таймеру до 90 хвилин, ця модель ідеально підходить для будь-яких кулінарних завдань – від розігріву до запікання, смаження і грилювання.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -37174,7 +37007,7 @@
         <param name="вид цукерок">Жувальні</param>
         <param name="Вага упаковки">0.08500000089406967 кг</param>
       </offer>
-      <offer id="763117" available="true">
+      <offer id="763117" available="false">
         <name>Аерофритюрка Domotec Air Fryer MS-3224 сенсорне управління 12л 4500Вт</name>
         <categoryId>64306</categoryId>
         <price>2910</price>
@@ -37184,7 +37017,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvfyavyfpypyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkfpyfpy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkvaypuyvfpauyfay.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Аерофритюрниця Domotec MS-3224 &mdash; ідеальне рішення для тих, хто цінує зручність, швидкість і корисну їжу. забезпечує рівномірне приготування з мінімальною кількістю олії.</p>
 <p>Два нагрівальні елементи забезпечують швидке прогрівання та стабільну температуру. З легкістю готуйте картоплю фрі, курку, рибу, стейки, овочі та випічку &mdash; смачно, корисно та без зайвих калорій.</p>
 <p>Сенсорна панель з 15 автоматичними програмами робить керування максимально простим. Таймер до 60 хвилин і регулювання температури 80-200°C дозволяють ідеально налаштувати режим під будь-яку страву.</p>
@@ -38177,7 +38010,7 @@
         <param name="Тип трубы всасывания">Телескопическая</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="703889" available="false">
+      <offer id="703889" available="true">
         <name>Набір обробних дощок Magio MG-1255B 5 предметів</name>
         <categoryId>150203</categoryId>
         <price>690</price>
@@ -38191,7 +38024,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kupuyfppyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvpvfpypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkyvfpryffpyf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Набір розділових дошок Magio MG-1255B – практичне та гігієнічне рішення для організації робочого простору на кухні. Завдяки екологічному матеріалу та продуманій конструкції, цей комплект забезпечить зручність під час нарізання різних продуктів і допоможе підтримувати чистоту та порядок у процесі приготування їжі.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -38284,7 +38117,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Время заряда аккумулятора">1</param>
       </offer>
-      <offer id="726584" available="false">
+      <offer id="726584" available="true">
         <name>Марміт Magio MG-1210 прямокутний 3л</name>
         <categoryId>240602</categoryId>
         <price>1790</price>
@@ -38297,7 +38130,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/prkvaaipivfpifipu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpvairvarpffpifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/prkvapkupuifpi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Мармит Magio об&#8217;ємом 3 літри – це практичне рішення для підтримки тепла страв на святковому столі або в повсякденному житті. Його прямокутна форма та ергономічний дизайн дозволяють зручно розмістити мармит на будь-якому столі, забезпечуючи естетичний зовнішній вигляд і комфортне використання. Виготовлений з нержавіючої сталі, цей мармит прослужить довго, зберігаючи презентабельний вигляд і функціональність навіть при частому використанні.</p>
 <h2>Що ви отримуєте</h2>
 <ul>

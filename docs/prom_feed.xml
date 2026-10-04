@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-03 10:18">
+<yml_catalog date="2026-10-04 11:01">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -1647,7 +1647,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="159976" available="true">
+      <offer id="159976" available="false">
         <name>Тактичний Ліхтар Bailong BL-1831 T6 Police, надпотужний ліхтарик, ліхтарик із зарядкою від USB</name>
         <categoryId>150410</categoryId>
         <price>360</price>
@@ -1663,7 +1663,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvypkyvpuyfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvapkypfuy-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvpuyfvyfuyfpy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Супер яскравий ліхтар Police BL-1831-T6. Усередині знаходиться дуже потужний світлодіод фірми СREE Т6. Потужність світлового потоку даного світлодіода 1200 lumen !!! </p>
 <p>Ліхтар BL-1831 T6 має 5 режимів роботи: Турбо, Середній, Економ рівні яскравості, режим Стробоскоп (аварійне миготливе світло) та режим SOS. Направивши ліхтар у небо у режимі Стробоскоп або SOS, сторонній спостерігач зможе побачити промінь світла у радіусі 1000 метрів. Перемикання режимів здійснюється підлогою натисканням силіконової кнопки включення, яка знаходиться біля основи головки ліхтаря.</p>
 <p>Масштабування від 1 до 2000х здійснюється легким рухом однієї руки. Фокус променя змінюється висуванням головної частини ліхтаря від основи перед. Фокусувальна лінза дає можливість змінювати кут розсіювання світла від широкої плями до вузькоспрямованого променя.</p>
@@ -4647,7 +4647,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/refsdafrdsafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdfedsfasdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rwsadfaadsfsfesd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Перед вами не просто побутова електрична м&#8217;ясорубка Домотек, а багатофункціональний, компактний, високоефективний та надійний помічник на кухні. Бургери, ковбаски, домашні сосиски- все це диво Вам запросто накрутить наша електро м&#8217;ясорубка<span>&nbsp;</span><b>DOMOTEC MS-2024,</b><span>&nbsp;</span>вона готова взятися за найскладніші завдання: подрібнити, прокрутити та перетворити м&#8217;ясо на ніжний фарш.</p>
 <p><b>Електрична м&#8217;ясорубка з функцією соковижималки Domotec MS-2024</b><span>&nbsp;</span>з насадкою для томатів і двома функціями подрібнення, нарізки та нарізки скибочками. М&#8217;ясорубка Домотек призначена для виготовлення фаршу з м&#8217;яса, риби, грибів, нарізки овочів та фруктів, профілювання пісочного та пельменного тіста. Електром&#8217;ясорубка з функцією соковижималки шнекового типу має функцію реверс, зворотне обертання ножів, що запобігає ущільненню продуктів усередині м&#8217;ясорубки та забезпечує якісне подрібнення.</p>
 <p>Так само в наборі насадка для приготування домашнього томатного або іншого соку.</p>
@@ -4980,7 +4980,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kvyfavyfyvavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvyauucmsvayafy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/cvfyvfaay.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Компактний і потужний металевий ліхтарик — незамінний помічник у темний час доби. Він поєднує у собі ергономічний дизайн, надійність і високий рівень освітлення, що робить його ідеальним супутником у різних ситуаціях. Завдяки вбудованому акумулятору з USB-зарядкою, цей ліхтарик завжди готовий до роботи без зайвих витрат на батарейки. Універсальність та функціональність забезпечують комфорт навіть у складних умовах.</p>
 <h2>Основні сильні сторони</h2>
 <ul>
@@ -6423,7 +6423,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344269" available="true">
+      <offer id="344269" available="false">
         <name>Професійний набір/машинка для стрижки волосся 6 в 1 VGR V-106, бритва триммер для бороди</name>
         <categoryId>28290204</categoryId>
         <price>920</price>
@@ -6439,7 +6439,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/herdfbhdfsgrgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesgrsgesaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hrdfhrdsgrsafe.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>VGR V-106 &#8211; це професійний комплект для догляду за тілом, який пропонує функціональність 6 в 1 та вражає точністю свого леза, виготовленого з високоякісної нержавіючої сталі. Корпус має світлодіодний дисплей, що відображає рівень заряду у відсотках.</p>
 <p><strong>Важливими компонентами цього набору &#8220;VGR V-106&#8221; є:</strong></p>
 <ul>
@@ -8018,7 +8018,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4uiuaivpkivkifavif.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuaipkavfvifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukfavpkeiapkiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Інтегрована техніка для ефективної роботи на кухні – це ваша можливість швидко і якісно готувати улюблені страви. 3-в-1 пристрій поєднує подрібнювач, блендер і міксер, пропонуючи професійний результат без зайвих зусиль. Завдяки потужності 1200 Вт і 12 ступеням регулювання швидкості з турбо-режимом, ви отримуєте максимальну керованість та універсальність у приготуванні різноманітних продуктів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -10171,7 +10171,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/wefdsagdsesadfe.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3efdsfgdsesdgsda.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4twesfgdgfstewfed.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Оцінюєте зручність та ефективність у догляді за волоссям? Акумуляторна машинка для стрижки VGR пропонує вам професійне рішення для домашнього використання. Вона спроектована з урахуванням потреб сучасного користувача — потужний мотор, тривала автономна робота і легке управління в компактному корпусі забезпечать акуратний та рівний зріз без зайвих зусиль і витрат часу.</p>
 <h2>Аргументи на користь вибору</h2>
 <ul>
@@ -12903,7 +12903,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfshdrsgsaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/hdfdgsda.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/htjhdfsddsa.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Бездротова машинка триммер<span>&nbsp;</span><strong>VGR V-009</strong><span>&nbsp;</span>поєднує в собі машинку для стрижки волосся і бороди зі змінними 4 насадками (1 мм, 2 мм, 3 мм, 4 мм. Використовуючи сам триммер без насадки, ви зможете створити рівні контури стрижки, підголити баки або вибрати шию.</p>
 <p>Крім того, його можна використовувати для видалення надмірної рослинності на тілі. Ергономічний, легкий і компактний дизайн дозволяє легко володіти інструментом навіть новачкові.</p>
 <p>Машинка для стрижки волосся<span>&nbsp;</span><strong>VGR-009<span>&nbsp;</span></strong> відрізняється міцним корпусом, стійким до дії вібрації, низьким рівнем шуму, стильним дизайном , плавним ходом гострих лез, зручністю та тривалим терміном експлуатації. Леза виконані з високоякісної нержавіючої сталі, що забезпечує максимально довгу гостроту та комфортність використання. У комплекті йде зарядний шнур USB, а також щіточка для очищення та олія для лез.</p>
@@ -17633,7 +17633,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ukpfpuivfafiai.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kuivpauivfapufau.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pkivpavifaifau.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Набір машинок VGR V-644 &ndash; це шикарне рішення для будь-якого стиліста, чи це перукар-початківець або професійний барбер. Такий набір стане чудовим подарунком для будь-якого перукаря. Технологічні та функціональні моделі машинки та тримера дозволять вам працювати з легкістю та насолоду, адже це сучасний професійний інструмент, в якому передбачено все, що потрібно для якісної та комфортної роботи.</p>
 <h2>Машинка для стрижки</h2>
 <p>Модель оснащена незнімним ножовим блоком шириною 46 мм. Ножовий блок встановлений спеціальний механізм плавного зміни довжини стрижки волосся від 0.8 до 2 мм. Таким чином, Ви можете максимально точно підбирати необхідну довжину зрізу волосся, створюючи максимально плавні переходи без сходинок. Ножі виготовлені з високоякісної нержавіючої сталі, мають хороший ресурс і стійкість до вироблення.</p>
@@ -18250,7 +18250,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="634365" available="true">
+      <offer id="634365" available="false">
         <name>Епілятор VGR 2 до 1 V-758. Колір: зелений</name>
         <categoryId>3314</categoryId>
         <price>690</price>
@@ -18266,7 +18266,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvpyvfvyyuyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kepyvpvyfpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvyapvyfyfvay.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Представляємо<span>&nbsp;</span><strong>багатофункціональний прилад 2-в-1 VGR V-758</strong><span>&nbsp;</span>&mdash; ідеальне рішення для ефективного та комфортного видалення небажаного волосся, що поєднує в собі функції епілятора та електробритви.</p>
 <h2><strong>Ключові особливості:</strong></h2>
 <ul>
@@ -19323,7 +19323,7 @@
         <param name="Состояние">Новое</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="658552" available="true">
+      <offer id="658552" available="false">
         <name>Електрична піч для сніданку 3в1 Rainberg RB-2286R 3800Вт (піч, кавоварка, поверхня для смаження)</name>
         <categoryId>605</categoryId>
         <price>1900</price>
@@ -19339,7 +19339,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rkvaipviapvifi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvapkvapivpiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rvapvipvipivf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Електрична настільна піч Rainberg RB 2286B — це багатофункціональний пристрій 3 в 1, який поєднує кавоварку, піч і сковороду з гриль-ефектом в одному компактному приладі потужністю 3800 Вт. Така техніка стане незамінним помічником для тих, хто цінує швидкість і зручність на кухні, дозволяючи одночасно готувати гарячу каву і повноцінний сніданок без зайвих зусиль та додаткового посуду.</p>
 <h2>Топ переваг</h2>
 <ul>
@@ -23062,7 +23062,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3kcuuafcfivaavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uivapukaifvufivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/uiavuaivv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Тример для носа, це сучасний і дуже зручний у використанні інструмент.<br />Їм користуються практично всі чоловіки, які ретельно стежать за своїм зовнішнім виглядом і намагаються при цьому заощадити чимало часу.</p>
 <p>У сучасному суспільстві, вимоги до зовнішнього вигляду людини змушують нас робити дуже багато речей, у тому числі і голити в носі.<br />Хоча гоління в носі не є найважливішою і необхідною дією серед чоловіків, але при цьому попит на бритви для носа, є по-справжньому високий.</p>
 <p>Акуратна, доглянута особа для будь-якого чоловіка &ndash; Запорука успіху як у ділових сферах, так і на особистих фронтах. Особливо ретельної турботи та опрацювання вимагає контури бороди, вуса, скронева область, ніс і вуха. Щоб легко і швидко підрівняти волосся, прибрати зайве, виділити контури та лінії Вам точно не обійтися без надійного тримера.<br />Як додатковий варіант &ndash; можна підстригати волосся на тілі, під пахвами та в інтимних зонах.<br />Незамінний гігієнічний прилад та чудовий подарунок чоловікові.</p>
@@ -23322,7 +23322,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/r3qwasdffwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/ewasdfrwsad.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/qewasdftr3qwasd.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Domotec MS-5821 — компактна та функціональна електроплита з однією конфоркою, ідеально підходить для дачі, невеликих кухонь і тимчасового використання. Цей пристрій забезпечує швидке і рівномірне нагрівання завдяки потужному спіральному нагрівальному елементу потужністю 1000 Вт. Простіший механічний термостат з п’ятьма режимами роботи дозволяє точно регулювати температуру приготування, а світлова індикація інформує про включення плити. Легка вага і невеликі габарити роблять пристрій зручним для транспортування та зберігання, допомагаючи ефективно використовувати обмежений простір.</p>
 <h2>Що ви отримуєте</h2>
 <ul>
@@ -24367,7 +24367,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="142524" available="true">
+      <offer id="142524" available="false">
         <name>Кавоварка Magio MG-449 з термостаканом, Кавоварка для дому, Кавомашина домашня</name>
         <categoryId>638</categoryId>
         <price>980</price>
@@ -24382,7 +24382,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3ucviaak3cjufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcvfik3cuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/pucvfyaufyvyf-1.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Краплинна кавоварка Magio MG-449 представляє собою зручний і функціональний пристрій для приготування свіжої меленої кави швидко і без зайвих зусиль. Всього один клік — і ароматний напій готовий, при цьому завдяки термочашці він зберігає тепло і насичений смак тривалий час. Ця модель ідеально підійде як для домашнього використання, так і для невеликих офісів.</p>
 <h2>Переваги саме цієї моделі</h2>
 <ul>
@@ -25611,7 +25611,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266161" available="true">
+      <offer id="266161" available="false">
         <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200Вт Black</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -25627,7 +25627,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип&#8217;ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -28326,7 +28326,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="484075" available="true">
+      <offer id="484075" available="false">
         <name>Налобний світлодіодний ліхтар K372-2COB з датчиком руху та USB зарядкою</name>
         <categoryId>150410</categoryId>
         <price>330</price>
@@ -28342,7 +28342,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/e4cppcufeucpeucf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/euypkucyvpuvafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/oeappavipifu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар K372-2COB з датчиком руху — це надійне та зручне рішення для безручного освітлення в будь-яких умовах. Оснащений світлодіодами COB білого та червоного світіння, він забезпечує яскраве та рівномірне світло, а наявність шести режимів роботи дозволяє швидко підібрати комфортний рівень освітлення. Зручна функція датчика руху значно спрощує використання у темний час, а акумулятор із зарядкою USB-Type C забезпечить тривалу роботу без необхідності постійної заміни батарейок.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -31397,68 +31397,6 @@
         <keyword>Хлебопечка</keyword>
         <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand VBM6091 White, Хлебопечка ViLgrand VBM6091 White, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
       </offer>
-      <offer id="686808" available="false">
-        <name>Хлібопічка ViLgrand VBM6091 Black</name>
-        <categoryId>605</categoryId>
-        <price>3410</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws64752-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/oreravypyvvayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/oervayrvppv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/apreyrvarv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rearivyrvyvyavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/errvayrvaryvkv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reyvarvyrvykvyiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/eryravyrvpyu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ervayrvypyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/reorvyrvyvpv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/rekrvayrvayv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Завдяки сучасному дизайну та функціональності<strong>Vilgrand VBM6091_white,</strong>ця модель стане прикрасою вашої кухні.</p>
-<h2><strong>Основні переваги:</strong></h2>
-<ul>
-<li>Розмір випічки &amp;ndash; на вибір 500, 750 або 1000 грамів &amp;ndash; ідеально для всієї родини</li>
-<li>19 автоматичних програм &#8211; для випікання різних видів хліба, включаючи безглютеновий, а також для приготування тіста чи джемів</li>
-<li>Економія часу &amp;ndash; таймер відстрочки до 15 годин та підтримання температури до 60 хвилин</li>
-<li>Легке керування &amp;ndash; рідкокристалічний дисплей з інтуїтивним інтерфейсом</li>
-<li>Мінімальний догляд &amp;ndash; антипригарне покриття чаші</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Хлібопіч Vilgrand VBM6091_white</li>
-<li>Мірна склянка та ложка</li>
-<li>Книга рецептів для натхнення</li>
-</ul>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Потужність, Вт &#8211; 600</li>
-<li>Номінальна напруга, &amp;ndash; 220-240</li>
-<li>Номінальна частота, Гц &amp;ndash; 50/60</li>
-<li>Вага випічки, г &amp;ndash; 500/750/1000</li>
-<li>Таймер &amp;ndash; до 15 годин</li>
-<li>Підтримка температури, хв &#8211; 60</li>
-<li>Кількість програм &amp;ndash; 19</li>
-<li>Антипригарне покриття чаші та тістомісу</li>
-<li>Рідкокристалічний дисплей</li>
-<li>Оглядове віконце</li>
-<li>Вибір кольору скоринки &#8211; світлий/золотистий/темний</li>
-<li>Автоматичне відновлення процесу приготування при обриві живлення до 15 хвилин</li>
-<li>Нековзні ніжки</li>
-<li>Аксесуари &amp;ndash; мірна склянка, ложка</li>
-<li>Габаритні розміри виробу, мм &amp;ndash; 340х255х290</li>
-<li>Габаритні розміри упаковки, мм &amp;ndash; 366х302х330</li>
-<li>Маса нетто/брутто, кг &amp;ndash; 5,35/4,73</li>
-</ul>]]></description>
-        <keyword>Хлібопічка ViLgrand VBM6091</keyword>
-        <keyword>Хлебопечка ViLgrand VBM6091</keyword>
-        <keyword>Хлібопічка ViLgrand VBM6091 Black</keyword>
-        <keyword>Хлебопечка ViLgrand VBM6091 Black</keyword>
-        <keyword>Хлібопічка ViLgrand</keyword>
-        <keyword>Хлебопечка ViLgrand</keyword>
-        <keyword>Хлібопічка</keyword>
-        <keyword>Хлебопечка</keyword>
-        <keywords>Хлібопічка ViLgrand VBM6091, Хлебопечка ViLgrand VBM6091, Хлібопічка ViLgrand VBM6091 Black, Хлебопечка ViLgrand VBM6091 Black, Хлібопічка ViLgrand, Хлебопечка ViLgrand, Хлібопічка, Хлебопечка</keywords>
-      </offer>
       <offer id="692047" available="true">
         <name>Тример VGR V-227 GOLD. Колір: золотий</name>
         <categoryId>28290204</categoryId>
@@ -34273,76 +34211,6 @@
         <param name="Крепление">Ремешок</param>
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
-      </offer>
-      <offer id="299259" available="false">
-        <name>Ліхтарик налобний м&apos;який акумуляторний XQ-T1C USB з червоними задніми вогнями, ліхтар на голову для риболовлі</name>
-        <categoryId>150410</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws19299</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/puayvfavfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kuavavyaavyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/caivukavuiafau.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfviucviaf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfvivkucvaivf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kcfivaikucaifva.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/u2jvfiaakucau.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ujviakucvauia.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/uayvffyvpvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pkcyfvauvfyayvf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><span>Налобний ліхтар із USB зарядкою XQ-T1C 26LED &#8211; особливість моделі полягає в наявності гнучкого довгого світлодіода. Відсік для акумулятора розташований на потилиці та обладнаний індикатором заряду АКБ. Також на ньому розташовані два габаритні світлодіоди з окремою кнопкою для їх відключення. , на рибалці. Стане незамінним помічником для тих кому потрібне яскраве розсіяне світло на близькій відстані.</span></p>
-<p><strong>Переваги:</strong></p>
-<ul>
-<li><span>Яскраве світло, довго світиться на одному заряді;</span></li>
-<li><span>Має вбудований акумулятор з можливістю його заміни;</span></li>
-<li><span>Заряджається від USB порту;</span></li>
-<li><span>Має гнучкий довгий світлодіод;</span></li>
-<li><span>Має 3 режими роботи: 100%, 50%, стробоскоп.</span><br /><span></span></li>
-</ul>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li><span>Вигляд: ліхтар налобний;</span></li>
-<li><span>Живлення: вбудований акумулятор;</span></li>
-<li><span>Тип світлодіода: 26LED;</span></li>
-<li><span>Матеріал корпусу: пластик;</span></li>
-<li><span>Режими роботи: 100%, 50%, стробоскоп;</span></li>
-<li><span>Світловий потік: 400 люмен;</span></li>
-<li><span>Фокусування: відсутнє;</span></li>
-<li><span>Індикація заряду: є;</span></li>
-<li><span>Розміри ліхтаря: обхват голови в нерозтягнутому вигляді 55-62 см, ширина 2 см.</span></li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li><span>Налобний ліхтар XQ-T1C 26LED</span></li>
-<li><span>USB-кабель</span></li>
-<li><span>Інструкція</span></li>
-<li><span>Упаковка</span></li>
-</ul>]]></description>
-        <keyword>Ліхтарик налобний м&apos;який</keyword>
-        <keyword>Фонарик налобный мягкий</keyword>
-        <keyword>Ліхтарик налобний м&apos;який акумуляторний XQ-T1C USB</keyword>
-        <keyword>Фонарик налобный мягкий аккумуляторный XQ-T1C USB</keyword>
-        <keyword>ліхтар на голову для риболовлі</keyword>
-        <keyword>фонарь на голову для рыбалки</keyword>
-        <keyword>Ліхтарик налобний м&apos;який акумуляторний</keyword>
-        <keyword>Фонарик налобный мягкий аккумуляторный</keyword>
-        <keyword>Ліхтарик налобний м&apos;який акумуляторний XQ-T1C</keyword>
-        <keyword>Фонарик налобный мягкий аккумуляторный XQ-T1C</keyword>
-        <keywords>Ліхтарик налобний м&apos;який, Фонарик налобный мягкий, Ліхтарик налобний м&apos;який акумуляторний XQ-T1C USB, Фонарик налобный мягкий аккумуляторный XQ-T1C USB, ліхтар на голову для риболовлі, фонарь на голову для рыбалки, Ліхтарик налобний м&apos;який акумуляторний, Фонарик налобный мягкий аккумуляторный, Ліхтарик налобний м&apos;який акумуляторний XQ-T1C, Фонарик налобный мягкий аккумуляторный XQ-T1C</keywords>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип лампы">Светодиодная</param>
-        <param name="Материал корпуса">Металл, Пластик</param>
-        <param name="Дальность светового луча">1000 м</param>
-        <param name="Режимы работы фонаря">Максимальный, Средний, Мигающий</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Особенности фонаря">Водонепроницаемый, Влагостойкий, Противоударный</param>
-        <param name="Цвет">Черный</param>
-        <param name="Тип фонаря">Налобный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Крепление">Ремешок</param>
-        <param name="Производитель">Bailong</param>
-        <param name="Тип заряда">Type-C</param>
       </offer>
       <offer id="301735" available="true">
         <name>Світлодіодний ліхтар кемпінг W52 SMD + COB, червоний + білий, магніт, гачок, кемпінговий складний ліхтар</name>
@@ -39217,64 +39085,6 @@
         <param name="Цвет">Разные цвета</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="214735" available="false">
-        <name>Ваги кухонні механічні MATARIX MX-405 5 кг, ваги для зважування продуктів. Колір: зелений</name>
-        <categoryId>15230411</categoryId>
-        <price>320</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws65953-2</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/trefdsfgrfdsfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/trfdsgefafsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/trefsdsgtewsafsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/t4wesfdfgfsafd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/t4efsgefsdafsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/r3wefdsvfefdsafds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/refsdrefasd-1.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/refdsgefsdafsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/qewadssgrwasd-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Кухонні ваги MATARIX MX 405 створені для тих, хто цінує точність і зручність у щоденних кулінарних процесах. Цей компактний і легкий пристрій дозволить вам легко зважувати продукти до 5 кг із максимальною похибкою лише 1 грам. Ідеальний вибір для контролю над кількістю інгредієнтів, що особливо важливо під час зимових заготовок або при приготуванні складних рецептів.</p>
-<h2>Ключові переваги</h2>
-<ul>
-<li>Висока точність зважування до ±1 г забезпечує точне дотримання рецептури.</li>
-<li>Максимальне навантаження до 5 кг дає можливість зважувати як дрібні, так і більш об’ємні продукти.</li>
-<li>Функція обнулення тари дозволяє миттєво відраховувати лише вагу продукту без урахування ваги ємності.</li>
-<li>Компактний і легкий корпус зручний для зберігання та перенесення, не займає багато місця на кухні.</li>
-<li>Простота у використанні завдяки ергономічному дизайну і зрозумілому інтерфейсу.</li>
-</ul>
-<h2>Де розкриває свій потенціал</h2>
-<p>Кухонні ваги MATARIX MX 405 стануть незамінним інструментом на вашій кухні при приготуванні страв, де важлива точність дозування інгредієнтів. Вони допоможуть уникнути надмірностей у рецептах і зроблять контроль калорійності більш ефективним. Особливо корисні під час консервації, приготування випічки або здорового харчування, коли точність важлива для якості та смаку страв. Також техніка зручна для дрібних порцій і контролю харчування у сім’ях, де ведеться дієтичний спосіб життя або потрібен точний відлік.</p>
-<h2>Характеристики</h2>
-<ul>
-<li>Максимальна вага зважування: 5 кг</li>
-<li>Точність вимірювання: ±1 г</li>
-<li>Функція обнулення тари: присутня</li>
-<li>Тип: електронні кухонні ваги</li>
-<li>Комплектація: ваги MATARIX MX 405</li>
-</ul>]]></description>
-        <keyword>Ваги кухонні механічні</keyword>
-        <keyword>Весы кухонные механические</keyword>
-        <keyword>Ваги кухонні механічні MATARIX MX-405 5 кг</keyword>
-        <keyword>Весы кухонные механические MATARIX MX-405 5 кг</keyword>
-        <keyword>ваги для зважування продуктів</keyword>
-        <keyword>весы для взвешивания продуктов</keyword>
-        <keyword>Ваги кухонні механічні MATARIX</keyword>
-        <keyword>Весы кухонные механические MATARIX</keyword>
-        <keyword>Ваги кухонні механічні MATARIX MX-405</keyword>
-        <keyword>Весы кухонные механические MATARIX MX-405</keyword>
-        <keywords>Ваги кухонні механічні, Весы кухонные механические, Ваги кухонні механічні MATARIX MX-405 5 кг, Весы кухонные механические MATARIX MX-405 5 кг, ваги для зважування продуктів, весы для взвешивания продуктов, Ваги кухонні механічні MATARIX, Весы кухонные механические MATARIX, Ваги кухонні механічні MATARIX MX-405, Весы кухонные механические MATARIX MX-405</keywords>
-        <param name="Производитель">MATARIX</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Цвет корпуса">Зелёный</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Вид кухонных весов">электронные</param>
-        <param name="Максимальный вес">5</param>
-        <param name="Конструкция тары">чаша</param>
-        <param name="Съемная тара">Нет</param>
-        <param name="Точность измерения">1</param>
-        <param name="Компенсация тары">Да</param>
-        <param name="Состояние">Новое</param>
-      </offer>
       <offer id="390713" available="true">
         <name>Міксер SeaBreeze SB-051 300 Вт, міксер для збивання, потужний міксер, міксер блендер ручний, кухонний міксер</name>
         <categoryId>612</categoryId>
@@ -40281,7 +40091,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="515956" available="true">
+      <offer id="515956" available="false">
         <name>Велофара з сигналом та утримувачем телефону LY-25-2T6 (white+yellow), Довговічний велосипедний ліхтар</name>
         <categoryId>342402</categoryId>
         <price>600</price>
@@ -40292,7 +40102,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/4ergdsfhhrdsygsesadsgfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/tesdgagsfygtrsgres.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rgfdsfhrewtygrrwagr.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний велосипедний ліхтар із вбудованим акумулятором відкриває нові горизонти безпеки та комфорту під час їзди в темний час доби. Завдяки універсальній конструкції та різноманітним режимам освітлення, він гарантує максимальну видимість на дорозі, забезпечуючи довготривалу роботу без частих підзарядок. Компактний розмір і зручне кріплення роблять його ідеальним супутником для будь-якого велосипедиста.</p>
 <h2>Переваги використання</h2>
 <ul>
@@ -41805,7 +41615,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м&#8217;яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об&#8217;єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -42144,64 +41954,6 @@
         <param name="Цвет">Белый</param>
         <param name="Ширина">40</param>
         <param name="Производитель">Без бренда</param>
-      </offer>
-      <offer id="562363" available="false">
-        <name>Кабельний LAN тестер трасошукач Веnеtесh GМ 6О з роз&apos;ємами RJ-11 і RJ-45 шукач дротів індикатор проводки</name>
-        <categoryId>14200399</categoryId>
-        <price>1230</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws93346</vendorCode>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/pypcuyfpypu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecupyyvapkvfr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuypvpyfpuyfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyapvakvyayrkvyrv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euyvapypfyuk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euypvpyyvfpu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyapvpueyfpnuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/euypfeuyavvyfavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/ecuyfpuyfpafyavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/wp-content/uploads/kpyvfrypuyfua.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Багатофункціональний кабельний тестер&nbsp;Веnеtесh GМ 6О&nbsp;призначений<span>&nbsp;</span><strong>для тестування кабелів з роз&#8217;ємами RJ-45 і RJ-11</strong>, а також окремих провідників і провідникових пар.&#038;nbsp ;</p>
-<p>Складається з двох інструментів тестування:<span>&nbsp;</span><strong>передавача та тестера, що працюють у тандемі</strong>.&nbsp;</p>
-<p>Він здатний<span>&nbsp;</span><strong>перевіряти кабелі на провідність, наявність короткого замикання провідників та відкритого ланцюга, а також визначати цілісність кабельної структури.</strong><span>&nbsp;</span> Кабельний тестер Benetech GM60 має <span>&nbsp;</span><strong>ручне налаштування рівня гучності індикації, здатний тестувати кабель довжиною більше одного кілометра</strong>.&nbsp;</p>
-<p>Особливістю даної моделі є вибір кількох режимів роботи:<span>&nbsp;</span><strong>тестування, сканування з вибором необхідної швидкості операції.&nbsp;</strong></p>
-<p>Живлення приймача кабельного тестера забезпечує батарейка 9 В, поширеного типорозміру 6F22 &#8220;крона&#8221;, а передавач живиться від 3-х батарей 1,5В.</p>
-<p><strong>ОСОБЛИВОСТІ:&nbsp;</strong></p>
-<ul>
-<li>Тестування цілісності провідників.&nbsp;</li>
-<li>Визначення коротко замкнених провідників, відкритого ланцюга.&nbsp;</li>
-<li>Індикація послідовності кабельної структури.&nbsp;</li>
-<li>Рознімання RJ-11 і RJ-45.</n>
-<li>Режими сканування, тестування, детектування напруги, опір.&nbsp;</li>
-</ul>
-<p><strong>ХАРАКТЕРИСТИКИ:</strong>&nbsp;</p>
-<ul>
-<li>Тип: Тестери кабельні</li>
-<li>Максимальна відстань передачі сигналу: 1 км&nbsp;</li>
-<li>Індикація: світлодіодна, звукова&nbsp;</li>
-<li>Сумісні конектори: RJ-45/RJ-11&nbsp;</li>
-<li>Тип живлення: 6F22/AAA&nbsp;</li>
-<li>Розміри передавача: 64x31x119 мм&nbsp;</li>
-<li>Розміри приймача: 49x26x117 мм&nbsp;</li>
-<li>Вага: 180 г</li>
-</ul>
-<p><strong>КОМПЛЕКТАЦІЯ:</strong></p>
-<ul>
-<li>Кабельний тестер Веnеtесh GМ 6О (датчик та приймач) &#8211; 1 шт.;</li>
-<li>Набір кабелів &#8211; 1 шт.;</li>
-<li>Батарея 9В (6F22) – 1 шт. 1.5В ААА &#8211; 3 шт.;</li>
-<li>Інструкція &#8211; 1 шт</li>
-</ul>]]></description>
-        <keyword>Кабельний LAN тестер</keyword>
-        <keyword>Кабельний LAN тестер трасошукач Веnеtесh GМ 6О</keyword>
-        <keyword>Кабельний LAN тестер трассоискатель Веnеtесh GМ</keyword>
-        <keyword>Кабельний LAN тестер трасошукач</keyword>
-        <keyword>Кабельний LAN тестер трассоискатель</keyword>
-        <keyword>Кабельний LAN тестер трасошукач Веnеtесh</keyword>
-        <keyword>Кабельний LAN тестер трассоискатель Веnеtесh</keyword>
-        <keyword>Кабельний LAN</keyword>
-        <keywords>Кабельний LAN тестер, Кабельний LAN тестер трасошукач Веnеtесh GМ 6О, Кабельний LAN тестер трассоискатель Веnеtесh GМ, Кабельний LAN тестер трасошукач, Кабельний LAN тестер трассоискатель, Кабельний LAN тестер трасошукач Веnеtесh, Кабельний LAN тестер трассоискатель Веnеtесh, Кабельний LAN</keywords>
       </offer>
       <offer id="563207" available="true">
         <name>Лампа зволожувач повітря Docsal Flame 3 в 1 з соляним камінням, Портативний зволожувач лампа чорна</name>
@@ -43522,7 +43274,7 @@
         <picture>https://www.websklad.biz.ua/wp-content/uploads/efsdareads.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/3efsdagewsdaesaesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/wp-content/uploads/rfasdgersages.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><span>Цифровий алкотестер з мундштуками являє собою компактну модель алкометра для персонального використання. Продувка в даному алкотестері проводиться за допомогою змінних мундштуків, що вигідно відрізняє цю модель від конкурентів. Мундштуки є багаторазовими. Вони виготовлені з пластмаси та легко піддаються миття, що дозволяє значно економити кошти на придбання мундштуків.</span></p>
 <p><strong><span>Особливості:</span></strong></p>
 <ul>

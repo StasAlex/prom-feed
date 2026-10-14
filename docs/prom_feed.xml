@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-13 12:33">
+<yml_catalog date="2026-10-14 10:00">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -10,7 +10,6 @@
       <category id="12125905">Автомобільні пилососи</category>
       <category id="141711">Дрилі, шуруповерти</category>
       <category id="14200399">Ручний інструмент, загальне</category>
-      <category id="14200506">Побутові повітряні компресори</category>
       <category id="14200914">Ланцюгові пили</category>
       <category id="150203">Посуд, загальне</category>
       <category id="150410">Ручні та налобні ліхтарі</category>
@@ -280,7 +279,7 @@
         <picture>https://www.websklad.biz.ua/storage/3113/4kcfaeuifvaifauvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3117/iueayapivfaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3121/euayfeafufy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Забезпечте собі бездоганний догляд за деталями образу за допомогою тримера для носа і вух GM-3109 2в1 — інструмента, що поєднує універсальність і ефективність у компактному форматі. Цей пристрій розроблений для плавного і точного видалення небажаного волосся у важкодоступних зонах, а також для професійної окантовки, що дозволить підкреслити ваш ідеальний стиль щодня.</p>
 
 <h2>Раціональні причини обрати</h2>
@@ -401,7 +400,7 @@
         <picture>https://www.websklad.biz.ua/storage/4750/e4uayvpeuayvfufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4759/euyavpeuafayfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4767/uayvpuaauyvfayv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5851, ви зможете запросто приготувати собі їжу на поточний день.</p>
 <p>Її можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Регулювати працездатність плити можна за допомогою механічного перемикача. Емалеве покриття плити Domotec додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><b>Компанія Domotec</b>&nbsp;довгі роки випускає переносні електроплити, які також довго служать своїм господарям. Саме тому компанія давно завоювала споживачів свого товару по всьому світу. Адже головні принципи компанії Domotec – це якісна продукція, яка виконує всі умови для продуктивної роботи. Цими ж якостями володіє і плитка MS – ndash; 5851, зроблена за всіма правилами та стандартами переносних електроплиток.</p>
@@ -2475,7 +2474,7 @@
         <picture>https://www.websklad.biz.ua/storage/27477/k3ujcvyakcufvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27483/k3jcfyvkcuvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27490/k3cvaykucvyf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Тостер MAGIO MG-278 — це функціональне та стильне рішення для сучасної кухні, яке не лише швидко та рівномірно підсмажить хліб, а й спростить щоденне приготування тостів. Компактний прилад з потужністю 830 Вт обладнаний зручними режимами та елементами керування, що дозволяють адаптувати процес підсмаження під індивідуальні вподобання кожного користувача.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -6125,7 +6124,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="344281" available="true">
+      <offer id="344281" available="false">
         <name>Машинка триммер 4в1 VGR V-172 для стрижки волосся на акумуляторі зарядка USB, електробритва для голови</name>
         <categoryId>28290204</categoryId>
         <price>770</price>
@@ -6141,7 +6140,7 @@
         <picture>https://www.websklad.biz.ua/storage/33464/reucyavfpauyfvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33466/pcuayvmfauafyvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33677/trwfdafefad.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний пристрій розроблений спеціально для справжніх чоловіків, різноманітне поєднання насадок та режимів гоління дозволяють реалізувати будь-які задуми для ідеального зовнішнього вигляду. З цим стайлером неохайна щетина стане доглянутою і стильною. достатньо лише одного руху руки. Безперечні переваги та приємна вартість зробили цю бритву бестселером продажів на світовому ринку.</p>
 <p>Набір для стрижки волосся<span>&nbsp;</span><b>VGR V-172</b><span>&nbsp;</span>є універсальною машинкою для стрижки з різними насадками. Насадка для стрижки волосся, насадка регулювання довжини 3-12 мм, триммер для носа, дизайнерський триммер, вузький триммер, сіткова бритва, насадка 3-4,5 мм. Леза з нержавіючої сталі, вбудований акумулятор та індикатор заряду. Відмінний набір на всі випадки життя замість кількох приладів Вам достатньо мати один такий.</p>
 <p><strong>Технічні характеристики<br /></strong></p>
@@ -9555,7 +9554,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="481373" available="true">
+      <offer id="481373" available="false">
         <name>Машинка для стрижки волосся і бороди VGR V-695 з LED дисплеєм IPX7 вологозахист, Окантувальна машинка</name>
         <categoryId>28290204</categoryId>
         <price>1150</price>
@@ -9571,7 +9570,7 @@
         <picture>https://www.websklad.biz.ua/storage/44076/t4wr3ewrftewasdfgewatewsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44081/hrdfsgrgrdfvgrsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44092/tesgesdgrfdsfds.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>Потужний акумулятор&nbsp; 2600 мАг. Час заряджання до 4 годин. Час безперервної роботи на повному заряді акумулятора 300 хвилин;</li>
 <li>Регулювання ножів від 0,5-2,5 мм із кроком 0,5 мм - допоможе підібрати потрібну довжину волосся при стрижці;</li>
@@ -11473,7 +11472,7 @@
         <picture>https://www.websklad.biz.ua/storage/68271/rgsdgsdagesae.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68280/yhrdfsghsghrag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68287/gtesgresaegwew.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Професійний триммер VGR Professional Black&Green V-906 із серії преміальних інструментів Voyager, випущений у 2024 році, ідеально підходить як для роботи з бородою, так і для стрижки волосся. Цей триммер оснащений відкритим Т-подібним ножовим блоком завширшки 40 мм, що забезпечує мінімальну висоту зрізу всього 0,1 мм. Завдяки відкритій конструкції ножового блоку, ви отримаєте чудовий огляд та повний контроль над процесом стрижки, що покращує точність та комфорт роботи.</p>
 <p>Особливістю даної моделі є покращена конструкція зубців глибиною 1,6 мм, що гарантує чистий і чіткий зріз навіть щільного та жорсткого волосся. Керамічне покриття з графітовим напиленням забезпечує довговічність та знижує нагрівання ножів під час роботи.</p>
 <p><strong>Переваги тримера:</strong></p>
@@ -12135,7 +12134,7 @@
         <picture>https://www.websklad.biz.ua/storage/69168/hdfdgsda.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69172/htjhdfsddsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69178/hdfgrdgas.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Бездротова машинка триммер<span>&nbsp;</span><strong>VGR V-009</strong><span>&nbsp;</span>поєднує в собі машинку для стрижки волосся і бороди зі змінними 4 насадками (1 мм, 2 мм, 3 мм, 4 мм. Використовуючи сам триммер без насадки, ви зможете створити рівні контури стрижки, підголити баки або вибрати шию.</p>
 <p>Крім того, його можна використовувати для видалення надмірної рослинності на тілі. Ергономічний, легкий і компактний дизайн дозволяє легко володіти інструментом навіть новачкові.</p>
 <p>Машинка для стрижки волосся<span>&nbsp;</span><strong>VGR-009<span>&nbsp;</span></strong> відрізняється міцним корпусом, стійким до дії вібрації, низьким рівнем шуму, стильним дизайном , плавним ходом гострих лез, зручністю та тривалим терміном експлуатації. Леза виконані з високоякісної нержавіючої сталі, що забезпечує максимально довгу гостроту та комфортність використання. У комплекті йде зарядний шнур USB, а також щіточка для очищення та олія для лез.</p>
@@ -14799,7 +14798,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="604894" available="true">
+      <offer id="604894" available="false">
         <name>Електрочайник RAF R.7816 металевий дисковий 2 л 1500 Вт, Потужний кухонний чайник</name>
         <categoryId>640</categoryId>
         <price>480</price>
@@ -14815,7 +14814,7 @@
         <picture>https://www.websklad.biz.ua/storage/84701/vaypkpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84708/rvyapravpfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84716/rkuvppkfpfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>RAF R.7816 &ndash; сучасний електричний чайник з дисковим нагрівальним елементом та корпусом з нержавіючої сталі. Головна особливість такого приладу полягає у його мобільності. Використовувати електрочайник можна абсолютно у будь-якому місці, де є доступ до електричної мережі. Завдяки досить високій потужності в 1500 Вт, процес закипання рідини займає всього пару хвилин. Чайник обертається на підставці на 360 градусів і має функцію автовідключення під час закипання.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -26675,7 +26674,7 @@
         <picture>https://www.websklad.biz.ua/storage/35557/n5e4cupykeavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/35563/ne4uypkeuyvay.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/35573/4cukyvapkevya.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Праска з керамічною підошвою Magio (MG-534)</strong></p>
 <ul>
 <li>Потужність: 2200 Вт</li>
@@ -36473,7 +36472,7 @@
         <picture>https://www.websklad.biz.ua/storage/74523/orevapyvpuyfypr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74531/revpavyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74539/orevaypkyvapuy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Зручна вага MATARIX MX 403 стане незамінним помічником для будь-якої господині, особливо під час зимових заготовок. Завдяки їм Ви можете зважувати продукти вагою до 7 кг. Це одна з найпопулярніших моделей електронної ваги на кухні.</p>
 <p>Ця модель електронних ваг відрізняється своєю точністю, невибагливістю, дизайном, невеликою вагою, зручними габаритами. У кухонних терезах МХ-403 зібрані всі властивості, необхідні для зважування продуктів та інгредієнтів, а завдяки співвідношенню ціна-якість ставить цю модель на перше місце. Модель електронної ваги для кухні MX-403 працює від батарейок 1.5VX2 AАА, має режим тара та автовимкнення.</p>
 <p><strong>Характеристики:</strong></p>
@@ -36782,7 +36781,7 @@
         <picture>https://www.websklad.biz.ua/storage/75507/dfgsdgsdgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75517/hdfgdsgsdgsase.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75526/euyvpvyfpkfpkufpuy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Завдяки кавомолці електричної RAF</strong>, Ви зможете за лічені хвилини перемолоти кавові зерна для подальшого приготування ароматної кави.</p>
 <p>Представлений пристрій стане справжньою знахідкою для любителів кави, які не хочуть задовольнятися розчинною кавою. Крім кавових зерен, прилад можна використовувати для подрібнення рису, шоколаду, бобів, горіхів, спецій та іншого насіння.</p>
 <p>Кавомолка RAF за лічені секунди подрібнить кавові зерна і дасть можливість насолодитися ароматною ранковою кавою.</p>
@@ -36888,7 +36887,7 @@
         <param name="Тип живлення">акумуляторний</param>
         <param name="Тип пристрою">Велосипедний передній</param>
       </offer>
-      <offer id="741131" available="true">
+      <offer id="741131" available="false">
         <name>Чайник Rainberg RB-2310 3Л</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -36901,7 +36900,7 @@
         <picture>https://www.websklad.biz.ua/storage/102159/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102160/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102162/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об'ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -39041,7 +39040,7 @@
         <picture>https://www.websklad.biz.ua/storage/16393/3wrsfdhy54tesfdgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/16400/t43rwafdsdgh5t4werasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/16407/4tefsds4twesadf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><b>Універсальний гнучкий штатив та кріплення.</b></p>
 <p>Призначений для смартфона та невеликої камери.</p>
 <p>Прекрасний штатив з легкого алюмінієвого сплаву, дозволяє розмістити на собі камеру вагою до 2,5 кг. Не боїться вологи, можна використовувати у воді.</p>
@@ -41569,7 +41568,7 @@
         <picture>https://www.websklad.biz.ua/storage/15295/4uivkafuvifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/15302/e3kcfkuvafufavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/15310/3kcuavikfikuavifiv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Гейзерна кавоварка&nbsp;UNIQUE UN-1903</strong>&nbsp;&ndash;&nbsp;швидкий і зручний спосіб приготувати смачну каву. Виготовлена із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
 <p><strong>Гейзерна кавоварка складається з трьох основних частин:</strong></p>
 <ul>
@@ -44789,47 +44788,6 @@
         <param name="Країна виробник">Китай</param>
         <param name="Стан">Новий</param>
         <param name="Варіант установки">Настільний</param>
-      </offer>
-      <offer id="515790" available="false">
-        <name>Міні насос велосипедний BL-2121 3 Бар</name>
-        <categoryId>14200506</categoryId>
-        <price>260</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws62625</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/57429/e4cuaypvfpeyvfuepyvfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/57437/ecuayvffppfyprk.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Незалежно від того, ви щоденний велосипедист чи прихильник тривалих велопрогулянок, правильний тиск у колесах є ключем до комфортної їзди та тривалого терміну служби шин. Велосипедний насос з телескопічним поршнем, виготовлений з легкого і міцного алюмінію, забезпечить швидке та ефективне накачування коліс до оптимального тиску. Завдяки універсальному клапану, цей насос підходить для будь-яких типів вентилів, а максимальний робочий тиск до 3 Бар гарантує відповідність більшості стандартів велосипедних шин.</p>
-
-<h2>Переваги саме цієї моделі</h2>
-<ul>
-  <li>Легкий корпус з алюмінію забезпечує зручність під час транспортування та довговічність у використанні.</li>
-  <li>Телескопічний поршень збільшує об’єм повітря у кожному циклі, що прискорює процес накачування і знижує фізичне навантаження під час роботи.</li>
-  <li>Універсальний роз’єм сумісний з трьома популярними типами клапанів: AV (автомобільний), FV (преставковий) та DV (вентиль Головки Шредера), що робить насос універсальним інструментом для різних моделей велосипедів.</li>
-  <li>Вбудований тримач для кріплення на рамі велосипеда забезпечує зручне зберігання та швидкий доступ під час поїздок.</li>
-  <li>Максимальний тиск 3 Бар оптимальний для більшості типів велосипедних шин, що дозволяє підтримувати робочий тиск у потрібних межах без ризику пошкодження шин.</li>
-</ul>
-
-<h2>Для кого буде найкращим вибором</h2>
-<p>Цей велосипедний насос ідеальний для власників міських, гірських та гібридних велосипедів, хто цінує швидкість і ефективність поповнення повітря. Він підійде тим, хто часто подорожує, хоче мати надійний інструмент для самостійного ремонту і обслуговування коліс. Новачки у велоспорті знайдуть у ньому простоту у використанні і універсальність, що дозволить без зайвих турбот підтримувати оптимальний тиск навіть у польових умовах.</p>
-
-<h2>Характеристики</h2>
-<ul>
-  <li>Матеріал корпусу: алюміній</li>
-  <li>Тип поршня: телескопічний</li>
-  <li>Сумісність клапанів: AV, FV, DV</li>
-  <li>Максимальне робоче тиск: 3 Бар</li>
-  <li>Комплектація: тримач для кріплення на рамі велосипеда</li>
-</ul>]]></description>
-        <keyword>Міні насос велосипедний</keyword>
-        <keyword>Мини насос велосипедный</keyword>
-        <keyword>Міні насос велосипедний BL-2121 3 Бар</keyword>
-        <keyword>Мини насос велосипедный BL-2121 3 Бар</keyword>
-        <keyword>Міні насос велосипедний BL-2121</keyword>
-        <keyword>Мини насос велосипедный BL-2121</keyword>
-        <keyword>Міні насос</keyword>
-        <keyword>Мини насос</keyword>
-        <keywords>Міні насос велосипедний, Мини насос велосипедный, Міні насос велосипедний BL-2121 3 Бар, Мини насос велосипедный BL-2121 3 Бар, Міні насос велосипедний BL-2121, Мини насос велосипедный BL-2121, Міні насос, Мини насос</keywords>
       </offer>
       <offer id="784277" available="true">
         <name>Набір торцевих ключів з тріскачками 108шт. Onex OX-250S ключі та набори торцевих головок</name>

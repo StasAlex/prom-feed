@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-14 10:00">
+<yml_catalog date="2026-10-15 09:42">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -400,7 +400,7 @@
         <picture>https://www.websklad.biz.ua/storage/4750/e4uayvpeuayvfufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4759/euyavpeuafayfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4767/uayvpuaauyvfayv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5851, ви зможете запросто приготувати собі їжу на поточний день.</p>
 <p>Її можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Регулювати працездатність плити можна за допомогою механічного перемикача. Емалеве покриття плити Domotec додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><b>Компанія Domotec</b>&nbsp;довгі роки випускає переносні електроплити, які також довго служать своїм господарям. Саме тому компанія давно завоювала споживачів свого товару по всьому світу. Адже головні принципи компанії Domotec – це якісна продукція, яка виконує всі умови для продуктивної роботи. Цими ж якостями володіє і плитка MS – ndash; 5851, зроблена за всіма правилами та стандартами переносних електроплиток.</p>
@@ -1387,7 +1387,7 @@
         <picture>https://www.websklad.biz.ua/storage/13066/e4cuiavpipifii.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13077/ecuaivfifuaavfiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13087/kppaipifavi.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Кухонні ваги Matarix MX-404 створені для точного та зручного зважування інгредієнтів, що гарантує ідеальні результати при приготуванні страв. Продумані функції та ергономічний дизайн роблять цей прилад незамінним помічником у кожній кухні, забезпечуючи швидкість і комфорт у щоденній роботі з продуктами.</p>
 
 <h2>Що робить цю модель особливою</h2>
@@ -1878,7 +1878,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="250650" available="true">
+      <offer id="250650" available="false">
         <name>Ліхтар налобний BL-W689/G28-LM+COB/5808A, сенсорний, Li-ion акумулятор, світлодіодний ліхтар на лоб</name>
         <categoryId>150410</categoryId>
         <price>260</price>
@@ -1894,7 +1894,7 @@
         <picture>https://www.websklad.biz.ua/storage/27014/ucjfyvakcjfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27017/ucfyvakcjuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27020/ujcfyvauvvyschyaf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Ліхтар налобний BL-W689/G28-LM+COB</b><span>&nbsp;- легкий, компактний, практичний і зручний прилад, який призначений для спорту, риболовлі, кемпінгу, для велосипедних поїздок у темне час. Це також чудовий варіант для ремонтних робіт.</span></p>
 <p></p>
 <p>Ця модель оснащена одним світлодіодом, який служить багато років без заміни. Діод витрачає мало енергії, тому акумулятор працює довгий час без підзарядки. Ліхтарик може світити кількома кольорами: білим. Попереду розташований <b>&nbsp;COB-світлодіод</b>, який використовується для близького світіння і має яскраве розсіяне світло. Він може висвітлити приміщення 20-30 квадратних метрів. Кут освітлення складає 230 градусів.</p>
@@ -2712,68 +2712,6 @@
         <param name="Производитель">Sea breeze</param>
         <param name="Потребляемая мощность">800</param>
         <param name="Цвет корпуса">Белый</param>
-        <param name="Объем котла (бака для воды)">0.32</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Состояние">Новое</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Регулировка силы пара">Да</param>
-      </offer>
-      <offer id="254792" available="false">
-        <name>Відпарювач портативний SeaBreeze SB-002, компактний універсальний відпарювач. Колір: чорний</name>
-        <categoryId>63006</categoryId>
-        <price>1150</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws51235-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/23132/rwadsffgerwasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23138/3wfdserwasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23145/rwfdsrwea.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23152/rwfdsfferasfd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23160/ewdfed.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23168/rwdfsferwasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23175/grewdsfferwdas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23181/rwdsaferwasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23188/redfssferasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/23196/3rwefstwefsew4-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Портативний відпарювач SeaBreeze SB-002 – це ефективне рішення для швидкого і якісного догляду за одягом без праски. Завдяки ергономічній конструкції, компактним розмірам і потужності пристрій легко справляється з видаленням складок та освіженням тканин у будь-яких умовах – від дому до далеких поїздок.</p>
-
-<h2>Основні сильні сторони</h2>
-<ul>
-  <li>Велика мобільність і зручність використання завдяки компактним габаритам (21х9х9 см) і можливості працювати однією рукою.</li>
-  <li>Швидкий нагрів парової камери всього за 25 секунд, що економить ваш час при підготовці одягу.</li>
-  <li>Потужність 800 Вт забезпечує стабільну і постійну подачу пари зі швидкістю 17 г/хв для ефективного розгладжування складок.</li>
-  <li>Прозорий резервуар об’ємом 110 мл легко заповнювати і контролювати рівень води, що забезпечує безперервний процес відпарювання.</li>
-  <li>Довгий шнур живлення 160 см гарантує свободу рухів під час роботи без обмежень.</li>
-  <li>Простота керування – одна кнопка для максимально інтуїтивного використання.</li>
-</ul>
-
-<h2>У яких ситуаціях стане у пригоді</h2>
-<p>SeaBreeze SB-002 створений для тих, хто цінує час і комфорт. Ідеальний для швидкої підготовки ділового костюма, сукні або сорочки перед важливою зустріччю. Відмінно працює при подорожах, де немає можливості взяти громіздку праску або відпарювач професійного рівня. Також пристрій корисний для освіження одягу перед фотосесією, прибиранням гардеробу або оновленням штор та тканинних аксесуарів. Компактний і легкий, він легко поміщається в сумці, рюкзаку чи валізі, забезпечуючи вам бездоганний вигляд у будь-яких умовах.</p>
-
-<h2>Характеристики</h2>
-<ul>
-  <li>Потужність: 800 Вт</li>
-  <li>Час нагріву: 25 секунд</li>
-  <li>Постійна подача пари: 17 г/хв</li>
-  <li>Об’єм резервуара для води: 110 мл (прозорий корпус для контролю рівня)</li>
-  <li>Розміри (ВхШхД): 21x9x9 см</li>
-  <li>Довжина шнура живлення: 160 см</li>
-  <li>Управління: одна кнопка</li>
-</ul>]]></description>
-        <keyword>Відпарювач портативний SeaBreeze</keyword>
-        <keyword>Отпариватель портативный SeaBreeze</keyword>
-        <keyword>Відпарювач портативний SeaBreeze SB-002</keyword>
-        <keyword>Отпариватель портативный SeaBreeze SB-002</keyword>
-        <keyword>компактний універсальний відпарювач</keyword>
-        <keyword>компактный отпариватель универсальный</keyword>
-        <keyword>Відпарювач портативний</keyword>
-        <keyword>Отпариватель портативный</keyword>
-        <keyword>Sea breeze</keyword>
-        <keyword>Відпарювач портативний SeaBreeze Sea breeze</keyword>
-        <keywords>Відпарювач портативний SeaBreeze, Отпариватель портативный SeaBreeze, Відпарювач портативний SeaBreeze SB-002, Отпариватель портативный SeaBreeze SB-002, компактний універсальний відпарювач, компактный отпариватель универсальный, Відпарювач портативний, Отпариватель портативный, Sea breeze, Відпарювач портативний SeaBreeze Sea breeze</keywords>
-        <param name="Производитель">Sea breeze</param>
-        <param name="Потребляемая мощность">800</param>
-        <param name="Цвет корпуса">Черный</param>
         <param name="Объем котла (бака для воды)">0.32</param>
         <param name="Тип управления">Механическое</param>
         <param name="Состояние">Новое</param>
@@ -3819,7 +3757,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="291300" available="false">
+      <offer id="291300" available="true">
         <name>М&apos;ясорубка електрична Rainberg RB-671 2200Вт, м&apos;ясорубка з насадками, електром&apos;ясорубка для шатківниці</name>
         <categoryId>63005</categoryId>
         <price>1790</price>
@@ -3835,7 +3773,7 @@
         <picture>https://www.websklad.biz.ua/storage/22426/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22434/jfivakcfivafkuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22443/jfivauv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Електрична м’ясорубка Rainberg RB-671 поєднує потужність і функціональність, забезпечуючи швидку та зручну переробку м’яса, риби, овочів і тіста. Ця модель створена для тих, хто цінує ефективність на кухні і прагне до багатофункціонального пристрою з надійним захистом і комфортною експлуатацією.</p>
 
 <h2>Чому користувачі обирають цю модель</h2>
@@ -5899,7 +5837,7 @@
         <picture>https://www.websklad.biz.ua/storage/38020/rwafdsfdsasa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38024/r3qwsfadaerfassd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38032/rwafdaefsdads.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Сіткова електробритва VGR V-390</strong><span>&nbsp;</span>- Це ультратонкий, зручний, простий і стильний дизайн. Дана модель має поршневу сіткову систему гоління та розрахована для сухого гоління. Сіткова технологія добре підходить для чоловіків із чутливою шкірою обличчя. Завдяки використанню спеціальної сітки, шкіра менш травмується та не викликає подразнення.</p>
 <p>Модель може працювати як від мережі 100-240 Вт, так і від вбудованого акумулятора. Заряду батареї NiMh вистачає на 45 хвилин безперервної роботи пристрою, а повний цикл зарядки складе 8 годин. Пристрій має одну голючу голівку, яка добре повторює контури обличчя. Навіть у важких місцях бритва добре справляється зі своїм завданням. Змінні пластинчастий ніж і сіточка для гоління легко очищаються і замінюються без додаткових інструментів.</p>
 <p>Вбудований висувний триммер. Завдяки цьому пристосуванню Ви без зайвих зусиль можете підстригати та деталізувати бороду та бакенбарди, щоб надати акуратного вигляду та завершити процедуру догляду за волоссям на обличчі. Точні сталеві леза тримера створюють чіткі прямі лінії і рівномірно підрівнюють найгустіше волосся. Леза не іржавіють, запобігаючи подразненню шкіри. Зручне бездротове підключення дозволяє використовувати шейвер у будь-якому місці навіть від повербанка або комп'ютера. У комплекті постачається зарядний USB Type-C шнур.</p>
@@ -11472,7 +11410,7 @@
         <picture>https://www.websklad.biz.ua/storage/68271/rgsdgsdagesae.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68280/yhrdfsghsghrag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68287/gtesgresaegwew.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Професійний триммер VGR Professional Black&Green V-906 із серії преміальних інструментів Voyager, випущений у 2024 році, ідеально підходить як для роботи з бородою, так і для стрижки волосся. Цей триммер оснащений відкритим Т-подібним ножовим блоком завширшки 40 мм, що забезпечує мінімальну висоту зрізу всього 0,1 мм. Завдяки відкритій конструкції ножового блоку, ви отримаєте чудовий огляд та повний контроль над процесом стрижки, що покращує точність та комфорт роботи.</p>
 <p>Особливістю даної моделі є покращена конструкція зубців глибиною 1,6 мм, що гарантує чистий і чіткий зріз навіть щільного та жорсткого волосся. Керамічне покриття з графітовим напиленням забезпечує довговічність та знижує нагрівання ножів під час роботи.</p>
 <p><strong>Переваги тримера:</strong></p>
@@ -13350,7 +13288,7 @@
         <picture>https://www.websklad.biz.ua/storage/71954/grsdgsdags-1.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/71961/rgdsgsdagsagas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/71966/sdgsdgesa.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Забезпечте ідеальний догляд за волоссям і бородою з універсальним приладом, який поєднує в собі функції тримера, бритви та машинки для стрижки. Завдяки широкому спектру регулювань довжини, він дозволяє не лише коригувати форму бороди та вусів, а і підтримувати акуратність зачіски, підкреслюючи ваш стиль і впевненість у будь-якій ситуації.</p>
 
 <h2>Що ви отримуєте</h2>
@@ -14161,7 +14099,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="604765" available="true">
+      <offer id="604765" available="false">
         <name>Занурювальний ручний блендер RAF R.780 1500Вт</name>
         <categoryId>64301</categoryId>
         <price>860</price>
@@ -14177,7 +14115,7 @@
         <picture>https://www.websklad.biz.ua/storage/74122/hredfhdfshggsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74124/gdsgdsagsgse.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74129/hrdfshdrgdsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Погружний блендер R780 — це професійний кухонний інструмент з потужним електричним мотором 1500 Вт та максимальною швидкістю обертання 12000 об/хв, що забезпечує швидке та рівномірне подрібнення різноманітних продуктів. Завдяки чотирилезовій системі з нержавної сталі та функції подрібнення льоду, він ідеально підходить як для приготування смузі та крем-супів, так і для подрібнення твердих інгредієнтів. Ергономічний корпус з пластику та зручне керування з регулюванням швидкості роблять процес роботи максимально комфортним та ефективним.</p>
 
 <h2>Ключові переваги</h2>
@@ -18393,7 +18331,7 @@
         <param name="Состояние">Новое</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="658552" available="false">
+      <offer id="658552" available="true">
         <name>Електрична піч для сніданку 3в1 Rainberg RB-2286R 3800Вт (піч, кавоварка, поверхня для смаження)</name>
         <categoryId>605</categoryId>
         <price>1900</price>
@@ -18409,7 +18347,7 @@
         <picture>https://www.websklad.biz.ua/storage/84491/rkvaipviapvifi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84498/rvapkvapivpiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84504/rvapvipvipivf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична настільна піч Rainberg RB 2286B — це багатофункціональний пристрій 3 в 1, який поєднує кавоварку, піч і сковороду з гриль-ефектом в одному компактному приладі потужністю 3800 Вт. Така техніка стане незамінним помічником для тих, хто цінує швидкість і зручність на кухні, дозволяючи одночасно готувати гарячу каву і повноцінний сніданок без зайвих зусиль та додаткового посуду.</p>
 
 <h2>Топ переваг</h2>
@@ -21042,7 +20980,7 @@
         <picture>https://www.websklad.biz.ua/storage/101179/pkirierkerevi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/101181/kpvipifiukipiupif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/101182/rkvirvrvkr.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Професійний триммер VGR Professional Black&Green V-906 із серії преміальних інструментів Voyager, випущений у 2024 році, ідеально підходить як для роботи з бородою, так і для стрижки волосся. Цей триммер оснащений відкритим Т-подібним ножовим блоком завширшки 40 мм, що забезпечує мінімальну висоту зрізу всього 0,1 мм. Завдяки відкритій конструкції ножового блоку, ви отримаєте чудовий огляд та повний контроль над процесом стрижки, що покращує точність та комфорт роботи.</p>
 <p>Особливістю даної моделі є покращена конструкція зубців глибиною 1,6 мм, що гарантує чистий і чіткий зріз навіть щільного та жорсткого волосся. Керамічне покриття з графітовим напиленням забезпечує довговічність та знижує нагрівання ножів під час роботи.</p>
 <p><strong>Переваги тримера:</strong></p>
@@ -22086,7 +22024,7 @@
         <picture>https://www.websklad.biz.ua/storage/1417/182568828_images_20256394961.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1419/182568828_images_20256395346.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1421/IMG_4068.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Гнучкий тримач Live Streaming з LED світильником – це професійне обладнання для блогерів, стримерів та онлайн-творців, яке значно спрощує процес запису відео та трансляцій. Конструкція поєднує зручність кріплення мобільного пристрою та якісне освітлення, підвищуючи ефективність роботи та забезпечуючи комфортний контроль за допомогою багатофункціонального вимикача.</p>
 
 <h2>Переваги використання</h2>
@@ -24784,7 +24722,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="266161" available="false">
+      <offer id="266161" available="true">
         <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200Вт Black</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -24800,7 +24738,7 @@
         <picture>https://www.websklad.biz.ua/storage/22752/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22758/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22785/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип'ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -24855,7 +24793,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="266167" available="false">
+      <offer id="266167" available="true">
         <name>Електрочайник Rainberg RB-2220 скляний дисковий прозорий. Чайник із підсвічуванням 2200Вт Gray</name>
         <categoryId>640</categoryId>
         <price>640</price>
@@ -24871,7 +24809,7 @@
         <picture>https://www.websklad.biz.ua/storage/23746/kcfvik3cjufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23754/kcuvai4kuivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23770/ucvak3cvfi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип'ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -24926,7 +24864,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="266179" available="true">
+      <offer id="266179" available="false">
         <name>Фритюрниця для дому Rainberg RB-2219 з терморегулятором та знімною чашею електрофритюрниця міні фритюрниця</name>
         <categoryId>64306</categoryId>
         <price>1570</price>
@@ -24942,7 +24880,7 @@
         <picture>https://www.websklad.biz.ua/storage/25824/ewdsae2qwdas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/25826/eqwdarewdas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/25828/eqwdase2qas.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Фритюрниця для домашнього використання від виробника техніки для кухні RAINBERG призначена для смаження у фритюрі картоплі фрі, крокетів, курячих ніжок, крилець, чіпсів, нагетсів та багатьох інших делікатесів. Красиві золоті хрусткий картопля. Завдяки фритюрниці ви можете готувати їхні будинки і будете набагато смачнішими та дешевшими, ніж ті, які купуються в магазині.</p>
 <p>Якщо ваша сім'я любить глибоко смажену їжу, ця фритюрниця ідеально підходить для вас. Не залишайте олію у фритюрниці.</p>
 <p><strong>Переваги:</strong></p>
@@ -25407,7 +25345,7 @@
         <picture>https://www.websklad.biz.ua/storage/22659/ivYaAviFvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22667/kfivfakivffvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22675/cfivYaakafvif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Планетарний міксер тістоміс Domotec MS-1368 - високоякісна кухонна машина для замісу тіста. Призначений для побутового та напівпрофесійного використання. Корпус виготовлений із міцного ABS пластику. Чаша для замісу виготовлена з нержавіючої сталі, знімна, надійно фіксується.</p>
 <p>Є захист від бризок з отвором для додавання інгредієнтів під час роботи тістомісу. На бічній панелі розташовано регулятор швидкості, передбачено 6 швидкісних режимів.</p>
 <p>У комплекті три насадки - віночок для збивання, гак для замісу тугого тіста та фігурна насадка для замісу різних видів тіста.</p>
@@ -25886,7 +25824,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="332489" available="false">
+      <offer id="332489" available="true">
         <name>Пилосос Rainberg RB-658TB колбовий з регулятором потужності та турбощіткою 5L - 5200 Вт, пилосос домашній</name>
         <categoryId>608</categoryId>
         <price>3740</price>
@@ -25902,7 +25840,7 @@
         <picture>https://www.websklad.biz.ua/storage/31830/e4ucaviapkuifvaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31835/kcuifvauivfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31844/kjcuvifaukvifai.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Пристрій для швидкого та ефективного прибирання домашніх та інших приміщень.</p>
 <p>Потужний електромотор забезпечує сильне всмоктування всіх частинок пилу та гризі всередину пилозбірника.</p>
 <p><br /><strong>Основні особливості контейнерного пилососу Rainberg RB-658:</strong></p>
@@ -25961,7 +25899,7 @@
         <param name="Тип трубы всасывания">Телескопическая</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="332567" available="true">
+      <offer id="332567" available="false">
         <name>Міксер ручний на кухню RAF R-6630 5 швидкостей 2 насадки 300 W, двовінчиковий міксер, міксер для збивання</name>
         <categoryId>612</categoryId>
         <price>600</price>
@@ -25977,7 +25915,7 @@
         <picture>https://www.websklad.biz.ua/storage/31154/4kuaivfavifvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31162/kcfivauvfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31170/k3cavifuvfvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Кухонний електричний міксер RAF R-6630</strong><span>&nbsp;</span>просто незамінний на вашій кухні. Він простий у роботі, але при цьому багатофункціональний. Прилад здатний збити продукт до будь-якої консистенції. Швидкість та якість змішування інгредієнтів залежить від потужності пристрою. За такої потужності ви зможете досить швидко приготувати крем або замісити тісто, налаштувавши пристрій на задану швидкість.</p>
 <p><strong>&nbsp;Міксер RAF R-6630 має 5 режимів швидкостей</strong>. Також є режим &laquo;Турбо&raquo;, що збиває дуже швидко. Для зручності виконання різних функцій є два види насадок &ndash; віночки для збивання та гаки для тіста. Змінити їх можна простим натисканням кнопки. <strong></strong></p>
 <p><strong>Режими роботи:</strong></p>
@@ -26930,7 +26868,7 @@
         <picture>https://www.websklad.biz.ua/storage/38775/rfdsrfdsgerasdfdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38781/3refsrqwasfsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38786/nkrvayaaya.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1761BKWT &mdash; це універсальна модель для чоловіків, яка вдало поєднує класичний аналоговий циферблат з практичною цифровою індикацією. Міцний корпус чорного кольору, масивний обідок і великі стрілки створюють образ спортивного хронографа, який підходить як для активного способу життя, так і для повсякденного носіння. Завдяки поєднанню двох типів індикації, ви з легкістю зчитуєте час у будь-якій ситуації.</p>
 <p>SKMEI 1761BKWT оснащений усіма необхідними функціями: будильник, секундомір, автоматичний календар, підсвітка, 12/24-годинний формат і подвійний час. Високий рівень водозахисту 10 ATM дозволяє не знімати годинник під час плавання або прийому душу. Це чудовий вибір для чоловіків, які шукають міцний і функціональний годинник із впізнаваним дизайном.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -27954,7 +27892,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="559484" available="true">
+      <offer id="559484" available="false">
         <name>Набір для стрижки VGR 6 в 1 V-095, 16 насадок, Багатофункціональна акумуляторна машинка для стрижки</name>
         <categoryId>28290204</categoryId>
         <price>1030</price>
@@ -27970,7 +27908,7 @@
         <picture>https://www.websklad.biz.ua/storage/58714/reaavprypvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/58723/rnkvrkvapyfuy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/58731/hrdfgsdgsdags.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Набір для стрижки VGR 6 в 1 V-095</b><span>&nbsp;</span>&mdash; це універсальний та багатофункціональний інструмент для домашнього та професійного використання. Він включає 16 насадок, які дозволяють виконувати стрижку волосся, бороди та контуринг із високою точністю. В комплект входять різні насадки для регулювання довжини стрижки, що дає змогу досягти бажаного результату в будь-якому стилі.</p>
 <p>Машинка оснащена лезами з нержавіючої сталі для довговічної та точної роботи, а роторний двигун забезпечує стабільну потужність. Завдяки акумулятору з можливістю заряджання через USB цей набір гарантує до 120 хвилин безперервної роботи на одному заряді. Водонепроникний дизайн дозволяє мити інструменти під водою, що полегшує догляд за ними. Крім того, набір включає олію для змащення, щітку для очищення та захисні кришки на лезо для безпечного зберігання. Це ідеальне рішення для тих, хто шукає якісну та надійну машинку для стрижки та догляду за волоссям та бородою.</p>
 <p><b>Характеристики:</b><span></span></p>
@@ -31499,7 +31437,7 @@
         <picture>https://www.websklad.biz.ua/storage/2264/kcfayvkfauvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2273/euyavuayvfayvyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2284/8397299_images_1542375955.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Кавомолка Magio МG-205 Кавомолка &mdash; це незамінний пристрій на будь-якій кухні, особливо для любителів кави. Безперечним фактом є те, що кавові зерна краще зберігають свій смак у цілісному стані, а для заварювання напою потрібні мелені зерна. Для того, щоб завжди мати можливість насолоджуватися кавою зі свіжозмелених зерен.</p>
 <p>Кавомолка MAGIO MG-205 має компактні габарити і не займе багато місця, а також є можливість сховати мережевий шнур у корпус кавомолки. У кавомолці MAGIO MG-205 можна перемолоти одразу до 70 г зерен. Кавомолка має гострі леза з нержавіючої сталі, а також прозору кришку, через яку видно ступінь помелу зерен.</p>
 <p>Особливості кавомолки: прозора кришка. Корпус та леза з нержавіючої сталі. Система безпеки: експлуатація можлива лише із закритою кришкою. Відсік для зберігання шнура. Завдяки кавомолці Magio МG-205 Ви зможете щоранку радувати себе улюбленими кавовими напоями.</p>
@@ -33230,7 +33168,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">13</param>
       </offer>
-      <offer id="332485" available="false">
+      <offer id="332485" available="true">
         <name>Пилосос контейнерний Rainberg RB-652 турбощітка 3700 Вт 4 л</name>
         <categoryId>608</categoryId>
         <price>2520</price>
@@ -33246,7 +33184,7 @@
         <picture>https://www.websklad.biz.ua/storage/27487/3ujcfvaiukcvfiavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27496/e4cuipecuaifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27522/kjcfviafisvi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Контейнерний пилосос Rainberg</strong>&nbsp;Німеччина циклонного типу.&nbsp;<br />Пилозбірник великого об'єму достатньо лише дістати контейнер, викинути сміття та за необхідності вимити його.&nbsp;</p>
 <p>Завдяки потужності двигуна 3700W &nbsp;прибирання буде набагато швидше та ефективніше.&nbsp;</p>
 <p>Дана модель пилососа без мішка має фільтр очищення повітря, що запобігає попаданню пилу назад у приміщення.&nbsp;</p>
@@ -34228,7 +34166,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="515976" available="true">
+      <offer id="515976" available="false">
         <name>Задній велоліхтар з поворотником та лазерною розміткою AQY-0100, Велосипедний ліхтар із захистом від вологи.</name>
         <categoryId>342402</categoryId>
         <price>600</price>
@@ -34244,7 +34182,7 @@
         <picture>https://www.websklad.biz.ua/storage/55035/4tesgftesggrsagsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/55038/tesdgarftesadsffds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/55039/tesdgatewgasesda.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Фара ліхтарик на велосипед велофара&nbsp;потужна вело&nbsp;ліхтар велосипедний для велосипеда&nbsp;задній usb з акумулятором поворотником і лазерною розміткою автоматично показує знаки гальмування (квадрат) і руху (стрілка вперед) а також напрям повороту (стрілки вправо) нахилі на 10 градусів</p>
 <p>Збільшіть свою безпеку на велосипеді, використовуючи ліхтар на велосипеді. Наша потужна фара для велосипеда одна з кращих з представлених для велосипеда з акумулятором. Незалежно від умов освітлення, цей велоліхтар задній дуже яскравий і надійний. Велоліхтар зручно встановлюються на кермо або задній каркас велосипеда і легко заряджаються за допомогою USB. Ми пропонуємо різні моделі, включаючи велосипедні фари та задні ліхтарі, а також фари з лазерними показами для підвищення видимості на дорозі. Виберіть наші велосипедні фари та ліхтарі для безпечних та комфортних поїздок у будь-який час доби.</p>
 <p><strong>&nbsp;Переваги:</strong></p>
@@ -35632,7 +35570,7 @@
         <picture>https://www.websklad.biz.ua/storage/26433/ewdsarwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26440/ewasdrewsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26459/3wdsffr3qweas.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Чайник-термос SB-017 об'ємом 1,8 літра — це надійний і функціональний пристрій для швидкого та безпечного приготування гарячої води. Завдяки двошаровій конструкції з зовнішнім пластиковим корпусом і внутрішньою колбою з нержавіючої сталі, цей чайник ефективно зберігає тепло, працюючи за принципом термоса. Інтегровані захисні функції та сучасний прихований нагрівальний елемент забезпечують зручність використання і довговічність.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -37706,7 +37644,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="763019" available="true">
+      <offer id="763019" available="false">
         <name>Мультипіч Magio MG-413 1400Вт 5.3л</name>
         <categoryId>64306</categoryId>
         <price>3740</price>
@@ -37721,7 +37659,7 @@
         <picture>https://www.websklad.biz.ua/storage/104450/puivfpuivfpauifpuifiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/104454/pkvifpuvifpipipikfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/104457/pvaipuvifuipuifif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мультипіч Magio MG-413 потужністю 1400 Вт і об'ємом чаші 5,3 літра є універсальним рішенням для домашніх кулінарних задач. Вона оснащена безліччю зручних функцій, які дозволять легко і швидко готувати різноманітні страви з мінімальними зусиллями. Сенсорне управління і широкий діапазон температур від 65 до 200 °C забезпечують точність і комфорт при експлуатації.</p>
 
 <h2>Що робить цей товар хорошим вибором</h2>
@@ -38632,7 +38570,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип тонометра">Автоматический</param>
       </offer>
-      <offer id="580989" available="false">
+      <offer id="580989" available="true">
         <name>Душ акумуляторний туристичний портативний похідний мобільний душ Portable Outdoor Shower</name>
         <categoryId>150203</categoryId>
         <price>560</price>
@@ -38648,7 +38586,7 @@
         <picture>https://www.websklad.biz.ua/storage/68746/eupivkivpivfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68753/hrgfrdsfhrasr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68760/hrghdfhdfgrsdgdf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><span><b>Портативний акумуляторний душ Portable shower Portable shower -&nbsp;</b>пристрій для тих, хто багато подорожує. Чи любите відпочинок на природі, в кемпінгах, чи доводиться багато часу проводити в поїздках на авто у зв'язку з роботою? Душ портативний автономний на акумуляторі допоможе вам мати доступ до базових гігієнічних процедур незалежно від вашої віддаленості від цивілізації. Все, що вам потрібно - це ємність з водою. У комплекті з душем ви знайдете все необхідне для комфортного використання. Він оснащений насосом і акумулятором ємністю 2200mAh, що забезпечує приблизно 35 хвилин роботи при повному заряді.
 <p><span><b>Окрім подорожей, душ портативний автономний на акумуляторі буде корисним у багатьох інших ситуаціях, наприклад:</b></span></p>
 <ul>
@@ -39446,60 +39384,6 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="582931" available="false">
-        <name>Кавоварка гейзерна з нержавіючої сталі UNIQUE UN-1901 180 мл, Гейзер для варіння кави гейзерна кавоварка</name>
-        <categoryId>638</categoryId>
-        <price>480</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws64133</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/70330/revapvypfyup.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70337/euyfvauyfyu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70345/kvayppvyfpuyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70352/rkvypyvuyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70360/rkvakpvpfpy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70367/rkvayprayf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70376/rkvyapypuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70384/rvyapkyvfpy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70393/rvaypvaypyvpyfu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70402/rkpyvpyvfppyyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><b>Гейзерна кавоварка UNIQUE UN-1901</b><span>&nbsp;</span>- швидкий і зручний спосіб приготувати смачну каву. Виготовлена ​​із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
-<p><b>Гейзерна кавоварка складається з трьох основних частин:</b></p>
-<ul>
-<li>резервуар для води</li>
-<li>фільтр для меленої кави</li>
-<li>ємність для готового кавового напою</li>
-</ul>
-<p>Принцип роботи даної кавоварки полягає в тому, що пара досягає високого тиску і поступово витісняє киплячу воду через лійку та фільтр, в якому знаходиться мелена кава. Вода проходить через кавовий порошок і потрапляє у верхній резервуар, де збирається готова кава.</p>
-<p><b>Характеристики гейзерної кавоварки UNIQUE UN-1901:</b></p>
-<ul>
-<li>Матеріал корпусу: нержавіюча сталь</li>
-<li>Матеріал ручки: бакелітова</li>
-<li>Колір корпусу: металік</li>
-<li>Кількість чашок: 4 шт</li>
-<li>Тип кавоварки: гейзерна</li>
-</ul>]]></description>
-        <keyword>Кавоварка гейзерна</keyword>
-        <keyword>Кофеварка гейзерная из</keyword>
-        <keyword>Кавоварка гейзерна з нержавіючої сталі UNIQUE</keyword>
-        <keyword>Кофеварка гейзерная из нержавеющей стали UNIQUE</keyword>
-        <keyword>Гейзер для варіння кави гейзерна кавоварка</keyword>
-        <keyword>Гейзер для варки кофе гейзерная кофеварка</keyword>
-        <keyword>Кавоварка гейзерна з нержавіючої</keyword>
-        <keyword>Кофеварка гейзерная из нержавеющей</keyword>
-        <keyword>Кавоварка гейзерна з нержавіючої сталі</keyword>
-        <keyword>Кофеварка гейзерная из нержавеющей стали</keyword>
-        <keywords>Кавоварка гейзерна, Кофеварка гейзерная из, Кавоварка гейзерна з нержавіючої сталі UNIQUE, Кофеварка гейзерная из нержавеющей стали UNIQUE, Гейзер для варіння кави гейзерна кавоварка, Гейзер для варки кофе гейзерная кофеварка, Кавоварка гейзерна з нержавіючої, Кофеварка гейзерная из нержавеющей, Кавоварка гейзерна з нержавіючої сталі, Кофеварка гейзерная из нержавеющей стали</keywords>
-        <param name="Производитель">Unique</param>
-        <param name="Цвет корпуса">Серебристый</param>
-        <param name="Объем">0.18</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип используемого кофе">Молотый</param>
-        <param name="Состояние">Новое</param>
-        <param name="Материал корпуса">Алюминий</param>
-        <param name="Тип кофеварки">Гейзерная</param>
-        <param name="Назначение">Бытовое</param>
-      </offer>
       <offer id="604776" available="true">
         <name>Електрочайник від 220В компактний RAF R-7887 із двома чашками в комплекті 1000Вт</name>
         <categoryId>640</categoryId>
@@ -40050,7 +39934,7 @@
         <keyword>Измельчитель</keyword>
         <keywords>Подрібнювач для кухні, Измельчитель для кухни, подрібнювач чопер кухонний, измельчитель чоппер кухонный, блендер з металічною чашею 2л, блендер с металлической чашей 2л, Подрібнювач, Измельчитель</keywords>
       </offer>
-      <offer id="764756" available="false">
+      <offer id="764756" available="true">
         <name>М&apos;ясорубка електрична Rainberg RB-2319 із системою реверсу насадка куббе 3000Вт White</name>
         <categoryId>63005</categoryId>
         <price>1680</price>
@@ -40063,7 +39947,7 @@
         <picture>https://www.websklad.biz.ua/storage/102850/pyvvpyvfpypyfyfa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102855/pkvypyvfpuypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102857/ghrdfsgdfgsasdafs.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Мясорубка Rainberg RB-2319 потужністю 3000 Вт — професійний кухонний пристрій, призначений для ефективного та різноманітного приготування фаршу в домашніх умовах. Ця модель поєднує в собі надійність та функціональність, забезпечуючи швидку переробку м’яса різних видів, риби, овочів і грибів. Висока потужність мотору гарантує стабільну роботу при великих навантаженнях, а оновлений дизайн і продумані аксесуари дозволяють оптимізувати процес подрібнення продуктів і розширюють можливості домашньої кулінарії.</p>
 
 <h2>Головні переваги моделі</h2>
@@ -40504,7 +40388,7 @@
         <picture>https://www.websklad.biz.ua/storage/73330/hrdsfgrsdhgrsagr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73340/hrdfhgdshr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73347/hrsdfgsdgsagse.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Рознімні форми для запікання<span>&nbsp;</span><strong>UNIQUE UN-1701 з 6 формочок<span>&nbsp;</span></strong>призначені для випікання всіх видів тіста, складання тортів та мусових десерти. Завдяки роз'ємній конструкції коржі легко витягаються з форми.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -40685,7 +40569,7 @@
         <picture>https://www.websklad.biz.ua/storage/105190/efsdafgsdagsddaaags.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105196/htfdshrdfsfgfsdgfsagsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105200/gtrsdagagsgsasg.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка Rainberg RB-2319 з потужністю 3000 Вт – це сучасний та функціональний прилад, який значно спростить процес приготування домашнього фаршу. Завдяки високій продуктивності та багатофункціональній комплектації, дана модель ідеально підходить для створення фаршу з м’яса, риби, овочів та грибів. Надійна збірка та зручні аксесуари дозволяють отримувати однорідний продукт потрібної консистенції з мінімальними зусиллями.</p>
 
 <h2>Причини обрати саме цей варіант</h2>
@@ -44864,7 +44748,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws72245</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/4348/91719416_images_12354266024.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Цифровий термометр-гігрометр HTC-2</strong> це комбінований прилад для вимірювання температури та вологості в приміщенні. Вимірювач температури та вологості повітря використовують для контролю параметрів мікроклімату в житлових, виробничих та складських приміщеннях. &nbsp;За допомогою кріплення, його можна повісити на стіну, або використовувати як настільну метеостанцію. Термо-гігрометр HTC-2 оснащений годинником, має режим будильника та функцію пам'яті останніх макс/хв., значень температури та вологості повітря. Всі дані виводяться на великий РК-дисплей великими символами. Роботу приладу забезпечує 1 батарейка 1,5V AAA (міні пальчик), яка постачається в комплекті з термогігрометром.</p>
 <p><strong>Технічні характеристики:</strong></p>
 <ul>

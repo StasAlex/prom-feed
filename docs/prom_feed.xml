@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-15 09:42">
+<yml_catalog date="2026-10-16 09:35">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -4451,7 +4451,7 @@
         <picture>https://www.websklad.biz.ua/storage/23157/ufyvfayvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23163/kcvyfafvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23170/uavymapufvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Ручний ліхтар BL-520-T6 поєднує в собі міцність, функціональність і сучасну світлотехніку, що робить його незамінним інструментом для професіоналів та любителів активного відпочинку. Його анодований алюмінієвий корпус забезпечує довговічність і захист від ударів, а міцне скло надійно захищає світлодіоди серії T6. Компактний розмір і зручний ремінець гарантують комфортне носіння, а потужний акумулятор із USB-зарядкою дозволяє використовувати пристрій тривалий час без заміни батарей.</p>
 
 <h2>Основні сильні сторони</h2>
@@ -4909,7 +4909,7 @@
         <picture>https://www.websklad.biz.ua/storage/26418/pkcayfvaukfavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26430/kjcyfvaaukvyfavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26438/e4kcyvaaufvyauf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Мультиварка&nbsp;Rainberg RB-6207&nbsp;- багатофункціональний помічник на кухні з програмним управлінням, призначений для приготування страв у режимах автомат і напівавтомат.</p>
 <p>Вона надійна і проста в управлінні, укомплектована чашею об'ємом на 4 літри.</p>
 <p>Її потужність складає 1500 Вт.</p>
@@ -5732,7 +5732,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344241" available="false">
+      <offer id="344241" available="true">
         <name>Акумуляторна чоловіча міні електробритва VGR V-390 для гоління бороди та вусів шейвер Black</name>
         <categoryId>3314</categoryId>
         <price>470</price>
@@ -5748,7 +5748,7 @@
         <picture>https://www.websklad.biz.ua/storage/33363/ipivfpvpvfpivvpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33371/vifpivfuivvfaif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33379/pivfpvfvpfiv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Сіткова електробритва VGR V-390</strong><span>&nbsp;</span>- Це ультратонкий, зручний, простий і стильний дизайн. Дана модель має поршневу сіткову систему гоління та розрахована для сухого гоління. Сіткова технологія добре підходить для чоловіків із чутливою шкірою обличчя. Завдяки використанню спеціальної сітки, шкіра менш травмується та не викликає подразнення.</p>
 <p>Модель може працювати як від мережі 100-240 Вт, так і від вбудованого акумулятора. Заряду батареї NiMh вистачає на 45 хвилин безперервної роботи пристрою, а повний цикл зарядки складе 8 годин. Пристрій має одну голючу голівку, яка добре повторює контури обличчя. Навіть у важких місцях бритва добре справляється зі своїм завданням. Змінні пластинчастий ніж і сіточка для гоління легко очищаються і замінюються без додаткових інструментів.</p>
 <p>Вбудований висувний триммер. Завдяки цьому пристосуванню Ви без зайвих зусиль можете підстригати та деталізувати бороду та бакенбарди, щоб надати акуратного вигляду та завершити процедуру догляду за волоссям на обличчі. Точні сталеві леза тримера створюють чіткі прямі лінії і рівномірно підрівнюють найгустіше волосся. Леза не іржавіють, запобігаючи подразненню шкіри. Зручне бездротове підключення дозволяє використовувати шейвер у будь-якому місці навіть від повербанка або комп'ютера. У комплекті постачається зарядний USB Type-C шнур.</p>
@@ -5910,7 +5910,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344263" available="true">
+      <offer id="344263" available="false">
         <name>Професійний шейвер VGR V-399 GOLD, бездротова електробритва, бритва триммер для бороди</name>
         <categoryId>3314</categoryId>
         <price>1030</price>
@@ -5926,7 +5926,7 @@
         <picture>https://www.websklad.biz.ua/storage/33021/3kcuaukafyvyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33028/3kcufyavuvyfay.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33035/e4kuayukavyffyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроритва VGR Professional Dual Flexing Foil Shaver Gold&nbsp;</strong>- це незамінний інструмент для фінальної стрижки, який ідеально підходить як для гоління, так і для стрижки волосся на голові<strong>&nbsp;&laquo;під нуль&raquo ;</strong>. Незамінна річ для будь-якого перукаря, майстра чи барбера. Також це відмінний інструмент для гоління в домашніх умовах, а саме гоління щетини або гоління голови повністю наголо. Моделі колекції виконані в зручному незвичайному корпусі в золотому і сріблястому кольорах, що володіють приголомшливою ергономікою і відмінним функцією.
 <p>Особливістю моделі є наявність<span>&nbsp;</span><strong>двох сіток, що голять</strong>, що забезпечує чистий зріз волосся, немов бритвою-верстатом. сітки, що голять, рухливі, що дозволить Вам не тільки регулювати момент натискання, але й забезпечить чітке повторення контурів обличчя або голови для забезпечення максимального результату. Завдяки сучасному мотору з частотою коливань<strong><span>&nbsp;</span>8700 об/хв</strong>, зріз волосся буде дуже чистим.</p>
 <p>Також у комплекті поставляється окрема <span>&nbsp;</span><strong>змінна головка-картридж</strong><span>&nbsp;</span>з ширшими отворами в самій сітці, для гоління жорсткої щетини або гоління голови. Змінні головки мають спеціальні написи на задній частині корпусу: <strong><span>&nbsp;</span>"For Beard"</strong><span>&nbsp;</span>- для гоління бороди та вусів, а також<strong ><span>&nbsp;</span>"For Hair"</strong><span>&nbsp;</span> - для гоління голови. При необхідності сітку з великими отворами можна використовувати для гоління довшою або жорсткішою щетиною.</p>
@@ -5993,7 +5993,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344269" available="false">
+      <offer id="344269" available="true">
         <name>Професійний набір/машинка для стрижки волосся 6 в 1 VGR V-106, бритва триммер для бороди</name>
         <categoryId>28290204</categoryId>
         <price>920</price>
@@ -6009,7 +6009,7 @@
         <picture>https://www.websklad.biz.ua/storage/30298/herdfbhdfsgrgre.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30306/tesgrsgesaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30313/hrdfhrdsgrsafe.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>VGR V-106 - це професійний комплект для догляду за тілом, який пропонує функціональність 6 в 1 та вражає точністю свого леза, виготовленого з високоякісної нержавіючої сталі. Корпус має світлодіодний дисплей, що відображає рівень заряду у відсотках.</p>
 <p><strong>Важливими компонентами цього набору "VGR V-106" є:</strong></p>
 <ul>
@@ -6062,7 +6062,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="344281" available="false">
+      <offer id="344281" available="true">
         <name>Машинка триммер 4в1 VGR V-172 для стрижки волосся на акумуляторі зарядка USB, електробритва для голови</name>
         <categoryId>28290204</categoryId>
         <price>770</price>
@@ -6078,7 +6078,7 @@
         <picture>https://www.websklad.biz.ua/storage/33464/reucyavfpauyfvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33466/pcuayvmfauafyvvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/33677/trwfdafefad.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний пристрій розроблений спеціально для справжніх чоловіків, різноманітне поєднання насадок та режимів гоління дозволяють реалізувати будь-які задуми для ідеального зовнішнього вигляду. З цим стайлером неохайна щетина стане доглянутою і стильною. достатньо лише одного руху руки. Безперечні переваги та приємна вартість зробили цю бритву бестселером продажів на світовому ринку.</p>
 <p>Набір для стрижки волосся<span>&nbsp;</span><b>VGR V-172</b><span>&nbsp;</span>є універсальною машинкою для стрижки з різними насадками. Насадка для стрижки волосся, насадка регулювання довжини 3-12 мм, триммер для носа, дизайнерський триммер, вузький триммер, сіткова бритва, насадка 3-4,5 мм. Леза з нержавіючої сталі, вбудований акумулятор та індикатор заряду. Відмінний набір на всі випадки життя замість кількох приладів Вам достатньо мати один такий.</p>
 <p><strong>Технічні характеристики<br /></strong></p>
@@ -6875,7 +6875,7 @@
         <picture>https://www.websklad.biz.ua/storage/36992/wrsdfaerdfads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/37002/sdfgtrfads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/37009/3wasdfgrwafsd.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Чайник із свистком Magio MG-1193 — функціональний та універсальний аксесуар для кухні, створений для зручного й швидкого кип’ятіння води. Об’єм 3 літри забезпечує достатньо рідини для приготування чаю або кави, а виготовлення з нержавної сталі гарантує довговічність і стійкість до зношення. Цей чайник поєднує в собі практичність, безпеку й сумісність з різними типами плит, що робить його відмінним рішенням для дому, дачі або офісу.</p>
 
 <h2>Переваги використання</h2>
@@ -7093,7 +7093,7 @@
         <picture>https://www.websklad.biz.ua/storage/39311/k3jcafiuivfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39317/kuaivmpaukvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39321/e4k3jcfiaukcfavisiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>Rainberg RB-2223</strong><span>&nbsp;</span>&ndash; якісний стаціонарний блендер із широким функціоналом. Він швидко подрібнить овочі для салату або перетворить на пюре приготований суп.</p>
 <p>Скляний глечик-чаша вміщує 1.5 л. Маса всередині глека ретельно подрібнюється у горизонтальному та вертикальному напрямках.</p>
 <p>Потужність блендера 2000 Вт, є три швидкості. За рахунок цього легко підібрати режим подрібнення будь-якого товару. Блендер стійкий, компактний, ніж, що знімається, виконаний з нержавіючої сталі. Існує функція подрібнення льоду.</p>
@@ -8666,7 +8666,7 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="462610" available="true">
+      <offer id="462610" available="false">
         <name>Портативна Bluetooth колонка TG658 8W з RGB підсвічуванням, Музичні колонки для вулиці. Колір: сірий</name>
         <categoryId>6371101</categoryId>
         <price>540</price>
@@ -8682,7 +8682,7 @@
         <picture>https://www.websklad.biz.ua/storage/43765/recuypuvpucu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43769/n4upyvpfeuvpfyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43774/4euuyvfecuyvpyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>T&amp;G TG-658 Bluetooth Speaker - це компактна колонка, яка ідеально підходить для будь-якого випадку. Влаштовуєте ви вечірку вдома, відпочиваєте біля басейну або вирушаєте в похід на природу, TG-658 забезпечить вам якісний звук і тривалий час автономної роботи.</p>
 <p>TG-658 оснащена чипом декодування звуку Bluetooth 5.3, який забезпечує стабільне і надійне з'єднання з вашим смартфоном, планшетом або ноутбуком. Колонка також оснащена вбудованим мікрофоном, тому ви можете використовувати її для дзвінків у режимі гучного зв'язку.</p>
 <p>TG-658 оснащена динаміком потужністю 8 Вт, який забезпечує насичений і повний звук. У колонку також вбудований підсилювач басів, тому ви зможете насолоджуватися улюбленою музикою з чистими басами.</p>
@@ -8895,7 +8895,7 @@
         <picture>https://www.websklad.biz.ua/storage/45450/4euyvpvfeupk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/45458/4ecpukyvareuvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/45464/4kupvivaepuuip.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Електробритва-шейвер VGR V-337</strong><span>&nbsp;</span>&mdash; це багатофункціональний пристрій, який ідеально підходить як для гладкого гоління, так і для стрижки волосся "під нуль". Це незамінний інструмент для професійних перукарів, барберів та домашнього використання.</p>
 <p>Особливістю моделі є дві сітки, що голять, які забезпечують чисте гоління, порівнянне з використанням традиційної бритви. Рухливі сітки адаптуються до контурів обличчя та голови, забезпечуючи максимальну точність. На задній панелі шейвера знаходиться триммер, що дозволяє легко виконувати окантовку та завершувати процес гоління.</p>
 <p>Подвійна система гоління складається з двох сіток і ножів, виконаних з гіпоалергенної титанової фольги. Сітка легко замінюється, як і ножі, які працюють асинхронно, що покращує ефективність гоління.</p>
@@ -10138,7 +10138,7 @@
         <picture>https://www.websklad.biz.ua/storage/49649/uapaiuvavifavfiavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49659/e4cuaivuivuavif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49668/4euivapkcuppf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>Епілятор VGR V-732<span>&nbsp;</span></strong>&mdash; призначений для видалення небажаного волосся терміном до 4-х тижнів! <span>&nbsp;</span></strong>Епілятор максимально зручний у використанні, не вислизає з руки, кнопка перемикання режимів роботи розташована таким чином, щоб Ви могли легко її натискати. Модель відрізняється ергономічним корпусом, має плавні контури. Також <span>&nbsp;</span><strong>V-732</strong><span>&nbsp;</span>це універсальний прилад, що включає 3 насадки (епілюючу, бритвену і пемзу).</p>
 <p><strong>Особливості епілятора VGR V-732:</strong></p>
 <ul>
@@ -10494,7 +10494,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="484028" available="false">
+      <offer id="484028" available="true">
         <name>Ліхтар налобний BL-008+COB (white+red), червоне світло, водозахист, вбудований акумулятор</name>
         <categoryId>150410</categoryId>
         <price>330</price>
@@ -10510,7 +10510,7 @@
         <picture>https://www.websklad.biz.ua/storage/43442/ecuaypaucauca.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43447/4wesdgstegrgr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43454/twesgffdsgrfsgtresgr.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар з акумулятором 1200 mAh та USB-виходом — це надійний та зручний інструмент для освітлення в будь-яких умовах. Корпус з міцного ABS-пластику забезпечує довговічність та стійкість до механічних пошкоджень, а компактні розміри і оптимальна вага роблять використання комфортним у тривалих походах, ремонті або роботі в темний час доби.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -11931,7 +11931,7 @@
         <picture>https://www.websklad.biz.ua/storage/65690/4eupivarkavipekp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65697/4eupivarkvaireiprva.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65702/pvifpvifpivpifp.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроритва VGR V-352</strong><span>&nbsp;</span>&ndash; це інструмент, який ідеально підходить як для гоління, так і для стрижки волосся &laquo;під нуль&raquo;. Незамінна річ для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, приголомшливій ергономіці та чудовому функціоналі.</p>
 <p>Особливістю шейвера є наявність двох сіток, що голять, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Сітки, що голять, рухливі, що дозволить не тільки регулювати момент натискання, але й забезпечить чітке повторення контурів обличчя або голови для максимально якісного результату. Завдяки сучасному мотору із частотою коливань 7500 об/хв, зріз волосся буде дуже чистим.</p>
 <p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та є гіпоалергенними. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі також можуть бути замінені.</p>
@@ -12072,7 +12072,7 @@
         <picture>https://www.websklad.biz.ua/storage/69168/hdfdgsda.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69172/htjhdfsddsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69178/hdfgrdgas.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Бездротова машинка триммер<span>&nbsp;</span><strong>VGR V-009</strong><span>&nbsp;</span>поєднує в собі машинку для стрижки волосся і бороди зі змінними 4 насадками (1 мм, 2 мм, 3 мм, 4 мм. Використовуючи сам триммер без насадки, ви зможете створити рівні контури стрижки, підголити баки або вибрати шию.</p>
 <p>Крім того, його можна використовувати для видалення надмірної рослинності на тілі. Ергономічний, легкий і компактний дизайн дозволяє легко володіти інструментом навіть новачкові.</p>
 <p>Машинка для стрижки волосся<span>&nbsp;</span><strong>VGR-009<span>&nbsp;</span></strong> відрізняється міцним корпусом, стійким до дії вібрації, низьким рівнем шуму, стильним дизайном , плавним ходом гострих лез, зручністю та тривалим терміном експлуатації. Леза виконані з високоякісної нержавіючої сталі, що забезпечує максимально довгу гостроту та комфортність використання. У комплекті йде зарядний шнур USB, а також щіточка для очищення та олія для лез.</p>
@@ -13074,7 +13074,7 @@
         <param name="Состояние">Новое</param>
         <param name="Материал ручки">Пластик</param>
       </offer>
-      <offer id="593764" available="false">
+      <offer id="593764" available="true">
         <name>Кавомолка MAGIO MG-194 200 Вт, Млин електричний для кави, Металева кавомолка нержавійки</name>
         <categoryId>6300401</categoryId>
         <price>1030</price>
@@ -13090,7 +13090,7 @@
         <picture>https://www.websklad.biz.ua/storage/68456/revaiprvpvipufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68461/puivfifpipifup.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68470/krvaipkipiupifu.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Мультимолочка для подрібнення спецій, круп, кавових зерен Magio (MG-194)</strong></p>
 <ul>
 <li>Потужність: 200 Вт</li>
@@ -14736,7 +14736,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="604894" available="false">
+      <offer id="604894" available="true">
         <name>Електрочайник RAF R.7816 металевий дисковий 2 л 1500 Вт, Потужний кухонний чайник</name>
         <categoryId>640</categoryId>
         <price>480</price>
@@ -14752,7 +14752,7 @@
         <picture>https://www.websklad.biz.ua/storage/84701/vaypkpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84708/rvyapravpfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84716/rkuvppkfpfy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>RAF R.7816 &ndash; сучасний електричний чайник з дисковим нагрівальним елементом та корпусом з нержавіючої сталі. Головна особливість такого приладу полягає у його мобільності. Використовувати електрочайник можна абсолютно у будь-якому місці, де є доступ до електричної мережі. Завдяки досить високій потужності в 1500 Вт, процес закипання рідини займає всього пару хвилин. Чайник обертається на підставці на 360 градусів і має функцію автовідключення під час закипання.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -15565,7 +15565,7 @@
         <picture>https://www.websklad.biz.ua/storage/75553/rkvaivaipivfpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75560/rvairavirkvipuikf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75569/rkviprvpif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Тостер RAF R.507</strong>&ndash; це надійний і стильний прилад, який зробить щоранку приємнішим, забезпечуючи ідеально підсмажені тости, рогалики, вафлі та інші хлібобулочні вироби. Оснащений двома надширокими слотами, він підходить для будь-яких типів хліба, включаючи товсті скибочки та багети.</p>
 <p><strong>Сім рівнів підсмажування</strong>дозволяють вибрати ідеальний ступінь рум'яності &ndash; від трохи золотистого до насиченого хрусткого кольору.</p>
 <p><strong>Завдяки функціям</strong>високого підйому тости легко виймаються, навіть якщо вони невеликого розміру. Знімний піддон для крихт полегшує процес очищення, а система зберігання шнура допомагає підтримувати порядок на кухні.</p>
@@ -17312,7 +17312,7 @@
         <picture>https://www.websklad.biz.ua/storage/86470/hrdgsdasdaasfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86475/ewfgesagsdgasgeas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86478/ewsadgfdsagdsgsa.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<h2><strong>Особливості:</strong></h2>
 <ul>
 <li>Потужність: Епілятор VGR V751 оснащений потужним мотором, який ефективно захоплює та видаляє волосся, забезпечуючи довгострокові результати та гладку шкіру на тривалий термін.</li>
@@ -19376,7 +19376,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="686631" available="false">
+      <offer id="686631" available="true">
         <name>Блендер Dario DB0847 800Вт</name>
         <categoryId>64301</categoryId>
         <price>1150</price>
@@ -19392,7 +19392,7 @@
         <picture>https://www.websklad.biz.ua/storage/84623/rekyvapvypyvfay.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84629/kvypyvfpufyuu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84638/htrsdfsdfhddhrdr.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний кухонний помічник, що поєднує в одному пристрої функції блендера, міксера та подрібнювача. Цей агрегат ідеально адаптований для приготування широкого спектру страв — від кремових супів і соусів до збитих білків та ніжних десертів. Використання міцних матеріалів та продумана конструкція забезпечують ефективність і довговічність в інтенсивному побутовому застосуванні.</p>
 
 <h2>Раціональні причини обрати</h2>
@@ -22024,7 +22024,7 @@
         <picture>https://www.websklad.biz.ua/storage/1417/182568828_images_20256394961.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1419/182568828_images_20256395346.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1421/IMG_4068.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Гнучкий тримач Live Streaming з LED світильником – це професійне обладнання для блогерів, стримерів та онлайн-творців, яке значно спрощує процес запису відео та трансляцій. Конструкція поєднує зручність кріплення мобільного пристрою та якісне освітлення, підвищуючи ефективність роботи та забезпечуючи комфортний контроль за допомогою багатофункціонального вимикача.</p>
 
 <h2>Переваги використання</h2>
@@ -22074,7 +22074,7 @@
         <param name="Угол вращения">360 град.</param>
         <param name="Цвет">Черный</param>
       </offer>
-      <offer id="4372" available="false">
+      <offer id="4372" available="true">
         <name>Тример GEMEI GM-3112 2в1, електробритва з насадками для бороди, триммер для бороди, триммер бездротової</name>
         <categoryId>3314</categoryId>
         <price>300</price>
@@ -22090,7 +22090,7 @@
         <picture>https://www.websklad.biz.ua/storage/1389/3kcuuafcfivaavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1392/uivapukaifvufivi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1394/uiavuaivv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тример для носа, це сучасний і дуже зручний у використанні інструмент.<br />Їм користуються практично всі чоловіки, які ретельно стежать за своїм зовнішнім виглядом і намагаються при цьому заощадити чимало часу.</p>
 <p>У сучасному суспільстві, вимоги до зовнішнього вигляду людини змушують нас робити дуже багато речей, у тому числі і голити в носі.<br />Хоча гоління в носі не є найважливішою і необхідною дією серед чоловіків, але при цьому попит на бритви для носа, є по-справжньому високий.</p>
 <p>Акуратна, доглянута особа для будь-якого чоловіка &ndash; Запорука успіху як у ділових сферах, так і на особистих фронтах. Особливо ретельної турботи та опрацювання вимагає контури бороди, вуса, скронева область, ніс і вуха. Щоб легко і швидко підрівняти волосся, прибрати зайве, виділити контури та лінії Вам точно не обійтися без надійного тримера.<br />Як додатковий варіант &ndash; можна підстригати волосся на тілі, під пахвами та в інтимних зонах.<br />Незамінний гігієнічний прилад та чудовий подарунок чоловікові.</p>
@@ -22341,7 +22341,7 @@
         <param name="Цветовая температура">4000К</param>
         <param name="Источник света">LED module</param>
       </offer>
-      <offer id="6667" available="false">
+      <offer id="6667" available="true">
         <name>Електроплита настільна DOMOTEC MS-5821 (дискова на 1 конфорку/1Д), маленька переносна електроплита</name>
         <categoryId>641</categoryId>
         <price>480</price>
@@ -22356,7 +22356,7 @@
         <picture>https://www.websklad.biz.ua/storage/4610/r3qwasdffwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4620/ewasdfrwsad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4627/qewasdftr3qwasd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Domotec MS-5821 — компактна та функціональна електроплита з однією конфоркою, ідеально підходить для дачі, невеликих кухонь і тимчасового використання. Цей пристрій забезпечує швидке і рівномірне нагрівання завдяки потужному спіральному нагрівальному елементу потужністю 1000 Вт. Простіший механічний термостат з п’ятьма режимами роботи дозволяє точно регулювати температуру приготування, а світлова індикація інформує про включення плити. Легка вага і невеликі габарити роблять пристрій зручним для транспортування та зберігання, допомагаючи ефективно використовувати обмежений простір.</p>
 
 <h2>Що ви отримуєте</h2>
@@ -24941,7 +24941,7 @@
         <param name="Материал корпуса">Металл, Пластик</param>
         <param name="Страна производитель">Китай</param>
       </offer>
-      <offer id="283408" available="true">
+      <offer id="283408" available="false">
         <name>Міксер побутовий 7 швидкостей із чашею 2 л Domotec MS-1366, міксер кухонний стаціонарний, кухонний тістоміс</name>
         <categoryId>612</categoryId>
         <price>750</price>
@@ -24957,7 +24957,7 @@
         <picture>https://www.websklad.biz.ua/storage/25083/kcaviaukviaavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/25088/3cfivaaukiavafvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/25092/kcfivaukviafvi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Міксер з чашею Domotec MS 1366</strong><span>&nbsp;</span> - дуже зручний, легкий у використанні та очищенні. Корпус міксера підставка та чаша виготовлені із пластику, а насадки з нержавіючої сталі, продумана до дрібниць ергономіка надає додаткового комфорту у використанні даного міксера. MS 1366 має 7 швидкісних режимів роботи для збивання продуктів різної густини, його потужність дозволяє легко збивати яйця, соуси або бісквітне тісто. У комплекті Domotec MS-1366 є велика чаша, на яку легко встановлюється міксер, тим самим перетворюючи його на стаціонарний прилад, що дозволяє звільнити руки на кухні. Також є два віночки для збивання і додаткові гаки для замішування тіста, що оцінять господині, які люблять радувати свою сім'ю різною випічкою.</p>
 <p><strong>Особливості та переваги</strong><strong>:</strong></p>
 <ul>
@@ -26224,7 +26224,7 @@
         <param name="Материал">Пластик</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="344976" available="false">
+      <offer id="344976" available="true">
         <name>Професійна машинка VGR V-121 провідна машинка для стрижки волосся керамічне лезо, 8 насадок</name>
         <categoryId>28290204</categoryId>
         <price>540</price>
@@ -26240,7 +26240,7 @@
         <picture>https://www.websklad.biz.ua/storage/34536/e4upvyvpkvpavyay.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34540/eayvfuafavavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34545/e4uyavpeyaapafyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся VGR V-121</strong><span>&nbsp;</span>- подарує Вам великий досвід та заощадить Ваші гроші на похід у перукарню. Машинка корисна як удома, так і для професійного використання в салонах та барбершопах!</p>
 <p>Набір для стрижки волосся VGR є універсальною машинкою для стрижки з 8 насадками. Леза з нержавіючої сталі. У комплекті 8 насадок 3/6/9/9/12/16/20мм.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий. Голить чітко і чисто. Підійде для стрижки бороди, окантування, шліфування стрижки, а також відмінна альтернатива для делікатних місць. Тим часом машинка підійде і для стрижки дітей завдяки тихій роботі двигуна. Цей новий професійний набір для стрижки волосся надасть Вам та вашій родині відмінну стрижку.</p>
@@ -27264,7 +27264,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="480882" available="false">
+      <offer id="480882" available="true">
         <name>Машинка для стрижки та гоління VGR V-641, Бездротова електробритва, Машинка для стрижки голови</name>
         <categoryId>28290204</categoryId>
         <price>1620</price>
@@ -27280,7 +27280,7 @@
         <picture>https://www.websklad.biz.ua/storage/46942/nkprvaavuvpifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/46947/4eupkviaipavepuifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/46963/n5ukrvaavpuifuf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Набір тримера та шейвера VGR V-641 2 в 1 Professional Set - це ідеальне рішення для тих, хто цінує професійний догляд за своїм виглядом, не жертвуючи при цьому зручністю та надійністю.</p>
 <p>Металевий корпус та прецизійні леза забезпечують високу якість та довговічність пристрою. Леза з нержавіючої сталі гарантують гостру та безперервну стрижку, забезпечуючи чудовий результат.</p>
 <p>Набір включає тример і шейвер, надаючи повний спектр функцій для догляду за вашим зовнішнім виглядом. Завдяки компактному та ергономічному дизайну, цей набір легко брати із собою у поїздки або на ділові зустрічі.</p>
@@ -27620,7 +27620,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="483717" available="true">
+      <offer id="483717" available="false">
         <name>Ліхтар налобний Police BL-6699 (204C), Налобний ліхтарик bailong, Налобний ліхтарик з usb зарядкою</name>
         <categoryId>150410</categoryId>
         <price>420</price>
@@ -27636,7 +27636,7 @@
         <picture>https://www.websklad.biz.ua/storage/47300/4tegrgstrefesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/47305/t4ergsdrefdafdsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/47315/4tergdsesdgrgsd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар Bailong Police BL 6699 T6 оснащений одним світлодіодом Cree XM-L T6 потужністю 28000W, який забезпечить яскравий світловий потік на дальній відстані (до 300м.). Даний ліхтар на лоб працює від двох акумуляторів 18650 Li-ion. Корпус даної моделі ліхтарика комбінований з металу та пластику, але, не дивлячись на це, корпус ліхтаря досить надійний і міцний.</p>
 <p>Має регульовану головку ліхтаря до 90 градусів. До того ж, слід зазначити, що ліхтар налобний Police 204C (BL-6699) дуже зручно сидить на голові за рахунок розміщення елемента живлення на потилиці, що забезпечує рівномірний розподіл ваги ліхтарика по всій голові. Джерелом живлення є два акумулятори 18650, який входить в комплект поставки. Світлодіодний ліхтар налобний Police 204С (BL-6699) - це відмінний ліхтар з дуже потужним світловим потоком, який знадобиться як у побуті, так і для інших завдань.</p>
 <p><strong>Характеристики налобного ліхтаря Bailong Police BL 6699 T6 (BL 204C T6):</strong></p>
@@ -28165,7 +28165,7 @@
         <picture>https://www.websklad.biz.ua/storage/70317/rkuvakppavyauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/70325/rkuyvpkyprkfyvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/70332/rkpyvpuyvayfv.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Міксер Domotec R.6664 стане вашим незамінним помічником на кухні. Завдяки потужному мотору та кільком режимам швидкості, він легко впорається з будь-якими завданнями: від змішування інгредієнтів до замішування тіста. Компактний та стильний дизайн міксера ідеально впишеться в інтер'єр будь-якої кухні. Міксер обладнаний зручною ручкою та має стійку основу, що забезпечує комфорт та безпеку під час використання.&nbsp;</p>
 <p>Насадки, які легко знімаються, роблять обслуговування міксера простим і швидким. Завдяки різноманітним функціям він підходить як для приготування десертів, так і для створення основних страв. Міксер кухонний Domotec R.6664 поєднує в собі потужність, багатофункціональність та зручність у використанні. Компактний дизайн та стильний вигляд роблять його чудовим доповненням до вашої кухні.</p>
 <p><strong>Переваги:</strong></p>
@@ -30019,7 +30019,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="681563" available="true">
+      <offer id="681563" available="false">
         <name>Акумуляторна машинка для стрижки VGR V-279 GREEN</name>
         <categoryId>28290204</categoryId>
         <price>1900</price>
@@ -30035,7 +30035,7 @@
         <picture>https://www.websklad.biz.ua/storage/83062/rdgdsagsesa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/83069/rdgsdagassda.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/83079/rdsfsaggsa.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Тример VGR V-299 BLACK у строгому чорному корпусі &mdash; це багатофункціональний пристрій для догляду за бородою, вусами та волоссям, що підходить як для домашнього, так і для професійного використання. Оснащений потужним мотором з частотою обертання до 9000 об/хв та вбудованим акумулятором ємністю 2000 мАг, він забезпечує до 240 хвилин автономної роботи та високу продуктивність при роботі з волоссям різної довжини та щільності. Ергономічний корпус зручно лежить у руці, а міцні матеріали гарантують надійність та довговічність.</p>
 <p>Модель комплектується 4 насадками та підтримує 5 рівнів регулювання швидкості, що дозволяє точно налаштовувати роботу тримера під конкретні завдання &mdash; від точного окантування до догляду за густою бородою. LED-дисплей відображає рівень заряду, поточну швидкість, а також нагадування про необхідність обслуговування, забезпечуючи контроль та зручність у процесі експлуатації. VGR V-299 BLACK &mdash; це поєднання потужності, точності та функціональності в одному стильному та практичному пристрої.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -30098,7 +30098,7 @@
         <picture>https://www.websklad.biz.ua/storage/82019/rkupvipuiaaifui.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/82025/rkpuiviiiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/82033/kpvipiva.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Тример VGR V-299 BLACK у строгому чорному корпусі &mdash; це багатофункціональний пристрій для догляду за бородою, вусами та волоссям, що підходить як для домашнього, так і для професійного використання. Оснащений потужним мотором з частотою обертання до 9000 об/хв та вбудованим акумулятором ємністю 2000 мАг, він забезпечує до 240 хвилин автономної роботи та високу продуктивність при роботі з волоссям різної довжини та щільності. Ергономічний корпус зручно лежить у руці, а міцні матеріали гарантують надійність та довговічність.</p>
 <p>Модель комплектується 4 насадками та підтримує 5 рівнів регулювання швидкості, що дозволяє точно налаштовувати роботу тримера під конкретні завдання &mdash; від точного окантування до догляду за густою бородою. LED-дисплей відображає рівень заряду, поточну швидкість, а також нагадування про необхідність обслуговування, забезпечуючи контроль та зручність у процесі експлуатації. VGR V-299 BLACK &mdash; це поєднання потужності, точності та функціональності в одному стильному та практичному пристрої.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -31477,7 +31477,7 @@
         <param name="Тип кофемолки">Ножевая</param>
         <param name="Тип привода">Электропривод</param>
       </offer>
-      <offer id="5823" available="false">
+      <offer id="5823" available="true">
         <name>Епілятор Yes Finishing Touch, депілятор для ніг та бікіні, депілятор для волосся, жіноча бритва для бікіні</name>
         <categoryId>3314</categoryId>
         <price>270</price>
@@ -31492,7 +31492,7 @@
         <picture>https://www.websklad.biz.ua/storage/2540/k3cfayvukavfavyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2549/e4cuyafvkucyfvayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2564/49386558_images_12002063814.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Видалення волосся на тілі завдає чимало незручностей &ndash; від витраченого часу до побічних ефектів на кшталт вростання та подразнення. Дівчата пробують один спосіб за іншим, вибираючи менше із зол. На відміну від інших варіантів епілятор&nbsp;<strong>Yes Finishing Touch</strong>&nbsp;є однозначним благом. Користуючись цікавою новинкою, ви легко та швидко усунете рослинність на ногах та інших місцях, не відчувши болю. А нові волоски зростатимуть повільніше, тому наступна процедура відбудеться пізніше, ніж у звичайних обставинах.</p>
 <p>Для забезпечення комфорту та хороших результатів було передбачено особливу конструкцію лез епілятора<span>&nbsp;</span><strong>Yes Finishing Touch</strong>, що виключає пошкодження та допомагає збрити всі волоски до єдиного. За кілька хвилин ви позбавитеся зайвої рослинності на будь-якій ділянці тіла. Хіба це не чудово?</p>
 <p>Для епіляції придумано багато способів, але одні пов'язані з сильним болем, інші не підходять для чутливої шкіри, а треті не надто ефективні. У епілятора <span>&nbsp;</span><strong>Yes Finishing Touch</strong>&nbsp;немає жодного з перерахованих недоліків. У той же час він має переваги.</p>
@@ -33592,7 +33592,7 @@
         <picture>https://www.websklad.biz.ua/storage/38780/k3cafivuvfsvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38787/4k3cuaivfukavifaufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38789/e4cuaiviucaviivkucif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Контейнерний пилосос Rainberg RB-651 (2500W) контейнерного типу без мішка для збирання пилу. Пилозбірник об'ємом близько 3 літрів легко миється і чиститься, достатньо дістати контейнер, викинути сміття і за необхідності вимити його. Стильний дизайн поєднується з компактними розмірами та легкою вагою 5 кг, спрощуючи прибирання та заощаджуючи місце.</p>
 <p>Завдяки потужності двигуна 2500W прибирання стане простіше і набагато швидше. Має 4 фільтри очищення повітря, що запобігає попаданню пилу назад у приміщення. Довжина шнура 6 метрів. Зручна телескопічна труба, потрібні насадки, кнопка змотування шнура</p>
 <p><b>Характеристики:</b></p>
@@ -35171,7 +35171,7 @@
         <param name="Тип">Универсальная солнечная батарея</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="62097" available="false">
+      <offer id="62097" available="true">
         <name>Мобільна зарядка портативна Power Bank 30000 mAh UKC, Зовнішній акумулятор, Зарядка power bank Black</name>
         <categoryId>71109</categoryId>
         <price>540</price>
@@ -35187,7 +35187,7 @@
         <picture>https://www.websklad.biz.ua/storage/9951/regdfshsads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/9958/gedsfggaeafdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/9967/wegfdsagsdagsadgseda.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Зовнішній акумулятор UKC&Power Bank&nbsp;на 30000 mAh&nbsp;дозволить вам завжди бути на зв'язку з навколишнім світом, ніколи не підведе, і, при необхідності, виручить не тільки вас, а й ваших друзів.</p>
 <p>UKC&nbsp;Power Bank&30000 mAh ― одна з найновіших розробок китайських інженерів, має контролер живлення, захист від короткого замикання, мікропроцесор, що захищає від перерозряду сам зовнішній акумулятор. Відмінні технічні характеристики та можливості дозволяють вважати її надійним джерелом живлення, здатним забезпечити тривалу та безперебійну роботу батареї. Для тих, хто багато подорожує, відпочиває на природі, їздить у відрядження зовнішній акумулятор. це чудова можливість захистити себе від непередбачених збоїв у роботі мобільних пристроїв та запоруку успіху у всіх сферах життя.</p>
 <p>Замість стандартного індикатора заряджання на корпусі пристрою є LCD дисплей, на який відображається інформація про зарядженість акумулятора. Корпус акумулятора виконаний із міцного пластику. На торці розміщений роз'єм для зарядки самого акумулятора і два USB роз'єми для зарядки від нього інших пристроїв. А ще там же гармонійно вписалися два діоди LED підсвічування.</p>
@@ -35235,7 +35235,7 @@
         <param name="Разъемы">USB</param>
         <param name="Вид">Зарядное устройство</param>
       </offer>
-      <offer id="124984" available="false">
+      <offer id="124984" available="true">
         <name>Акумуляторна кемпінгова LED лампа світильник JD-2022 із сонячною панеллю, кемпінговий ліхтар-лампа</name>
         <categoryId>150410</categoryId>
         <price>360</price>
@@ -35251,7 +35251,7 @@
         <picture>https://www.websklad.biz.ua/storage/12224/jcfviaucr4cuuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/12226/cfiap4cufivaac.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/12228/cufyvapkcjfyvauc.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Многофункціональний кемпінговий ліхтар для використання у похідних умовах і не тільки. Це світлодіодна лампа із зручним гачком, для перенесення чи підвішування в наметі, над столом, над галявиною тощо. Ідеальний варіант автономного освітлення для походів, &laquo;дикого&raquo; відпочинку в наметах, риболовлі, пікніках, може використовуватися і на дачі, і в приватному будинку, і навіть у квартирі як резервне джерело світла. На ліхтарі є сонячна панель, яка дозволяє заряджати пристрій від сонячних променів.</p>
 <p><strong>Характеристики</strong>:</p>
 <ul>
@@ -35976,7 +35976,7 @@
         <picture>https://www.websklad.biz.ua/storage/46290/npfeyvfeuyvfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/46297/4euavkppavpa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/46304/npeuvyfafav.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Ця колонка ідеально підходить для любителів подорожей. Вона легко поміщається в рюкзак або сумку, завдяки чому ви зможете насолоджуватися улюбленою музикою де завгодно.</p>
 <ul>
 <li>Підключення Bluetooth: автоматичне вимкнення за відсутності сигналу.</li>
@@ -36719,7 +36719,7 @@
         <picture>https://www.websklad.biz.ua/storage/75507/dfgsdgsdgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75517/hdfgdsgsdgsase.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75526/euyvpvyfpkfpkufpuy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Завдяки кавомолці електричної RAF</strong>, Ви зможете за лічені хвилини перемолоти кавові зерна для подальшого приготування ароматної кави.</p>
 <p>Представлений пристрій стане справжньою знахідкою для любителів кави, які не хочуть задовольнятися розчинною кавою. Крім кавових зерен, прилад можна використовувати для подрібнення рису, шоколаду, бобів, горіхів, спецій та іншого насіння.</p>
 <p>Кавомолка RAF за лічені секунди подрібнить кавові зерна і дасть можливість насолодитися ароматною ранковою кавою.</p>
@@ -36825,7 +36825,7 @@
         <param name="Тип живлення">акумуляторний</param>
         <param name="Тип пристрою">Велосипедний передній</param>
       </offer>
-      <offer id="741131" available="false">
+      <offer id="741131" available="true">
         <name>Чайник Rainberg RB-2310 3Л</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -36838,7 +36838,7 @@
         <picture>https://www.websklad.biz.ua/storage/102159/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102160/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102162/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об'ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -37582,67 +37582,6 @@
         <param name="Виробник">Unique</param>
         <param name="Країна виробник">Китай</param>
         <param name="Стан">Новий</param>
-      </offer>
-      <offer id="697134" available="false">
-        <name>Електрична м&apos;ясорубка Domotec MS-2027 4500 Вт з насадкою для томатів, ковбас та терками</name>
-        <categoryId>63005</categoryId>
-        <price>2240</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws79194</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/99804/grdfsgsdaggdagsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99807/grdasgsgesdgfea.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99808/fgedsdagfsag.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99810/fesadfsddssse.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99811/gtesdaegsdagggsasa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99813/grgsdagassgsfsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/99816/regdfgrsdgsggsae.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>За допомогою<strong>м'ясорубки Domotec MS-2027</strong>ви зможете легко приготувати фарш, ковбаси, томатний сік, а також натерти овочі. Її потужний мотор 4500 Вт забезпечує високу продуктивність та відмінну якість подрібнення, а надійні ножі з нержавіючої сталі гарантують довгий термін служби.</p>
-<p>М'ясорубка шнекового типу має функцію реверс, зворотне обертання ножів, що запобігає ущільненню продуктів усередині м'ясорубки та забезпечує якісне подрібнення.</p>
-<p>Шнек та три формувальні диски для подрібнення та рубання виконані з нержавіючої сталі. У процесі експлуатації ви зможете використовувати функцію &laquo;Реверс&raquo;, якою оснащена модель - для очищення спіралі від волокон, що намоталися на неї, можна використовувати реверсний хід, який розкручує шнек у зворотному напрямку і таким чином звільняє його.</p>
-<p>Є 3 види терок шатківниць, набір решіток для подрібнення м'яса, насадка &laquo;кеббе&raquo;, за допомогою якої ви легко зробите ковбаску в домашніх умовах, а також насадка для томатів.&nbsp;</p>
-<h2><strong>Особливості:</strong></h2>
-<ul>
-<li>Номінальна потужність - 4500Вт.</li>
-<li>Функція Реверс (зворотний хід);</li>
-<li>Швидкість: 1;</li>
-<li>Захист від перевантаження;&nbsp;</li>
-<li>Матеріал робочої камери – метал.</li>
-<li>Матеріал лотка - метал.&nbsp;</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Електрична м'ясорубка;</li>
-<li>3 види формених дисків;</li>
-<li>Хрестоподібний ріжучий ніж;</li>
-<li>Лоток для м'яса;</li>
-<li>Насадки для ковбас та кебе;</li>
-<li>Насадка для томатів;</li>
-<li>3 насадки для терки/шаткування;</li>
-<li>Тлумач;</li>
-<li>Інструкція.</li>
-</ul>]]></description>
-        <keyword>Електрична м&apos;ясорубка Domotec</keyword>
-        <keyword>Электрическая мясорубка Domotec</keyword>
-        <keyword>Електрична м&apos;ясорубка Domotec MS-2027 4500 Вт</keyword>
-        <keyword>Электрическая мясорубка Domotec MS-2027 4500 Вт</keyword>
-        <keyword>ковбас та терками</keyword>
-        <keyword>колбас и терками</keyword>
-        <keyword>Електрична м&apos;ясорубка Domotec MS-2027</keyword>
-        <keyword>Электрическая мясорубка Domotec MS-2027</keyword>
-        <keyword>Електрична м&apos;ясорубка</keyword>
-        <keyword>Электрическая мясорубка</keyword>
-        <keywords>Електрична м&apos;ясорубка Domotec, Электрическая мясорубка Domotec, Електрична м&apos;ясорубка Domotec MS-2027 4500 Вт, Электрическая мясорубка Domotec MS-2027 4500 Вт, ковбас та терками, колбас и терками, Електрична м&apos;ясорубка Domotec MS-2027, Электрическая мясорубка Domotec MS-2027, Електрична м&apos;ясорубка, Электрическая мясорубка</keywords>
-        <param name="Производитель">Domotec</param>
-        <param name="Номинальная мощность">4500</param>
-        <param name="Цвет корпуса">Серебристый</param>
-        <param name="Количество решеток">2</param>
-        <param name="Материал корпуса">Нержавеющая сталь, Пластик</param>
-        <param name="Производительность мясорубки">1</param>
-        <param name="Реверс">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Страна производитель">Германия</param>
-        <param name="Материал лотка">металл</param>
       </offer>
       <offer id="763019" available="false">
         <name>Мультипіч Magio MG-413 1400Вт 5.3л</name>
@@ -39462,7 +39401,7 @@
         <picture>https://www.websklad.biz.ua/storage/86573/esdesdfdaesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86577/dffhfddfsgds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86581/fgrgdsgsdas.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дитячий фотоапарат чудово підійде у подарунок дітям від 3 до 9 років. Хороший, компактний, розвиваючий та багатофункціональний фотоапарат, відео та ігрова приставка. Фотокамера дозволяє дитині познайомитися з новим захопленням, зберегти найяскравіші моменти життя та розвиває комунікативні навички. Спеціально для дітей додані ігри, можливість прослуховування музики, рамки та фільтри для фотографій.</p>
 <p>Меню фотоапарата просто та інтуїтивно. Камера працює від вбудованого акумулятора, якого вистачає на 2-3 години зйомки відео або близько 2000 фото. Заряджається за допомогою стандартного роз'єму USB.</p>
 <p>У камері передбачено слот для картки пам'яті MicroSD, який і зберігатиме всі відео та фото. Максимальний об'єм картки пам'яті, яку підтримує камера, становить 32 Гб. Камера зручного розміру під дитячу ручку. Міцний і приємний на дотик пластик не дозволить камері зламатися і не відволікатиме від творчого процесу. У комплекті є ремінець на руку, який застібається з півоберта, щоб унеможливити падіння і зручно носити камеру завжди з собою.</p>
@@ -39713,7 +39652,7 @@
         <picture>https://www.websklad.biz.ua/storage/88193/fdshdsgdfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/88195/htrsdhdfshdfsh.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/88197/htshdshgdsdsx.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>З акумуляторним пилососом LT-113CG-T ви отримаєте максимальну свободу під час прибирання завдяки його бездротовій роботі. Пилосос обладнаний потужним акумулятором, який дає змогу працювати до 30 хвилин без підзаряджання. Його висока потужність всмоктування (120 Вт) забезпечить ефективне прибирання навіть у найбільш важкодоступних куточках автомобіля, видаляючи пил, пісок, бруд і волосся свійських тварин. До комплекту входять кілька насадок, включно зі щіткою для сидінь, насадкою для щілин і турбощіткою для килимів, що робить прибирання ще ефективнішим.</p>
 <p>Пилосос обладнаний багатоступеневою системою фільтрації, яка допомагає утримувати пил і бруд всередині пристрою. Фільтр легко очищається й миється, що продовжує термін експлуатації пилососа. Легкий і компактний дизайн дає змогу зручно зберігати його в багажнику автомобіля або в будь-якому іншому зручному місці.</p>
 <p>Цей пилосос стане незамінним помічником як для автомобілістів, так і для дачників і домашніх користувачів, забезпечуючи швидке та якісне прибирання без зайвих зусиль.</p>
@@ -40569,7 +40508,7 @@
         <picture>https://www.websklad.biz.ua/storage/105190/efsdafgsdagsddaaags.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105196/htfdshrdfsfgfsdgfsagsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105200/gtrsdagagsgsasg.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка Rainberg RB-2319 з потужністю 3000 Вт – це сучасний та функціональний прилад, який значно спростить процес приготування домашнього фаршу. Завдяки високій продуктивності та багатофункціональній комплектації, дана модель ідеально підходить для створення фаршу з м’яса, риби, овочів та грибів. Надійна збірка та зручні аксесуари дозволяють отримувати однорідний продукт потрібної консистенції з мінімальними зусиллями.</p>
 
 <h2>Причини обрати саме цей варіант</h2>
@@ -41452,7 +41391,7 @@
         <picture>https://www.websklad.biz.ua/storage/15295/4uivkafuvifavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/15302/e3kcfkuvafufavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/15310/3kcuavikfikuavifiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Гейзерна кавоварка&nbsp;UNIQUE UN-1903</strong>&nbsp;&ndash;&nbsp;швидкий і зручний спосіб приготувати смачну каву. Виготовлена із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
 <p><strong>Гейзерна кавоварка складається з трьох основних частин:</strong></p>
 <ul>
@@ -43185,7 +43124,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Время заряда аккумулятора">1</param>
       </offer>
-      <offer id="726584" available="true">
+      <offer id="726584" available="false">
         <name>Марміт Magio MG-1210 прямокутний 3л</name>
         <categoryId>240602</categoryId>
         <price>1790</price>
@@ -43198,7 +43137,7 @@
         <picture>https://www.websklad.biz.ua/storage/109196/prkvaaipivfpifipu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109197/kpvairvarpffpifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109199/prkvapkupuifpi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мармит Magio об'ємом 3 літри – це практичне рішення для підтримки тепла страв на святковому столі або в повсякденному житті. Його прямокутна форма та ергономічний дизайн дозволяють зручно розмістити мармит на будь-якому столі, забезпечуючи естетичний зовнішній вигляд і комфортне використання. Виготовлений з нержавіючої сталі, цей мармит прослужить довго, зберігаючи презентабельний вигляд і функціональність навіть при частому використанні.</p>
 
 <h2>Що ви отримуєте</h2>
@@ -43588,7 +43527,7 @@
         <picture>https://www.websklad.biz.ua/storage/108532/pfivauapuU.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/108534/rpkfviapuifvpauU.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/108536/euifufecueu.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна міні кутова шліфувальна машина CP-3420</strong><span>&nbsp;</span>&mdash; компактний і потужний інструмент для різання, шліфування та обробки різних матеріалів. Оснащена безщітковим двигуном, працює від двох акумуляторів 18V і забезпечує швидкість обертання до 19500 об/хв.</p>
 <h2><strong>Переваги:</strong></h2>
 <ul>
@@ -44837,14 +44776,14 @@
         <keyword>Дитяче</keyword>
         <keywords>Дитяче баскетбольне кільце, Детское баскетбольное кольцо, Дитяче баскетбольне кільце з електронним таблом, Детское баскетбольное кольцо с электронным таблом, Дитяче баскетбольне кільце з електронним, Детское баскетбольное кольцо с электронным, Дитяче баскетбольне, Детское баскетбольное, Дитяче</keywords>
       </offer>
-      <offer id="809492" available="false">
+      <offer id="809492" available="true">
         <name>Намет туристичний з антимоскітною сіткою і каркасом 200x150x135см Похідний намет 2х спальних місць</name>
         <categoryId>240409</categoryId>
         <price>920</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws65854</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/106200/pyvfyamvyfavyffvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Автоматична двомісна туристична намет розроблена для зручного і швидкого відпочинку на природі. Інноваційний автоматичний механізм дозволяє розгорнути намет за лічені секунди без особливих зусиль і спеціальних навичок. Просторі розміри 200x150x135 см забезпечують комфортне розміщення двох осіб, створюючи затишний простір незалежно від умов.</p>
 
 <h2>Аргументи на користь вибору</h2>

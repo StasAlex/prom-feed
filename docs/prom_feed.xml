@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-21 09:56">
+<yml_catalog date="2026-10-22 09:56">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -36,7 +36,6 @@
       <category id="330502">Зубні щітки</category>
       <category id="3314">Чоловічі електробритви</category>
       <category id="340416">Автомобільні відеореєстратори</category>
-      <category id="342401">Велокомп&apos;ютери</category>
       <category id="342402">Велосипедні ліхтарі та відбивачі</category>
       <category id="371033">Дзеркала, загальне</category>
       <category id="51004">Детектори валют</category>
@@ -279,7 +278,7 @@
         <picture>https://www.websklad.biz.ua/storage/3113/4kcfaeuifvaifauvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3117/iueayapivfaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3121/euayfeafufy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Забезпечте собі бездоганний догляд за деталями образу за допомогою тримера для носа і вух GM-3109 2в1 — інструмента, що поєднує універсальність і ефективність у компактному форматі. Цей пристрій розроблений для плавного і точного видалення небажаного волосся у важкодоступних зонах, а також для професійної окантовки, що дозволить підкреслити ваш ідеальний стиль щодня.</p>
 
 <h2>Раціональні причини обрати</h2>
@@ -3926,7 +3925,7 @@
         <picture>https://www.websklad.biz.ua/storage/23554/rwasdferdfsdafd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23564/rwasfefadsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23571/wasdfgtefadsfsd.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Плита Domotec MS-5833 &mdash; одноконфоркова індукційна електроплита, потужністю 2000 Вт, яка миттєво нагрівається і швидко готує їжу. Сенсорний дисплей перетворить процес керування плитою на цікаве заняття. Кристалічне скло, з якого зроблена техніка, міцне та стійке до подряпин, легко очищається від забруднень. Прилад встановлюється на стіл, не ковзає поверхнею. Плита електрична настільна сумісна з усіма видами індукційного посуду. Сенсорна кнопкова панель керування. Швидке та рівномірне нагрівання на всій нагрівальній поверхні. 7 режимів (програми) приготування: розігрівання, смаження, барбекю, кип'ятіння, суп, каша з молоком, рис.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -5006,7 +5005,7 @@
         <picture>https://www.websklad.biz.ua/storage/31374/e4cukyavypeuayyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31381/4ekuyavypkeapfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31389/euyavfukauvyfmayv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>У верхній частині корпусу розташовані два індикатори, які повідомлять про підключення пристрою з електромережі, а також про досягнення оптимального нагріву для приготування. На ручці електроприладу передбачений спеціальний затиск, за допомогою якого ви гарантовано рівномірно просмажите сендвіч, оскільки він щільно прилягатиме до обох нагрітих зон. Пластини мають рифлену форму, що в тандемі з антипригарним покриттям забезпечує випаровування соків, які стікають у спеціальні канавки і не прилипають до їжі, завдяки чому вона виходить соковитою, але не жирною. Прилад має потужність 2200 Ватт, два індикатори роботи, автоматичний термостат, що забезпечує постійну підтримку температури та захист від перегріву. Має 4 види насадок (знімних форм): "Вафлі гофре" - приготування ароматних брюссельських вафель, які стануть чудовим десертом, або замінять на сніданок звичні оладки. "Сендвічі" ― використовуючи тостерний хліб прямокутної форми, ви приготуєте справжні англійські сендвічі зі всілякими начинками. Під час приготування вони поділяються на гарні трикутні шматочки. "Гриль" - універсальна насадка. Її ребриста поверхня створює апетитний малюнок у вигляді смуг. Підрум'янити сосиски, шматочки хліба, лаваш і навіть приготувати яєчню – ті небагато речей, які може справжній гриль. "Горішниця" - дозволить насолодитися десертом родом із дитинства. Приготування печива "горішки" не триватиме багато часу.</p>
 <p><strong>Характеристики</strong>: Мультимейкер Rainberg RB-5408 4в1 вафельниця, бутербродниця, горішниця, гриль 2200 Вт</p>
 <ul>
@@ -5634,7 +5633,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="344251" available="true">
+      <offer id="344251" available="false">
         <name>Акумуляторна чоловіча міні електробритва VGR V-390 для гоління бороди та вусів шейвер Green</name>
         <categoryId>3314</categoryId>
         <price>470</price>
@@ -5650,7 +5649,7 @@
         <picture>https://www.websklad.biz.ua/storage/38020/rwafdsfdsasa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38024/r3qwsfadaerfassd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38032/rwafdaefsdads.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Сіткова електробритва VGR V-390</strong><span>&nbsp;</span>- Це ультратонкий, зручний, простий і стильний дизайн. Дана модель має поршневу сіткову систему гоління та розрахована для сухого гоління. Сіткова технологія добре підходить для чоловіків із чутливою шкірою обличчя. Завдяки використанню спеціальної сітки, шкіра менш травмується та не викликає подразнення.</p>
 <p>Модель може працювати як від мережі 100-240 Вт, так і від вбудованого акумулятора. Заряду батареї NiMh вистачає на 45 хвилин безперервної роботи пристрою, а повний цикл зарядки складе 8 годин. Пристрій має одну голючу голівку, яка добре повторює контури обличчя. Навіть у важких місцях бритва добре справляється зі своїм завданням. Змінні пластинчастий ніж і сіточка для гоління легко очищаються і замінюються без додаткових інструментів.</p>
 <p>Вбудований висувний триммер. Завдяки цьому пристосуванню Ви без зайвих зусиль можете підстригати та деталізувати бороду та бакенбарди, щоб надати акуратного вигляду та завершити процедуру догляду за волоссям на обличчі. Точні сталеві леза тримера створюють чіткі прямі лінії і рівномірно підрівнюють найгустіше волосся. Леза не іржавіють, запобігаючи подразненню шкіри. Зручне бездротове підключення дозволяє використовувати шейвер у будь-якому місці навіть від повербанка або комп'ютера. У комплекті постачається зарядний USB Type-C шнур.</p>
@@ -6622,7 +6621,7 @@
         <picture>https://www.websklad.biz.ua/storage/39972/pkcfyavuvfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39976/pecuayfvfauckauyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39980/pe4kcufyvauckvauyf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Інвестуйте у функціональний набір кухонних ножів, який відповідає потребам професійного та домашнього кухаря. Цей комплект включає п'ять різних типів ножів, розроблених для точного, зручного та безпечного нарізання різноманітних продуктів. Надійна підставка доповнює набір, забезпечуючи компактне та організоване зберігання інструментів на вашій кухні.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -10168,7 +10167,7 @@
         <picture>https://www.websklad.biz.ua/storage/50246/uacvymauvyfaavsf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50254/auyvmfvayfmauyvsy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50256/puavyuayvfvfv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<div>Гибкий налобный фонарик BL-W689-LM+3COB - имеет 3 СОВ светодиода, которые излучают рассеянный свет: белый, тёплый белый и красный. Сбоку расположен LM диод, служит в качестве дальнобойного фонарика.&nbsp;</div>
 <div>Управлять выбранным светом можно с помощью физической кнопки, либо за счет сенсорного датчика, просто взмахнув возле него рукой.</div>
 <div>В качестве источника питания служит аккумулятор 18650, от припаян в корпусе, при желании можно перепаять на новый.</div>
@@ -10307,7 +10306,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="484028" available="true">
+      <offer id="484028" available="false">
         <name>Ліхтар налобний BL-008+COB (white+red), червоне світло, водозахист, вбудований акумулятор</name>
         <categoryId>150410</categoryId>
         <price>330</price>
@@ -10323,7 +10322,7 @@
         <picture>https://www.websklad.biz.ua/storage/43442/ecuaypaucauca.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43447/4wesdgstegrgr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43454/twesgffdsgrfsgtresgr.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар з акумулятором 1200 mAh та USB-виходом — це надійний та зручний інструмент для освітлення в будь-яких умовах. Корпус з міцного ABS-пластику забезпечує довговічність та стійкість до механічних пошкоджень, а компактні розміри і оптимальна вага роблять використання комфортним у тривалих походах, ремонті або роботі в темний час доби.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -10562,7 +10561,7 @@
         <picture>https://www.websklad.biz.ua/storage/50083/e4cuipavipivipvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50092/ecupiauivpivpavfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50098/e4uiapvuiviavfavi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка</strong><span>&nbsp;</span>для стрижки VGR V-055 - виконана в стильному, елегантному дизайні з високоякісних матеріалів. Машинка для стрижки волосся дуже проста у використанні, в комплекті є всі необхідні насадки для ідеальної стрижки.</p>
 <p><strong>Машинка</strong><span>&nbsp;</span>для стрижки VGR V-055 відрізняється своєю легкістю та компактністю, практично не відчувається в руці. Працює від акамулятора, що дозволяє комфортно переміщатися під час роботи, не сковуючи та не обмежуючи рухи. Заряджається дуже швидко і зарядки вистачає приблизно на дві години роботи, що дуже зручно для роботи майстра-перукаря, коли потрібно прийняти багато людей. Корпус виготовлений з пластику. Родзинка такої моделі – це її безшумність.</p>
 <p><strong>Швидкознімний<span>&nbsp;</span></strong>ножовий блок виготовлений з нержавіючої сталі гарантує тривалий термін служби виробу. Ви з легкістю зможете очистити чи замінити ніж за потреби. Високоякісна сталь дозволяє виконувати точні роботи максимально близько до шкіри.</p>
@@ -11728,7 +11727,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="559618" available="true">
+      <offer id="559618" available="false">
         <name>Акумуляторна чоловіча електробритва VGR V-352 для гоління бороди та вусів шейвер для ідеальної гладкості</name>
         <categoryId>3314</categoryId>
         <price>980</price>
@@ -11744,7 +11743,7 @@
         <picture>https://www.websklad.biz.ua/storage/65690/4eupivarkavipekp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65697/4eupivarkvaireiprva.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65702/pvifpvifpivpifp.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроритва VGR V-352</strong><span>&nbsp;</span>&ndash; це інструмент, який ідеально підходить як для гоління, так і для стрижки волосся &laquo;під нуль&raquo;. Незамінна річ для будь-якого перукаря, майстра чи барбера. А також відмінний інструмент для гоління у домашніх умовах. Модель виконана в прозорому корпусі в закругленому дизайні, приголомшливій ергономіці та чудовому функціоналі.</p>
 <p>Особливістю шейвера є наявність двох сіток, що голять, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Сітки, що голять, рухливі, що дозволить не тільки регулювати момент натискання, але й забезпечить чітке повторення контурів обличчя або голови для максимально якісного результату. Завдяки сучасному мотору із частотою коливань 7500 об/хв, зріз волосся буде дуже чистим.</p>
 <p>Головка для гоління складається з двох сіток та двох ножів. Сітки виготовлені з титанової фольги та є гіпоалергенними. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі також можуть бути замінені.</p>
@@ -12631,7 +12630,7 @@
         <picture>https://www.websklad.biz.ua/storage/69898/orevyarpavyruef.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69907/oaptavyrvyak.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69916/revapyvpuyyu.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електробритва Gemei&nbsp;GM-7719 створена спеціально для чоловіків, які хочуть завжди добре виглядати як вдома,</p>
 <p>так і на роботі. Конструкція зроблена з трьома плаваючими ножами з гігієнічної нержавіючої сталі, які максимально щільно стикаються зі шкірою обличчя та здійснюють комфортне та легке гоління.</p>
 <p>Працює на акумуляторі, повний заряд якого тримає близько 80 хвилин, заряджається близько 8 години. Також є вбудований тример.</p>
@@ -21837,7 +21836,7 @@
         <picture>https://www.websklad.biz.ua/storage/1417/182568828_images_20256394961.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1419/182568828_images_20256395346.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1421/IMG_4068.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Гнучкий тримач Live Streaming з LED світильником – це професійне обладнання для блогерів, стримерів та онлайн-творців, яке значно спрощує процес запису відео та трансляцій. Конструкція поєднує зручність кріплення мобільного пристрою та якісне освітлення, підвищуючи ефективність роботи та забезпечуючи комфортний контроль за допомогою багатофункціонального вимикача.</p>
 
 <h2>Переваги використання</h2>
@@ -22505,63 +22504,6 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="22967" available="false">
-        <name>Електроплита Domotec MS-5531, електроплита настільна одноконфоркова, електроплита для дачі. Колір: сірий</name>
-        <categoryId>641</categoryId>
-        <price>690</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws92571-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/6057/4ecuyvpeuayvpeaymauy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6064/4eucyvpkaecufyvavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6074/IMG_8860.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6083/4ecuayvpeyfavpyvva.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6091/aypuafyvekjcfauy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6099/e4cuaypcuayvekufayvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6107/4euaypuavypuyvfayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6116/e4uapuyvaauayfvyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6123/e4uayvpuayfvuyvfyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/6129/cvfyyaaucfyauyvf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Не кожен має можливість і необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку.</p>
-<p>За допомогою такого компактного кухонного приладу, як Domotec MS-5531, ви зможете запросто приготувати собі їжу на поточний день.<br />Маленька, компактна та дуже практична підійде для розігріву їжі та приготування в побутових умовах. Корпус виробу металевий покритий емаллю. Плита має одну електро конфорку дискову з відкритим типом спірального нагрівального елемента.</p>
-<p>Споживана потужність, регулювання якої здійснюється терморегулятором на передній частині корпусу. Плита має захист від перегріву. Ніжки з гумовою основою забезпечують хорошу стійкість на поверхні. Індикатор роботи світиться під час роботи</p>
-<p>Плиту Domotec MS-5531 можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення.</p>
-<p>Регулювати працездатність плити можна за допомогою механічного перемикача. Покриття плити Domotec MS-5531 додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
-<p><strong>Характеристики</strong></p>
-<ul>
-<li>1 конфорка: 155 мм;</li>
-<li>Легко чиститься;</li>
-<li>Напруга живлення: 220 В;</li>
-<li>Максимальна потужність: 1000 Вт;</li>
-<li>Антипригарне покриття;</li>
-<li>Захист від перегріву;</li>
-<li>Термостат;</li>
-<li>Індикатор роботи.</li>
-</ul>]]></description>
-        <keyword>Електроплита Domotec MS-5531</keyword>
-        <keyword>Электроплита Domotec MS-5531</keyword>
-        <keyword>електроплита настільна одноконфоркова</keyword>
-        <keyword>электроплита настольная одноконфорочная</keyword>
-        <keyword>електроплита для дачі</keyword>
-        <keyword>электроплита для дачи</keyword>
-        <keyword>Електроплита Domotec</keyword>
-        <keyword>Электроплита Domotec</keyword>
-        <keyword>Domotec</keyword>
-        <keyword>Електроплита</keyword>
-        <keywords>Електроплита Domotec MS-5531, Электроплита Domotec MS-5531, електроплита настільна одноконфоркова, электроплита настольная одноконфорочная, електроплита для дачі, электроплита для дачи, Електроплита Domotec, Электроплита Domotec, Domotec, Електроплита</keywords>
-        <param name="Варочная поверхность">электрическая</param>
-        <param name="Покрытие варочной поверхности">нержавеющая сталь</param>
-        <param name="Тип управления">Электронное</param>
-        <param name="Цвет корпуса">Серый</param>
-        <param name="Вид плиты">Настольная</param>
-        <param name="Ширина плиты">50 см</param>
-        <param name="Состояние">Новое</param>
-        <param name="Общее количество конфорок">1</param>
-        <param name="Количество электрических конфорок">1</param>
-        <param name="Индикатор остаточного тепла">Да</param>
-        <param name="Потребляемая мощность">1000</param>
-        <param name="Производитель">Domotec</param>
-      </offer>
       <offer id="26891" available="true">
         <name>Проектор зоряного неба Star Master Big Dream, Зоряне небо прожектор, домашній. Колір: фіолетовий</name>
         <categoryId>6370701</categoryId>
@@ -23041,7 +22983,7 @@
         <picture>https://www.websklad.biz.ua/storage/11709/cfmpaufvyaufyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11714/kuayvfuyvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11719/kcuvyafkuvafvy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>2 ремінці в комплекті</strong></p>
 <p>Використовує&nbsp;<strong>великий 1,54-дюймовий дисплей</strong>, великі слова, чіткіший, високочутливий сенсорний екран може виконувати різні операції.</p>
 <p>Моніторинг серцевого ритму, режим руху, нагадування інформації, моніторинг сну, <strong>швидкий перегляд різних функцій</strong>&nbsp;і сенсорне керування. З цього моменту починається<strong>&nbsp;розумне життя</strong>.При носінні на руці годинник буде&nbsp;<strong>вимірювати поточну температуру тіла</strong>&nbsp;в режимі&nbsp;<strong>реального часу</strong>. Безперервний вимір температури тіла в <strong>протягом 24 годин</strong>, будьте в курсі свого здоров'я.</p>
@@ -23251,7 +23193,7 @@
         <param name="Тип питания">Сеть 220 В</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="142517" available="true">
+      <offer id="142517" available="false">
         <name>Ваги кухонні на 5 кг з нержавіючої сталі MAGIO MG-695, ваги міні, Ваги кухонні зі знімною чашею</name>
         <categoryId>15230411</categoryId>
         <price>960</price>
@@ -23267,7 +23209,7 @@
         <picture>https://www.websklad.biz.ua/storage/10803/cfivkcvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/10811/cvifvkcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/10822/jcfvyaukcvfy-1.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Кухонні ваги MG-695</strong>&nbsp;колір металік &mdash; безпрограшне рішення, яке стане стильним акцентом в інтер'єрі вашої кухні.</p>
 <p>Чаша та корпус ваг виконані з нержавіючої сталі &mdash; запорука стійкості до зносу та довговічності. Ваги оснащені індикатором навантаження &mdash; при перевищенні допустимого навантаження на дисплеї з'являється символьне попередження. А функція тарокомпенсації підвищує точність вимірювання кухонної ваги, вона дозволяє не враховувати в результатах зважування масу посуду, в якому знаходяться продукти.</p>
 <p>Точність зважування, цифровий рідкокристалічний дисплей та дизайн органічно впишеться у будь-який кухонний інтер'єр. Автоматичне вимкнення&nbsp;відключає живлення ваги або&nbsp;переводить їх у режим показу часу.</p>
@@ -30643,67 +30585,6 @@
         <param name="Стан">Новий</param>
         <param name="Тример для окантовки">Так</param>
       </offer>
-      <offer id="692120" available="false">
-        <name>Тример VGR V-998. Колір: зелений</name>
-        <categoryId>28290204</categoryId>
-        <price>670</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws16375-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/87735/htfdsgsdgfdsafs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87738/rggsdagsagersrs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87741/htresdgrgsdgesae.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87744/grdsgsdgesegsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87747/ersdggdrgdsrd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87751/grdsdsgdsgdds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87753/erdsgdgrdsgsr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87755/rgdsgsdasssd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87757/rgdsgdsgsea.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/87759/grdsgsdefsa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Машинка для стрижки волосся на акумуляторі VGR V-998 &mdash; це компактний та зручний інструмент для догляду за волоссям, який підійде як для професійного, так і домашнього використання. Тример для стрижки VGR V-998 оснащений двигуном потужністю 7 Вт з частотою обертання 6500 об/хв, що забезпечує стабільну та акуратну стрижку. Літій-іонний акумулятор ємністю 1200 мАг гарантує до 180 хвилин автономної роботи, а час повної зарядки становить лише 1,5 години. Ергономічний корпус та леза з нержавіючої сталі з титановим покриттям забезпечують довговічність та високу точність зрізу.</p>
-<p>Акумуляторний триммер VGR V-998 укомплектований 4 насадками для регулювання довжини волосся. LED-дисплей відображає рівень заряду акумулятора та вибрані режими роботи, підвищуючи зручність експлуатації. Бездротовий формат забезпечує свободу рухів, а легкість та універсальність роблять машинку чудовим інструментом для догляду за волоссям у будь-яких умовах.</p>
-<p>Акумуляторна машинка для стрижки VGR V-998 поєднує в собі функціональність, зручність та високу якість. Тример для стрижки волосся на акумуляторі VGR V-998 стане чудовим вибором для перукарів та домашніх користувачів, які цінують надійність та комфорт.</p>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Модель: VGR V-998&nbsp;</li>
-<li>Потужність двигуна: 7&nbsp;Вт.</li>
-<li>Швидкість двигуна: 6500&nbsp;об/хв,&nbsp;</li>
-<li>Час роботи: до 180 хвилин</li>
-<li>Час заряджання: 1,5 години</li>
-<li>Акумулятор: літій-іонний, 1200 мАг</li>
-<li>Матеріал лез: нержавіюча сталь&nbsp;з титановим покриттям</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Тример для стрижки волосся на акумуляторі&nbsp;VGR V-998 GREEN</li>
-<li>USВ-кабель</li>
-<li>Упаковка</li>
-</ul>]]></description>
-        <keyword>Тример VGR V-998</keyword>
-        <keyword>Триммер VGR V-998</keyword>
-        <keyword>Тример VGR</keyword>
-        <keyword>Триммер VGR</keyword>
-        <keyword>Тример</keyword>
-        <keyword>Триммер</keyword>
-        <keyword>Тример VGR V-998 акумулятор</keyword>
-        <keyword>Триммер VGR V-998 акумулятор</keyword>
-        <keyword>Тример VGR акумулятор</keyword>
-        <keyword>Триммер VGR акумулятор</keyword>
-        <keywords>Тример VGR V-998, Триммер VGR V-998, Тример VGR, Триммер VGR, Тример, Триммер, Тример VGR V-998 акумулятор, Триммер VGR V-998 акумулятор, Тример VGR акумулятор, Триммер VGR акумулятор</keywords>
-        <param name="Виробник">VGR</param>
-        <param name="Тип живлення">Акумулятор, Мережа 220 В</param>
-        <param name="Тип приладу">Універсальна машинка для стрижки</param>
-        <param name="Дитяча/тиха стрижка">Так</param>
-        <param name="Кількість насадок">4</param>
-        <param name="Кількість установок довжини">5</param>
-        <param name="Максимальна довжина підстригання">7</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Стан">Новий</param>
-        <param name="Тример для окантовки">Так</param>
-        <param name="Призначення">Для стрижки голови</param>
-        <param name="Функціональні особливості">Зарядка от USB</param>
-        <param name="Тип двигуна">Роторный</param>
-      </offer>
       <offer id="711305" available="true">
         <name>Бритва електрична Magio MG-689</name>
         <categoryId>3314</categoryId>
@@ -33267,7 +33148,7 @@
         <picture>https://www.websklad.biz.ua/storage/31652/rafsgerwfersadf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31659/rwasdfsaerewasdfersad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31667/rfsdaerfsdgfeasdfads.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><b>Ночник-проектор Зоряного неба Космонавт</b><span>&nbsp;</span>прекрасний вибір для дитячої кімнати, який створить для дитини астмосферу зоряної Галактики.</p>
 <p>Проектор в образі космонавта покаже вам проекцію звідного неба, а також усієї Галактики.</p>
 <p>Голова космонавта тримається на магнітах, тому її можна повертати у різні боки, а також регулювати руки. Фігурка стійко стоїть на базовій основі під виглядом місячної поверхні.</p>
@@ -34949,77 +34830,6 @@
         <param name="Тип заряда">Солнечные батареи</param>
         <param name="Ширина">8 см</param>
         <param name="Длина">11 см</param>
-      </offer>
-      <offer id="141792" available="false">
-        <name>Літієвий акумулятор 18650 X-Balog 8800mAh 4.2V Li-ion літієва акумуляторна батарейка для ліхтариків</name>
-        <categoryId>150410</categoryId>
-        <price>120</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws84192</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/14332/cufypeucyvayfv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14340/ucvfapeckfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14347/kucfyaucuvyfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14354/ufyaukcyfvyfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14359/jcfvykcjfyvfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14367/cufvyuvfyyyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14372/pkyvmuvyfyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14381/3cuape4cuivaae4.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14388/ckuiavpr5euciakc.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/14396/kuap5euie4cu.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Акумулятор X-Balog 18650 Li-ion з ємністю 8800mAh та напругою 4.2V представляє собою універсальне джерело живлення, здатне забезпечити тривалу роботу різних електронних пристроїв. Цей літій-іонний акумулятор розроблений для надійного і стабільного енергопостачання обладнання, що потребує високої ємності та довготривалої експлуатації.</p>
-
-<h2>Сильні сторони пристрою</h2>
-<ul>
-<li>Висока ємність 8800mAh гарантує довгий час роботи без підзарядки.</li>
-<li>Робоча напруга в діапазоні 2.85–4.2 В забезпечує стабільне живлення пристроїв.</li>
-<li>Типорозмір 18650 з компактними габаритами (68 мм х 18 мм) підходить для широкого спектра техніки.</li>
-<li>Літій-іонна технологія заряду і розряду забезпечує ефективне використання енергії та довговічність акумулятора.</li>
-<li>Легка вага — всього 34.5 грамів — спрощує монтаж і використання без збільшення навантаження.</li>
-<li>Поліетиленова упаковка забезпечує збереження акумулятора при зберіганні і транспортуванні.</li>
-</ul>
-
-<h2>Варіанти використання</h2>
-<p>Акумулятор X-Balog 18650 знаходить широке застосування у різних сферах завдяки своїй універсальності та високим технічним характеристикам. Він підходить для живлення переносних і стаціонарних пристроїв, де потрібне надійне джерело енергії великої ємності, наприклад:</p>
-<ul>
-<li>Портативні ліхтарі та світлові прилади, що забезпечують тривале освітлення без перебоїв.</li>
-<li>Радіоприймачі та аудіотехніка, що потребують стабільної напруги для якісної роботи.</li>
-<li>Електронні гаджети та пристрої саморобних проєктів, де важлива компактність і потужність акумулятора.</li>
-<li>Інша техніка, що використовує літій-іонні батареї типорозміру 18650 з аналогічними вимогами до ємності та напруги.</li>
-</ul>
-
-<h2>Характеристики</h2>
-<ul>
-<li>Типорозмір: 18650</li>
-<li>Номінальна напруга: 4.2 В</li>
-<li>Робоча напруга: 2.85–4.2 В</li>
-<li>Ємність: 8800 mAh</li>
-<li>Тип акумулятора: літій-іонний (Li-Ion)</li>
-<li>Вага: 34.5 г</li>
-<li>Розміри: 68 мм х 18 мм</li>
-<li>Упаковка: поліетиленова</li>
-<li>Комплектація: акумулятор і упаковка</li>
-</ul>]]></description>
-        <keyword>Літієвий акумулятор</keyword>
-        <keyword>Литиевый аккумулятор</keyword>
-        <keyword>Літієвий акумулятор 18650 X-Balog 8800mAh 4.2V</keyword>
-        <keyword>Литиевый аккумулятор 18650 X-Balog 8800mAh 4.2V</keyword>
-        <keyword>Літієвий акумулятор 18650 X-Balog</keyword>
-        <keyword>Литиевый аккумулятор 18650 X-Balog</keyword>
-        <keyword>Літієвий акумулятор 18650 X-Balog 8800mAh</keyword>
-        <keyword>Литиевый аккумулятор 18650 X-Balog 8800mAh</keyword>
-        <keyword>X-Balog</keyword>
-        <keyword>Літієвий акумулятор 18650 аккумулятор</keyword>
-        <keywords>Літієвий акумулятор, Литиевый аккумулятор, Літієвий акумулятор 18650 X-Balog 8800mAh 4.2V, Литиевый аккумулятор 18650 X-Balog 8800mAh 4.2V, Літієвий акумулятор 18650 X-Balog, Литиевый аккумулятор 18650 X-Balog, Літієвий акумулятор 18650 X-Balog 8800mAh, Литиевый аккумулятор 18650 X-Balog 8800mAh, X-Balog, Літієвий акумулятор 18650 аккумулятор</keywords>
-        <param name="Производитель">X-Balog</param>
-        <param name="Тип аккумулятора">Li-Ion</param>
-        <param name="Емкость аккумулятора">8800 мА/ч</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип">Аккумулятор</param>
-        <param name="Напряжение">4.2 В</param>
-        <param name="Состояние">Новое</param>
-        <param name="Типоразмер">18650</param>
-        <param name="Количество батареек в упаковке">1 шт.</param>
       </offer>
       <offer id="141936" available="false">
         <name>Машинка для стрижки чоловіча VGR V-085 Електробритва з насадками для бороди Машинка окантовка</name>
@@ -38633,7 +38443,7 @@
         <picture>https://www.websklad.biz.ua/storage/20924/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20932/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20939/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 
 <h2>Раціональні причини обрати</h2>
@@ -39365,7 +39175,7 @@
         <picture>https://www.websklad.biz.ua/storage/103336/auvyfayvavauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103341/uvyfypvpafyufypfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103343/uayvfapuyfauuy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Блендер із двоярусним лезом Блискавка підходить для подрібнення фруктів, овочів, м'яса, змішування продуктів, збивання яєць. Також подрібнювач впорається з приготуванням кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування.<br /><br /><strong>Подвійний ніж з нержавіючої сталі</strong><br /> подвійні ножі з якісної нержавіючої сталі (він і дав назву блендера - Блискавка) і потужному моторі. Містка чаша об'ємом 2 літри дозволяє готувати велику кількість страв. Вона відокремлена від двигуна кришкою, а леза легко знімаються. Завдяки цьому чашу легко мити.</p>
 <p><strong>Висока потужність</strong><br /><br />Для великої нарізки достатньо всього кількох швидких натискань. Якщо ви хочете подрібнити інгредієнти, утримуйте кілька секунд. Прилад такий потужний, що може розмолоти продукти до пюре.<br /><br /><strong>Універсальне використання</strong><br /><br />Подрібнювач Блискавка може впоратися з будь-якими завданнями. Він нарізує, подрібнює, перемелює та доводить інгредієнти до стану пюре. Просто натисніть кнопку і прилад за лічені секунди наріже овочі, фрукти, сир, м'ясо або горіхи.<br /><br />Готуйте супи, салати, соуси, дитяче харчування, десерти, а також коктейлі!</p>
 <p><strong>Ключові переваги:</strong></p>
@@ -39927,7 +39737,7 @@
         <picture>https://www.websklad.biz.ua/storage/84208/oervaykvyvk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84216/eravrkvyrkvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84221/oearavyrvyk.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Цей мініатюрний проектор ідеально впишеться в будь-який інтер'єр і порадує любителів ретро ігор і просто перегляду відео з чітким і насиченим зображенням на екрані (поверхні) до 100 дюймів. близьким справжнє задоволення від ігор, фільмів та спілкування у новому форматі!</p>
 <h2><strong>Характеристики:</strong></h2>
 <ul>
@@ -39993,7 +39803,7 @@
         <picture>https://www.websklad.biz.ua/storage/109952/reaivrkpifauif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109953/rekvairkavpivfifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109954/pkviafrkavipvifpif.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><span>Дитячий фотоапарат чудово підійде у подарунок дітям від 3 до 9 років. Хороший, компактний, розвиваючий та багатофункціональний фотоапарат, відео та ігрова приставка.</span></p>
 <p><span>Фотокамера дозволяє дитині познайомитися з новим захопленням, зберегти яскраві моменти життя та розвиває комунікативні навички.</span></p>
 <p><span>Спеціально для дітей додані ігри, музики, рамки та фільтри для фотографій.</span></p>
@@ -40544,7 +40354,7 @@
         <picture>https://www.websklad.biz.ua/storage/73422/rkparkpyapuvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73429/euypyvchpuyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73432/rkvaipyvapmyvfavy.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Комбайн 5 в 1 Domotec 6676B &ndash; це універсальний побутовий прилад, який легко справляється з різними завданнями від приготування коктейлів до замісу тіста. Він має сучасний дизайн, легко розбирається та невибагливий у догляді. Цей прилад поєднує функції тістомісу, м'ясорубки і блендера.</p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -41395,68 +41205,6 @@
         <param name="Объем">38</param>
         <param name="Состояние">Новое</param>
         <param name="Тип управления">Механическое</param>
-      </offer>
-      <offer id="708150" available="false">
-        <name>Велокомп&apos;ютер SunDing SD-548C 14 функцій бездротовий</name>
-        <categoryId>342401</categoryId>
-        <price>480</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws32596</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/88805/kpyvkup.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/88806/kyvpyvfpvypuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/88807/rkevyvarvyvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/88808/kpvypyvpuypy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/88809/uyvpyvpvyykf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Велокомп’ютер SunDing SD-548C – це ідеальне рішення для велосипедистів, які прагнуть контролювати ключові параметри своєї поїздки без зайвих дротів і складних налаштувань. Ця модель поєднує простоту використання, захист від вологи та широкий функціонал, що робить її надійним помічником і в місті, і на складних трасах.</p>
-
-<h2>Переваги саме цієї моделі</h2>
-<ul>
-  <li>Безпровідне підключення забезпечує зручність монтажу і експлуатації без плутанини кабелів.</li>
-  <li>Вологозахищений корпус дозволяє користуватися пристроєм навіть при несприятливих погодних умовах.</li>
-  <li>Функція пам’яті зберігає дані поїздок для аналізу результатів і контролю прогресу з часом.</li>
-  <li>Зручна установка одиниць виміру швидкості (км/год або миль/год) дає змогу адаптувати пристрій під особисті вподобання.</li>
-  <li>Зелена підсвітка дисплея підвищує комфорт використання в умовах недостатнього освітлення.</li>
-  <li>Легкий і компактний корпус з матеріалу ABS – всього 66 грамів при розмірах 4.5 х 4.5 х 1.8 см, не створює додаткового навантаження на велосипед.</li>
-</ul>
-
-<h2>Практичне використання</h2>
-<p>SunDing SD-548C стане вашим незамінним інструментом для точного визначення поточної швидкості і відстані під час будь-якої поїздки, від коротких міських заїздів до тривалих тренувань. Велокомп’ютер відстежує максимальну та середню швидкість, що допоможе адаптувати ваш стиль катання і підвищити загальну продуктивність. Інтуїтивно зрозумілий інтерфейс, час в 12 або 24-годинному форматі, а також відлік загального пробігу з моменту встановлення додатково підвищують користувацький досвід. Вологозахищений корпус не боїться дощу або бризок, що дозволяє не хвилюватися про збереження даних чи працездатність пристрою в поганих умовах.</p>
-
-<h2>Характеристики</h2>
-<ul>
-  <li>Відображення: час, поточна швидкість (SPD), пройдена відстань за поїздку (DST), максимальна швидкість (MXS), середня швидкість (AVS), загальний пробіг велосипеда (ODO), тривалість поїздки (TM), години (12/24 формати).</li>
-  <li>Встановлення одиниць швидкості: км/год або милі/год.</li>
-  <li>Пам’ять для збереження ключових даних поїздок.</li>
-  <li>Корпус з міцного ABS пластику, який витримує вплив вологи.</li>
-  <li>Розмір: 4.5 х 4.5 х 1.8 см, вага: 66 г.</li>
-  <li>Колір: чорний.</li>
-  <li>Підсвітка екрану зеленого кольору для зручності читання показників в темряві.</li>
-  <li>Безпровідне з’єднання для простоти монтажу і використання.</li>
-</ul>]]></description>
-        <keyword>Велокомп&apos;ютер SunDing SD-548C</keyword>
-        <keyword>Велокомпьютер SunDing SD-548C</keyword>
-        <keyword>Велокомп&apos;ютер SunDing SD-548C 14 функцій</keyword>
-        <keyword>Велокомпьютер SunDing SD-548C 14 функций</keyword>
-        <keyword>Велокомп&apos;ютер SunDing</keyword>
-        <keyword>Велокомпьютер SunDing</keyword>
-        <keyword>Велокомп&apos;ютер</keyword>
-        <keyword>Велокомпьютер</keyword>
-        <keyword>Велокомп&apos;ютер SunDing SD-548C бездротовий</keyword>
-        <keyword>Велокомпьютер SunDing SD-548C бездротовий</keyword>
-        <keywords>Велокомп&apos;ютер SunDing SD-548C, Велокомпьютер SunDing SD-548C, Велокомп&apos;ютер SunDing SD-548C 14 функцій, Велокомпьютер SunDing SD-548C 14 функций, Велокомп&apos;ютер SunDing, Велокомпьютер SunDing, Велокомп&apos;ютер, Велокомпьютер, Велокомп&apos;ютер SunDing SD-548C бездротовий, Велокомпьютер SunDing SD-548C бездротовий</keywords>
-        <param name="Виробник">Sunding</param>
-        <param name="Колісний датчик">Бездротовий</param>
-        <param name="Колір">Чорний</param>
-        <param name="Артикул">5058</param>
-        <param name="Живлення">1*CR2032 і 1*23A батарейки</param>
-        <param name="Комплектація">велокомп&apos;ютер, кріплення, датчик, магніт на спиці, 1*CR2032 і 1*23A батарейки, 4 стяжки, інструкція англійською мовою</param>
-        <param name="Кількість у запайці">50</param>
-        <param name="Матеріал">Пластик</param>
-        <param name="Розмір екрана">27х22 мм</param>
-        <param name="Розміри">45х45х18 мм</param>
-        <param name="Тип живлення">на батарейках</param>
-        <param name="Тип пристрою">Велокомп&apos;ютер</param>
       </offer>
       <offer id="708650" available="false">
         <name>Велоліхтар BL-2502-TX3</name>

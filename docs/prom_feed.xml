@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-23 09:51">
+<yml_catalog date="2026-10-24 09:22">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
     <url>https://prom.ua/</url>
     <currencies><currency id="UAH" rate="1"/></currencies>
     <categories>
-      <category id="121245">Автомобільні органайзери</category>
       <category id="12125905">Автомобільні пилососи</category>
       <category id="141711">Дрилі, шуруповерти</category>
       <category id="14200399">Ручний інструмент, загальне</category>
@@ -118,76 +117,6 @@
         <param name="Цвет корпуса">Золотистый</param>
         <param name="Производитель">Gemei</param>
         <param name="Количество бритвенных головок">1</param>
-        <param name="Плавающие бритвенные головки">Да</param>
-        <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
-        <param name="Тип электробритвы">роторная</param>
-        <param name="Возможность влажного бритья">Да</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
-        <param name="Триммер для окантовки">Нет</param>
-      </offer>
-      <offer id="6583" available="false">
-        <name>Електробритва GEEMY GM-7090 3 в 1 тример, бездротова електробритва, Тример для вусів Blue</name>
-        <categoryId>3314</categoryId>
-        <price>540</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws58679</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/2798/5uvpeuivpv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2806/euivafueavafivfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2827/4kcifaveucvaufaviai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2831/4euiveivfeavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2836/4eivaeuefiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2840/epieivpeuivafvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2843/4euivpeuifveukfuviaiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2851/3kcaipivfpauv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2855/euivfuavfvfav.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/2860/vufaviavfai.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Електробритва одна з найбільш затребуваних побутових приладів для чоловіків. Якщо вам потрібна якісна акумуляторна електробритва для сухого гоління з ножами, що плавають, і вбудованим триммером для підрівнювання вусів і бороди, то модель Gemei GM 7090 &mdash; це саме те, що вам потрібно.</p>
-<p>Дана модель Gemei GM 7090 має ергономічний, стильний корпус, виготовлений з високотехнологічного ABS пластику, з антиковзними вставками з боків. Конструкція з трьома плаваючими ножами із гігієнічної нержавіючої сталі ідеально підходить для сухого гоління. Ризик порізів зведений до нуля, так як гострі ножі, що вібрують, для гоління голівок захищені нержавіючою дрібнокомірчастою сіточкою. Великою перевагою такої бритви вважається його автономність: протягом 90 хвилин може працювати за рахунок акумулятора. У нижній частині корпусу розташований індикатор рівня заряду. Дана роторна електробритва добре справляється з щетиною, що нерівномірно зростає, і забезпечують більш якісне гоління.</p>
-<p>Модель Gemei GM 7090 оснащена висувним триммером &mdash; дуже зручним пристосуванням для підрівнювання вусів, бакенбардів та бороди. Електрична бритва Gemei GM 7090 стане чудовим подарунком для чоловіка на будь-яке свято.</p>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Виробник: Gemei;</li>
-<li>Модель: GM 7090;</li>
-<li>Тип: роторна;</li>
-<li>Кількість бритв і сіток: 3;</li>
-<li>Час роботи від акумулятора: 90хв;</li>
-<li>Тип гоління: сухе;</li>
-<li>Тип тримера: відкидний;</li>
-<li>Ножі/сітки: сталеві;</li>
-<li>Індикатор заряджання: світлодіодний;</li>
-<li>Живлення: мережа/акумулятор;</li>
-<li>Час заряджання: 8 годин;</li>
-<li>Час збереження заряду: близько 10 днів;</li>
-<li>Рівень шуму: низький;</li>
-<li>Рівень вібрації: низький;</li>
-<li>Відсік для скидання волосся: є;</li>
-<li>Колір: синій.</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>електробритва;</li>
-<li>захисний ковпачок;</li>
-<li>щітка для чищення бритви;</li>
-<li>провід для заряджання;</li>
-<li>коробка.</li>
-</ul>]]></description>
-        <keyword>Електробритва GEEMY GM-7090</keyword>
-        <keyword>Электробритва GEEMY GM-7090</keyword>
-        <keyword>Електробритва GEEMY GM-7090 3 в 1 тример</keyword>
-        <keyword>Электробритва GEEMY GM-7090 3 в 1 триммер</keyword>
-        <keyword>бездротова електробритва</keyword>
-        <keyword>беспроводная электробритва</keyword>
-        <keyword>Тример для вусів Blue</keyword>
-        <keyword>Триммер для усов Blue</keyword>
-        <keyword>Електробритва GEEMY</keyword>
-        <keyword>Электробритва GEEMY</keyword>
-        <keywords>Електробритва GEEMY GM-7090, Электробритва GEEMY GM-7090, Електробритва GEEMY GM-7090 3 в 1 тример, Электробритва GEEMY GM-7090 3 в 1 триммер, бездротова електробритва, беспроводная электробритва, Тример для вусів Blue, Триммер для усов Blue, Електробритва GEEMY, Электробритва GEEMY</keywords>
-        <param name="Цвет корпуса">Синий</param>
-        <param name="Производитель">Geemy</param>
-        <param name="Количество бритвенных головок">3</param>
         <param name="Плавающие бритвенные головки">Да</param>
         <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
         <param name="Тип электробритвы">роторная</param>
@@ -2810,7 +2739,7 @@
         <picture>https://www.websklad.biz.ua/storage/26965/ufivap3ufv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26968/cfiavpuiav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26971/rwadsffgtrweasd.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Електроплита двоконфоркова Rainberg RB-008</strong><span>&nbsp;</span>- справжня знахідка для людей, які цінують свій час.<br />Відкриті нагрівальні спіралі, кожна потужністю 3500Вт, забезпечують миттєвий розігрів та швидке приготування їжі вдома та на дачі. Вбудовані термостати підтримують заданий режим приготування їжі. П'ять режимів потужності для кожної конфорки.</p>
 <p>Компактна електроплита в елегантному дизайні &mdash; відмінне рішення як як додаткова варильна панель на дачі або в будинку, так і в якості окремої електричної плити на невеликій кухні. Проста та зручна в експлуатації з подвійною варильною панеллю. Кожна плита настроюється індивідуально &mdash; можна використовувати дві пластини разом чи окремо. Ця модель оснащена захистом від перегріву, не ковзними гумовими ніжками для безпечного використання.</p>
 <div><strong>Переваги плитки:</strong>
@@ -2891,7 +2820,7 @@
         <picture>https://www.websklad.biz.ua/storage/25988/eqwdasfdrewad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/25994/3ewrfst4r3wea.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26001/r3eqwfr3ewdas.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Новинка від виробника Rainberg - компактна, надійна, потужна електрична м'ясорубка RB-679 із функцією придушення шуму. Потужність 3000 Ватт. Здатна перемолоти м'ясо, рибу, овочі, а також приготує сік або морс, домашні ковбаски та таксі.</p>
 <p>Тип м'ясорубки - шнековий.</p>
 <p>Модель оснащена функцією "реверс" для запобігання ущільненню продуктів усередині м'ясорубки.</p>
@@ -5047,74 +4976,6 @@
         <param name="Количество бритвенных головок">3</param>
         <param name="Плавающие бритвенные головки">Да</param>
         <param name="Тип питания">Аккумулятор, Сеть 220 В</param>
-        <param name="Тип электробритвы">роторная</param>
-        <param name="Возможность влажного бритья">Да</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
-        <param name="Триммер для окантовки">Нет</param>
-      </offer>
-      <offer id="344204" available="false">
-        <name>Електробритва чоловіча VGR V-353 професійна бритва шейвер для сухого гоління тример. Колір: чорний</name>
-        <categoryId>3314</categoryId>
-        <price>410</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws13611</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/30044/kcfavmuvafvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30053/nukvyarkfvrkfykvr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30060/jcfvyvaukvyavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30068/cfvyuvyaavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30077/5nukvayrkuvfryf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30086/rnukvfyrkfavkvrokuv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30094/nukvyrkyfkpfuy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30102/ukvyarkyfpfauvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30111/nkyvarkyfrpyPyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30119/kvayfrkfkpfpy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Портативна бритва VGR V-353 &ndash; універсальний дорожній шейвер, який стане незамінним помічником у боротьбі за ідеальну зовнішність у будь-якому місці. Основною перевагою даного пристрою є не тільки те, що воно може працювати без мережі, але також те, що при використанні даної бритви ви назавжди забудете про роздратування &ndash; ідеальне рішення для чутливої шкіри. Бритва ідеально повторює кожен вигин обличчя, роблячи гоління бездоганним.</p>
-<p>Особливістю шейвера є наявність сітки, що голить, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Крім того, пристрій має триммер для окантовки, за допомогою якого можна досягти ідеальних ліній. Сітка виготовлена з титанової фольги і є гіпоалергенною. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі можуть бути замінені.</p>
-<p>Шейвер працює від Li-Ion акумулятора, який забезпечує 120 хвилин автономною роботою. Акумулятор може бути заряджений та заряджений у будь-який момент. Для заряджання шейвера можна використовувати будь-який зарядний пристрій від телефону, в комплекті постачається кабель USB та зарядний блок.</p>
-<p>Корпус бритви виконаний із якісного прозорого пластику. На корпусі є кнопка включення-вимикання, роз'єм для зарядки, LED-індикатор зарядки у відсотках, оповіщення про своєчасне очищення ножів від щетини та кнопка для від'єднання голівки, що голить. Для того щоб зняти головку потрібно докласти деяких зусиль. Це зроблено спеціально для того, щоб під час роботи ви випадково не від'єднали голівку та не пошкодили сітки з ножами. Водозахист за стандартом IPX5, що дозволяє використовувати шейвер, не побоюючись попадання води.</p>
-<p><strong>Особливості електробритви VGR V-353:</strong></p>
-<ul>
-<li>Тип живлення: акумулятор / мережа (комбіноване)</li>
-<li>Потужна та функціональна</li>
-<li>Водонепроникна</li>
-<li>Подвійна система гоління</li>
-<li>Гіпоалергенні сітки з титану</li>
-<li>Асинхронні незалежні ножі</li>
-<li>Термін роботи: 2 години</li>
-<li>Час заряджання: 2 години</li>
-<li>Мотор із частотою 7500 об/хв</li>
-<li>Потужність: 5 V</li>
-<li>Li-Ion акумулятор</li>
-<li>Заряджання від будь-якої зарядки для телефону</li>
-<li>Помірний рівень шуму під час роботи</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>шейвер</li>
-<li>кабель USB</li>
-<li>захисна кришка</li>
-<li>щітка для чищення</li>
-<li>дорожній чохол</li>
-</ul>]]></description>
-        <keyword>Електробритва чоловіча VGR</keyword>
-        <keyword>Электробритва мужская VGR</keyword>
-        <keyword>Електробритва чоловіча VGR V-353 професійна</keyword>
-        <keyword>Электробритва мужская VGR V-353 профессиональная</keyword>
-        <keyword>Електробритва чоловіча VGR V-353</keyword>
-        <keyword>Электробритва мужская VGR V-353</keyword>
-        <keyword>Електробритва чоловіча</keyword>
-        <keyword>Электробритва мужская</keyword>
-        <keyword>Електробритва</keyword>
-        <keyword>Электробритва</keyword>
-        <keywords>Електробритва чоловіча VGR, Электробритва мужская VGR, Електробритва чоловіча VGR V-353 професійна, Электробритва мужская VGR V-353 профессиональная, Електробритва чоловіча VGR V-353, Электробритва мужская VGR V-353, Електробритва чоловіча, Электробритва мужская, Електробритва, Электробритва</keywords>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Производитель">VGR</param>
-        <param name="Количество бритвенных головок">2</param>
-        <param name="Плавающие бритвенные головки">Да</param>
-        <param name="Тип питания">Аккумулятор</param>
         <param name="Тип электробритвы">роторная</param>
         <param name="Возможность влажного бритья">Да</param>
         <param name="Страна производитель">Китай</param>
@@ -7601,84 +7462,6 @@
         <keywords>Акумуляторна переносна колонка, Аккумуляторная переносная колонка, Акумуляторна переносна колонка TG652 5W з RGB, Аккумуляторная переносная колонка TG652 5W с RGB, блютуз колонка, Акумуляторна переносна колонка TG652, Аккумуляторная переносная колонка TG652, Акумуляторна переносна колонка TG652 5W, Аккумуляторная переносная колонка TG652 5W, Акумуляторна переносна</keywords>
         <param name="Производитель">T&amp;G</param>
         <param name="Цвет корпуса">Синий</param>
-        <param name="Суммарная мощность звука">5</param>
-        <param name="Минимальная частота">60</param>
-        <param name="Максимальная частота">20000</param>
-        <param name="Состояние">Новое</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Формат акустики">Стерео</param>
-        <param name="Тип питания">Аккумулятор, USB-порт</param>
-        <param name="Интерфейсы">USB, micro USB, jack 3.5 мм</param>
-        <param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
-        <param name="Поддерживаемые карты памяти">microSD, TF Card</param>
-        <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
-        <param name="Материал корпуса">Пластик</param>
-      </offer>
-      <offer id="460717" available="false">
-        <name>Портативна колонка TG642 з RGB підсвічуванням та ремінцем, гучна блютуз колонка. Колір: зелений</name>
-        <categoryId>6371101</categoryId>
-        <price>690</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws38746-2</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/40884/euyvayfuvyfay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40891/kvaypyvpvfavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40895/qwasfasrwasfedas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40900/rkvaapppkavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40902/4ecuyvauvfavakyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40905/e4cuyvpfuvypkavpkavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40907/ruyvyachyvfpavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40910/rnypyvvayfavyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40913/euauavyavyfavvayfp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/40916/uyvfvyavyfvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
-<ul>
-<li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
-<li>Акумулятор 1200 мАг: до 10 годин відтворення на середній гучності (2/3) при повній зарядці.<br />Сітчаста кришка: захищає динамік від води, пилу та ударів.</li>
-<li>Висока потужність 5 Вт * 2: два низькочастотні динаміки з кожного боку, вібрують під час відтворення музики.<br />360-градусний стереозвук: циліндрична форма та вбудовані лівий та правий канали.</li>
-<li>Функція дзвінка: вбудований мікрофон із шумопоглинанням дозволяє відповідати на дзвінки, не торкаючись телефону.</li>
-<li>Функція TWS: можливість синхронізації двох динаміків з одним телефоном.</li>
-<li>Підтримка флеш-накопичувача USB: відтворення музики з флешки.</li>
-<li>Підтримка карт TF або microSD ємністю до 32 ГБ, підтримка USB 2.0.</li>
-<li>Підтримка зовнішнього входу AUX: підключення MP3/MP4 плеєрів, комп'ютерів та інших аудіопристроїв.</li>
-<li>Керування кнопками: увімкнення/вимкнення, відтворення/пауза, перемикання режиму, перемикання пісень, регулювання гучності тощо.</li>
-<li>Багатофункціональність: не тільки Bluetooth-динамік, а й радіо, дротовий динамік, портативна колонка з потужним басом.</li>
-</ul>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Версія Bluetooth: 5.0</li>
-<li>Діапазон: 10 м</li>
-<li>Ставлення сигнал/шум: &ge; 95 дБ</li>
-<li>Ємність акумулятора: 1200 мАч</li>
-<li>Вбудована напруга: 3,7 В</li>
-<li>Час відтворення: 10 годин (на середній гучності)</li>
-<li>Динамік: &phi;57 мм x 2</li>
-<li>Потужність динаміка: 4 Ом / 5 Вт x 2</li>
-<li>Частота: 120 Гц - 20 кГц</li>
-<li>Розміри: 223 x 96 x 105 мм</li>
-<li>Вага: 750 г</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Bluetooth-динамік x 1</li>
-<li>Кабель USB для заряджання x 1</li>
-<li>Аудіокабель AUX x 1</li>
-<li>Плечовий ремінь x 1</li>
-<li>Посібник користувача x 1</li>
-</ul>]]></description>
-        <keyword>Портативна колонка TG642</keyword>
-        <keyword>Портативная колонка TG642</keyword>
-        <keyword>Портативна колонка TG642 з RGB підсвічуванням</keyword>
-        <keyword>Портативная колонка TG642 с RGB подсветкой</keyword>
-        <keyword>гучна блютуз колонка</keyword>
-        <keyword>громкая блютуз колонка</keyword>
-        <keyword>Портативна колонка TG642 з RGB</keyword>
-        <keyword>Портативная колонка TG642 с RGB</keyword>
-        <keyword>Портативна колонка</keyword>
-        <keyword>Портативная колонка</keyword>
-        <keywords>Портативна колонка TG642, Портативная колонка TG642, Портативна колонка TG642 з RGB підсвічуванням, Портативная колонка TG642 с RGB подсветкой, гучна блютуз колонка, громкая блютуз колонка, Портативна колонка TG642 з RGB, Портативная колонка TG642 с RGB, Портативна колонка, Портативная колонка</keywords>
-        <param name="Производитель">T&amp;G</param>
-        <param name="Цвет корпуса">Зеленый</param>
         <param name="Суммарная мощность звука">5</param>
         <param name="Минимальная частота">60</param>
         <param name="Максимальная частота">20000</param>
@@ -12244,7 +12027,7 @@
         <picture>https://www.websklad.biz.ua/storage/73351/kpyvkupyvprkyvrkvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73360/rkuvayrkpyfvapvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/73370/rkpyvpyvrkyvrpky.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>6 в 1 багатофункціональний епілятор та лицьові чищення інструменту.&nbsp;</li>
 <li>3 методи для гоління: рафінований для гоління, бритвені простий, безпечний для гоління.&nbsp;</li>
@@ -13542,7 +13325,7 @@
         <param name="Тример для окантовки">Так</param>
         <param name="Призначення">Для бороди і вусів</param>
       </offer>
-      <offer id="604279" available="true">
+      <offer id="604279" available="false">
         <name>Тример акумуляторний для стрижки волосся RAF R.427 для бороди вусів машинка для стрижки 5 Вт</name>
         <categoryId>28290204</categoryId>
         <price>300</price>
@@ -13558,7 +13341,7 @@
         <picture>https://www.websklad.biz.ua/storage/77409/rkvyravyrk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77414/oervayrvayppy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77418/rkurkvravyrvk.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Тример для стрижки волосся RAF R.427 &ndash; це портативний пристрій, який використовується для стрижки волосся у різних зонах: таких як волосся на голові, борода, вуса, брови або волосся навколо вух. Тример має невеликий розмір і легку вагу, що робить його зручним для використання як у повсякденному житті, так і в дорозі чи подорожі.</p>
 <p>Надзвичайно зручний та портативний, має надзвичайно привабливий дизайн. Підходить для догляду за будь-якою частиною тіла.</p>
 <p>Справляється навіть із найгустішим волоссям і що не менш важливо не висмикує волосся, а рівномірно стриже його.</p>
@@ -16981,87 +16764,6 @@
         <keywords>Епілятор VGR, Эпилятор VGR, Епілятор VGR 2 до 1 V-758, Эпилятор VGR 2 в 1 V-758, Епілятор, Эпилятор, Епілятор VGR 2 эпилятор, Эпилятор VGR 2 зелёный, Епілятор VGR эпилятор, Эпилятор VGR зелёный</keywords>
         <param name="Производитель">VGR</param>
         <param name="Цвет корпуса">Зелёный</param>
-        <param name="Количество пинцетов">32</param>
-        <param name="Количество насадок">2</param>
-        <param name="Количество скоростей">1</param>
-        <param name="Тип прибора">Эпилятор</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Тип элементов питания">Li-Ion</param>
-        <param name="Подсветка">Нет</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="634367" available="false">
-        <name>Епілятор VGR 2 до 1 V-758 Yellow</name>
-        <categoryId>3314</categoryId>
-        <price>690</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws31984-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/81147/hrdfgsdgagsg.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81154/rkvaipkipvaipkvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81161/rekvyapvyuyvfay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81170/rnkvikpivivfpi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81178/rkvipivpivfuipf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81185/rekrvarpvaipviavp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81192/kuvipivfpivif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81199/kvipivfpivfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81207/kppivfpifpiu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81213/rkupivuivfpfivvif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Представляємо<span>&nbsp;</span><strong>багатофункціональний прилад 2-в-1 VGR V-758</strong><span>&nbsp;</span>&mdash; ідеальне рішення для ефективного та комфортного видалення небажаного волосся, що поєднує в собі функції епілятора та електробритви.</p>
-<h2><strong>Ключові особливості:</strong></h2>
-<ul>
-<li><strong>Подвійна функціональність:</strong><span>&nbsp;</span>Завдяки змінним насадкам,<span>&nbsp;</span><strong>VGR V-758</strong><span>&nbsp;</span>легко перетворюється з епілятора в електробритву, для тіла.</li>
-<li><strong>Ефективна епіляція:</strong><span>&nbsp;</span>32 пінцета забезпечують швидке та ретельне видалення волосків, залишаючи шкіру гладкою на тривалий час.</li>
-<li><strong>Два швидкісні режими:</strong><span>&nbsp;</span>Дозволяють підібрати оптимальну швидкість для різних типів волосся та чутливих ділянок шкіри.</li>
-<li><strong>LED-дисплей та підсвічування:</strong><span>&nbsp;</span>Відображення поточних налаштувань і рівня заряду, а також вбудоване підсвічування допомагають не пропустити жодного волоска, забезпечуючи бездоганний результат.</li>
-<li><strong>Компактний та ергономічний дизайн:</strong><span>&nbsp;</span>Легкий пластиковий корпус та зручна форма роблять використання приладу комфортним та простим.</li>
-</ul>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Фірма:<strong><span>&nbsp;</span>VGR</strong>;</li>
-<li>Модель: <span>&nbsp;</span><strong>V-758</strong>;</li>
-<li>Потужність:<span>&nbsp;</span><strong>5 Вт</strong>;</li>
-<li>Матеріал корпусу: Пластик;</li>
-<li>Підсвічування:<span>&nbsp;</span><strong>Так</strong>;</li>
-<li>Живлення: Від акумулятора;</li>
-<li>Тип елементів живлення:<span>&nbsp;</span><strong>li-Ion</strong>;</li>
-<li>Ємність акумулятора:<span>&nbsp;</span><strong>600 mAh</strong>;</li>
-<li>Час роботи від акумулятора:<span>&nbsp;</span><strong>90 хвилин</strong>;</li>
-<li>Час до повної зарядки акумулятора:<span>&nbsp;</span><strong>1,5 години</strong>;</li>
-<li><strong>LED-дисплей</strong>;</li>
-<li>Підсвічування: Так;</li>
-<li>Тип епілятора: Пінцетний;</li>
-<li>Кількість пінцетів:<span>&nbsp;</span><strong>32</strong>;</li>
-<li>Кількість швидкостей:<span>&nbsp;</span><strong>2</strong>;</li>
-<li>Тип епіляції: Суха;</li>
-<li>Колір:<span>&nbsp;</span><strong>Зелений</strong>.</li>
-</ul>
-<h2><strong>До комплекту входить:</strong></h2>
-<ul>
-<li>Епілятор<span>&nbsp;</span><strong>VGR V-758;</strong></li>
-<li>USB кабель для заряджання;</li>
-<li>Епілююча пінцетна насадка;</li>
-<li>Насадка для обмеження зони епіляції;</li>
-<li>Бритвенна насадка;</li>
-<li>Щітка для очищення;</li>
-<li>Кабель для заряджання USB - Type-C;</li>
-<li>Посібник з експлуатації;</li>
-<li>Фірмова заводська упаковка.</li>
-</ul>]]></description>
-        <keyword>Епілятор VGR</keyword>
-        <keyword>Эпилятор VGR</keyword>
-        <keyword>Епілятор VGR 2 до 1 V-758 Yellow</keyword>
-        <keyword>Эпилятор VGR 2 в 1 V-758 Yellow</keyword>
-        <keyword>Епілятор</keyword>
-        <keyword>Эпилятор</keyword>
-        <keyword>Епілятор VGR 2 эпилятор</keyword>
-        <keyword>Эпилятор VGR 2 желтый</keyword>
-        <keyword>Епілятор VGR эпилятор</keyword>
-        <keyword>Эпилятор VGR желтый</keyword>
-        <keywords>Епілятор VGR, Эпилятор VGR, Епілятор VGR 2 до 1 V-758 Yellow, Эпилятор VGR 2 в 1 V-758 Yellow, Епілятор, Эпилятор, Епілятор VGR 2 эпилятор, Эпилятор VGR 2 желтый, Епілятор VGR эпилятор, Эпилятор VGR желтый</keywords>
-        <param name="Производитель">VGR</param>
-        <param name="Цвет корпуса">Желтый</param>
         <param name="Количество пинцетов">32</param>
         <param name="Количество насадок">2</param>
         <param name="Количество скоростей">1</param>
@@ -23465,7 +23167,7 @@
       <offer id="213666" available="false">
         <name>Мультипекар вафельниця бутербродниця сендвічниця гриль електрична 4 в 1 з формами Domotec MS-7704</name>
         <categoryId>6300404</categoryId>
-        <price>1150</price>
+        <price>1230</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws64427</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/19215/kcfivapkcuviaaiv.jpg</picture>
@@ -27849,7 +27551,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="585742" available="true">
+      <offer id="585742" available="false">
         <name>Електрична турка для кави Marado MA-1625, Побутова турка, Бюджетна турка. Колір: коричневий</name>
         <categoryId>6300406</categoryId>
         <price>360</price>
@@ -27864,7 +27566,7 @@
         <picture>https://www.websklad.biz.ua/storage/80380/kpvypvyrkry.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80388/varkvypvyp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80396/krvakvayrkyvreky.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Нарешті заварити каву по-турецьки стало так само просто, як підігріти воду в чайнику! Зустрічайте електричну турку &ndash; ваш порятунок від похмурого настрою в будь-яку пору року та в будь-який час доби!</p>
 <p>Просто натисніть кнопку: вона з радістю запропонує вам свою турботу... і звичайно &ndash; чашку гарячої кави, щоб зарядити ваші &laquo;батарейки&raquo;!</p>
 <p>Приготування кави в турці (джезве) - один із найдавніших методів отримання &laquo;напою бадьорості&raquo;. Тому існує безліч рецептів, різних як за складом, так і за технологією приготування. Така кава досить густа і має насичений смак. У ньому залишаються майже всі речовини, що містяться в обсмажених кавових зернах. Електротурка Марадо готує справжню каву - для вас та ваших близьких!</p>
@@ -29187,7 +28889,7 @@
         <picture>https://www.websklad.biz.ua/storage/81600/tdfgrdsgdsgfsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/81601/rdfgdhdfshdfsrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/81602/htdfgsdgds.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Акумуляторна машинка для стрижки волосся VGR V-196 в ефектному золотому корпусі поєднує професійну якість і сучасні технології, роблячи її відмінним вибором як для салонного, так і для домашнього використання. Завдяки потужному двигуну з частотою до 7000 об/хв та акумулятору ємністю 2000 мАг, машинка забезпечує до 200 хвилин безперебійної роботи без підзарядки, що особливо зручно при тривалих сеансах стрижки. Міцний корпус з відкритою конструкцією та оглядом на 360&deg; забезпечує повний контроль над процесом, а ергономічний дизайн робить використання комфортним та надійним.</p>
 <p>У комплект входять 6 насадок, що дозволяють точно налаштовувати довжину зрізу від 1.5 до 13 мм для створення різних стилів та форм. LED-дисплей відображає заряд акумулятора, режим роботи, нагадування про необхідність мастила та інші важливі параметри, забезпечуючи зручність та контроль у процесі використання. Бездротова конструкція дає повну свободу рухів, а висока продуктивність та універсальність роблять VGR V-196 ідеальним інструментом для тих, хто цінує якість, функціональність та стиль.</p>
 <h2><strong>Характеристики:</strong></h2>
@@ -31081,71 +30783,6 @@
         <param name="Тип заряда">USB</param>
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
-      </offer>
-      <offer id="104448" available="false">
-        <name>Епілятор VGR V-722 акумуляторний 2 швидкості 32 пінцети з насадками, депілятор для волосся. Колір: зелений</name>
-        <categoryId>3314</categoryId>
-        <price>650</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws54978-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/11540/ucfvymaucafyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11544/t4rwefgrefdsefasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11548/ukacfvvmaucvyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11552/cjvfyampkucvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11556/uvfysmaacuvys.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11558/t4refsgwrfasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11561/t4wefsdrwefgsdasa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11565/4rwafewdasfasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11569/4ekuayvuvafvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/11571/kcfyvaukcfvyaufyvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Епілятор VGR V-722&nbsp;</strong>&mdash; призначений для видалення небажаного волосся терміном до 4-х тижнів! Призначений не тільки для сухої епіляції, а й для вологої. Для цього на диски або сітку наноситься гель для душу або рідке мило, при обертанні дисків утворюється піна, тоді виходить гладке ковзання. Працює від мережі та акумулятора.</p>
-<p><strong>Особливості епілятора VGR V-722:</strong></p>
-<ul>
-<li>Депіляція за допомогою епілятора &ndash; це оптимальний варіант видалення зайвого волосся з тіла;</li>
-<li>Апарат завжди під рукою, він не вимагає особливих приготувань перед процедурою депіляції та додаткових витрат, окрім своєї ціни.</li>
-<li>Принцип дії епілятора полягає в наступному &ndash; кілька пар металевих дисків обертаються і, стикаючись, захоплюють волоски як щипчики, видаляючи їх з коренем.</li>
-</ul>
-<p><strong>Характеристики&nbsp;епілятора VGR V-722:</strong></p>
-<ul>
-<li>Матеріал корпусу: пластик;</li>
-<li>Кількість пінцетів: 32;</li>
-<li>Швидкості епілятора: 2;</li>
-<li>Термін роботи: 60 хв;</li>
-<li>Живлення: від акумулятора;</li>
-<li>Вага упаковки: 350 р.</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Епілятор&nbsp;<strong>VGR V-722</strong></li>
-<li>USB кабель</li>
-<li>Насадки 2 шт</li>
-<li>Щітка для очищення</li>
-<li>Інструкція</li>
-<li>Упаковка: коробка</li>
-</ul>]]></description>
-        <keyword>Епілятор VGR V-722</keyword>
-        <keyword>Эпилятор VGR V-722</keyword>
-        <keyword>Епілятор VGR V-722 акумуляторний 2 швидкості</keyword>
-        <keyword>Эпилятор VGR V-722 аккумуляторный 2 скорости</keyword>
-        <keyword>депілятор для волосся</keyword>
-        <keyword>депилятор для волос</keyword>
-        <keyword>Епілятор VGR V-722 акумуляторний</keyword>
-        <keyword>Эпилятор VGR V-722 аккумуляторный</keyword>
-        <keyword>Епілятор VGR</keyword>
-        <keyword>Эпилятор VGR</keyword>
-        <keywords>Епілятор VGR V-722, Эпилятор VGR V-722, Епілятор VGR V-722 акумуляторний 2 швидкості, Эпилятор VGR V-722 аккумуляторный 2 скорости, депілятор для волосся, депилятор для волос, Епілятор VGR V-722 акумуляторний, Эпилятор VGR V-722 аккумуляторный, Епілятор VGR, Эпилятор VGR</keywords>
-        <param name="Производитель">VGR</param>
-        <param name="Цвет корпуса">Зелёный</param>
-        <param name="Количество пинцетов">32</param>
-        <param name="Количество насадок">2</param>
-        <param name="Количество скоростей">2</param>
-        <param name="Тип прибора">Эпилятор</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Тип элементов питания">Li-Ion</param>
-        <param name="Подсветка">Нет</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
       </offer>
       <offer id="186348" available="false">
         <name>Бутербродниця MAGIO MG-378 750 Вт з антипригарним покриттям, Настільний гриль електричний-притискний</name>
@@ -34211,7 +33848,7 @@
         <param name="Тип покриття леза">Алмазное</param>
         <param name="Тип двигуна">Роторный</param>
       </offer>
-      <offer id="3339" available="true">
+      <offer id="3339" available="false">
         <name>Ваги кухонні електронні Domotec SF-400 з LCD дисплеєм Білі до 10кг</name>
         <categoryId>15230411</categoryId>
         <price>300</price>
@@ -34227,7 +33864,7 @@
         <picture>https://www.websklad.biz.ua/storage/1063/5htdgjdsfgsrad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1064/5htgdsfjntsgradr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1065/5hrdfsjtdshjrtsrdf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Кухонні ваги Domotec SF-400 призначені для зважування як маленьких предметів і сипких речовин, так і різноманітних матеріалів до 10 кг. Ці ваги незамінні на будь-якій кухні. Універсальні Кухонні ваги зважують із високою точністю &ndash; до 1 м. Коректно працюють за температури навколишнього повітря від 0 до 30 градусів Цельсія. Терези досить компактні і не займуть багато місця. Живлення: 2 батареї АА (у комплекті).</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -38091,7 +37728,7 @@
         <picture>https://www.websklad.biz.ua/storage/20924/cjfvyk3cujfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20932/ucfyvk3ujc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20939/jcvfyk3cjfvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Електрична плита з двома конфорками — це оптимальне рішення для комфортного і швидкого приготування їжі вдома. Завдяки компактним розмірам і простому управлінню, вона легко інтегрується в будь-яку кухню, забезпечуючи комфорт і зручність у щоденному використанні.</p>
 
 <h2>Раціональні причини обрати</h2>
@@ -38744,75 +38381,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="744520" available="false">
-        <name>Ліхтар налобний A16-GT 2x18650</name>
-        <categoryId>150410</categoryId>
-        <price>480</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws42528</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/110051/ervapivfavafi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/110052/ekaviapivfpuaifipuif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/110053/ervaipkivpaivif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/110055/oerkavpivfuifiu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/110056/pkivfpuifvppipfi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Ліхтар налобний A16-GT &mdash; це потужний та надійний акумуляторний ліхтар, призначений для активного відпочинку, походів, риболовлі, роботи у темний час доби та інших завдань, що потребують якісного освітлення. Завдяки захисту за стандартом IPX65 він стійкий до води та пилу, що забезпечує надійну роботу в будь-яких погодних умовах.</p>
-<p>Корпус ліхтаря виконаний з комбінації пластику та металу, що робить пристрій міцним та легким одночасно. Модель оснащена одним потужним діодом HP50 із трьома режимами роботи: 100% яскравості, 50% яскравості та стробоскоп. Оптичний зум дозволяє змінювати кут розсіювання світла від широкої плями до вузькоспрямованого променя, забезпечуючи універсальність використання.</p>
-<p>Особливістю ліхтаря є регульований кут нахилу голови, який дозволяє спрямовувати світловий потік точно на потрібний об'єкт, а вбудована індикація рівня заряду батареї допомагає контролювати ресурс акумуляторів, що залишився.</p>
-<p>Живлення здійснюється від двох акумуляторів формату 18650, які можна зарядити через комплектний кабель USB Type-C. Комплектація включає сам лобовий ліхтар, кабель Type-C і два акумулятори 18650, що робить пристрій готовим до використання відразу після розпакування.</p>
-<p>Ліхтар A16-GT &mdash; це зручне та практичне рішення для всіх, хто цінує надійність, функціональність та комфорт при роботі в умовах недостатнього освітлення.</p>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Тип пристрою: Налобний</li>
-<li>Тип живлення: акумуляторний</li>
-<li>Зарядний пристрій: USB</li>
-<li>Тип діода: HP50</li>
-<li>Матеріал: Пластик + метал</li>
-<li>Кількість діодів: 1</li>
-<li>Кількість режимів роботи: 3 (100%, 50%, стробоскоп)</li>
-<li>Оптичний зум: є</li>
-<li>Живлення: 2&times;18650 акумуляторів</li>
-<li>Додаткові характеристики: регульований кут нахилу голови ліхтаря, індикація рівня заряду батареї, вологозахист</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Ліхтар</li>
-<li>Кабель USB-Type-C</li>
-<li>2&times;18650 акумуляторів</li>
-<li>Коробка</li>
-</ul>]]></description>
-        <keyword>Ліхтар налобний A16-GT</keyword>
-        <keyword>Фонарь налобный A16-GT</keyword>
-        <keyword>Ліхтар налобний</keyword>
-        <keyword>Фонарь налобный</keyword>
-        <keyword>Ліхтар</keyword>
-        <keyword>Фонарь</keyword>
-        <keyword>Ліхтар налобний A16-GT акумулятори та аксесуари</keyword>
-        <keyword>Фонарь налобный A16-GT акумулятори та аксесуари</keyword>
-        <keyword>Ліхтар налобний акумулятори та аксесуари</keyword>
-        <keyword>Фонарь налобный акумулятори та аксесуари</keyword>
-        <keywords>Ліхтар налобний A16-GT, Фонарь налобный A16-GT, Ліхтар налобний, Фонарь налобный, Ліхтар, Фонарь, Ліхтар налобний A16-GT акумулятори та аксесуари, Фонарь налобный A16-GT акумулятори та аксесуари, Ліхтар налобний акумулятори та аксесуари, Фонарь налобный акумулятори та аксесуари</keywords>
-        <param name="Країна виробник">Китай</param>
-        <param name="Тип лампи">Світлодіодна</param>
-        <param name="Особливості ліхтаря">Змінний акумулятор, Водонепроникний, Пилостійкий, Оптичний зум, Протиударний, Вологостійкий</param>
-        <param name="Вага">45</param>
-        <param name="Гарантійний термін">1</param>
-        <param name="Тип діода">T6</param>
-        <param name="Тип ліхтаря">Налобний</param>
-        <param name="Кількість світлодіодів">1</param>
-        <param name="Стан">Новий</param>
-        <param name="Довжина">65</param>
-        <param name="Колірна температура">5000K</param>
-        <param name="Ємність акумулятору">3 А. г</param>
-        <param name="Інструмент для збирання">Ні</param>
-        <param name="Висота">18 мм</param>
-        <param name="Діаметр">18 мм</param>
-        <param name="Кількість в комплекті">1 шт.</param>
-        <param name="Тип">Акумулятори та аксесуари</param>
-        <param name="Тип акумулятора">Li-Ion</param>
-        <param name="Ширина">18 мм</param>
-      </offer>
-      <offer id="763885" available="true">
+      <offer id="763885" available="false">
         <name>Подрібнювач для кухні, подрібнювач чопер кухонний, блендер з металічною чашею 2л</name>
         <categoryId>64301</categoryId>
         <price>600</price>
@@ -38823,7 +38392,7 @@
         <picture>https://www.websklad.biz.ua/storage/103336/auvyfayvavauyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103341/uvyfypvpafyufypfyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103343/uayvfapuyfauuy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Блендер із двоярусним лезом Блискавка підходить для подрібнення фруктів, овочів, м'яса, змішування продуктів, збивання яєць. Також подрібнювач впорається з приготуванням кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування.<br /><br /><strong>Подвійний ніж з нержавіючої сталі</strong><br /> подвійні ножі з якісної нержавіючої сталі (він і дав назву блендера - Блискавка) і потужному моторі. Містка чаша об'ємом 2 літри дозволяє готувати велику кількість страв. Вона відокремлена від двигуна кришкою, а леза легко знімаються. Завдяки цьому чашу легко мити.</p>
 <p><strong>Висока потужність</strong><br /><br />Для великої нарізки достатньо всього кількох швидких натискань. Якщо ви хочете подрібнити інгредієнти, утримуйте кілька секунд. Прилад такий потужний, що може розмолоти продукти до пюре.<br /><br /><strong>Універсальне використання</strong><br /><br />Подрібнювач Блискавка може впоратися з будь-якими завданнями. Він нарізує, подрібнює, перемелює та доводить інгредієнти до стану пюре. Просто натисніть кнопку і прилад за лічені секунди наріже овочі, фрукти, сир, м'ясо або горіхи.<br /><br />Готуйте супи, салати, соуси, дитяче харчування, десерти, а також коктейлі!</p>
 <p><strong>Ключові переваги:</strong></p>
@@ -39745,7 +39314,7 @@
         <picture>https://www.websklad.biz.ua/storage/36098/pckuayfvaukcfvauyfv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/36106/ipkuyafvfkcuauyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/36113/e4kcayfvukcayv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Розслаблення і комфорт у будь-який момент — це реальність з великою плюшевою антистрес-іграшкою, яка поєднує ніжність та функціональність. М'яка, еластична та безпечна, вона не тільки заспокоює, а й дарує тепло обіймів, слугуючи водночас комфортною подушкою. Такий аксесуар стане незамінним супутником вдома, у подорожах чи на роботі — створений для відпочинку та психологічного розвантаження без компромісів.</p>
 
 <h2>Переваги використання</h2>
@@ -42436,52 +42005,6 @@
         <param name="Страна производитель">Китай</param>
         <param name="Тип держателя">Настольный</param>
       </offer>
-      <offer id="581065" available="false">
-        <name>Комплект органайзерів 4 шт для зберігання речей та білизни</name>
-        <categoryId>121245</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws25242</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/68329/ppuyypucyvmv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/68334/pkvapkueppk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/68339/nrkvapkyvpvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/68345/eupyyvuayvfafyv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/68351/kpapkyvauyvf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/68359/kpvairvyyav.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Представляємо набір з 4 органайзерів, що миються, для зберігання одягу в гардеробі &mdash; ідеальне рішення для організації вашої шафи та підтримання порядку в будинку.</strong></p>
-<p>Наші органайзери виготовлені з&nbsp;<strong>удосконаленого товстого матеріалу</strong>&nbsp;і мають міцний дизайн зі зручними ручками, що робить їх великими, міцними і максимально зручними. /strong>&nbsp;у використанні. Обгорнуті щільною Оксфордською тканиною, вони зберігають свою форму, не деформуються і не ламаються з часом.</p>
-<p><strong>Переваги нашого органайзера для одягу:</strong></p>
-<ul>
-<li><strong>Зручні ручки</strong>&nbsp;дозволяють легко переміщати органайзер, виймати і поміщати його в гардероб, забезпечуючи комфорт у повсякденному житті.</li>
-<li><strong>Багатофункціональне зберігання</strong>&nbsp;позбавить вас занепокоєння безладом. Ідеально підходить для зберігання нижньої білизни, шкарпеток, шарфів, сорочок, суконь, легінсів, спідниць, футболок, джинсів та інших предметів.</li>
-<li><strong>Гігієнічний та здоровий дизайн</strong>&nbsp;з вентиляційними сітчастими відсіками створює чисте середовище для вашого одягу, без специфічних запахів, дозволяючи тканини дихати.</li>
-<li><strong>Економія часу та простору</strong>: висувні ящики дозволяють зручно та швидко класти та діставати одяг, зберігаючи ваш гардероб та ящики акуратними.</li>
-<li><strong>Складна конструкція</strong>: коли органайзер не використовується, його можна легко скласти та прибрати, заощаджуючи місце.</li>
-</ul>
-<p><strong>Матеріал:</strong>&nbsp;високоякісний нейлон та тканина оксфорд.</p>
-<p data-pm-slice="1 1 []"><b>Колір:&nbsp;</b>сірий</p>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Кількість органайзерів у наборі: 4 шт.</li>
-<li>Розмір великого органайзера (7 секцій): 23 х 33 х 20 см</li>
-<li>Розмір середнього органайзера (7 секцій): 16 х 31</li>
-<li>Розмір маленького органайзера (7 секцій): 12 х 35</li>
-<li>Розмір маленького органайзера (11 секцій): 12 х 35</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Органайзери-4 шт.</li>
-</ul>]]></description>
-        <keyword>Комплект органайзерів</keyword>
-        <keyword>Комплект органайзеров</keyword>
-        <keyword>Комплект органайзерів 4 шт для зберігання речей</keyword>
-        <keyword>Комплект органайзеров 4 шт для хранения вещей</keyword>
-        <keyword>Комплект органайзерів 4 шт</keyword>
-        <keyword>Комплект органайзеров 4 шт</keyword>
-        <keyword>Комплект</keyword>
-        <keywords>Комплект органайзерів, Комплект органайзеров, Комплект органайзерів 4 шт для зберігання речей, Комплект органайзеров 4 шт для хранения вещей, Комплект органайзерів 4 шт, Комплект органайзеров 4 шт, Комплект</keywords>
-      </offer>
       <offer id="595047" available="false">
         <name>Прес для часнику UNIQUE UN-1761 часнодавка ручна металева</name>
         <categoryId>6300404</categoryId>
@@ -42697,7 +42220,7 @@
         <picture>https://www.websklad.biz.ua/storage/77458/nkpvivfpkpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77459/ervavapkpfifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77460/rvarkvrkvravi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>GPS-трекер GF-07 - це не тільки мобільна система оповіщення з режимом охорони по датчику звуку, але і трекер стеження за транспортом, будь-яким об'єктом, що рухається. Може виступати у вигляді туристичного трекера, з якого, у разі екстреної ситуації, можна зателефонувати, натиснувши кнопку SOS, і через вбудований мікрофон повідомити важливу інформацію. Є можливість зателефонувати на сімку в трекері та через чутливий мікрофон почути, що відбувається в радіусі до 2,5-3 метрів. Працює за допомогою звичайної SIM картки. Передає свої координати на смартфон, а також надсилає туди отриману звукову інформацію.</p>
 <p>Трекер заряджається від USB-кабелю. При повній зарядці може працювати до 7 днів.</p>
 <p><strong>Характеристики GPS-трекера GF-07:</strong></p>
@@ -42941,7 +42464,7 @@
         <keyword>Портативный фитнес-блендер в виде</keyword>
         <keywords>Портативний фітнес-блендер, Портативный фитнес-блендер, Портативний фітнес-блендер у вигляді пляшки, Портативный фитнес-блендер в виде бутылки, Портативний фітнес-блендер у вигляді, Портативный фитнес-блендер в виде</keywords>
       </offer>
-      <offer id="604770" available="true">
+      <offer id="604770" available="false">
         <name>Зволожувач повітря – арома дифузор Diffuser А3 з пультом, ультразвуковий зволожувач з полумям White</name>
         <categoryId>625</categoryId>
         <price>670</price>
@@ -42952,7 +42475,7 @@
         <picture>https://www.websklad.biz.ua/storage/74395/gsdgesages.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74396/yrdggsgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/74402/rgsgesages.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Ультразвуковий зволожувач характеристики:</strong></p>
 <ul>
 <li>Модель: А3;</li>
@@ -43581,80 +43104,6 @@
         <keyword>Лазерний рівень із зеленим лазером</keyword>
         <keyword>Лазерный уровень с зеленым лазером</keyword>
         <keywords>Лазерний рівень, Лазерный уровень, Лазерний рівень із зеленим лазером і треногою, Лазерный уровень с зеленым лазером и треногой, Лазерний рівень із зеленим, Лазерный уровень с зеленым, Лазерний рівень із зеленим лазером, Лазерный уровень с зеленым лазером</keywords>
-      </offer>
-      <offer id="741742" available="false">
-        <name>Акустична колонка з акумулятором ZXX-7676 200Вт портативна переносна колонка Bluetooth на колесах</name>
-        <categoryId>6370605</categoryId>
-        <price>6930</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws12997</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/88936/kpvypyfvpypykfpyupy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>ZXX-7676 &mdash; відмінна колонка з потужним звуком, яскравим підсвічуванням та двома радіомікрофонами. Підключай Bluetooth або флешку, співай караоке та запалюй до 10 годин без розетки. Зручні коліщатка та ручка &mdash; бери із собою хоч на дачу!</p>
-<h2><strong>Переваги:</strong></h2>
-<ul>
-<li>Потужність до 200 Вт &mdash; голосно та насичено</li>
-<li>Реальна потужність 80 Вт RMS &mdash; без перевантажень</li>
-<li>2 радіомікрофони з дальністю до 50 м</li>
-<li>До 10 години автономної роботи</li>
-<li>LED підсвічування з можливістю відключення</li>
-<li>Керування: Bluetooth, USB, SD, FM, AUX</li>
-<li>Еквалайзер та ехо-ефекти для мікрофонів</li>
-</ul>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Потужність RMS: 80 Вт</li>
-<li>Пікова потужність: 200 Вт</li>
-<li>Частотний діапазон: від 45 Гц до 20 кГц</li>
-<li>Опір: 8 Ом</li>
-<li>Динаміки: 1" horn ВЧ, 12" НЧ</li>
-<li>Максимальний звуковий тиск: 93 дБ</li>
-<li>LED підсвічування</li>
-<li>Караоке</li>
-<li>Bluetooth</li>
-<li>FM радіо</li>
-<li>USB</li>
-<li>SD card</li>
-<li>Мікрофонний вхід: Jack 6.5 мм</li>
-<li>Гітарний вхід: Jack 6.5 мм</li>
-<li>Аудіо вхід: AUX 3.5 мм / RCA</li>
-<li>Вхід 12V</li>
-<li>Підтримка акустичної стійки</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Акустична колонка</li>
-<li>2 радіомікрофони</li>
-<li>Пульт дистанційного керування</li>
-<li>Кабель живлення</li>
-<li>Упаковка</li>
-</ul>]]></description>
-        <keyword>Акустична колонка</keyword>
-        <keyword>Акустическая колонка</keyword>
-        <keyword>Акустична колонка з акумулятором ZXX-7676 200Вт</keyword>
-        <keyword>Акустическая колонка с аккумулятором ZXX-7676</keyword>
-        <keyword>Акустична колонка з акумулятором</keyword>
-        <keyword>Акустическая колонка с аккумулятором</keyword>
-        <keyword>Акустична колонка з акумулятором ZXX-7676</keyword>
-        <keyword>Акустическая колонка с ZXX</keyword>
-        <keyword>Акустична колонка ZXX</keyword>
-        <keyword>Акустическая колонка с портативные</keyword>
-        <keywords>Акустична колонка, Акустическая колонка, Акустична колонка з акумулятором ZXX-7676 200Вт, Акустическая колонка с аккумулятором ZXX-7676, Акустична колонка з акумулятором, Акустическая колонка с аккумулятором, Акустична колонка з акумулятором ZXX-7676, Акустическая колонка с ZXX, Акустична колонка ZXX, Акустическая колонка с портативные</keywords>
-        <param name="Производитель">ZXX</param>
-        <param name="Максимальная мощность">200</param>
-        <param name="Количество динамиков">2 шт</param>
-        <param name="Количество полос">2.5</param>
-        <param name="Максимальная частота">20000</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Минимальная частота">40</param>
-        <param name="Мощность">600</param>
-        <param name="Назначение">Комплект акустики</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип">Портативные</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Чувствительность">98 дБ</param>
-        <param name="Беспроводные возможности">Bluetooth</param>
-        <param name="Тип питания">Аккумулятор, Сеть</param>
       </offer>
       <offer id="3343" available="true">
         <name>Потрійне дзеркало для макіяжу із підсвічуванням, Дзеркало для нанесення макіяжу, Дзеркало для макіяжу розкладне</name>

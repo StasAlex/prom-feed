@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-26 10:54">
+<yml_catalog date="2026-10-27 10:17">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -126,7 +126,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="6631" available="false">
+      <offer id="6631" available="true">
         <name>Сендвічниця DOMOTEC MS-7777, Електробутербродниця, Сендвічниця мультипекар, Бутербродниця електрична</name>
         <categoryId>6300404</categoryId>
         <price>650</price>
@@ -142,7 +142,7 @@
         <picture>https://www.websklad.biz.ua/storage/3053/IMG_4162.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3057/cfyvaakcfyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3059/ucfyvaekcvfy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Шукаєте швидкий та простий спосіб приготувати гарячі бутерброди з хрусткою скоринкою та соковитою начинкою? Електрична сендвичниця Domotec MS 7777 – це функціональний пристрій, що дозволяє всього за 2-3 хвилини створювати смачні страви без зайвих зусиль. Лаконічний дизайн і продумані технічні рішення зроблять процес приготування легким, а очищення приладу – мінімально затратним за часом.</p>
 
 <h2>Ключові переваги</h2>
@@ -1923,7 +1923,7 @@
         <param name="Тип миксера">Ручной</param>
         <param name="Страна производитель">Китай</param>
       </offer>
-      <offer id="254301" available="true">
+      <offer id="254301" available="false">
         <name>Міксер ручний Magio MG-230, потужний міксер, міксер блендер ручний, побутові міксери, кухонний міксер</name>
         <categoryId>612</categoryId>
         <price>1150</price>
@@ -1939,7 +1939,7 @@
         <picture>https://www.websklad.biz.ua/storage/18830/eqwadsrweads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/18837/eqwdfr3ewasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/18845/ewafr3qwads.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Magio MG-230 – це потужний і функціональний міксер, який відповідає вимогам сучасної кухні, забезпечуючи швидке та ефективне приготування різноманітних кулінарних страв. Завдяки оптимальній потужності і продуманому дизайну, він стане незамінним помічником як для домашнього, так і для професійного використання. Цей пристрій дозволить вам економити час і зусилля, роблячи процес приготування максимально комфортним.</p>
 
 <h2>Чим виділяється ця модель</h2>
@@ -2054,7 +2054,7 @@
         <picture>https://www.websklad.biz.ua/storage/27477/k3ujcvyakcufvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27483/k3jcfyvkcuvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27490/k3cvaykucvyf.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тостер MAGIO MG-278 — це функціональне та стильне рішення для сучасної кухні, яке не лише швидко та рівномірно підсмажить хліб, а й спростить щоденне приготування тостів. Компактний прилад з потужністю 830 Вт обладнаний зручними режимами та елементами керування, що дозволяють адаптувати процес підсмаження під індивідуальні вподобання кожного користувача.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -3802,7 +3802,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="299985" available="true">
+      <offer id="299985" available="false">
         <name>Ліхтар кишеньковий з металевим корпусом Police Bailong BL-T6-19, потужний акумуляторний лед ліхтарик</name>
         <categoryId>150410</categoryId>
         <price>300</price>
@@ -3818,7 +3818,7 @@
         <picture>https://www.websklad.biz.ua/storage/26819/kvyfavyfyvavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26826/cvyauucmsvayafy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26835/cvfyvfaay.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Компактний і потужний металевий ліхтарик — незамінний помічник у темний час доби. Він поєднує у собі ергономічний дизайн, надійність і високий рівень освітлення, що робить його ідеальним супутником у різних ситуаціях. Завдяки вбудованому акумулятору з USB-зарядкою, цей ліхтарик завжди готовий до роботи без зайвих витрат на батарейки. Універсальність та функціональність забезпечують комфорт навіть у складних умовах.</p>
 
 <h2>Основні сильні сторони</h2>
@@ -6724,7 +6724,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">12</param>
       </offer>
-      <offer id="433914" available="true">
+      <offer id="433914" available="false">
         <name>Ваги кухонні MAGIO MG-781 водонепроникні, ваги для зважування продуктів, ваги харчові</name>
         <categoryId>15230411</categoryId>
         <price>630</price>
@@ -6740,7 +6740,7 @@
         <picture>https://www.websklad.biz.ua/storage/38910/gfbgtesfdgdsgfsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38913/4esdfgtesdgtrgfrds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38916/rfdsgtesdfgtgrds.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Ваги кухонні&nbsp;MG-781:</strong></p>
 <ul>
 <li>Тип: Водонепроникні-електронні. Це забезпечує захист від води та робить їх ідеальним вибором для використання на кухні, де можуть виникати волога та бризки.</li>
@@ -9963,7 +9963,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="505187" available="false">
+      <offer id="505187" available="true">
         <name>Пилосос Magio MG-895, Пилосос колбовий без мішка, Хороший пилосос для дому, Пилосос для дому потужний</name>
         <categoryId>608</categoryId>
         <price>3360</price>
@@ -9979,7 +9979,7 @@
         <picture>https://www.websklad.biz.ua/storage/53697/peuyvapvyfupyfavy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/53702/3kcavyfuekupavpk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/53707/k3cayvfeufp.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<table border="0" cellpadding="1" cellspacing="1" style="height: 290px;">
 <tbody>
 <tr style="height: 46px;">
@@ -12153,7 +12153,7 @@
         <param name="Состояние">Новое</param>
         <param name="Материал ручки">Пластик</param>
       </offer>
-      <offer id="593764" available="true">
+      <offer id="593764" available="false">
         <name>Кавомолка MAGIO MG-194 200 Вт, Млин електричний для кави, Металева кавомолка нержавійки</name>
         <categoryId>6300401</categoryId>
         <price>1030</price>
@@ -12169,7 +12169,7 @@
         <picture>https://www.websklad.biz.ua/storage/68456/revaiprvpvipufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68461/puivfifpipifup.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68470/krvaipkipiupifu.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Мультимолочка для подрібнення спецій, круп, кавових зерен Magio (MG-194)</strong></p>
 <ul>
 <li>Потужність: 200 Вт</li>
@@ -13407,7 +13407,7 @@
         <picture>https://www.websklad.biz.ua/storage/84596/pkpivpivpifp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84606/kppvifpufivp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84612/rkvipvifii.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Кухонний подрібнювач RAF R-7008 створений для тих, хто цінує швидкість і якість у приготуванні страв. Завдяки потужності 1600 Вт і місткій чаші об’ємом 6000 мл, цей апарат легко справляється з великими об’ємами продуктів, забезпечуючи рівномірне подрібнення. Дві регульовані швидкості дозволяють налаштувати пристрій під різні завдання, від тонкої нарізки до грубого подрібнення. Корпус із пластику та нержавної сталі не лише довговічний, але й простий у догляді, а стійка до корозії чаша з нержавної сталі гарантує надійність та гігієнічність використання. RAF R-7008 — відмінний інструмент для ефективної роботи на кухні.</p>
 
 <h2>Переваги використання</h2>
@@ -13815,7 +13815,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="604894" available="true">
+      <offer id="604894" available="false">
         <name>Електрочайник RAF R.7816 металевий дисковий 2 л 1500 Вт, Потужний кухонний чайник</name>
         <categoryId>640</categoryId>
         <price>480</price>
@@ -13831,7 +13831,7 @@
         <picture>https://www.websklad.biz.ua/storage/84701/vaypkpyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84708/rvyapravpfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84716/rkuvppkfpfy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>RAF R.7816 &ndash; сучасний електричний чайник з дисковим нагрівальним елементом та корпусом з нержавіючої сталі. Головна особливість такого приладу полягає у його мобільності. Використовувати електрочайник можна абсолютно у будь-якому місці, де є доступ до електричної мережі. Завдяки досить високій потужності в 1500 Вт, процес закипання рідини займає всього пару хвилин. Чайник обертається на підставці на 360 градусів і має функцію автовідключення під час закипання.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -14198,7 +14198,7 @@
         <picture>https://www.websklad.biz.ua/storage/72398/kyvvayvaravy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/72411/kpyayavrvyrv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/72428/yrvayrvrrvrkv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Гриль електричний RAF R.238 являє собою форму з нержавіючої сталі з антипригарним покриттям та ребристою поверхнею. Завдяки такому покриттю страва не пригорить і не пристане до її поверхні, а створить апетитну скоринку з характерними для гриля смугами.</p>
 <p>Легкий та простий в управлінні пристрій допоможе швидко підготуватися до пікніка або походу. Електрогриль RAF R.238 виконаний у стильному сучасному дизайні, нагрівається за лічені секунди та дозволить приготувати без використання олії рибу, м'ясо та овочі. Модель оснащена міцними нагрівальними пластинами з антипригарним покриттям.</p>
 <p><strong>Переваги:</strong></p>
@@ -14343,7 +14343,7 @@
         <picture>https://www.websklad.biz.ua/storage/77117/rkvakpirkifri.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77123/oevairkvapvifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77128/oeprkvarppvif.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>RAF R.552</strong><span>&nbsp;</span>&ndash; це <span>&nbsp;</span><strong>універсальний кухонний прилад</strong>, який поєднує в собі 7 різних функцій</strong>, дозволяючи готувати<span>&nbsp;</span><strong>різноманітні страви</strong>. Завдяки <span>&nbsp;</span><strong>змінним антипригарним пластинам</strong>, він може працювати як<span>&nbsp;</span><strong>мультигріль, вафельниця, сендвічниця, прилад для приготування пончиків, кексів, горішків та печива</strong>.</p>
 <p><strong>Цей прилад стане незамінним помічником на кухні</strong><span>&nbsp;</span>&ndash; він дозволяє швидко приготувати смачний сніданок або десерт без зайвого клопоту. Завдяки <span>&nbsp;</span><strong>антипригарному покриттю</strong>, продукти не прилипають і легко знімаються, а сендвічниця рівномірно підсмажує їжу з обох боків.</p>
 <p><strong>Основні переваги мультимейкера RAF R.552:</strong></p>
@@ -14792,7 +14792,7 @@
         <picture>https://www.websklad.biz.ua/storage/79131/kuvipkpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/79137/krvaprvifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/79145/rkviappivfi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Соковитискач RAF R.2857</strong>&ndash; це зручний та сучасний пристрій, який дозволить швидко та без зайвих зусиль приготувати свіжий натуральний сік. Завдяки відцентровій технології та потужному мотору в 150 Вт прилад ефективно витягує сік із фруктів та овочів, зберігаючи максимум вітамінів та корисних речовин.</p>
 <p><strong>Компактні розміри</strong> та продумана конструкція роблять RAF R.2857 чудовим вибором для будь-якої кухні.</p>
 <p><strong>Прилад</strong> запускається натисканням однієї кнопки та оснащений системою автоматичного блокування для безпечної експлуатації. Завдяки широкій завантажувальній горловині діаметром 75 мм можна завантажувати цілі фрукти та овочі, що значно заощаджує час на підготовку.</p>
@@ -22318,7 +22318,7 @@
         <param name="Тип элементов питания">2 AA</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="142524" available="false">
+      <offer id="142524" available="true">
         <name>Кавоварка Magio MG-449 з термостаканом, Кавоварка для дому, Кавомашина домашня</name>
         <categoryId>638</categoryId>
         <price>980</price>
@@ -22333,7 +22333,7 @@
         <picture>https://www.websklad.biz.ua/storage/12349/k3ucviaak3cjufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/12353/kcvfik3cuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/12356/pucvfyaufyvyf-1.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Краплинна кавоварка Magio MG-449 представляє собою зручний і функціональний пристрій для приготування свіжої меленої кави швидко і без зайвих зусиль. Всього один клік — і ароматний напій готовий, при цьому завдяки термочашці він зберігає тепло і насичений смак тривалий час. Ця модель ідеально підійде як для домашнього використання, так і для невеликих офісів.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -22477,7 +22477,7 @@
         <param name="Тип">Зубная щетка</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="172888" available="true">
+      <offer id="172888" available="false">
         <name>Професійний переносний ліхтар-прожектор Bailong S912-XPE+COB(white+red) 2 режими роботи</name>
         <categoryId>150410</categoryId>
         <price>630</price>
@@ -22493,7 +22493,7 @@
         <picture>https://www.websklad.biz.ua/storage/16297/ukcyfvamau.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/16305/puaavyschcu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/16310/pcuyvaschmauyv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Фокусований ліхтар<span>&nbsp;</span><b>Bailong S912,</b><span>&nbsp;</span>що має досить потужний світловий потік, підійде як для пошукових робіт, так і для кемпінгових та туристичних походів, оскільки має яскраве світло.</p>
 <p><b>Bailong S912</b><span>&nbsp;</span>має в користуванні цілих три різних світлодіоди. Перший - це основний Cree XM-L XPE, що виробляється максимальний світловий потік з великою дальністю світіння, і два додаткові розсіяне світло і розташовані в бічній частині. Один з яких &mdash; білого світла, а інший &mdash; червоного.</p>
 <p>Завдяки тому що встановлений економічний світлодіод і 2 акумулятора 18650, ліхтар<span>&nbsp;</span><b>Bailong BL-S912</b><span>&nbsp;</span>показує кращі показники по часу безперервної роботи, без тривалої підзарядки. Корпус ліхтаря виконаний з міцного і довговічного алюмінієвого сплаву. При використанні в якості основного матеріалу алюмінію, також використовується технологія анодування. Кнопка включення розташована на ручці, поруч роз'єм для підзарядки, що дозволяє заряджати ліхтар не виймаючи акумуляторів. Рухома частина голови ліхтаря дає можливість фокусувати лінзу.</p>
@@ -22810,7 +22810,7 @@
         <param name="Овощной нож">1 шт.</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="213666" available="false">
+      <offer id="213666" available="true">
         <name>Мультипекар вафельниця бутербродниця сендвічниця гриль електрична 4 в 1 з формами Domotec MS-7704</name>
         <categoryId>6300404</categoryId>
         <price>1230</price>
@@ -22826,7 +22826,7 @@
         <picture>https://www.websklad.biz.ua/storage/19246/kuaivapeuaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19252/kcfiakuifvavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19258/kcifvaukivaffv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Гриль бутербродниця вафельниця горішниця 4 в 1 Domotec Ms 7704</p>
 <p>4 в 1 Гриль, бутербродниця, вафельниця, ліщина Domotec ms 7704, 1000Вт зі знімними формами:</p>
 <ol>
@@ -23426,7 +23426,7 @@
         <picture>https://www.websklad.biz.ua/storage/20733/ucvia4k3cvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20739/kucfivek3cvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/20745/kuvyacuvyjc-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Інвестуйте в кухонного помічника, який значно спростить процес приготування різноманітних страв. Стаціонарний міксер Suntera з потужністю 300 Вт забезпечує ефективність і надійність при роботі з різними типами інгредієнтів, від легких кремів до густого тіста. Він стане незамінним рішенням для домашніх кулінарів, які цінують швидкість і функціональність без зайвих зусиль.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -23954,7 +23954,7 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="298189" available="false">
+      <offer id="298189" available="true">
         <name>Плита інфрачервона Domotec MS-5842 на 1 конфорку, потужна настільна електроплита, індукційна плита міні</name>
         <categoryId>641</categoryId>
         <price>1290</price>
@@ -23970,7 +23970,7 @@
         <picture>https://www.websklad.biz.ua/storage/22404/grrewadsfsdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22408/rwasdfsersdfad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22415/kcfvaypuavyfyv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Серед безлічі кухонних побутових плит на ринку, виділяється інфрачервона електроплита Domotec MS 5842 з потужністю 2000 Вт та практичністю у використанні. Принцип роботи електроплити дуже простий. Він полягає в тому, що інфрачервона електроплита нагріває свою склокерамічну поверхню за допомогою інфрачервоного випромінювання. На верхній панелі плити знаходяться сенсорні кнопки, які забезпечують легке керування.</p>
 <p>На відміну від індукційної плити, інфрачервоної не потрібний спеціальний посуд. Ви можете використовувати будь-який жароміцний посуд з плоским дном. Плита індукційна Domotec MS-5842 зроблена зі склокерамічною панеллю для швидкого розігріву, приготування різноманітних страв і з функцією барбекю. Також є таймер, за допомогою якого ви можете виставляти потрібний час, регулюючи роботу плити. Кнопки керування сенсорні та знаходяться на передній панелі.</p>
 <p>Завдяки сучасному елегантному дизайну, компактним розмірам, простоті та безпеці у використанні, плита стане не тільки незамінним помічником на кухні, а й її стильною прикрасою.</p>
@@ -24292,7 +24292,7 @@
         <param name="Производитель">Bailong</param>
         <param name="Тип заряда">micro USB</param>
       </offer>
-      <offer id="302976" available="false">
+      <offer id="302976" available="true">
         <name>Фен Magio MG-169, потужний універсальний фен, повітряний стайлер для волосся, фен з іонізацією</name>
         <categoryId>617</categoryId>
         <price>1030</price>
@@ -24308,7 +24308,7 @@
         <picture>https://www.websklad.biz.ua/storage/30295/eASDRDADS.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30308/easdferfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30315/rwasdfedad.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><span>Фен MAGIO MG-169 &mdash; це ідеальний фен, що зробить Ваше волосся ще більш шовквістим, доглянутим і красивим. Ця модель має високу потужність &mdash; 2600 Вт, тому укладання з його допомогою має бути швидким і легким.</span></p>
 <p><span>Корпус фена зроблений з якісного термостійкого пластику, а завдяки покриттю Soft Touch рука не ковзає, що робить використання ще комфортнішим. При цьому є можливість регулювання трьох температурних режимів та двох швидкостей повітряного потоку, що дозволяє підбирати необхідні режими роботи під кожне укладання та тип волосся. Фен MAGIO MG-169 таким чином дбає про них і не дає пересушити.</span></p>
 <p><span>Подача холодного повітря дозволить закріпити зачіску та зробити її більш стійкою.</span></p>
@@ -25262,7 +25262,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="390671" available="false">
+      <offer id="390671" available="true">
         <name>Універсальний кухонний ножовий набір Magio MG-1092 5 шт, набір ножів для кухні, набір кухонних ножів</name>
         <categoryId>150203</categoryId>
         <price>920</price>
@@ -25278,7 +25278,7 @@
         <picture>https://www.websklad.biz.ua/storage/34455/kfavyapuafvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34459/uavkafvyayfsvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34462/fapueavfyvvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Універсальний набір ножів на підставці — це продумане рішення для тих, хто цінує функціональність і зручність на кухні. Набір включає різноманітні леза, що забезпечують комфортну роботу з різними продуктами, від хліба і овочів до м’яса і нарізки. Його продумане комплектування охоплює всі основні завдання, роблячи процес приготування їжі швидким і ефективним.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -27344,7 +27344,7 @@
         <picture>https://www.websklad.biz.ua/storage/75236/revpivfpviifpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75247/rkipuivfpuifuia.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75256/rkvaipivfpifpi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><span>Контактний гриль притискний електричний з терморегулятором та антипригарним покриттям RAF R-2683&nbsp; - Хочете в будь-який час насолодитися соковитим стейком, хрусткими овочами чи паніні? Вам більше не потрібно мати кухню, повну побутової техніки. Все, що вам потрібно, - це електричний гриль RAF. Гриль має функцію барбекю. Ви можете готувати на грилі одночасно на двох відкритих пластинах. З одного боку овочі, з іншого - соковита свинина.</span><br /><br /><strong>Гриль має 3 варіанти використання:</strong><span></span></p>
 <ul>
 <li>У складеному вигляді</li>
@@ -28016,7 +28016,7 @@
         <param name="Країна виробник">Туреччина</param>
         <param name="Гарантійний термін">24</param>
       </offer>
-      <offer id="646819" available="true">
+      <offer id="646819" available="false">
         <name>М&apos;ясорубка ViLgrand V307-SMG 3000Вт</name>
         <categoryId>63005</categoryId>
         <price>5500</price>
@@ -28032,7 +28032,7 @@
         <picture>https://www.websklad.biz.ua/storage/80471/kpvipivfpipivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80486/ravirkvpviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80489/kavavivipiif.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>М'ясорубка ViLgrand V307-SMG</strong> дозволяє перетворювати на фарш будь-які види м'яса завдяки неймовірній потужності 3000 Вт. Корпус, лоток і кришка лотка даного приладу виготовлені з нержавіючої сталі та міцного пластику, що відрізняються високою зносостійкістю. М'ясорубка оснащена функцією реверсу (зворотного ходу) із захистом від випадкового включення, трьома перфорованими дисками для створення фаршу різної консистенції, включаючи ковбасну (кусковую), а також надійною системою, що захищає двигун від перегріву. У стандартній комплектації є насадка для кебе і приготування ковбасних виробів.</p>
 <ul>
 <li><strong>Насадки</strong>: Кеббе, Для ковбасних виробів</li>
@@ -29602,7 +29602,7 @@
         <picture>https://www.websklad.biz.ua/storage/109341/htdshrsdgdsae.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109342/rsdhrdshrdssfas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/109343/rekvirkvirkrev.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Акумуляторна машинка для стрижки VGR V-886C GREEN &mdash; це потужний та універсальний інструмент, створений для професійного та домашнього використання. Модель виділяється стильним зеленим дизайном та міцною конструкцією, а високошвидкісний мотор зі швидкістю 9000 об/хв забезпечує стабільну та ефективну роботу навіть при стрижці густого та жорсткого волосся. Пристрій оснащений LED-дисплеєм, який відображає рівень заряду та стан машинки, роблячи процес догляду максимально зручним та контрольованим.</p>
 <p>Машинка комплектується 6 насадками-гребнями на 1.5/3/4.5/6/9/12 мм, що дозволяє створювати будь-які види стрижок &mdash; від коротких та точних до більш довгих та плавних переходів. Регулювання довжини робить триммер універсальним інструментом як професіоналів, так домашніх зачісок. Літієва батарея ємністю 3200 мА забезпечує до 200 хвилин автономної роботи, а повний цикл зарядки займає близько 4 годин. Заряджання здійснюється через стандартний порт 5V ⎓ 1A, що зручно для повсякденного використання.</p>
 <p>Акумуляторна машинка VGR V-886C GREEN поєднує в собі потужність, функціональність та стильний зовнішній вигляд. Вона стане чудовим вибором для тих, хто цінує надійність, довговічність та комфорт під час стрижки.</p>
@@ -34036,7 +34036,7 @@
         <picture>https://www.websklad.biz.ua/storage/21104/4cuypeuyvayvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/21112/upyvkuyvapecufyavk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/21119/kuyapeypkayv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Ваги SeaBreeze SB-070 — це надійне та зручне рішення для точного визначення маси продуктів на кухні. Їх універсальність дозволяє вимірювати вагу різноманітних інгредієнтів та продуктів, що значно спрощує процес приготування та контролю за порціями. Модель ідеально підходить для зважування як твердих, так і сипучих продуктів, забезпечуючи точність з кроком 1 грам при максимальному навантаженні до 10 кг.</p>
 
 <h2>Ключові переваги</h2>
@@ -34153,7 +34153,7 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="367512" available="false">
+      <offer id="367512" available="true">
         <name>Чайник Rainberg RB-625 із нержавіючої сталі зі свистком 3л гарний чайник для газової плити Blue</name>
         <categoryId>640</categoryId>
         <price>480</price>
@@ -34166,7 +34166,7 @@
         <picture>https://www.websklad.biz.ua/storage/35538/k3jcfvakucviavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/35547/kcavifkuvaifiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/35555/ekaifvpufivaufi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-625 являє собою ідеальне поєднання функціональності та довговічності. Завдяки використанню нержавіючої сталі та багатошаровому дну він забезпечує рівномірний нагрів і швидке закипання води. Ергономічна бакелітова ручка не нагрівається, що гарантує безпечне використання без ризику опіків. Практичний свисток з механічним клапаном своєчасно сповістить про готовність води, а сумісність з різними типами плит розширює можливості застосування в будь-якому домі.</p>
 
 <h2>Переваги використання</h2>
@@ -34435,7 +34435,7 @@
         <picture>https://www.websklad.biz.ua/storage/51167/rkupvaykpyavvfav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/51174/4eukpakpyvapyvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/51182/nkupyvapkavpavyfv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Джерелом живлення у лобовому ліхтарі служить внутрішня акумуляторна батарея. У комплекті із постачанням йде зарядка &ndash; USB. Кількість режимів 3 Матеріал корпусу виконаний з - Пластик. WH-1707 надійний ліхтарик, легко підійде для побутових потреб, походів, риболовлі чи полювання.</p>
 <p>Сьогодні покупці висувають досить серйозні претензії до ліхтариків, адже хочеться, щоб такий пристрій не вийшов з ладу у найвідповідальніший момент. Так, ліхтарик WH-1707-XPE+COB компанії Bailong має безліч позитивних моментів:</p>
 <p>значний ресурс роботи. Пропонована до вашої уваги модель здатна пропрацювати від 30 до 50 тисяч годин. Все тому, що як світлоелемент служить світловий діод.<br />використовує мінімальну кількість енергії, так що може довго працювати без відновлення заряду USB 5V.<br />стійкий до зовнішніх дій корпус із пластику. Крім того, самі світлодіоди набагато кращі, ніж лампи розжарювання, захищені від ударів.</p>
@@ -34962,7 +34962,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Регулировка силы пара">Да</param>
       </offer>
-      <offer id="654956" available="false">
+      <offer id="654956" available="true">
         <name>Кавомолка RAF R-7113 потужна роторна, електричний подрібнювач, з нержавіючої сталі 150 Вт</name>
         <categoryId>6300401</categoryId>
         <price>360</price>
@@ -34977,7 +34977,7 @@
         <picture>https://www.websklad.biz.ua/storage/75507/dfgsdgsdgsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75517/hdfgdsgsdgsase.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75526/euyvpvyfpkfpkufpuy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Завдяки кавомолці електричної RAF</strong>, Ви зможете за лічені хвилини перемолоти кавові зерна для подальшого приготування ароматної кави.</p>
 <p>Представлений пристрій стане справжньою знахідкою для любителів кави, які не хочуть задовольнятися розчинною кавою. Крім кавових зерен, прилад можна використовувати для подрібнення рису, шоколаду, бобів, горіхів, спецій та іншого насіння.</p>
 <p>Кавомолка RAF за лічені секунди подрібнить кавові зерна і дасть можливість насолодитися ароматною ранковою кавою.</p>
@@ -35083,7 +35083,7 @@
         <param name="Тип живлення">акумуляторний</param>
         <param name="Тип пристрою">Велосипедний передній</param>
       </offer>
-      <offer id="741131" available="false">
+      <offer id="741131" available="true">
         <name>Чайник Rainberg RB-2310 3Л</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -35096,7 +35096,7 @@
         <picture>https://www.websklad.biz.ua/storage/102159/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102160/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102162/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об'ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -35229,7 +35229,7 @@
         <picture>https://www.websklad.biz.ua/storage/1873/kaivivkfauifvaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1874/kcfyvaeucavyffayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/1875/k3jfayufaufy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Трійна плойка Gemei GM 1956 — це професійний інструмент для створення різноманітних укладок з локонами, що відрізняються за ступенем пружності та формою. Завдяки унікальній конструкції, що включає три робочі поверхні, ви зможете формувати як S-подібні хвилі, так і легкі округлі завитки. Використання керамічного покриття забезпечує щадний нагрів і рівномірний розподіл температури, що мінімізує пошкодження волосся та зберігає їхнє здоров’я навіть при регулярному застосуванні.</p>
 
 <h2>Головні переваги моделі</h2>
@@ -35659,7 +35659,7 @@
         <param name="Країна виробник">Китай</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="763019" available="false">
+      <offer id="763019" available="true">
         <name>Мультипіч Magio MG-413 1400Вт 5.3л</name>
         <categoryId>64306</categoryId>
         <price>3740</price>
@@ -35674,7 +35674,7 @@
         <picture>https://www.websklad.biz.ua/storage/104450/puivfpuivfpauifpuifiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/104454/pkvifpuvifpipipikfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/104457/pvaipuvifuipuifif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Мультипіч Magio MG-413 потужністю 1400 Вт і об'ємом чаші 5,3 літра є універсальним рішенням для домашніх кулінарних задач. Вона оснащена безліччю зручних функцій, які дозволять легко і швидко готувати різноманітні страви з мінімальними зусиллями. Сенсорне управління і широкий діапазон температур від 65 до 200 °C забезпечують точність і комфорт при експлуатації.</p>
 
 <h2>Що робить цей товар хорошим вибором</h2>
@@ -37239,7 +37239,7 @@
         <picture>https://www.websklad.biz.ua/storage/38738/rwafdssaeweqas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38740/rwesadfrefdsasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/38744/3qwsadfrewfdsa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник SeBreeze SB-0202 представляє собою практичне та функціональне рішення для швидкого кип’ятіння води. Його потужність 1500 Вт забезпечує оперативний нагрів, а об’єм 1,8 літра підійде як для сімейного використання, так і для прийому гостей. Корпус із пластику та нержавної сталі гарантує надійність і довговічність пристрою в умовах частого використання.</p>
 
 <h2>Переваги саме цієї моделі</h2>
@@ -37372,7 +37372,7 @@
         <picture>https://www.websklad.biz.ua/storage/80336/oervayravypyfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80343/ervaykppkyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80348/oervyrkvp.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник RAF R-7887 - це сучасний електричний чайник, що поєднує стильний дизайн і доступну вартість.</p>
 <p>Модель швидко та безпечно закип'ятить воду для приготування різноманітних гарячих напоїв.</p>
 <p>Електрочайник з ергономічною ручкою завжди знайде своє місце як на домашній кухні, так і в офісі. Крім того, дана модель чайника, завдяки компактності, зможе використовуватися на дачі або поїздці, його зручно брати з собою.</p>
@@ -38416,7 +38416,7 @@
         <picture>https://www.websklad.biz.ua/storage/103223/rekvayrakvprpvypayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103225/rearkvapvfvyavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/103226/rekavrkvappf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><span>Блендер з двоярусним чотирма лезами Блискавка підходить для подрібнення фруктів, овочів, м'яса, змішування продуктів, збивання яєць. Також подрібнювач подолає приготування кулінарних страв з ніжною консистенцією, таких як креми, муси, глазурі, пюре, майонези, соуси, паштети або різноманітне дитяче харчування. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на Вашій кухні.</span></p>
 <p><span>Тож без особливих проблем може збити молоко, вершки на крем чи молочний коктейль. Об'єм чаші 2 л, працює від мережі 220В. Дуже простий та легкий в експлуатації. Низький рівень шуму та плавна робота, можливість подрібнення тільки із закритою кришкою забезпечить зручне та безпечне використання на вашій кухні.Ножі виконані з високоякісної нержавіючої сталі, вони дуже гострі і не тупляться навіть при інтенсивному використанні приладу. Під час чищення будьте обережні, щоб не порізатись.</span></p>
 <h2><span>Підготовка до роботи:</span></h2>
@@ -38907,7 +38907,7 @@
         <param name="Гарантійний термін">6</param>
         <param name="Стан">Новий</param>
       </offer>
-      <offer id="783741" available="false">
+      <offer id="783741" available="true">
         <name>Автомийка акумуляторна високого тиску 3.2 BX-3219 мийка акумуляторна 24В 550Вт</name>
         <categoryId>5501</categoryId>
         <price>1450</price>
@@ -38923,7 +38923,7 @@
         <picture>https://www.websklad.biz.ua/storage/105850/gefdsagesagsees.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105854/rdsffgsdadsagser.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105858/grsdagdsaggse.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Акумуляторна автомийка високого тиску 3.2</strong>&ndash; це ідеальне рішення для швидкого та ефективного миття автомобілів, велосипедів, фасадів будівель, садових меблів та інших поверхонь без необхідності підключення до мережі. Завдяки потужному акумулятору на 24 В та енергоефективному мотору з потужністю 550 Вт, цей пристрій забезпечує потужний потік води зі швидкістю 19500 об/хв та витратою до 4 літрів на хвилину.</p>
 <div>
 <div>
@@ -39317,7 +39317,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Тип упаковки">Картонная коробка</param>
       </offer>
-      <offer id="561859" available="false">
+      <offer id="561859" available="true">
         <name>Глибока сковорода з кришкою Unique UN-5171 24 см, Сковорода для приготування на плиті, зручна на кухню</name>
         <categoryId>15230304</categoryId>
         <price>800</price>
@@ -39333,7 +39333,7 @@
         <picture>https://www.websklad.biz.ua/storage/65665/reaivpivpifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65673/rkavpiavifu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/65681/rkvairvpivfiv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Гранітне покриття - це насіння в кілька шарів кам'яна крихта на мінеральній основі.</p>
 <p>Сковорода UNIQUE Granite coating має антипригарні властивості, зносостійка та довговічна.</p>
 <p>Нова система антипригарного покриття дозволяє просмажувати продукти до хрусткої скоринки.</p>
@@ -40259,7 +40259,7 @@
         <picture>https://www.websklad.biz.ua/storage/81359/rkvaypyvpyvpuyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/81362/rvapyvfpuyvpyvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/81367/vpavypvyfpvyayvf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Інструменти, які роблять роботу швидше, безпечнішими та комфортнішими.</p>
 <p>Цілих 188 елементів розміщено в алюмінієвому корпусі.</p>
 <p>Міцність, надійність та ергономічність. У комплект, в якому міститься кілька знімних касет, входять як:</p>
@@ -41565,7 +41565,7 @@
         <picture>https://www.websklad.biz.ua/storage/77458/nkpvivfpkpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77459/ervavapkpfifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77460/rvarkvrkvravi.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>GPS-трекер GF-07 - це не тільки мобільна система оповіщення з режимом охорони по датчику звуку, але і трекер стеження за транспортом, будь-яким об'єктом, що рухається. Може виступати у вигляді туристичного трекера, з якого, у разі екстреної ситуації, можна зателефонувати, натиснувши кнопку SOS, і через вбудований мікрофон повідомити важливу інформацію. Є можливість зателефонувати на сімку в трекері та через чутливий мікрофон почути, що відбувається в радіусі до 2,5-3 метрів. Працює за допомогою звичайної SIM картки. Передає свої координати на смартфон, а також надсилає туди отриману звукову інформацію.</p>
 <p>Трекер заряджається від USB-кабелю. При повній зарядці може працювати до 7 днів.</p>
 <p><strong>Характеристики GPS-трекера GF-07:</strong></p>
@@ -42507,7 +42507,7 @@
         <currencyId>UAH</currencyId>
         <vendorCode>ws69971</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/79002/rhedszgdsgesgds.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Іграшка для кішок представлена ​​у вигляді чотирирівневого треку. На кожному рівні можна розташувати по одному або декілька м'ячиків, залежно від переваг кішки.</p>
 <p>Іграшка, що пропонується для кішок, підійде для тварин будь-якого віку.</p>
 <p>Трек для котів захопить як кошенят, так і дорослих котів. Кішка з великим азартом ганятиме м'ячики по треку, намагаючись їх зловити.</p>

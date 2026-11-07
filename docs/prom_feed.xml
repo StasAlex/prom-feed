@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-06 12:47">
+<yml_catalog date="2026-11-07 11:36">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -13,7 +13,6 @@
       <category id="150203">Посуд, загальне</category>
       <category id="150410">Ручні та налобні ліхтарі</category>
       <category id="151105">Наручні та кишенькові годинники</category>
-      <category id="152206">Набори столових приладів</category>
       <category id="15230304">Сковорідки, сотейники, жаровні</category>
       <category id="15230411">Кухонні ваги</category>
       <category id="15230414">Форми для випікання</category>
@@ -480,7 +479,7 @@
         <picture>https://www.websklad.biz.ua/storage/3831/kcavfaufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3837/uivafuafvivai.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3842/ucivaauvfvavfi.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Тактичний ліхтар POLICE BL-1860-T6 50000W працює на потужному світлодіоді CREE T6. Даному світлодіоду немає аналогів, оскільки він забезпечує потужний світловий потік.</p>
 <p>Модель POLICE BL-1860-T6 50000W працює у п'яти режимах: високий, середній та низький рівні яскравості світіння, режим cтробоскоп (аварійне миготливе світло) та режим SOS. Направивши ліхтар у небо у режимі Стробоскоп або SOS, сторонній спостерігач зможе побачити промінь світла у радіусі 950 метрів. Перемикання режимів здійснюється підлогою натисканням силіконової кнопки включення.</p>
 <p>Ліхтар працює на літій-іонному акумуляторі Li-ion 18650 6800 mAh 4.7V, (йде в комплекті). Заряджайте акумулятор за допомогою двох зарядних пристроїв: від мережі та від автомобільного прикурювача. Ліхтар POLICE BL-1860-T6 50000W виконаний у високоміцному (авіаційний сплав) анодованому алюмінієвому корпусі, зносостійкий, водонепроникний, особливо яскравий.</p>
@@ -7283,7 +7282,7 @@
         <picture>https://www.websklad.biz.ua/storage/40910/rnypyvvayfavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/40913/euauavyavyfavvayfp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/40916/uyvfvyavyfvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Портативна колонка TG642 з RGB підсвічуванням та ремінцем</p>
 <ul>
 <li>Bluetooth 5.0: швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
@@ -9621,7 +9620,7 @@
         <picture>https://www.websklad.biz.ua/storage/50987/yetrgdsftesdagestaes.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50996/y4rgfdsrsgfgtsdgsgrsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/51006/4tesgdfesdaerwsfsdafds.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар дуже зручний у використанні, тому що залишає руки вільними і дозволяє легко вмикати та вимикати світло за допомогою жестів рукою, не вимагаючи натискання кнопок. Це особливо зручно, коли руки зайняті чи брудні.</p>
 <p>Такі ліхтарі потрібні рятувальникам, альпіністам, туристам або просто в побутових умовах. Вони також потрібні, якщо ви зібралися на рибалку, у похід або хочете обстежити, наприклад, печеру.</p>
 <p>Основа ліхтаря виготовлена ​​з міцного<span>&nbsp;</span><strong>пластику</strong>, стійкого до механічних пошкоджень і ударів, покритого вологозахисним пилом-відштовхувальною оболонкою.</p>
@@ -10303,7 +10302,7 @@
         <picture>https://www.websklad.biz.ua/storage/64471/trhghgdshsdfhrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/64481/orepakpvaypkvypky.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/64489/oeravavyrkeky.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Сучасний та високоефективний пристрій для стрижки та стайлінгу волосся, машинка<span>&nbsp;</span><strong>VGR V-001</strong><span>&nbsp;</span>є ідеальним поєднанням продуктивності, функціональності та зручності у використанні. Маючи передові технології та інноваційні характеристики, вона стане незамінним інструментом як для професіоналів перукарського та стилістичного мистецтва, так і для домашнього використання.</p>
 <p><strong>Переваги:</strong></p>
 <ol>
@@ -17462,64 +17461,6 @@
         <param name="Тип управления">Механическое</param>
         <param name="Цвет корпуса">Зелёный</param>
       </offer>
-      <offer id="647586" available="false">
-        <name>Тостер VILGRAND VT0722P 750Вт Blue</name>
-        <categoryId>639</categoryId>
-        <price>800</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws85413-1</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/79798/hrdfgesdafsdfsad.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79805/kpvapivapvipifpi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79811/hrdfgdsgdsgsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79818/hdfsfdgdsgsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79825/rgdsgsdgsda.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79833/rgsdgdsgsgsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79841/htdfgsdgdsgsdgsdgs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79847/hrffghsdgsdgsdgsdgs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79852/rsdgdsgdsgdsagse.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/79858/gdfgsdgdsgdsgsgs.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><span>Тостери&nbsp;</span><strong>VILGRAND<span>&nbsp;</span></strong><span>з унікальним малюнком на тостах перетворюють сніданок на справжнє диво для ваших дітей. Уявіть радість та здивування в очах вашої дитини, коли на її тості з'являється веселий сонячний малюнок! Важіль для підйому забезпечує легкість вилучення тосту, а відсіки ідеально підходять для підсмажування улюблених бубликів або скибочок хліба. Завдяки цьому щоразу ви отримуєте ідеально підрум'янені та смачні тости.</span><br /><br /><span>Управління тостером VILGRAND максимально зручне та інтуїтивно зрозуміле. Крім того, сім режимів обсмажування дозволяють вибрати оптимальний варіант для різних типів хліба. Потужність 750 Вт забезпечує швидке і ефективне приготування, а функції автовідключення, підігріву, кнопки стоп і підйому маленьких тостів роблять використання тостера ще зручнішим і безпечнішим. Тостери VILGRAND з малюнком - це не просто кухонна техніка, це спосіб додати радість та веселощі у повсякденні сніданки вашої родини.</span></p>
-<p><strong>Тостер Vilgrand VT0722P green</strong></p>
-<ul>
-<li><strong>Виробник:<span>&nbsp;</span></strong>Vilgrand</li>
-<li><strong>Колір:<span>&nbsp;</span></strong>голубий</li>
-<li><strong>Тип керування:<span>&nbsp;</span></strong>механічне</li>
-<li><strong>Додатково:<span>&nbsp;</span></strong>автоцентрування, високий підйом</li>
-<li><strong>Виробник.1:<span>&nbsp;</span></strong>VILGRAND</li>
-<li><strong>Потужність:<span>&nbsp;</span></strong>750 Вт</li>
-<li><strong>Вага:<span>&nbsp;</span></strong>0.7 кг</li>
-<li><strong>Габаритні розміри:<span>&nbsp;</span></strong>246х141х172 мм</li>
-<li><strong>Матеріал корпусу:<span>&nbsp;</span></strong>пластик</li>
-<li><strong>Кількість відділень:<span>&nbsp;</span></strong>2</li>
-<li><strong>Кількість тостів:<span>&nbsp;</span></strong>2.0</li>
-<li><strong>Піддон для крихт:<span>&nbsp;</span></strong>Є</li>
-<li><strong>Потужність тостеру:<span>&nbsp;</span></strong>Менш 800 Вт</li>
-<li><strong>Кількість ступенів обсмажування:<span>&nbsp;</span></strong>7.0</li>
-</ul>]]></description>
-        <keyword>Тостер VILGRAND VT0722P</keyword>
-        <keyword>Тостер VILGRAND VT0722P 750Вт Blue</keyword>
-        <keyword>Тостер VILGRAND VT0722P 750Вт</keyword>
-        <keyword>Тостер VILGRAND</keyword>
-        <keyword>Vilgrand</keyword>
-        <keyword>Тостер</keyword>
-        <keyword>Тостер VILGRAND VT0722P бытовое</keyword>
-        <keyword>Тостер VILGRAND бытовое</keyword>
-        <keyword>Тостер VILGRAND VT0722P голубой</keyword>
-        <keyword>Тостер VILGRAND голубой</keyword>
-        <keywords>Тостер VILGRAND VT0722P, Тостер VILGRAND VT0722P 750Вт Blue, Тостер VILGRAND VT0722P 750Вт, Тостер VILGRAND, Vilgrand, Тостер, Тостер VILGRAND VT0722P бытовое, Тостер VILGRAND бытовое, Тостер VILGRAND VT0722P голубой, Тостер VILGRAND голубой</keywords>
-        <param name="Производитель">Vilgrand</param>
-        <param name="Материал корпуса">Пластик</param>
-        <param name="Количество отделений">2</param>
-        <param name="Количество тостов">2</param>
-        <param name="Источник питания">Электричество</param>
-        <param name="Назначение">Бытовое</param>
-        <param name="Номинальное напряжение">220 В</param>
-        <param name="Регулировка степени обжаривания">Да</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Цвет корпуса">Голубой</param>
-      </offer>
       <offer id="658542" available="true">
         <name>Аерофрітюрниця для дому з таймером Rainberg RB-2242 на 6л безмасляна фритюрниця 3800Вт Black</name>
         <categoryId>64306</categoryId>
@@ -23284,7 +23225,7 @@
         <picture>https://www.websklad.biz.ua/storage/19246/kuaivapeuaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19252/kcfiakuifvavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19258/kcifvaukivaffv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Гриль бутербродниця вафельниця горішниця 4 в 1 Domotec Ms 7704</p>
 <p>4 в 1 Гриль, бутербродниця, вафельниця, ліщина Domotec ms 7704, 1000Вт зі знімними формами:</p>
 <ol>
@@ -24155,7 +24096,7 @@
         <picture>https://www.websklad.biz.ua/storage/26860/k3cviaakcufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26868/k3cvaiakcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26880/kcfviaukcfvi-1.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип'ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -26083,7 +26024,7 @@
         <picture>https://www.websklad.biz.ua/storage/34455/kfavyapuafvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34459/uavkafvyayfsvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34462/fapueavfyvvy.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Універсальний набір ножів на підставці — це продумане рішення для тих, хто цінує функціональність і зручність на кухні. Набір включає різноманітні леза, що забезпечують комфортну роботу з різними продуктами, від хліба і овочів до м’яса і нарізки. Його продумане комплектування охоплює всі основні завдання, роблячи процес приготування їжі швидким і ефективним.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -26979,7 +26920,7 @@
         <picture>https://www.websklad.biz.ua/storage/43322/4ekpavyvavyfavyuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43330/e4uypavyauvyafv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/43337/e3cupaaiyupav.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Різноманітне поєднання насадок та режимів гоління дозволяють реалізувати будь-які задуми для ідеального зовнішнього вигляду. З VGR V-108 неохайна щетина стане доглянутою та стильною &ndash; достатньо лише одного руху руки.</p>
 <p>Для повного заряджання акумулятора потрібно 1.5 години, що забезпечує безперервну роботу машинки близько 120 хвилин. Цей набір зручно брати з собою у поїздки та подорожі, його можна заряджати у будь-якому місці та у будь-який час через ноутбуки, комп'ютери чи адаптери за допомогою USB-кабелю для заряджання. Заряд, що залишився, відображаються на світлодіодному дисплеї.</p>
 <p>Відмінний набір на всі випадки життя, замість кількох приладів Вам достатньо мати один такий.</p>
@@ -27408,7 +27349,7 @@
         <picture>https://www.websklad.biz.ua/storage/49221/tesfdgesaefsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49229/tesgfdgsgefsafsed.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49238/tesfgdgratersfewe.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Цей компактний світлодіодний ліхтар з червоним світлом – ідеальне рішення для тих, хто цінує надійність, зручність та ефективність освітлення у різних умовах. Вбудований потужний світлодіод забезпечує інтенсивність світлового потоку у 500 люмен, що гарантує чітку видимість на відстані до 100 метрів. Конструкція зі сталевого корпусу поєднує міцність та легкість, а живлення від акумулятора 18650 через USB-порт робить його автономним і зручним у використанні без зайвих витрат на батарейки.</p>
 
 <h2>Ваші вигоди при покупці</h2>
@@ -31214,76 +31155,6 @@
         <param name="Тип блендера">Погружной</param>
         <param name="Тип управления">Механическое</param>
       </offer>
-      <offer id="686801" available="false">
-        <name>Хлібопічка DARIO DBM 1065</name>
-        <categoryId>605</categoryId>
-        <price>3360</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws97373</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/81944/htfdhdsdsgsda.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81952/hdfsgdgsdgsda.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81960/kpivpifpipfi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81966/hdfsrgdsgrss.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81974/thdfsgsdgsdaseg.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81981/hdfgdsgsdag.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81987/hdfsgsdgsdagse.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/81995/hdfsgdsgggsas.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/82003/rvairvirppifpui.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/82010/kivpkivpfpi.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Хлібопічка DARIO DBM 1065 black - надійний помічник у створенні ароматних домашніх хлібів, булочок та інших смакот.</p>
-<p>Завдяки сучасному дизайну та функціональності, ця модель стане прикрасою вашої кухні.</p>
-<h2><strong>Основні переваги:</strong></h2>
-<ul>
-<li>Розмір випічки - на вибір 500, 750 або 1000 грамів - ідеально для всієї родини.</li>
-<li>19 автоматичних програм для випікання різних видів хліба, включаючи безглютеновий, а також для приготування тіста або джемів.</li>
-<li>Економія часу - таймер відстрочки до 15 годин та підтримка температури до 60 хвилин.</li>
-<li>Легке управління - рідкокристалічний дисплей з інтуїтивним інтерфейсом.</li>
-<li>Мінімальний догляд - антипригарне покриття чаші.</li>
-</ul>
-<h2><strong>Комплектація:</strong></h2>
-<ul>
-<li>Хлібопічка DARIO DBM1065_black</li>
-<li>Мірна склянка йожка</li>
-<li>Книга рецептів для натхнення</li>
-</ul>
-<h2><strong>Характеристики</strong></h2>
-<ul>
-<li>Потужність - 600</li>
-<li>Номінальна напруга, В - 220-240</li>
-<li>Номінальна частота, Гц - 50/60</li>
-<li>Вага випічки, г - 500/750/1000</li>
-<li>Таймер – до 15 годин</li>
-<li>Підтримка температури, мін - 60</li>
-<li>Кількість програм - 19</li>
-<li>Антипригарне покриття чаші та тістомісу</li>
-<li>Рідкокристалічний дисплей</li>
-<li>Оглядове віконце</li>
-<li>Вибір кольору скоринки - світлий/золотистий/темний</li>
-<li>Автоматичне відновлення процесу приготування при обриві живлення до 15 хвилин</li>
-<li>Нековзні ніжки</li>
-<li>Аксесуари - мірна склянка,ожка</li>
-<li>Габаритні розміри виробу, мм - 340*255*290</li>
-<li>Габаритні розміри упаковки, мм - 366*302*330</li>
-<li>Маса нетто/брутто - 5,35/4,73</li>
-</ul>]]></description>
-        <keyword>Хлібопічка DARIO DBM</keyword>
-        <keyword>Хлебопечь DARIO DBM</keyword>
-        <keyword>Хлібопічка DARIO</keyword>
-        <keyword>Хлебопечь DARIO</keyword>
-        <keyword>Хлібопічка</keyword>
-        <keyword>Хлебопечь</keyword>
-        <keyword>Хлібопічка DARIO DBM китай</keyword>
-        <keyword>Хлебопечь DARIO DBM китай</keyword>
-        <keyword>Хлібопічка DARIO китай</keyword>
-        <keyword>Хлебопечь DARIO китай</keyword>
-        <keywords>Хлібопічка DARIO DBM, Хлебопечь DARIO DBM, Хлібопічка DARIO, Хлебопечь DARIO, Хлібопічка, Хлебопечь, Хлібопічка DARIO DBM китай, Хлебопечь DARIO DBM китай, Хлібопічка DARIO китай, Хлебопечь DARIO китай</keywords>
-        <param name="Виробник">Dario</param>
-        <param name="Споживана потужність">600</param>
-        <param name="Кількість програм випічки">19</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Стан">Новий</param>
-      </offer>
       <offer id="686807" available="true">
         <name>Хлібопічка ViLgrand VBM6091 White</name>
         <categoryId>605</categoryId>
@@ -32776,7 +32647,7 @@
         <picture>https://www.websklad.biz.ua/storage/13679/3kcjfyvaaekcuv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13680/k3cfvyaakuauf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13681/3jcfavkcfauyayv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5801, ви зможете легко приготувати собі їжу на поточний день.</p>
 <p>Плиту Domotec MS-5801 можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Плита має одну конфорку, зі спіральним нагрівальним елементом. Регулювати працездатність плити можна за допомогою механічного перемикача. Біле емальове покриття плити Domotec MS-5801 додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><strong>Характеристики:</strong></p>
@@ -34677,7 +34548,7 @@
         <picture>https://www.websklad.biz.ua/storage/32941/nkpvayravrkypyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/32946/4eukpyvarkvarkyvrkerkev.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/32953/4epuyvaryfkvpky.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1545BKWT BLACK-WHITE — це надійний цифровий аксесуар у брутальному дизайні, створений для активного стилю життя. Його масивний корпус із чіткими лініями та великим екраном одразу привертає увагу. Чорно-білий дисплей забезпечує високу контрастність і зручне зчитування інформації за будь-якого освітлення.</p>
 
 <p>Модель має спортивний характер і прекрасно справляється зі щоденними навантаженнями. Потовщений ремінець з міцного поліуретану гарантує зручність і довговічність, а корпус витримує удари та захищений від вологи. Ідеальний варіант для спорту, мандрівок або повсякденного використання.</p>
@@ -36254,7 +36125,7 @@
         <picture>https://www.websklad.biz.ua/storage/48963/tefsesdgressgfdsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48973/3rwefseafsdaeadafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48983/r3efaffefadaeadas.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар ручний Police AK138-1 WHITE LASER LED PM60-TG з USB-зарядкою, 8х18650, Power Bank, функцією зуму та індикацією заряду, Чорний - Цей ручний ліхтар призначений для використання в туристичних походах, на полюванні та рибалці задля забезпечення охорони промислових объектов. Він працює від перезаряджуваних батарей 18650, які заряджаються через USB-C порт у корпусі ліхтаря.</p>
 <p>Керування світлом просте, моментальний доступ до сигнальних режимів. Дизайн корпусу забезпечує зручність використання у різних умовах.</p>
 <p><strong>Особливості:</strong></p>
@@ -36929,7 +36800,7 @@
         <picture>https://www.websklad.biz.ua/storage/64225/euivpprifpifv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/64235/euivipfppif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/64243/pkuviairrakvpkv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Лампа нового покоління виготовлена ​​за найновішими технологіями та останніми розробками, модель призначена як для професійного, так і для домашнього використання. Перевага використання даної лампи полягає у високій швидкості полімеризації. Одна й та сама поверхня висушується вдвічі швидше, і один шар лаку можна висушити від 10 секунд (залежить від марки гель-лаку, колірного пігменту). Термін служби лампи становить понад 50 000 годин, що також значно вище, ніж показники ультрафіолетових ламп. LED технологія дозволяє заощаджувати на електриці до 10 разів! Лампа призначена для полімеризації всіх видів гелів для нарощування нігтів, а також для всіх видів гель-лаків. Прилад оснащений інфрачервоним датчиком, який дозволяє автоматично вмикати прилад без використання кнопок.</p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -38424,7 +38295,7 @@
         <picture>https://www.websklad.biz.ua/storage/14638/jcfyakcjvfyyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/14655/kcfyvkucfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/14688/k3jcfvycufvyvc.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Li-Ion GREELITE 18650 8800 mAh 4.2V Gold — це літій-іонна акумуляторна батарея з високою ємністю, що забезпечує безперервну та стабільну роботу сучасних електронних пристроїв. Завдяки оптимальному поєднанню компактних розмірів та високої енергоємності, цей акумулятор підходить для використання у ліхтарях та інших портативних приладах, які потребують надійне джерело живлення.</p>
 
 <h2>Чим обґрунтований вибір</h2>
@@ -39525,7 +39396,7 @@
         <param name="Тип живлення">акумуляторний</param>
         <param name="Тип пристрою">Велосипедний передній</param>
       </offer>
-      <offer id="741131" available="true">
+      <offer id="741131" available="false">
         <name>Чайник Rainberg RB-2310 3Л</name>
         <categoryId>640</categoryId>
         <price>690</price>
@@ -39538,7 +39409,7 @@
         <picture>https://www.websklad.biz.ua/storage/102159/hrgdfsgrsgsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102160/grdfsgrdsgsagssag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102162/tgefsdagrsdfgsagsagsa.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Чайник Rainberg RB-2310 об'ємом 3 літри — надійне та ергономічне рішення для побутового та офісного використання, здатне забезпечити швидкий і безпечний нагрів води. Завдяки використанню високоякісної харчової нержавної сталі та продуманій конструкції, ця модель поєднує довговічність з зручністю експлуатації на різних типах плит.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -42024,7 +41895,7 @@
         <keyword>Измельчитель</keyword>
         <keywords>Подрібнювач для кухні, Измельчитель для кухни, подрібнювач чопер кухонний, измельчитель чоппер кухонный, блендер з металічною чашею 2л, блендер с металлической чашей 2л, Подрібнювач, Измельчитель</keywords>
       </offer>
-      <offer id="764756" available="true">
+      <offer id="764756" available="false">
         <name>М&apos;ясорубка електрична Rainberg RB-2319 із системою реверсу насадка куббе 3000Вт White</name>
         <categoryId>63005</categoryId>
         <price>1680</price>
@@ -42037,7 +41908,7 @@
         <picture>https://www.websklad.biz.ua/storage/102850/pyvvpyvfpypyfyfa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102855/pkvypyvfpuypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102857/ghrdfsgdfgsasdafs.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Мясорубка Rainberg RB-2319 потужністю 3000 Вт — професійний кухонний пристрій, призначений для ефективного та різноманітного приготування фаршу в домашніх умовах. Ця модель поєднує в собі надійність та функціональність, забезпечуючи швидку переробку м’яса різних видів, риби, овочів і грибів. Висока потужність мотору гарантує стабільну роботу при великих навантаженнях, а оновлений дизайн і продумані аксесуари дозволяють оптимізувати процес подрібнення продуктів і розширюють можливості домашньої кулінарії.</p>
 
 <h2>Головні переваги моделі</h2>
@@ -44623,7 +44494,7 @@
         <picture>https://www.websklad.biz.ua/storage/84480/kupuyfppyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84488/kpyvpvfpypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84497/pkyvfpryffpyf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Набір розділових дошок Magio MG-1255B – практичне та гігієнічне рішення для організації робочого простору на кухні. Завдяки екологічному матеріалу та продуманій конструкції, цей комплект забезпечить зручність під час нарізання різних продуктів і допоможе підтримувати чистоту та порядок у процесі приготування їжі.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -45255,54 +45126,6 @@
         <param name="Состояние">Новое</param>
         <param name="Тип увлажнителя">Ультразвуковой</param>
         <param name="Тип управления">Сенсорное</param>
-      </offer>
-      <offer id="564017" available="false">
-        <name>Набір кухонного приладдя 12 предметів з підставкою для зручного зберігання</name>
-        <categoryId>152206</categoryId>
-        <price>560</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws76834</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/66512/euaypvpyvayfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/66520/n4eukpaipyvfyfv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Набір кухонного приладдя 12 предметів UNIQUE UN-1871 — це універсальне рішення для комфортної та організованої роботи на будь-якій кухні. З його допомогою ви значно спростите процес приготування і подачі страв, зберігаючи порядок і чистоту у робочій зоні. Всі інструменти продумані до дрібниць, щоб забезпечити зручність використання та високу функціональність у кожній деталі.</p>
-
-<h2>Переваги використання</h2>
-<ul>
-<li>Практична користь у вигляді комплексного набору кухонних інструментів, що охоплюють усі етапи приготування їжі — від змішування і смаження до сервірування і подачі страв.</li>
-<li>Конструктивні переваги включають зручні дерев’яні ручки та силіконові робочі частини, які не дряпають посуд і забезпечують довговічність.</li>
-<li>Покупець отримує не лише різноманітний асортимент інструментів, а й практичну підставку для зберігання, що підтримує порядок на кухні та гігієнічність.</li>
-</ul>
-
-<h2>Де використовується</h2>
-<p>Цей набір призначений для використання як у домашніх умовах, так і на професійних кухнях. Він легко впорається з підготовкою різноманітних страв, ідеально підходить для тих, хто цінує зручність і функціональність під час кулінарного процесу. Комплект чудово підійде тим, хто хоче прискорити та покращити якість приготування страв за рахунок добре підібраних та ергономічних інструментів.</p>
-
-<h2>Характеристики</h2>
-<ul>
-<li>До складу входять: пензлик для нанесення соусів, щипці, віничок, ложки різного призначення (з прорізами та без), ополоник, ложка для спагеті, сервірна ложка, дві лопатки (одна з прорізами, інша — суцільна), ложка для салату та підставка.</li>
-<li>Ручки виробів виконані з натурального дерева, що забезпечує комфортний захват і естетичний вигляд.</li>
-<li>Робочі поверхні інструментів виготовлені з силікону, стійкого до високих температур і безпечного для антипригарного покриття посуду.</li>
-<li>Практична та компактна підставка дозволяє зручно розміщувати прибори, підтримуючи порядок і чистоту під час готування.</li>
-<li>Всі інструменти відзначаються ергономічним дизайном, що полегшує використання і підвищує ефективність роботи на кухні.</li>
-</ul>]]></description>
-        <keyword>Набір кухонного приладдя</keyword>
-        <keyword>Набор кухонных принадлежностей</keyword>
-        <keyword>Набір кухонного приладдя 12 предметів</keyword>
-        <keyword>Набор кухонных принадлежностей 12 предметов</keyword>
-        <keyword>Набір кухонного</keyword>
-        <keyword>Набор кухонных</keyword>
-        <keyword>Unique</keyword>
-        <keyword>Набір кухонного приладдя Unique</keyword>
-        <keyword>Набор кухонных принадлежностей Unique</keyword>
-        <keyword>Набір</keyword>
-        <keywords>Набір кухонного приладдя, Набор кухонных принадлежностей, Набір кухонного приладдя 12 предметів, Набор кухонных принадлежностей 12 предметов, Набір кухонного, Набор кухонных, Unique, Набір кухонного приладдя Unique, Набор кухонных принадлежностей Unique, Набір</keywords>
-        <param name="Производитель">Unique</param>
-        <param name="Количество предметов">12</param>
-        <param name="Цвет">Черный</param>
-        <param name="Материал рабочей части">Силикон</param>
-        <param name="Материал ручки">Пластик</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип держателя">Настольный</param>
       </offer>
       <offer id="595047" available="false">
         <name>Прес для часнику UNIQUE UN-1761 часнодавка ручна металева</name>

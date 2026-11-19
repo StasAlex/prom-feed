@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-18 13:44">
+<yml_catalog date="2026-11-19 14:13">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -86,7 +86,7 @@
         <picture>https://www.websklad.biz.ua/storage/2474/e4uipeikfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2483/e4kuaiveucvfai.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/2490/e4uiapkeivfpfiaiv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Електробритва Gm-598 &ndash; це елегантна та стильна сучасна модель з ергономічним дизайном, який робить її простою та комфортною у використанні. Бритва стане ідеальним рішенням для чоловіків, які приділяють належну увагу своєму зовнішньому вигляду.</p>
 <p>Бритва забезпечує швидке та якісне гоління без подразнення та порізів. Головки бритви виготовлені за спеціальною технологією, за якої кожна головка найбільш щільно прилягає до шкіри, абсолютно точно повторюючи контури обличчя та шиї, забезпечуючи ідеальний результат гоління.</p>
 <p>Супертонка сітка електробритви виготовлена із міцної зносостійкої сталі. Все це робить процес гоління максимально легким, а результат &ndash; якісним.</p>
@@ -255,76 +255,6 @@
         <param name="Насадка-триммер для носа и ушей">Да</param>
         <param name="Щеточка для чистки">Да</param>
       </offer>
-      <offer id="6668" available="false">
-        <name>Електроплита настільна DOMOTEC MS-5851 900 Вт, Кухонна плита електро для кухні на 1 конфорку</name>
-        <categoryId>641</categoryId>
-        <price>980</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws53934</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/4701/ayvpuafuyfvayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4708/4euayvpuayvpeucayfvay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4715/ukcfyapuayayfv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4722/IMG_4578.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4728/uayvpuayvfuauyff.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4736/uayvpuavuyfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4743/4kuayvpeuavapf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4750/e4uayvpeuayvfufv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4759/euyavpeuafayfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/4767/uayvpuaauyvfayv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5851, ви зможете запросто приготувати собі їжу на поточний день.</p>
-<p>Її можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Регулювати працездатність плити можна за допомогою механічного перемикача. Емалеве покриття плити Domotec додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
-<p><b>Компанія Domotec</b>&nbsp;довгі роки випускає переносні електроплити, які також довго служать своїм господарям. Саме тому компанія давно завоювала споживачів свого товару по всьому світу. Адже головні принципи компанії Domotec – це якісна продукція, яка виконує всі умови для продуктивної роботи. Цими ж якостями володіє і плитка MS – ndash; 5851, зроблена за всіма правилами та стандартами переносних електроплиток.</p>
-<p><b>Характеристики:<br /></b></p>
-<ul>
-<li>Потужність: 900 Вт</li>
-<li>Довжина мережевого шнура: 82 см</li>
-<li>Кількість конфорок: 1</li>
-<li>Діаметр: 17.5 см</li>
-<li>Матеріал корпусу: Емальоване покриття</li>
-<li>Напруга 220-240 В</li>
-<li>Робоча поверхня: Кераміка</li>
-<li>Світловий індикатор увімкнення: Так</li>
-<li>Сфера використання: Для дому</li>
-<li>Термостат: Регульований</li>
-<li>Тип управління: Поворотний перемикач</li>
-<li>Тип встановлення: Настільні</li>
-<li>Керамічна конфорка зі швидким нагріванням Hi-Light</li>
-<li>Плавне регулювання температури термостату</li>
-<li>Контрольна лампочка робочого стану</li>
-<li>Підходить для будь-якого посуду електричних плит</li>
-<li>Металевий корпус покритий термостійкою емаллю</li>
-<li>Протиковзкі ніжки</li>
-</ul>
-<p><b>Комплектація:</b></p>
-<ul>
-<li>Електропліта Domotec MS-5851 CERAMIC;</li>
-<li>Інструкція;</li>
-<li>Упаковка.</li>
-</ul>]]></description>
-        <keyword>Електроплита настільна DOMOTEC</keyword>
-        <keyword>Электроплита настольная DOMOTEC</keyword>
-        <keyword>Електроплита настільна DOMOTEC MS-5851 900 Вт</keyword>
-        <keyword>Электроплита настольная DOMOTEC MS-5851 900 Вт</keyword>
-        <keyword>Кухонна плита електро для кухні на 1 конфорку</keyword>
-        <keyword>Кухонная плита электро для кухни на 1 конфорку</keyword>
-        <keyword>Електроплита настільна DOMOTEC MS-5851</keyword>
-        <keyword>Электроплита настольная DOMOTEC MS-5851</keyword>
-        <keyword>Електроплита настільна</keyword>
-        <keyword>Электроплита настольная</keyword>
-        <keywords>Електроплита настільна DOMOTEC, Электроплита настольная DOMOTEC, Електроплита настільна DOMOTEC MS-5851 900 Вт, Электроплита настольная DOMOTEC MS-5851 900 Вт, Кухонна плита електро для кухні на 1 конфорку, Кухонная плита электро для кухни на 1 конфорку, Електроплита настільна DOMOTEC MS-5851, Электроплита настольная DOMOTEC MS-5851, Електроплита настільна, Электроплита настольная</keywords>
-        <param name="Производитель">Domotec</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Общее количество конфорок">1</param>
-        <param name="Вес">1.9 кг</param>
-        <param name="Вид плиты">Настольная</param>
-        <param name="Варочная поверхность">Индукционная</param>
-        <param name="Покрытие варочной поверхности">стеклокерамика</param>
-        <param name="Тип управления">Механическое</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Состояние">Новое</param>
-        <param name="Потребляемая мощность">900</param>
-      </offer>
       <offer id="8760" available="true">
         <name>Машинка для стрижки DOMOTEC MS-3304, домашня машинка для стрижки волосся, підстригальна машинка</name>
         <categoryId>28290204</categoryId>
@@ -413,7 +343,7 @@
         <picture>https://www.websklad.biz.ua/storage/5588/wasdrwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/5595/rwsdrewdsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/5603/3ewasdrweds.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Фен GEMEI GM-1766 потужністю 2600 Вт створений для тих, хто цінує поєднання ефективної роботи та зручності у повсякденному використанні. Швидкий нагрів повітря забезпечить швидке сушіння волосся, а можливість регулювання температури та швидкості повітряного потоку дозволить адаптувати процес під будь-які типи волосся і бажані укладки. Функція подачі холодного повітря допомагає зафіксувати зачіску після укладання, надаючи волоссю додатковий об'єм та доглянутий вигляд. Надійна система захисту від перегріву гарантує безпеку пристрою та тривалий строк його служби.</p>
 
 <h2>Головні переваги моделі</h2>
@@ -980,7 +910,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="71350" available="false">
+      <offer id="71350" available="true">
         <name>Ліхтар акумуляторний X-Balog BL-A72-P50, ручний ліхтарик, водонепроникний ліхтар, потужний акумуляторний</name>
         <categoryId>150410</categoryId>
         <price>600</price>
@@ -996,7 +926,7 @@
         <picture>https://www.websklad.biz.ua/storage/11501/rwasdfeadds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11506/t43wrsadfefadfds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11513/rwasdffewrdfsasd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Професійний <strong>ліхтар POLICE BL-А72-P50</strong>&nbsp;фірми&nbsp;<strong>X-Balog</strong></p>
 <p><strong>На сьогодні найяскравіший на ринку</strong></p>
 <p>Джерелом світла в даній моделі є твердотільні світловипромінюючі діоди LED (виробництва американської компанії CREE). Вони забезпечують велику світловіддачу при малих габаритах і споживають на 90% менше енергії, ніж лампи розжарювання. Ліхтар із таким джерелом світла малочутливий до трясіння та вібрації.</p>
@@ -1380,79 +1310,6 @@
         <param name="Особенности фонаря">Влагостойкий, Противоударный</param>
         <param name="Тип заряда">micro USB</param>
         <param name="Тип лампы">Светодиодная</param>
-      </offer>
-      <offer id="189820" available="false">
-        <name>Ліхтар SY-1903C-P50+SMD+RGB Alarm, ЗУ USB, кишеньковий ліхтар із usb зарядкою, надпотужний ліхтарик</name>
-        <categoryId>150410</categoryId>
-        <price>380</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws92251</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/13457/grwadsdfeewdsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13463/ukayvfvfvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13466/gwdasdfrewsd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13472/grwadsdfeewdsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13477/rqwadsferwads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13482/uckvfyauyvff.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13485/euavimuafvi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13490/puayvfufvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13495/kavyfpfaayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/13721/puavymfpavfyva.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Інноваційний світлодіодний ручний ліхтар з потужним світлом і багатофункціональністю стане вашим надійним помічником у будь-яких умовах. Компактний та легкий, він виконаний із металу, що гарантує довговічність і стійкість до механічних пошкоджень. Завдяки п’яти режимам роботи та вбудованому акумулятору з USB-зарядкою, цей ліхтар забезпечує ефективне освітлення на тривалий час без зайвих турбот про енергопостачання.</p>
-
-<h2>Що ви отримуєте</h2>
-<ul>
-  <li>Універсальний світлодіодний ліхтар із потужним Cree XHP50.2 діодом для яскравого та чіткого світла.</li>
-  <li>П’ять режимів роботи: максимальний, середній, мінімальний, стробоскоп та SMD RGB Alarm – гнучкість освітлення залежно від задачі.</li>
-  <li>Вбудований акумулятор із зарядкою через USB, що забезпечує зручність використання та економію на батарейках.</li>
-  <li>Водостійкий корпус із металу, який дозволяє безпечно експлуатувати прилади навіть у вологих умовах.</li>
-  <li>Оптичний зум для точного налаштування променя світла від широкого розсіювання до вузького фокусу.</li>
-  <li>Зручний ремінець на руку для комфортного та безпечного використання у русі.</li>
-</ul>
-
-<h2>Коли стане незамінним</h2>
-<p>Цей ручний світлодіодний ліхтар стане вам у пригоді під час кемпінгу, нічних походів, аварійних ситуацій та ремонтних робіт. Завдяки п’яти режимам освітлення ви зможете оптимізувати інтенсивність світла під конкретні умови і завдання. Водостійкість і металевий корпус гарантують безпеку та працездатність навіть у складних погодних умовах. Компактні розміри та ремінець на руку роблять ліхтар ідеальним для тривалих прогулянок чи активного відпочинку, не обтяжуючи ваші руки. USB зарядка дозволяє швидко та зручно поповнити запас енергії без потреби купувати додаткові акумулятори чи батарейки.</p>
-
-<h2>Характеристики</h2>
-<ul>
-  <li>Матеріал корпусу: Метал</li>
-  <li>Габарити: 113×28×24 мм</li>
-  <li>Вага: легкий, зручний для портативного використання</li>
-  <li>Світлодіод: Cree XHP50.2, 1 шт.</li>
-  <li>Режими роботи: 5 (100%, 50%, стробоскоп, SMD, RGB Alarm)</li>
-  <li>Тип живлення: вбудований акумулятор</li>
-  <li>Зарядка: USB</li>
-  <li>Особливості: водостійкість, оптичний зум</li>
-  <li>Комплектація: ремінець для фіксації на руку</li>
-  <li>Тип пристрою: ручний ліхтар</li>
-  <li>Виробник: Китай</li>
-</ul>]]></description>
-        <keyword>Ліхтар SY-1903C-P50+SMD+RGB Alarm</keyword>
-        <keyword>Фонарь SY-1903C-P50+SMD+RGB Alarm</keyword>
-        <keyword>ЗУ USB</keyword>
-        <keyword>кишеньковий ліхтар із usb зарядкою</keyword>
-        <keyword>карманный фонарь с usb зарядкой</keyword>
-        <keyword>надпотужний ліхтарик</keyword>
-        <keyword>сверхмощный фонарик</keyword>
-        <keyword>Ліхтар SY-1903C-P50+SMD+RGB</keyword>
-        <keyword>Фонарь SY-1903C-P50+SMD+RGB</keyword>
-        <keyword>Police</keyword>
-        <keywords>Ліхтар SY-1903C-P50+SMD+RGB Alarm, Фонарь SY-1903C-P50+SMD+RGB Alarm, ЗУ USB, кишеньковий ліхтар із usb зарядкою, карманный фонарь с usb зарядкой, надпотужний ліхтарик, сверхмощный фонарик, Ліхтар SY-1903C-P50+SMD+RGB, Фонарь SY-1903C-P50+SMD+RGB, Police</keywords>
-        <param name="Производитель">Police</param>
-        <param name="Цвет">Черный</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Вес">150 г</param>
-        <param name="Материал корпуса">Алюминиевый сплав</param>
-        <param name="Время работы">5 час</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Состояние">Новое</param>
-        <param name="Режимы работы фонаря">Максимальный, Минимальный, Мигающий, Режим SOS</param>
-        <param name="Особенности фонаря">Влагостойкий, Противоударный</param>
-        <param name="Дальность светового луча">200 м</param>
-        <param name="Световой поток">1000 лм</param>
-        <param name="Тип заряда">USB</param>
-        <param name="Тип фонаря">Ручной</param>
-        <param name="Цветовая температура">6500K</param>
       </offer>
       <offer id="213739" available="false">
         <name>Машинка для стрижки волосся професійна триммер для бороди окантувальна машинка Shuke 3W SK-8017</name>
@@ -2126,7 +1983,7 @@
         <picture>https://www.websklad.biz.ua/storage/27477/k3ujcvyakcufvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27483/k3jcfyvkcuvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/27490/k3cvaykucvyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Тостер MAGIO MG-278 — це функціональне та стильне рішення для сучасної кухні, яке не лише швидко та рівномірно підсмажить хліб, а й спростить щоденне приготування тостів. Компактний прилад з потужністю 830 Вт обладнаний зручними режимами та елементами керування, що дозволяють адаптувати процес підсмаження під індивідуальні вподобання кожного користувача.</p>
 
 <h2>Чим вирізняється ця модель</h2>
@@ -3453,7 +3310,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="298532" available="true">
+      <offer id="298532" available="false">
         <name>Настільна плита Domotec MS-5833 Однокомфортна Індукційна, електроплита 2000 Вт, плита домашня</name>
         <categoryId>641</categoryId>
         <price>1150</price>
@@ -3469,7 +3326,7 @@
         <picture>https://www.websklad.biz.ua/storage/23554/rwasdferdfsdafd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23564/rwasfefadsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/23571/wasdfgtefadsfsd.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Плита Domotec MS-5833 &mdash; одноконфоркова індукційна електроплита, потужністю 2000 Вт, яка миттєво нагрівається і швидко готує їжу. Сенсорний дисплей перетворить процес керування плитою на цікаве заняття. Кристалічне скло, з якого зроблена техніка, міцне та стійке до подряпин, легко очищається від забруднень. Прилад встановлюється на стіл, не ковзає поверхнею. Плита електрична настільна сумісна з усіма видами індукційного посуду. Сенсорна кнопкова панель керування. Швидке та рівномірне нагрівання на всій нагрівальній поверхні. 7 режимів (програми) приготування: розігрівання, смаження, барбекю, кип'ятіння, суп, каша з молоком, рис.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -4611,7 +4468,7 @@
         <picture>https://www.websklad.biz.ua/storage/37219/rsfddfresdfgresd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/37226/nukvryrkavyyafpyfpu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/37235/5unrvkyakyvfrkv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Портативна бритва VGR V-353 &ndash; універсальний дорожній шейвер, який стане незамінним помічником у боротьбі за ідеальну зовнішність у будь-якому місці. Основною перевагою даного пристрою є не тільки те, що воно може працювати без мережі, але також те, що при використанні даної бритви ви назавжди забудете про роздратування &ndash; ідеальне рішення для чутливої шкіри. Бритва ідеально повторює кожен вигин обличчя, роблячи гоління бездоганним.</p>
 <p>Особливістю шейвера є наявність сітки, що голить, що забезпечує чистий зріз волосся, немов бритвою-верстатом. Крім того, пристрій має триммер для окантовки, за допомогою якого можна досягти ідеальних ліній. Сітка виготовлена з титанової фольги і є гіпоалергенною. Сітка-картридж легко змінюється за необхідності. Ножі незалежні та рухаються асинхронно, що значно покращує ефективність гоління. При необхідності ножі можуть бути замінені.</p>
 <p>Шейвер працює від Li-Ion акумулятора, який забезпечує 120 хвилин автономною роботою. Акумулятор може бути заряджений та заряджений у будь-який момент. Для заряджання шейвера можна використовувати будь-який зарядний пристрій від телефону, в комплекті постачається кабель USB та зарядний блок.</p>
@@ -6230,7 +6087,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">2</param>
       </offer>
-      <offer id="400939" available="true">
+      <offer id="400939" available="false">
         <name>Блендер Rainberg RB-2223 2000 Вт кавомолка, подрібнювач для коктейлів та смузі, блендер для кухні</name>
         <categoryId>64301</categoryId>
         <price>1150</price>
@@ -6246,7 +6103,7 @@
         <picture>https://www.websklad.biz.ua/storage/39311/k3jcafiuivfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39317/kuaivmpaukvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39321/e4k3jcfiaukcfavisiv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Rainberg RB-2223</strong><span>&nbsp;</span>&ndash; якісний стаціонарний блендер із широким функціоналом. Він швидко подрібнить овочі для салату або перетворить на пюре приготований суп.</p>
 <p>Скляний глечик-чаша вміщує 1.5 л. Маса всередині глека ретельно подрібнюється у горизонтальному та вертикальному напрямках.</p>
 <p>Потужність блендера 2000 Вт, є три швидкості. За рахунок цього легко підібрати режим подрібнення будь-якого товару. Блендер стійкий, компактний, ніж, що знімається, виконаний з нержавіючої сталі. Існує функція подрібнення льоду.</p>
@@ -8296,7 +8153,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="481373" available="true">
+      <offer id="481373" available="false">
         <name>Машинка для стрижки волосся і бороди VGR V-695 з LED дисплеєм IPX7 вологозахист, Окантувальна машинка</name>
         <categoryId>28290204</categoryId>
         <price>1230</price>
@@ -8312,7 +8169,7 @@
         <picture>https://www.websklad.biz.ua/storage/44076/t4wr3ewrftewasdfgewatewsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44081/hrdfsgrgrdfvgrsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44092/tesgesdgrfdsfds.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>Потужний акумулятор&nbsp; 2600 мАг. Час заряджання до 4 годин. Час безперервної роботи на повному заряді акумулятора 300 хвилин;</li>
 <li>Регулювання ножів від 0,5-2,5 мм із кроком 0,5 мм - допоможе підібрати потрібну довжину волосся при стрижці;</li>
@@ -8582,7 +8439,7 @@
         <picture>https://www.websklad.biz.ua/storage/44492/4kpvayavafayvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44499/euypaayvpekkapv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44516/ekpavkucayaf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Поліпшіть свій догляд за допомогою професійної машинки-тримера для волосся VGR V-987, ідеального інструменту для точності та зручності. Завдяки вдосконаленому сталевому лезу з керамічним покриттям цей тример <strong><span>&nbsp;</span>забезпечує гладку та легку стрижку</strong><span>&nbsp;</span>при кожному використанні. Незалежно від того, чи знаходитесь ви вдома або в дорозі, V-987 допоможе вам з його вражаючими характеристиками.</p>
 <p>Машинка ідеально підходить<span>&nbsp;</span><strong>як для професіоналів, так і для домашніх користувачів</strong>, VGR V-987 поєднує в собі високу продуктивність, збільшений час роботи та зручну зарядку в елегантному портативний дизайн. Зберігайте свій стиль у ідеальному стані, де б ви не знаходилися.</p>
 <p><strong>Особливості:</strong></p>
@@ -9065,7 +8922,7 @@
         <param name="Индикатор нагрева">Да</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="483022" available="true">
+      <offer id="483022" available="false">
         <name>LED Ліхтар налобний BL-W689-LM+2COB (white+red) датчик руху, Ліхтарик на голову із зарядкою</name>
         <categoryId>150410</categoryId>
         <price>220</price>
@@ -9081,7 +8938,7 @@
         <picture>https://www.websklad.biz.ua/storage/50863/nkpaaviapkukci.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50873/rnukpvapreavpapiavkuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50881/kupvaipkvaaipf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Новинка 2022 індукційний налобний ліхтар нового покоління з датчиком руху</strong><span>&nbsp;&nbsp;&ndash; це ідеальний варіант для щоденного носіння у темний час, у побуті, на роботі, для катання, патрулювання, кемпінгу, навчання, полювання, походів, пошуку, нічної риболовлі, нічної їзди.</span></p>
 <p>Особливістю даного ліхтаря є включення світла за датчиком руху руки. Надяскраві світлодіоди, мала вага та м'яка регульована гумка роблять його дуже комфортним в експлуатації. Крім стрічок, що світяться, він оснащений бічним ліхтарем далекого світла.&nbsp;</p>
 <p><strong>Ідеальний подарунок для чоловіка!</strong></p>
@@ -9530,7 +9387,7 @@
         <param name="Состояние">Новое</param>
         <param name="Крепление">Ремешок</param>
       </offer>
-      <offer id="486574" available="false">
+      <offer id="486574" available="true">
         <name>Машинка триммер для стрижки волосся та бороди акумуляторна VGR V-052 з насадками, Професійна</name>
         <categoryId>28290204</categoryId>
         <price>480</price>
@@ -9546,7 +9403,7 @@
         <picture>https://www.websklad.biz.ua/storage/52196/ekpapkiipavuakc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/52201/e4cuapivaivukaiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/52208/kpapivvafiau.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Машинка для стрижки волосся VGR V-052</strong><span>&nbsp;</span>- універсальний гігієнічний прилад, який оснащений телескопічною насадкою з регуляцією довжини стрижки від 0,5 до 10 мм, тому підходить для стрижки волосся на голові, для догляду за бородою а також як бодігруммер. Машинка бездротова, живиться від вбудованого акумулятора, повного заряджання якого вистачає на 90 хвилин автономної роботи.</p>
 <p>Машинка для стрижки має невеликі габарити і дуже зручна і практично не відчувається в руці. Наявність поворотного регулятора довжини з телескопічною насадкою дозволяє вибирати оптимальну довжину зрізу. Зарядка від будь-якого USB порту дозволяє возити машинку з собою і заряджати її від павербанка або автомобільного USB адаптера, що робить її незамінним аксесуаром для далекобійників і людей, що часто подорожують. Це важливі фактори, щоб купити машинку для стрижки VGR V-052 та користуватися за будь-яких умов.</p>
 <p><strong>Використання:</strong></p>
@@ -11056,7 +10913,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип питания">Сеть 220 В</param>
       </offer>
-      <offer id="559744" available="false">
+      <offer id="559744" available="true">
         <name>Професійна акумуляторна машинка для стрижки VGR V-009 тример для бороди та вусів. Колір: зелений</name>
         <categoryId>28290204</categoryId>
         <price>650</price>
@@ -11072,7 +10929,7 @@
         <picture>https://www.websklad.biz.ua/storage/69168/hdfdgsda.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69172/htjhdfsddsa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69178/hdfgrdgas.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Бездротова машинка триммер<span>&nbsp;</span><strong>VGR V-009</strong><span>&nbsp;</span>поєднує в собі машинку для стрижки волосся і бороди зі змінними 4 насадками (1 мм, 2 мм, 3 мм, 4 мм. Використовуючи сам триммер без насадки, ви зможете створити рівні контури стрижки, підголити баки або вибрати шию.</p>
 <p>Крім того, його можна використовувати для видалення надмірної рослинності на тілі. Ергономічний, легкий і компактний дизайн дозволяє легко володіти інструментом навіть новачкові.</p>
 <p>Машинка для стрижки волосся<span>&nbsp;</span><strong>VGR-009<span>&nbsp;</span></strong> відрізняється міцним корпусом, стійким до дії вібрації, низьким рівнем шуму, стильним дизайном , плавним ходом гострих лез, зручністю та тривалим терміном експлуатації. Леза виконані з високоякісної нержавіючої сталі, що забезпечує максимально довгу гостроту та комфортність використання. У комплекті йде зарядний шнур USB, а також щіточка для очищення та олія для лез.</p>
@@ -11851,7 +11708,7 @@
         <picture>https://www.websklad.biz.ua/storage/68447/oervaipkaf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68453/rkvapiavpavip.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68457/goekrapkp.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ручний міксер DOMOTEC R6633Y призначений для роботи з різними кулінарними завданнями, включаючи збивання та замішування тіста. Ця модель оснащена потужним мотором потужністю 260 Вт і пропонує сім швидкостей, що забезпечує точний контроль над процесом приготування. Компактний корпус із пластику та набір металевих насадок включають вінчики та гачки для тіста, що розширює можливості використання пристрою.</p>
 
 <h2>Переваги для користувача</h2>
@@ -14749,7 +14606,7 @@
         <picture>https://www.websklad.biz.ua/storage/76676/htdfhfdshdsrd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76678/htdshdfshdffds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76680/herdhfdhddfs.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Соковитискач RAF R.2700</strong>&ndash; це потужний та зручний пристрій для швидкого приготування свіжого соку з фруктів та овочів. Завдяки високій швидкості обертання 18 000 об/хв і потужному 800-ватному двигуну, прилад забезпечує ефективне вилучення соку, мінімізуючи втрати поживних речовин.</p>
 <p><strong>Широкий завантажувальний жолоб</strong>діаметром 85 мм дозволяє завантажувати великі шматки без попереднього нарізування, заощаджуючи ваш час.</p>
 <p><strong>Корпус</strong>з нержавіючої сталі та міцного пластику не тільки надає соковижималці стильного вигляду, а й гарантує довговічність. Інтуїтивно зрозуміла електронна панель управління з LED-дисплеєм робить експлуатацію приладу простою та зручною.</p>
@@ -18983,7 +18840,7 @@
         <picture>https://www.websklad.biz.ua/storage/87593/rekipuivpirkii.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/87596/revipivipif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/87599/rkvpvipuifpui.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки волосся на акумуляторі VGR V-662 &mdash; це потужний і надійний інструмент для догляду за волоссям, що підходить як для професійних салонів, так і для домашнього використання. Тример для стрижки VGR V-662 оснащений двигуном потужністю 10 Вт зі швидкістю обертання 7000 об/хв, що забезпечує рівний і акуратний зріз навіть на густому волоссі. Леза з нержавіючої сталі відрізняються довговічністю та точністю роботи, а LED дисплей відображає рівень заряду та вибраний режим, роблячи використання максимально зручним.</p>
 <p>Акумуляторний триммер VGR V-662 комплектується 6 насадками, а також має регулювання довжини зрізу в діапазоні 0,8-2 мм, що дозволяє створювати різноманітні образи і підбирати оптимальний стиль стрижки. Літій-іонний акумулятор ємністю 3000 мАг забезпечує до 180 хвилин автономної роботи, а повна зарядка займає 4 години. Завдяки бездротовому формату використання машинка дає повну свободу рухів та комфорт у роботі.</p>
 <p>Акумуляторна машинка для стрижки VGR V-662 поєднує в собі функціональність, потужність та зручність. Тример для стрижки волосся на акумуляторі VGR V-662 стане відмінним вибором для професіоналів та домашніх користувачів, які цінують надійність, довговічність та якість.</p>
@@ -21309,7 +21166,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">1</param>
       </offer>
-      <offer id="26891" available="false">
+      <offer id="26891" available="true">
         <name>Проектор зоряного неба Star Master Big Dream, Зоряне небо прожектор, домашній. Колір: фіолетовий</name>
         <categoryId>6370701</categoryId>
         <price>300</price>
@@ -21325,7 +21182,7 @@
         <picture>https://www.websklad.biz.ua/storage/9743/20249204.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/9749/t4efsdgtefsdafetsdagfasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/9758/t4refsadaetrfsadsdfsd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Проектор зоряного неба Star Master Dream — це інноваційний світловий пристрій, який створює атмосферу затишку і чарівництва в дитячій кімнаті. Завдяки обертовій сфері з LED-підсвіткою, він проектує на стелю і стіни яскраві білі зірки та місяць, а режим RGB дозволяє вибирати кольори світіння або налаштовувати плавне кольорове переключення. Такий нічник не лише прикрашає інтер’єр, але й допомагає розслабитися малюку перед сном, створюючи заспокійливу і приємну атмосферу.</p>
 
 <h2>Основні сильні сторони</h2>
@@ -21386,7 +21243,7 @@
         <picture>https://www.websklad.biz.ua/storage/8783/4esdsgrdsgsdafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/8793/4trefsdgefdfesdafsd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/8803/t4efsdfgrsdefsdasd.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Проектор зоряного неба Star Master Dream — це інноваційний пристрій для створення чарівної атмосфери в дитячій кімнаті. Він оживляє простір, відображаючи на стінах і стелі яскраві білі зорі та місячне світло, а також різноманітні RGB-ефекти. Завдяки можливості живлення від USB або батарейок, ця нічник зручний для використання вдома і в подорожах. Продумане керування трьома кнопками дозволяє легко перемикати режими підсвічування і обертання, створюючи неповторний затишок і спокій для дитини.</p>
 
 <h2>Раціональні причини вибрати Star Master Dream</h2>
@@ -21700,7 +21557,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="109217" available="false">
+      <offer id="109217" available="true">
         <name>Smart Watch T80S, два браслети, температура тіла, тиск, оксиметр. Колір: синій</name>
         <categoryId>721</categoryId>
         <price>630</price>
@@ -21716,7 +21573,7 @@
         <picture>https://www.websklad.biz.ua/storage/11709/cfmpaufvyaufyvf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11714/kuayvfuyvfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/11719/kcuvyafkuvafvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>2 ремінці в комплекті</strong></p>
 <p>Використовує&nbsp;<strong>великий 1,54-дюймовий дисплей</strong>, великі слова, чіткіший, високочутливий сенсорний екран може виконувати різні операції.</p>
 <p>Моніторинг серцевого ритму, режим руху, нагадування інформації, моніторинг сну, <strong>швидкий перегляд різних функцій</strong>&nbsp;і сенсорне керування. З цього моменту починається<strong>&nbsp;розумне життя</strong>.При носінні на руці годинник буде&nbsp;<strong>вимірювати поточну температуру тіла</strong>&nbsp;в режимі&nbsp;<strong>реального часу</strong>. Безперервний вимір температури тіла в <strong>протягом 24 годин</strong>, будьте в курсі свого здоров'я.</p>
@@ -22481,7 +22338,7 @@
         <param name="Овощной нож">1 шт.</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="213666" available="false">
+      <offer id="213666" available="true">
         <name>Мультипекар вафельниця бутербродниця сендвічниця гриль електрична 4 в 1 з формами Domotec MS-7704</name>
         <categoryId>6300404</categoryId>
         <price>1230</price>
@@ -22497,7 +22354,7 @@
         <picture>https://www.websklad.biz.ua/storage/19246/kuaivapeuaivf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19252/kcfiakuifvavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/19258/kcifvaukivaffv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Гриль бутербродниця вафельниця горішниця 4 в 1 Domotec Ms 7704</p>
 <p>4 в 1 Гриль, бутербродниця, вафельниця, ліщина Domotec ms 7704, 1000Вт зі знімними формами:</p>
 <ol>
@@ -22566,7 +22423,7 @@
         <picture>https://www.websklad.biz.ua/storage/17992/wadsewasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/17996/esddwasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/18003/qasdd3wasd.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Фрезер для манікюру і педикюру Nail Polisher Drill Pro Nail Drill модель ZS-601 призначений для професійної обробки нігтів. Пристрій оснащено потужним мотором з максимальною швидкістю обертання 30000 об/хв, плавним регулюванням швидкості та функцією реверсу. Керувати фрезером можна як вручну, так і за допомогою ножної педалі, що підвищує зручність роботи.</p>
 
 <h2>Практичні переваги</h2>
@@ -22760,7 +22617,7 @@
         <picture>https://www.websklad.biz.ua/storage/24881/ucvyfpuyfvkucfyvuc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/24885/cvfikcuvfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/24890/cfvikuvfi.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p><strong>Бутербродниця MG-376</strong><span>&nbsp; володіє всіма необхідними функціями для того, щоб швидко приготувати смачні та поживні сендвічі. Одночасно в ній можна випікати відразу по 4 сендвічі, краї яких щільно спаюють борти форм, надійно замикаючи начинку всередині. Корпус виготовлений із висококласного термостійкого пластику червоного кольору. Тип листа &ndash; підсмажений бутерброд у формі трикутників. Нагрівальний елемент потужністю 750 Вт забезпечить швидке і рівномірне нагрівання двох робочих поверхонь з антипригарним покриттям. Бутербродниці &nbsp;</span><strong>Magio<span>&nbsp;</span></strong><span>дуже зручні в користуванні, сендвічі не пригорають і легко витягуються. Завдяки компактним розмірам та фіксатору бутербродницю зручно зберігати. На кришці є світлові індикатори живлення та готовності до роботи, що полегшує контроль процесу приготування.</span></p>
 <ul>
 <li><span><strong>Потужність</strong> 750 Вт</span></li>
@@ -23297,7 +23154,7 @@
         <picture>https://www.websklad.biz.ua/storage/22752/k3jcvfik3jcufiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22758/u2cviauc.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22785/kcyvaak3cfvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип'ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -24260,7 +24117,7 @@
         <picture>https://www.websklad.biz.ua/storage/30295/eASDRDADS.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30308/easdferfdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/30315/rwasdfedad.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><span>Фен MAGIO MG-169 &mdash; це ідеальний фен, що зробить Ваше волосся ще більш шовквістим, доглянутим і красивим. Ця модель має високу потужність &mdash; 2600 Вт, тому укладання з його допомогою має бути швидким і легким.</span></p>
 <p><span>Корпус фена зроблений з якісного термостійкого пластику, а завдяки покриттю Soft Touch рука не ковзає, що робить використання ще комфортнішим. При цьому є можливість регулювання трьох температурних режимів та двох швидкостей повітряного потоку, що дозволяє підбирати необхідні режими роботи під кожне укладання та тип волосся. Фен MAGIO MG-169 таким чином дбає про них і не дає пересушити.</span></p>
 <p><span>Подача холодного повітря дозволить закріпити зачіску та зробити її більш стійкою.</span></p>
@@ -24879,7 +24736,7 @@
         <picture>https://www.websklad.biz.ua/storage/31856/upivapkukiavk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31865/3cuaivfpucukuk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/31875/e3cuipvfpkfpk.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Годинник SKMEI 1343KH KHAKI — це міцний і виразний аксесуар, створений для чоловіків, які віддають перевагу активному стилю життя та практичності. Поєднання чорного корпусу з хакі-ремінцем створює контрастний образ, що вдало доповнить як військово-туристичне екіпірування, так і повсякденний одяг. Комбінований формат (стрілковий та цифровий) дозволяє точно відслідковувати час і відразу бачити потрібну інформацію в кількох часових зонах.</p>
 
 <p>Годинник підтримує функцію трьох часових поясів, оснащений будильником, секундоміром, підсвіткою, автоматичним календарем і відображенням дати та дня тижня. Надійний захист від води (до 50 метрів) робить його придатним для спорту, мандрівок і повсякденного використання. SKMEI 1343KH — це поєднання функціональності, стилю та витривалості в одному рішенні.</p>
@@ -24917,69 +24774,6 @@
         <keyword>Часы наручные мужские SKMEI 1343KH</keyword>
         <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 1343KH KHAKI, Часы наручные мужские SKMEI 1343KH KHAKI, водостійкий тактичний годинник, водостойкие тактические часы, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI, Годинник наручний чоловічий SKMEI 1343KH, Часы наручные мужские SKMEI 1343KH</keywords>
         <param name="Цвет корпуса">Черный</param>
-        <param name="Производитель">Skmei</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Пол">Мужской</param>
-        <param name="Тип">Спортивные часы</param>
-        <param name="Тип механизма">Электронный</param>
-        <param name="Источник питания">Батарейка</param>
-        <param name="Циферблат">Цифровой</param>
-        <param name="Индикация">Арабские цифры</param>
-        <param name="Формат времени">12/24 часа</param>
-        <param name="Форма">Круглая</param>
-        <param name="Материал">Пластик</param>
-        <param name="Состояние">Новое</param>
-      </offer>
-      <offer id="340364" available="false">
-        <name>Годинник наручний чоловічий SKMEI 1520CMGN CAMO GREEN, годинник військовий чоловічий, для військовослужбовців. Колір: камуфляж</name>
-        <categoryId>151105</categoryId>
-        <price>590</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws33722-2</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/29102/rfsdarefesd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29109/ec3uiapvfepuifp.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29118/rwfsderfsdewrsdfad.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29125/grefdsfgfefdvda.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29131/rwsfdgewrfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29139/4cpkavirpnkivaauif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29146/ecupifprifai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29156/3euifvpucifui.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29163/ecuipvafpuiafk.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/29179/ecuiavfpufaiv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Годинник <strong>SKMEI 1520CMGN CAMO GREEN</strong> &mdash; це втілення потужності, стилю та витривалості у камуфляжному виконанні. Його масивний корпус з брутальним дизайном та вираженими гвинтами створює ефектний вигляд, що підкреслює характер власника. Камуфляжний принт, поєднаний з чорним циферблатом і яскравими елементами, ідеально підходить для активного відпочинку, військового стилю або тактичного використання.</p>
-<p>Годинник поєднує аналогову й цифрову індикацію, що дозволяє швидко орієнтуватися в часі. Серед функцій: подвійний час, дата, день тижня, будильник, секундомір, підсвітка дисплея та 12/24-годинний формат. Водостійкість до 50 метрів забезпечує захист під час дощу, миття рук або коротких занурень. Це надійний аксесуар для тих, хто шукає поєднання функціональності й агресивного зовнішнього вигляду.</p>
-<h2><strong>Характеристики:</strong></h2>
-<ul>
-<li>Модель: SKMEI 1520CMGN CAMO GREEN</li>
-<li>Тип індикації: Аналогово-цифрова</li>
-<li>Водонепроникність: 50M</li>
-<li>Механізм: Кварцовий</li>
-<li>Матеріал корпусу: Ударостійкий пластик</li>
-<li>Матеріал ремінця: Поліуретан</li>
-<li>Функції: час, дата, день тижня, будильник, секундомір, подвійний час, підсвітка, 12/24-годинний формат</li>
-</ul>
-<h2><strong>Переваги:</strong></h2>
-<ul>
-<li>Військовий дизайн із камуфляжним принтом</li>
-<li>Масивний корпус із захисними елементами</li>
-<li>Комбінація стрілок і цифрового дисплея</li>
-<li>Водозахист до 50 метрів</li>
-<li>Надійна конструкція для екстремальних умов</li>
-<li>Ідеальний вибір для туризму, спорту та outdoor-активностей</li>
-</ul>]]></description>
-        <keyword>Годинник наручний чоловічий</keyword>
-        <keyword>Часы наручные мужские</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI 1520CMGN CAMO</keyword>
-        <keyword>Часы наручные мужские SKMEI 1520CMGN CAMO GREEN</keyword>
-        <keyword>годинник військовий чоловічий</keyword>
-        <keyword>часы военные мужские</keyword>
-        <keyword>для військовослужбовців</keyword>
-        <keyword>для военнослужащих</keyword>
-        <keyword>Годинник наручний чоловічий SKMEI</keyword>
-        <keyword>Часы наручные мужские SKMEI</keyword>
-        <keywords>Годинник наручний чоловічий, Часы наручные мужские, Годинник наручний чоловічий SKMEI 1520CMGN CAMO, Часы наручные мужские SKMEI 1520CMGN CAMO GREEN, годинник військовий чоловічий, часы военные мужские, для військовослужбовців, для военнослужащих, Годинник наручний чоловічий SKMEI, Часы наручные мужские SKMEI</keywords>
-        <param name="Цвет корпуса">Зеленый</param>
         <param name="Производитель">Skmei</param>
         <param name="Страна производитель">Китай</param>
         <param name="Пол">Мужской</param>
@@ -25221,7 +25015,7 @@
         <picture>https://www.websklad.biz.ua/storage/34455/kfavyapuafvyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34459/uavkafvyayfsvfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/34462/fapueavfyvvy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Універсальний набір ножів на підставці — це продумане рішення для тих, хто цінує функціональність і зручність на кухні. Набір включає різноманітні леза, що забезпечують комфортну роботу з різними продуктами, від хліба і овочів до м’яса і нарізки. Його продумане комплектування охоплює всі основні завдання, роблячи процес приготування їжі швидким і ефективним.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -25739,7 +25533,7 @@
         <param name="Управление">Кнопки</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="460860" available="true">
+      <offer id="460860" available="false">
         <name>Портативна Bluetooth колонка TG339 5W з RGB підсвічуванням, Гучна блютуз колонка. Колір: червоний</name>
         <categoryId>6371101</categoryId>
         <price>480</price>
@@ -25755,7 +25549,7 @@
         <picture>https://www.websklad.biz.ua/storage/39098/rgfsffddsafdsasfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39105/rgsdsdfsfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/39112/tedsfdsadsgwe.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>1. Bluetooth 5.0, швидке підключення та стабільний сигнал, сумісний з усіма пристроями Bluetooth.</li>
 <li>2. 1200 мАг батарея протягом 10 годин гри в обсязі 2/3 на повну зарядку.</li>
@@ -26246,7 +26040,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="480926" available="false">
+      <offer id="480926" available="true">
         <name>Машинка для стрижки волосся VGR V-120 тример електробритва для бороди з великими насадками від мережі</name>
         <categoryId>28290204</categoryId>
         <price>540</price>
@@ -26262,7 +26056,7 @@
         <picture>https://www.websklad.biz.ua/storage/48436/yrgdfsgragreassad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48440/ytgfdzfdsafdsagds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48444/4erdfsdsfgrhfgd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Машинка триммер VGR V 120 поєднує машинку для стрижки волосся і бороди зі змінними насадками (від 3 до 20 мм). Використовуючи сам триммер без насадки, ви зможете створити рівні контури стрижки, підголити баки або вибрати шию.</p>
 <p>Крім того, його можна використовувати для видалення небажаного волосся на тілі. Ергономічний, легкий і компактний дизайн дозволяє легко володіти інструментом навіть новачкові.</p>
 <p>Головною перевагою даної моделі є наявність насадок - 3, 6, 9, 12, 16, 20 мм, а також насадки з правим та лівим ухилом для зручного моделювання бороди.</p>
@@ -26530,7 +26324,7 @@
         <param name="Страна производитель">Китай</param>
         <param name="Состояние">Новое</param>
       </offer>
-      <offer id="483441" available="true">
+      <offer id="483441" available="false">
         <name>Ручний ліхтар PLD-1812-T6 (red) 1x18650, Водонепроникний ліхтар, Потужний акумуляторний лед ліхтарик</name>
         <categoryId>150410</categoryId>
         <price>370</price>
@@ -26546,7 +26340,7 @@
         <picture>https://www.websklad.biz.ua/storage/49221/tesfdgesaefsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49229/tesgfdgsgefsafsed.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49238/tesfgdgratersfewe.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Цей компактний світлодіодний ліхтар з червоним світлом – ідеальне рішення для тих, хто цінує надійність, зручність та ефективність освітлення у різних умовах. Вбудований потужний світлодіод забезпечує інтенсивність світлового потоку у 500 люмен, що гарантує чітку видимість на відстані до 100 метрів. Конструкція зі сталевого корпусу поєднує міцність та легкість, а живлення від акумулятора 18650 через USB-порт робить його автономним і зручним у використанні без зайвих витрат на батарейки.</p>
 
 <h2>Ваші вигоди при покупці</h2>
@@ -26814,7 +26608,7 @@
         <picture>https://www.websklad.biz.ua/storage/49948/kpavypuyfvprivapvayf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49956/4eukpkyvapfvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/49964/4kupvayyavuyfvvya.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Налобний ліхтар WT208-2COB володіє широким функціоналом і міцним корпусом із пластику, цей ліхтар стане незамінним помічником у різних ситуаціях. Налобний ліхтар WT208-2COB обладнаний двома світлодіодами COB, що забезпечують яскраве та рівномірне світло. Світлодіоди можуть світитися червоним та білим світлом, що робить його універсальним інструментом для освітлення та сигналізації.&nbsp;</p>
 <p>Для меншої помітності на відкритому просторі використовуйте червоне світло для освітлення. Тим самим Ви значною мірою убезпечите себе від виявлення і не привернете до себе додаткової уваги. На відміну від білого, червоне світло менше втомлює зір і видно з меншої відстані, а після вимикання очі швидко звикають до темряви.</p>
 <p>Для живлення використовується вбудований літій-іонний акумулятор, що забезпечує тривалу роботу ліхтаря. Заряджання здійснюється за допомогою кабелю з роз'ємом Type-C, що робить процес заряджання швидким та зручним. Однією з особливостей ліхтаря WT208-2COB є його вологостійкість та пилостійкість, що робить його ідеальним для використання у будь-яких погодних умовах та на різних місцевостях.</p>
@@ -27133,7 +26927,7 @@
         <param name="Тип прибора">Машинка для стрижки бороды и усов</param>
         <param name="Триммер для окантовки">Нет</param>
       </offer>
-      <offer id="562430" available="false">
+      <offer id="562430" available="true">
         <name>Ручний колбовий пилосос без мішка Domotec MS-4402 220 V якісний та надійний</name>
         <categoryId>608</categoryId>
         <price>1730</price>
@@ -27149,7 +26943,7 @@
         <picture>https://www.websklad.biz.ua/storage/76139/rvaypvyapfupy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76142/rkvaypyfpuyvfpyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76145/kuvayprkyfpyfpryf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Пилосос Domotec MS-4402 - це якісний та надійний помічник. У вашому будинку більше ніколи не буде брудно, оскільки цей пилосос має повітряний фільтр-збірник пилу і сміття, що миється, що так само дозволить економити вам не купуючи дорогих паперових мішків.</p>
 <p>У корпусі циклонного пилососа замість мішка-пилозбірника використовується контейнер.</p>
 <p>Пил і бруд відокремлюється від потоку повітря за допомогою створюваного всередині спеціального відсіку циклонного вихору, за рахунок відцентрової сили. Сміття в результаті потрапляє в призначений для нього знімний контейнер, а повітря проходить через моторний блок, фільтр і повертається в приміщення.</p>
@@ -27191,77 +26985,6 @@
         <param name="Состояние">Новое</param>
         <param name="Тип аккумулятора">Li-Ion</param>
         <param name="Тип пылесборника">Контейнер</param>
-      </offer>
-      <offer id="562631" available="false">
-        <name>Міксер Domotec R.6664 5 швидкостей, режим Турбо, Міксер електричний 800 Вт</name>
-        <categoryId>612</categoryId>
-        <price>750</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws68794</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/70273/n5kpavvraykpavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70281/yvprvaykrayva.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70285/nkvrikvafpavif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70291/nkpakvfrkrv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70297/ecuivpfirnukr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70303/kypvarvyarkva.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70310/kparvaykpvay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70317/rkuvakppavyauc.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70325/rkuyvpkyprkfyvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/70332/rkpyvpuyvayfv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Міксер Domotec R.6664 стане вашим незамінним помічником на кухні. Завдяки потужному мотору та кільком режимам швидкості, він легко впорається з будь-якими завданнями: від змішування інгредієнтів до замішування тіста. Компактний та стильний дизайн міксера ідеально впишеться в інтер'єр будь-якої кухні. Міксер обладнаний зручною ручкою та має стійку основу, що забезпечує комфорт та безпеку під час використання.&nbsp;</p>
-<p>Насадки, які легко знімаються, роблять обслуговування міксера простим і швидким. Завдяки різноманітним функціям він підходить як для приготування десертів, так і для створення основних страв. Міксер кухонний Domotec R.6664 поєднує в собі потужність, багатофункціональність та зручність у використанні. Компактний дизайн та стильний вигляд роблять його чудовим доповненням до вашої кухні.</p>
-<p><strong>Переваги:</strong></p>
-<ul>
-<li>Ефективне збивання та змішування</li>
-<li>Велика потужність</li>
-<li>5 швидкостей роботи</li>
-<li>Режим Турбо</li>
-<li>Функція Пульс для делікатного збивання</li>
-<li>Кнопка від'єднання насадок</li>
-<li>Нековзні ніжки</li>
-</ul>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Тип: Міксер кухонний / Міксер ручний</li>
-<li>Тип міксера: Ручний</li>
-<li>Потужність: 800 Вт</li>
-<li>Кількість швидкостей: 5</li>
-<li>Режим Турбо: Так</li>
-<li>Функція Пульс: Так</li>
-<li>Кнопка від'єднання насадок: Так</li>
-<li>Нековзні ніжки: Так</li>
-<li>Кількість насадок: 2</li>
-<li>Насадки: Вінчик для збивання, Гачок для замішування тіста</li>
-<li>Живлення: Від мережі 220-240 В/50-60 Гц</li>
-<li>Довжина мережевого шнура: 60 ​​см</li>
-<li>Матеріал корпусу: Пластик</li>
-<li>Матеріал насадок: Нержавіюча сталь</li>
-<li>Вес: 0.7 кг</li>
-<li>Колір: Сріблястий</li>
-</ul>]]></description>
-        <keyword>Міксер Domotec R.6664</keyword>
-        <keyword>Миксер Domotec R.6664</keyword>
-        <keyword>Міксер Domotec R.6664 5 швидкостей</keyword>
-        <keyword>Миксер Domotec R.6664 5 скоростей</keyword>
-        <keyword>режим Турбо</keyword>
-        <keyword>Міксер електричний 800 Вт</keyword>
-        <keyword>Миксер электрический 800 Вт</keyword>
-        <keyword>Міксер Domotec</keyword>
-        <keyword>Миксер Domotec</keyword>
-        <keyword>Domotec</keyword>
-        <keywords>Міксер Domotec R.6664, Миксер Domotec R.6664, Міксер Domotec R.6664 5 швидкостей, Миксер Domotec R.6664 5 скоростей, режим Турбо, Міксер електричний 800 Вт, Миксер электрический 800 Вт, Міксер Domotec, Миксер Domotec, Domotec</keywords>
-        <param name="Производитель">Domotec</param>
-        <param name="Цвет корпуса">Серебристый</param>
-        <param name="Потребляемая мощность">800</param>
-        <param name="Количество насадок">4</param>
-        <param name="Количество скоростей">7</param>
-        <param name="Материал корпуса">Металл</param>
-        <param name="Питание">Сеть 220В</param>
-        <param name="Режим Турбо">Нет</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип миксера">Ручной</param>
-        <param name="Страна производитель">Китай</param>
       </offer>
       <offer id="563253" available="true">
         <name>Електрична м&apos;ясорубка Domotec MS-2020 з насадкою для томатів та терками 2600Вт</name>
@@ -27742,7 +27465,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="604768" available="false">
+      <offer id="604768" available="true">
         <name>Блендер RAF R.378 1600 Вт, Побутовий потужний подрібнювач продуктів, Портативний блендер подрібнювач</name>
         <categoryId>64301</categoryId>
         <price>720</price>
@@ -27758,7 +27481,7 @@
         <picture>https://www.websklad.biz.ua/storage/80242/kpvrvaypky.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80247/kpyvpyvpryup.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80255/kuvyaapyvpyfyp.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Блендер Domotec R-378 потужністю 1600 Вт — це надійний інструмент, який стане незамінним помічником для приготування різноманітних страв. Його сучасний двигун нового покоління гарантує високу продуктивність при помірному енергоспоживанні, що забезпечує ефективну роботу з мінімальними витратами енергії. Ергономічний дизайн і якісні матеріали роблять пристрій зручним у використанні та довговічним.</p>
 
 <h2>Сильні сторони пристрою</h2>
@@ -27820,7 +27543,7 @@
         <picture>https://www.websklad.biz.ua/storage/75303/kvaravrayvr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75313/kpkpyvrv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75320/rkvayvraryrv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Ваше приготування їжі стане набагато простіше, ніж будь-коли, з кухонним комбайном RAF R 7029.</p>
 <p>Кухонний комбайн RAF R 7029 - це потужний багатофункціональний подрібнювач, блендер, м'ясорубка, млин для швидкого подрібнення як м'яких продуктів, таких як фрукти, перець, змішування різних соусів, яєць, так і твердих продуктів. м'ясо, овочі, зерна кукурудзи, бобові, коріння рослин, кава, боби, рис, з можливістю застосування не тільки в домашніх умовах, а й для ресторанів та барів.</p>
 <ul>
@@ -30785,7 +30508,7 @@
         <picture>https://www.websklad.biz.ua/storage/99878/kpipkifufi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/99882/pkvifiiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/99884/rivrvifpi.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Електробритва чоловіча Magio MG-689&nbsp;</strong>&ndash; це сучасний пристрій для комфортного, ефективного та безпечного гоління. Завдяки трьом плавним роторним головкам бритва щільно прилягає до шкіри, повторюючи контури обличчя і забезпечуючи гладке гоління без подразнень.</p>
 <p>Модель підтримує&nbsp;<strong>вологе та сухе гоління</strong>, що дозволяє використовувати її як з пінкою, так і без неї. Тример, що висувається, <strong></strong> ідеально підходить для догляду за бакенбардами, вусами або лінією бороди.</p>
 <p><strong>Акумуляторна бритва Magio MG-689</strong> працює до 30 хвилин після повного заряду, а заряджається всього 8 годин. Очищення займає мінімум часу &mdash; досить просто промити блок, що народжує, під водою.</p>
@@ -31765,7 +31488,7 @@
         <param name="Тип фонаря">Ручной</param>
         <param name="Цветовая температура">6500K</param>
       </offer>
-      <offer id="153895" available="false">
+      <offer id="153895" available="true">
         <name>Електроплита спіральна настільна плита Domotec MS-5801 1000Вт, Переносна компактна електроплита</name>
         <categoryId>641</categoryId>
         <price>440</price>
@@ -31781,7 +31504,7 @@
         <picture>https://www.websklad.biz.ua/storage/13679/3kcjfyvaaekcuv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13680/k3cfvyaakuauf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/13681/3jcfavkcfauyayv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Не у кожного є можливість та необхідність встановлення повноцінної плити. Для економії місця, електроенергії та бюджету можна придбати невелику плиту без духовки. Така плита стане чудовим рішенням для літнього дачного будинку. За допомогою такого компактного кухонного приладу, як Domotec MS-5801, ви зможете легко приготувати собі їжу на поточний день.</p>
 <p>Плиту Domotec MS-5801 можна легко транспортувати в будь-яке відповідне місце, адже її працездатність залежить виключно від наявності мережі електроживлення. Плита має одну конфорку, зі спіральним нагрівальним елементом. Регулювати працездатність плити можна за допомогою механічного перемикача. Біле емальове покриття плити Domotec MS-5801 додає їй привабливості в очах тих користувачів, які віддають перевагу класичному оформленню побутових приладів.</p>
 <p><strong>Характеристики:</strong></p>
@@ -32953,71 +32676,6 @@
         <param name="Свисток">Есть</param>
         <param name="Состояние">Новое</param>
         <param name="Тип дна">Многослойное</param>
-      </offer>
-      <offer id="298835" available="false">
-        <name>Ліхтар налобний світлодіодний водонепроникний з 2 акумуляторами Bailong BL-T06B-P90, головний ліхтарик</name>
-        <categoryId>150410</categoryId>
-        <price>480</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws73682</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/30022/e4kuavyfukfayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30029/cfvaykcavyfauc.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30046/kayvpvfv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30055/k3ucfyvafukfayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30063/kfyvavfvy-2.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30071/ekuavyfffavy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30078/e4kuavpeafvy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30085/ekfavyuafvya.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30093/cfvaukfayv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/30101/4kuyvaffvvy.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Ліхтар на лоб Bailong BL-T06B-P90 поставляється з двома акумуляторами 18650 (хочемо відзначити, що ці акумулятори вважаються тестовими, тому для продовження експлуатації ліхтарика бажано їх замінити більш якісними). Акумуляторний блок знаходиться позаду, що дуже зручно під час носіння. Лінза з оргскла має широкий кут свічення за рахунок поворотного механізму фокусування.</p>
-<p>Характеристики ліхтаря налобного світлодіодного Bailong BL-T06B P90:</p>
-<ul>
-<li>Світлодіод P90;</li>
-<li>Світловий потік: 1000 люмен;</li>
-<li>Дальність потоку: 500 метрів;</li>
-<li>У режимах: 3;</li>
-<li>Режими: 100%, 50%, стробоскоп;</li>
-<li>Фокусування (Zoom);</li>
-<li>Ущільнювальні гумки;</li>
-<li>Водонепроникність: є;</li>
-<li>Матеріал корпусу: анодований алюміній + ABS-пластик;</li>
-<li>Живлення: 2 акумулятори 18650;</li>
-<li>Заряджання від мережі та від автомобільного прикурювача;</li>
-<li>Час роботи від 2 годин безперервного світіння.</li>
-</ul>
-<p>Комплектація ліхтарика Bailong BL-T06B-P90:</p>
-<ul>
-<li>Налобний ліхтарик &ndash; 1 шт;</li>
-<li>Зарядний пристрій &ndash; 2 шт. (від мережі та від автомобільного прикурювача);</li>
-<li>Акумулятор &ndash; 2 шт.;</li>
-<li>Упаковка: заводська коробка.</li>
-</ul>]]></description>
-        <keyword>Ліхтар налобний світлодіодний</keyword>
-        <keyword>Фонарь налобный светодиодный</keyword>
-        <keyword>Ліхтар налобний світлодіодний водонепроникний</keyword>
-        <keyword>Фонарь налобный светодиодный водонепроницаемый</keyword>
-        <keyword>головний ліхтарик</keyword>
-        <keyword>головной фонарик</keyword>
-        <keyword>Ліхтар налобний</keyword>
-        <keyword>Фонарь налобный</keyword>
-        <keyword>Bailong</keyword>
-        <keyword>Ліхтар налобний світлодіодний Bailong</keyword>
-        <keywords>Ліхтар налобний світлодіодний, Фонарь налобный светодиодный, Ліхтар налобний світлодіодний водонепроникний, Фонарь налобный светодиодный водонепроницаемый, головний ліхтарик, головной фонарик, Ліхтар налобний, Фонарь налобный, Bailong, Ліхтар налобний світлодіодний Bailong</keywords>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип лампы">Светодиодная</param>
-        <param name="Материал корпуса">Металл, Пластик</param>
-        <param name="Дальность светового луча">1000 м</param>
-        <param name="Режимы работы фонаря">Максимальный, Средний, Мигающий</param>
-        <param name="Тип питания">Аккумулятор</param>
-        <param name="Особенности фонаря">Водонепроницаемый, Влагостойкий, Противоударный</param>
-        <param name="Цвет">Черный</param>
-        <param name="Тип фонаря">Налобный</param>
-        <param name="Состояние">Новое</param>
-        <param name="Крепление">Ремешок</param>
-        <param name="Производитель">Bailong</param>
-        <param name="Тип заряда">micro USB</param>
       </offer>
       <offer id="299748" available="true">
         <name>Тример чоловічий Kemei KM-600 універсальний 11 в 1 для стрижки волосся та гоління бороди та носа, бездротовий</name>
@@ -34931,7 +34589,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="481309" available="false">
+      <offer id="481309" available="true">
         <name>Тример для носа та вух VGR V-615, Тример для вусів, Електробритва з насадками для бороди</name>
         <categoryId>3314</categoryId>
         <price>480</price>
@@ -34947,7 +34605,7 @@
         <picture>https://www.websklad.biz.ua/storage/43986/4ecupypkuyvaypkfyak.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44002/e4ppkyvapyvuayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/44009/e4cuypayeuyvpeuyvu.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Тример для носа та вух V-615 &mdash; це професійний інструмент для догляду, що поєднує два важливих функціональних елементи. Виготовлений із високоякісного металу, чоловічий триммер забезпечує надійність та довговічність у використанні. Завдяки ергономічному дизайну машинка для носа зручно лежить у руці, дозволяючи легко досягати важких місць.</p>
 <p>Завдяки рівню водонепроникності IPX4, триммер для носа можна безпечно використовувати у вологих умовах, наприклад, у ванній кімнаті. Функція 2в1 дозволяє використовувати його як носа, так вух, що робить його універсальним рішенням для особистого догляду. Легкий у догляді та очищенні, чоловічий тример стане незамінним помічником у вашій рутині догляду за собою.</p>
 <p><b>Характеристики:</b><span></span></p>
@@ -35058,7 +34716,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="483081" available="true">
+      <offer id="483081" available="false">
         <name>Ліхтар ручної моделі Police AK138-1 WHITE LASER LED PM60-TG 8х18650, USB-зарядка, Power Bank, зум</name>
         <categoryId>150410</categoryId>
         <price>2240</price>
@@ -35074,7 +34732,7 @@
         <picture>https://www.websklad.biz.ua/storage/48963/tefsesdgressgfdsafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48973/3rwefseafsdaeadafds.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48983/r3efaffefadaeadas.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар ручний Police AK138-1 WHITE LASER LED PM60-TG з USB-зарядкою, 8х18650, Power Bank, функцією зуму та індикацією заряду, Чорний - Цей ручний ліхтар призначений для використання в туристичних походах, на полюванні та рибалці задля забезпечення охорони промислових объектов. Він працює від перезаряджуваних батарей 18650, які заряджаються через USB-C порт у корпусі ліхтаря.</p>
 <p>Керування світлом просте, моментальний доступ до сигнальних режимів. Дизайн корпусу забезпечує зручність використання у різних умовах.</p>
 <p><strong>Особливості:</strong></p>
@@ -35218,7 +34876,7 @@
         <picture>https://www.websklad.biz.ua/storage/50824/nukvyarrkeyeo.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50833/ecuyavrykevyrkyfkkyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/50839/4nukyfrkavavy.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Ліхтар KX-215-LED+2COB - це передовий освітлювальний пристрій, який поєднує в собі високу яскравість світлодіода та технологію COB для широкого та рівномірного освітлення. Цей налобний ліхтар стане незамінним супутником у ваших пригодах на природі, ремонтних роботах або у разі аварійної ситуації.</p>
 <p><strong>Особливості:</strong></p>
 <ul>
@@ -35864,7 +35522,7 @@
         <param name="Страна-производитель товара">Китай</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="559568" available="true">
+      <offer id="559568" available="false">
         <name>Набір для стрижки VGR 5 в 1 V-111, 9 насадок, Акумуляторний універсальний триммер для стрижки</name>
         <categoryId>28290204</categoryId>
         <price>800</price>
@@ -35880,7 +35538,7 @@
         <picture>https://www.websklad.biz.ua/storage/68501/rkvapyfyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68511/rkpyvakypyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68520/rvavakrvuy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Функціональна та якісна машинка для стрижки волосся VCR V-111 буде корисна як перукарю-професіоналу, так і тим, хто воліє стригтися вдома. Дана машинка має надійні леза з нержавіючої сталі, міцний пластиковий корпус, привабливий зовнішній вигляд та зручність розміщення в руці. Для її використання не обов'язково мати професійні навички перукаря швидко підстригти себе або - своїх близьких з такою машинкою не складе труднощів.</p>
 <p><strong>Переваги:</strong></p>
 <ul>
@@ -36558,7 +36216,7 @@
         <picture>https://www.websklad.biz.ua/storage/80603/ravivpuk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80607/rvavaipvifpvifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80611/eavrvaiiavarviavi.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p><strong>Блендер ручний 5в1 R.314B</strong><span>&nbsp;</span>стане незамінним помічником на кухні. З його допомогою ви зможете легко та швидко:</p>
 <ul>
 <li>Подрібнювати різні продукти: овочі, фрукти, горіхи, зелень, м'ясо та багато іншого.</li>
@@ -37496,7 +37154,7 @@
         <picture>https://www.websklad.biz.ua/storage/24589/rwefdsafewdsasd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/24598/rwdsafedsafsdfewas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/24609/4r3efswefsdasd.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>5</quantity_in_stock>
         <description><![CDATA[<p>Сендвічниця Domotec MS-7706 зі знімними пластинами - це відмінний спосіб заощадити час і за лічені хвилини приготувати гарячі бутерброди з найрізноманітнішими начинками, пишні вафлі, хлібці, кекси, печиво, пиріжки та пончики.
 <p>Мультипекар допоможе легко і невимушено урізноманітнити ваше меню приготованими на грилі овочами, рибою та м'ясом.</p>
 <p>Мультимейкер оснащений шістьма змінними пластинами.</p>
@@ -38758,7 +38416,7 @@
         <param name="Ширина">215 мм</param>
         <param name="Функция автоотключения">Нет</param>
       </offer>
-      <offer id="581717" available="false">
+      <offer id="581717" available="true">
         <name>Іригатор для чищення зубів та порожнини рота Oral Irrigator з акумулятором та змінними насадками White</name>
         <categoryId>330502</categoryId>
         <price>360</price>
@@ -38774,7 +38432,7 @@
         <picture>https://www.websklad.biz.ua/storage/69121/hdfhdfgssa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69126/hrdfgsgesagse.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69132/rdfgfsgsa.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Портативний іригатор ротової порожнини Portable Oral Irrigator &ndash; високотехнологічний пристрій для підтримки максимальної гігієни ротової порожнини. Принцип дії ґрунтується на технології подачі пульсуючого струменя води під тиском, завдяки чому він ефективно проникає у проміжки між зубами, кишені та інші недоступні місця для звичайної зубної щітки та зубної нитки. Іригатор зубний ефективно видаляє зубний наліт, бактерії, залишки їжі, масажує ясна. Підвищує ефективність догляду за ротовою порожниною на 93% порівняно із звичайною зубною щіткою.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -38799,7 +38457,7 @@
         <keyword>Ирригатор</keyword>
         <keywords>Іригатор для чищення, Ирригатор для чистки, Іригатор для чищення зубів та порожнини рота Oral, Ирригатор для чистки зубов и полости рта Oral, Іригатор для чищення зубів, Ирригатор для чистки зубов, Іригатор, Ирригатор</keywords>
       </offer>
-      <offer id="581718" available="false">
+      <offer id="581718" available="true">
         <name>Іригатор для чищення зубів та порожнини рота Oral Irrigator з акумулятором та змінними насадками Pink</name>
         <categoryId>330502</categoryId>
         <price>360</price>
@@ -38815,7 +38473,7 @@
         <picture>https://www.websklad.biz.ua/storage/79683/rkpivapripif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/79694/rkpivpifpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/79703/rkvairkvprkvif.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Портативний іригатор ротової порожнини Portable Oral Irrigator &ndash; високотехнологічний пристрій для підтримки максимальної гігієни ротової порожнини. Принцип дії ґрунтується на технології подачі пульсуючого струменя води під тиском, завдяки чому він ефективно проникає у проміжки між зубами, кишені та інші недоступні місця для звичайної зубної щітки та зубної нитки. Іригатор зубний ефективно видаляє зубний наліт, бактерії, залишки їжі, масажує ясна. Підвищує ефективність догляду за ротовою порожниною на 93% порівняно із звичайною зубною щіткою.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -39234,7 +38892,7 @@
         <param name="Количество ультрафиолетовых ламп">1</param>
         <param name="Тип детектора валют">Ультрафиолетовый</param>
       </offer>
-      <offer id="10921" available="true">
+      <offer id="10921" available="false">
         <name>Газова плита DOMOTEC MS-6601 на 1 конфорку. Колір: сірий</name>
         <categoryId>641</categoryId>
         <price>480</price>
@@ -39248,7 +38906,7 @@
         <picture>https://www.websklad.biz.ua/storage/4661/tergffsfdhgsgrdgdrf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4668/rgfsdgsafdser4.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/4678/ergdsfsdhrfsfsgffg.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ідеальний варіант для приготування їжі на виїзді або на дачній ділянці. Особливо оцінять таганок любителі домашньої їжі. Призначений для приготування їжі в побутових умовах. Таганок має одну маленьку конфорку та ручку керування. Так як модель досить легка і компактна, ви легко зможете її брати з собою в будь-яку подорож.</p>
 <p>Настільна газова плита призначена для приготування їжі в побутових умовах від зрідженого (балонного) газу. Завдяки компактним розмірам газова плитка легко може бути транспортована з постійного житла до місць тимчасового проживання (на дачу, до гуртожитку тощо).Настільна плита економічна та надійна в роботі, зручна та проста в обслуговуванні.</p>
 <p><strong>Характеристики:</strong></p>
@@ -39868,7 +39526,7 @@
         <param name="Состояние">Новое</param>
         <param name="Тип тонометра">Автоматический</param>
       </offer>
-      <offer id="580989" available="true">
+      <offer id="580989" available="false">
         <name>Душ акумуляторний туристичний портативний похідний мобільний душ Portable Outdoor Shower</name>
         <categoryId>150203</categoryId>
         <price>560</price>
@@ -39884,7 +39542,7 @@
         <picture>https://www.websklad.biz.ua/storage/68746/eupivkivpivfvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68753/hrgfrdsfhrasr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68760/hrghdfhdfgrsdgdf.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><span><b>Портативний акумуляторний душ Portable shower Portable shower -&nbsp;</b>пристрій для тих, хто багато подорожує. Чи любите відпочинок на природі, в кемпінгах, чи доводиться багато часу проводити в поїздках на авто у зв'язку з роботою? Душ портативний автономний на акумуляторі допоможе вам мати доступ до базових гігієнічних процедур незалежно від вашої віддаленості від цивілізації. Все, що вам потрібно - це ємність з водою. У комплекті з душем ви знайдете все необхідне для комфортного використання. Він оснащений насосом і акумулятором ємністю 2200mAh, що забезпечує приблизно 35 хвилин роботи при повному заряді.
 <p><span><b>Окрім подорожей, душ портативний автономний на акумуляторі буде корисним у багатьох інших ситуаціях, наприклад:</b></span></p>
 <ul>
@@ -40131,84 +39789,6 @@
         <param name="Диаметр">20 мм</param>
         <param name="Длина">160 мм</param>
       </offer>
-      <offer id="207823" available="false">
-        <name>Штатив для телефону та фотоапарата Tripod 3120 PRO портативний трипод 0,35-1.02м висота</name>
-        <categoryId>63714</categoryId>
-        <price>360</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws53417</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/16347/76144116_images_11348326884.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16353/76144116_images_11348327790.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16355/76144116_images_11348327400.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16362/76144116_images_11348328096.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16369/76144116_images_11348328420.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16376/IMG_3954.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16385/IMG_3953.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16393/3wrsfdhy54tesfdgre.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16400/t43rwafdsdgh5t4werasd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/16407/4tefsds4twesadf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><b>Універсальний гнучкий штатив та кріплення.</b></p>
-<p>Призначений для смартфона та невеликої камери.</p>
-<p>Прекрасний штатив з легкого алюмінієвого сплаву, дозволяє розмістити на собі камеру вагою до 2,5 кг. Не боїться вологи, можна використовувати у воді.</p>
-<p>Швидко-складна конструкція з засувками дозволить розібрати штатив у робоче положення менше, ніж за хвилину.</p>
-<p>У складеному вигляді висота штатива всього 35 см. На майданчику є бульбашковий рівень для правильної установки штатива при зйомці панорам.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Портативний і дуже легкий</li>
-<li>Він може використовуватися як штатив і як монопод</li>
-<li>Кругове обертання на 360 градусів</li>
-<li>Для селфі, групового фотографування або відеозапису</li>
-<li>Добре спроектована модель, чудово підходить для роботи вашої камери, з універсальним кріпленням для смартфонів та легких камер</li>
-<li>Кріплення автоматично регулюється під розмір смартфона</li>
-<li>Спеціальне повітряне покриття на ніжках захищає від ковзання в руках</li>
-</ul>
-<p><strong>Характеристики:</strong></p>
-<ul>
-<li>Висота в розкладеному стані: 1020 мм</li>
-<li>Висота у складеному стані:355 мм</li>
-<li>Кількість секцій ноги:3</li>
-<li>Максимальний діаметр секції: 17 мм</li>
-<li>Рівень: є</li>
-<li>Матеріал: алюміній</li>
-<li>Вага: 450 гр</li>
-<li>Тип штативної голівки:360&deg;</li>
-<li>Максимальне навантаження:2,5 кг</li>
-</ul>
-<p><strong>Комплектація:</strong></p>
-<ul>
-<li>Штатив</li>
-<li>Кріплення для смартфона</li>
-<li>Чохол для зберігання-Коробка</li>
-</ul>]]></description>
-        <keyword>Штатив для телефону</keyword>
-        <keyword>Штатив для телефона</keyword>
-        <keyword>Штатив для телефону та фотоапарата Tripod</keyword>
-        <keyword>Штатив для телефона и фотоаппарата Tripod</keyword>
-        <keyword>35-1.02м висота</keyword>
-        <keyword>35-1.02м высота</keyword>
-        <keyword>Штатив для телефону та фотоапарата</keyword>
-        <keyword>Штатив для телефона и фотоаппарата</keyword>
-        <keyword>Штатив</keyword>
-        <keyword>Штатив для телефону UKC</keyword>
-        <keywords>Штатив для телефону, Штатив для телефона, Штатив для телефону та фотоапарата Tripod, Штатив для телефона и фотоаппарата Tripod, 35-1.02м висота, 35-1.02м высота, Штатив для телефону та фотоапарата, Штатив для телефона и фотоаппарата, Штатив, Штатив для телефону UKC</keywords>
-        <param name="Цвет">Черный</param>
-        <param name="Минимальная высота съемки">35 см</param>
-        <param name="Максимальная высота съемки">104 см</param>
-        <param name="Максимальная высота штатива">1040 мм</param>
-        <param name="Количество секций">4</param>
-        <param name="Производитель">UKC</param>
-        <param name="Материал">Алюминиевый сплав</param>
-        <param name="Тип головки">3D</param>
-        <param name="Особенности">Встроенный уровень</param>
-        <param name="Вес">0.365 кг</param>
-        <param name="Длина в сложенном состоянии">360 мм</param>
-        <param name="Состояние">Новое</param>
-        <param name="Техническое состояние">исправное</param>
-        <param name="Тип">Штатив</param>
-        <param name="Комплектация">Штатив, держатель для мобильного телефона, чехол, упаковка</param>
-        <param name="Головка в комплекте">Есть</param>
-      </offer>
       <offer id="254819" available="true">
         <name>Кавомолка SeaBreeze SB-081, кавомолка електрична подрібнювач, кавомолка електрична домашня</name>
         <categoryId>6300401</categoryId>
@@ -40450,7 +40030,7 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="604776" available="false">
+      <offer id="604776" available="true">
         <name>Електрочайник від 220В компактний RAF R-7887 із двома чашками в комплекті 1000Вт</name>
         <categoryId>640</categoryId>
         <price>540</price>
@@ -40466,7 +40046,7 @@
         <picture>https://www.websklad.biz.ua/storage/80336/oervayravypyfk.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80343/ervaykppkyfy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80348/oervyrkvp.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрочайник RAF R-7887 - це сучасний електричний чайник, що поєднує стильний дизайн і доступну вартість.</p>
 <p>Модель швидко та безпечно закип'ятить воду для приготування різноманітних гарячих напоїв.</p>
 <p>Електрочайник з ергономічною ручкою завжди знайде своє місце як на домашній кухні, так і в офісі. Крім того, дана модель чайника, завдяки компактності, зможе використовуватися на дачі або поїздці, його зручно брати з собою.</p>
@@ -40886,7 +40466,7 @@
         <picture>https://www.websklad.biz.ua/storage/102850/pyvvpyvfpypyfyfa.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102855/pkvypyvfpuypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/102857/ghrdfsgdfgsasdafs.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Мясорубка Rainberg RB-2319 потужністю 3000 Вт — професійний кухонний пристрій, призначений для ефективного та різноманітного приготування фаршу в домашніх умовах. Ця модель поєднує в собі надійність та функціональність, забезпечуючи швидку переробку м’яса різних видів, риби, овочів і грибів. Висока потужність мотору гарантує стабільну роботу при великих навантаженнях, а оновлений дизайн і продумані аксесуари дозволяють оптимізувати процес подрібнення продуктів і розширюють можливості домашньої кулінарії.</p>
 
 <h2>Головні переваги моделі</h2>
@@ -41061,7 +40641,7 @@
         <param name="Количество цветов">145</param>
         <param name="Назначение">Для бумаги</param>
       </offer>
-      <offer id="190570" available="true">
+      <offer id="190570" available="false">
         <name>Набір для творчості в алюмінієвій валізі Єдиноріг 145 предметів, чемодан для малювання дитячий кейс. Колір: блакитний</name>
         <categoryId>21111105</categoryId>
         <price>690</price>
@@ -41077,7 +40657,7 @@
         <picture>https://www.websklad.biz.ua/storage/17223/4ecupfyvaeuyfvayp.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/17232/e4cuypavvprepyypakv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/17244/kpayfpekvyarrapvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Набір для дитячої творчості та малювання 145 предметів юний художник у алюмінієвій валізі єдиноріг</strong></p>
 <p>У ньому є 145 предметів на всі випадки: кілька видів олівців, фломастери, фарби, дитина зможе скуштувати всі стилі промальовування, при цьому ви не витратите зайві гроші. У комплекті Ви знайдете все, що потрібно для &laquo;фарбової творчості&raquo;: фарби, олівці, фломастери та інші дрібні аксесуари. прямо &ldquo;під рукою&rdquo;, що досить зручно як для художника-початківця, так і для більш досвідченого!</p>
 <p><b>Особливості:</b></p>
@@ -41247,72 +40827,6 @@
         <param name="Тип питания">аккумуляторный</param>
         <param name="Тип устройства">Велосипедный передний</param>
       </offer>
-      <offer id="596234" available="false">
-        <name>Форми для випікання рознімні Unique UN-1701 набір форм 6шт для випікання кондитерські</name>
-        <categoryId>15230414</categoryId>
-        <price>600</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws15893</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/73276/hrfhgfsdhrt.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73284/hrdfshdsfhsr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73288/paypyvfpyf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73295/payypyvfpy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73301/hrdsfhgdsfghage.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73311/hrdfshrdshrhsdrfs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73320/hrgdsfgaege.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73330/hrdsfgrsdhgrsagr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73340/hrdfhgdshr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/73347/hrsdfgsdgsagse.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Рознімні форми для запікання<span>&nbsp;</span><strong>UNIQUE UN-1701 з 6 формочок<span>&nbsp;</span></strong>призначені для випікання всіх видів тіста, складання тортів та мусових десерти. Завдяки роз'ємній конструкції коржі легко витягаються з форми.</p>
-<p><strong>Особливості:</strong></p>
-<ul>
-<li>Виготовлені із міцної екологічної вуглецевої сталі.</li>
-<li>Використовуються в електричних та газових духовках.</li>
-<li>Можна компактно скласти одну в одну та зберігати</li>
-</ul>
-<p><strong>Розміри форм:</strong></p>
-<ul>
-<li>20 см;</li>
-<li>22 см;</li>
-<li>24 см;</li>
-<li>26 см;</li>
-<li>28 см;</li>
-<li>30 см.</li>
-</ul>
-<p><strong>Характеристики</strong>:</p>
-<ul>
-<li>Форма: кругла;</li>
-<li>Матеріал: нержавіюча сталь;</li>
-<li>Антипригарне покриття.</li>
-<li>Висока міцність</li>
-<li>Жаростійкість</li>
-<li>Стійкістю до корозії.</li>
-</ul>
-<p><strong>Комплектація</strong>:</p>
-<ul>
-<li>Форми для випікання круглі 6 шт</li>
-<li>Заводська упаковка</li>
-</ul>]]></description>
-        <keyword>Форми для випікання</keyword>
-        <keyword>Формы для выпекания</keyword>
-        <keyword>Форми для випікання рознімні Unique UN-1701 набір</keyword>
-        <keyword>Формы для выпекания разъемные Unique UN-1701</keyword>
-        <keyword>Форми для випікання рознімні</keyword>
-        <keyword>Формы для выпекания разъемные</keyword>
-        <keyword>Форми для випікання рознімні Unique</keyword>
-        <keyword>Формы для выпекания разъемные Unique</keyword>
-        <keyword>Форми</keyword>
-        <keyword>Формы</keyword>
-        <keywords>Форми для випікання, Формы для выпекания, Форми для випікання рознімні Unique UN-1701 набір, Формы для выпекания разъемные Unique UN-1701, Форми для випікання рознімні, Формы для выпекания разъемные, Форми для випікання рознімні Unique, Формы для выпекания разъемные Unique, Форми, Формы</keywords>
-        <param name="Производитель">Unique</param>
-        <param name="Цвет">Серый</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Материал">Углеродистая сталь</param>
-        <param name="Тип формы">Круглая</param>
-        <param name="Состояние">Новое</param>
-        <param name="Конструкция формы">Разборная</param>
-      </offer>
       <offer id="654960" available="false">
         <name>Смарт-проектор - ігрова приставка з джойстиками X10 Plus</name>
         <categoryId>180603</categoryId>
@@ -41444,7 +40958,7 @@
         <picture>https://www.websklad.biz.ua/storage/105190/efsdafgsdagsddaaags.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105196/htfdshrdfsfgfsdgfsagsas.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/105200/gtrsdagagsgsasg.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>М’ясорубка Rainberg RB-2319 з потужністю 3000 Вт – це сучасний та функціональний прилад, який значно спростить процес приготування домашнього фаршу. Завдяки високій продуктивності та багатофункціональній комплектації, дана модель ідеально підходить для створення фаршу з м’яса, риби, овочів та грибів. Надійна збірка та зручні аксесуари дозволяють отримувати однорідний продукт потрібної консистенції з мінімальними зусиллями.</p>
 
 <h2>Причини обрати саме цей варіант</h2>
@@ -42146,7 +41660,7 @@
         <param name="Тип двигуна">Безщітковий</param>
         <param name="Оброблювана поверхня">По металу</param>
       </offer>
-      <offer id="5019" available="false">
+      <offer id="5019" available="true">
         <name>Плойка потрійна хвиля GEMEI GM-1988-25 керамічне покриття з регулювань температури</name>
         <categoryId>63303</categoryId>
         <price>600</price>
@@ -42159,7 +41673,7 @@
         <picture>https://www.websklad.biz.ua/storage/3483/kcvyakucfyvavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3493/kucyavkcuvyfaayv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3509/237183013_images_19349109331.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Трійна плойка GM-1956 призначена як для використання як самостійно в домашніх умовах, так і в салонах краси. Пристрій має керамічне покриття, яке надає можливість доглядати за вашим чарівним волоссям. Тепер ваше волосся буде не тільки прекрасним, але й здоровим.</p>
 <p>Абсолютно кожна дівчина знає, що останнім етапом створення образа є зачіска. Але ж не кожна жінка хоче відвідувати салони краси. Що ж робити у цій ситуації? Тут вам допоможе потрійна плойка GM-1956. З її допомогою можна створити унікальну зачіску на волосся будь-якої довжини та будь-якого типу. Сьогодні будь-хто охочий зможе зробити свою унікальну зачіску, не залишаючи свій будинок.</p>
 <p>Трійна плойка нагрівається за короткий період часу. Для кожного типу волосся можна виставити свою температуру нагріву. Пристрій нагрівається від 180 до 210 градусів. Головне не забувайте використовувати захисний засіб для волосся. Погодьтеся, здорове волосся, це запорука успіху будь-якого образу.</p>
@@ -42213,7 +41727,7 @@
         <picture>https://www.websklad.biz.ua/storage/7238/kavyfrrvyprkjkpu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/7243/nukvyokrfpavyf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/7251/oeavpyonkuyrvykrvfyay.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Це розумний дозатор! Вам не доведеться ні на що натискати, а варто лише піднести руки до дозатора і диспенсер видасть вам необхідну порцію мила автоматично. Система дозування активується за допомогою високочутливого інфрачервоного сенсора.</p>
 <p>Сенсорна мильниця Soap Magic, призначена для використання в домашніх умовах, офісі та громадських місцях. Така високотехнологічна мильниця Magic & Soap стане ідеальним подарунком в кімнату дитячого садка або шкільний клас. Цей сенсорний помічник буде на стажі гігієнічної чистоти та здоров'я дитини.</p>
 <p>Сенсорна чутливість мильниці Soap Magic звільняє вас від необхідності торкатися брудними руками до миючих засобів. Унікальна мильниця працює автоматично, в системі &laquo;hands-free&raquo;. Вам, всього лише, потрібно піднести руку до носика гаджета, і миючий засіб вийде в потрібній для вас кількості.</p>
@@ -42249,57 +41763,6 @@
         <param name="Форма">Прямоугольная</param>
         <param name="Тип управления">Сенсорное</param>
         <param name="Производитель">Без бренда</param>
-      </offer>
-      <offer id="190169" available="false">
-        <name>Гейзерна кавоварка UNIQUE UN-1903 на 9 чашок з нержавіючої сталі, гейзер для кави, кавник гейзерний</name>
-        <categoryId>638</categoryId>
-        <price>540</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws57219</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/15264/e4upuckukfviauivf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15275/3cfiukvafivfaiai.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15281/4euaivpkepiviav.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15288/3cviauaivfauivfiv.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15295/4uivkafuvifavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15302/e3kcfkuvafufavi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15310/3kcuavikfikuavifiv.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p><strong>Гейзерна кавоварка&nbsp;UNIQUE UN-1903</strong>&nbsp;&ndash;&nbsp;швидкий і зручний спосіб приготувати смачну каву. Виготовлена із харчової нержавіючої сталі. Зручна ручка &mdash; що забезпечує безпеку та надійність при користуванні. Кавоварка підходить для всіх джерел тепла, крім індукційних.</p>
-<p><strong>Гейзерна кавоварка складається з трьох основних частин:</strong></p>
-<ul>
-<li>резервуар для води</li>
-<li>фільтр для меленої кави</li>
-<li>ємність для готового кавового напою</li>
-</ul>
-<p><strong>Принцип роботи даної кавоварки полягає в тому, що пара досягає високого тиску і поступово витісняє киплячу воду через вирву і фільтр, в якому знаходиться мелена кава. Вода проходить через кавовий порошок і потрапляє у верхній резервуар, де збирається готова кава.</p>
-<p><strong>Характеристики&nbsp;</strong>г<strong>ейзерної&nbsp;кавоварки UNIQUE UN-1903:</strong></p>
-<ul>
-<li>Матеріал корпусу: нержавіюча сталь</li>
-<li>Матеріал ручки: бакелітова</li>
-<li>Колір корпусу:&nbsp;металік</li>
-<li>Кількість чашок: 9&nbsp;шт</li>
-<li>Тип кавоварки: гейзерна</li>
-</ul>]]></description>
-        <keyword>Гейзерна кавоварка UNIQUE</keyword>
-        <keyword>Гейзерная кофеварка UNIQUE</keyword>
-        <keyword>Гейзерна кавоварка UNIQUE UN-1903 на 9 чашок</keyword>
-        <keyword>Гейзерная кофеварка UNIQUE UN-1903 на 9 чашек из</keyword>
-        <keyword>гейзер для кави</keyword>
-        <keyword>гейзер для кофе</keyword>
-        <keyword>кавник гейзерний</keyword>
-        <keyword>кофейник гейзерный</keyword>
-        <keyword>Гейзерна кавоварка UNIQUE UN-1903</keyword>
-        <keyword>Гейзерная кофеварка UNIQUE UN-1903</keyword>
-        <keywords>Гейзерна кавоварка UNIQUE, Гейзерная кофеварка UNIQUE, Гейзерна кавоварка UNIQUE UN-1903 на 9 чашок, Гейзерная кофеварка UNIQUE UN-1903 на 9 чашек из, гейзер для кави, гейзер для кофе, кавник гейзерний, кофейник гейзерный, Гейзерна кавоварка UNIQUE UN-1903, Гейзерная кофеварка UNIQUE UN-1903</keywords>
-        <param name="Производитель">Unique</param>
-        <param name="Цвет корпуса">Серебристый</param>
-        <param name="Объем">0.6</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Тип используемого кофе">Молотый</param>
-        <param name="Состояние">Новое</param>
-        <param name="Материал корпуса">Нержавеющая сталь</param>
-        <param name="Тип кофеварки">Гейзерная</param>
-        <param name="Назначение">Бытовое</param>
       </offer>
       <offer id="423191" available="true">
         <name>Ваги ювелірні YD-9022 (максимальна вага 200г, похибка 0,01г), ваги для зважування золота</name>
@@ -43060,7 +42523,7 @@
         <param name="Форма">Круглая</param>
         <param name="Многослойное дно">Да</param>
       </offer>
-      <offer id="455510" available="true">
+      <offer id="455510" available="false">
         <name>Сковорода Magio MG-1179 з мармуровим антипригарним покриттям 28 см, Якісна сковорода для смаження</name>
         <categoryId>15230304</categoryId>
         <price>630</price>
@@ -43076,7 +42539,7 @@
         <picture>https://www.websklad.biz.ua/storage/45346/ecuyafvfecuyvpkvayav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/45354/euyvpfeuyvecyveafyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/45362/gesdareaeafsdgresdefsda.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<ul>
 <li>Діаметр, см<span>&nbsp;</span><strong>28</strong></li>
 <li>Покриття<span>&nbsp;</span><strong>2-шарове&nbsp;мармурове антипригарне покриття</strong></li>
@@ -43533,7 +42996,7 @@
         <param name="Цвет">Белый</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="703889" available="true">
+      <offer id="703889" available="false">
         <name>Набір обробних дощок Magio MG-1255B 5 предметів</name>
         <categoryId>150203</categoryId>
         <price>690</price>
@@ -43547,7 +43010,7 @@
         <picture>https://www.websklad.biz.ua/storage/84480/kupuyfppyu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84488/kpyvpvfpypf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/84497/pkyvfpryffpyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Набір розділових дошок Magio MG-1255B – практичне та гігієнічне рішення для організації робочого простору на кухні. Завдяки екологічному матеріалу та продуманій конструкції, цей комплект забезпечить зручність під час нарізання різних продуктів і допоможе підтримувати чистоту та порядок у процесі приготування їжі.</p>
 
 <h2>Аргументи на користь вибору</h2>
@@ -44552,14 +44015,14 @@
         <param name="Тип упаковки">Пластиковий кейс</param>
         <param name="Зручна T">подібна ручка,</param>
       </offer>
-      <offer id="6635" available="false">
+      <offer id="6635" available="true">
         <name>Термометр-гігрометр HTC-2 з годинником та виносним датчиком температури, Гігрометр з температурою</name>
         <categoryId>63013</categoryId>
         <price>300</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws72245</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/4348/91719416_images_12354266024.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p><strong>Цифровий термометр-гігрометр HTC-2</strong> це комбінований прилад для вимірювання температури та вологості в приміщенні. Вимірювач температури та вологості повітря використовують для контролю параметрів мікроклімату в житлових, виробничих та складських приміщеннях. &nbsp;За допомогою кріплення, його можна повісити на стіну, або використовувати як настільну метеостанцію. Термо-гігрометр HTC-2 оснащений годинником, має режим будильника та функцію пам'яті останніх макс/хв., значень температури та вологості повітря. Всі дані виводяться на великий РК-дисплей великими символами. Роботу приладу забезпечує 1 батарейка 1,5V AAA (міні пальчик), яка постачається в комплекті з термогігрометром.</p>
 <p><strong>Технічні характеристики:</strong></p>
 <ul>

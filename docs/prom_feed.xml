@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-21 13:18">
+<yml_catalog date="2026-11-22 13:10">
   <shop>
     <name>Top Sale Ukraine</name>
     <company>Top Sale Ukraine</company>
@@ -656,7 +656,7 @@
         <param name="Тип питания">Сеть 220 В</param>
         <param name="Производитель">Без бренда</param>
       </offer>
-      <offer id="26877" available="true">
+      <offer id="26877" available="false">
         <name>УМБ Power Bank Solar 90000 mAh мобільне зарядне з сонячною панеллю та лампою, Power Bank Charger Батарея</name>
         <categoryId>71109</categoryId>
         <price>480</price>
@@ -672,7 +672,7 @@
         <picture>https://www.websklad.biz.ua/storage/7072/kucfviaavfvif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/7077/kciauiafucavfi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/7081/3ucukvafaviauiv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>УМБ портативне зарядне Power Bank Solar UKC 90000 mAh з LED ліхтарем на сонячній батареї</strong></p>
 <p>Solar Charger 90000mAh Power Bank&nbsp;унікальний пристрій, що поєднує в собі функції портативного заряду і яскравого LED ліхтарика з трьома режимами освітлення. Сонячний зарядний пристрій Power Bank 90000 mAh виручить у критичній ситуації та значно продовжить час автономної роботи ваших улюблених девайсів: смартфонів, плеєрів, планшетів, фотоапаратів та інших пристроїв. Спеціальні індикатори, розміщені на торці панелі, повідомлять про рівень заряду, що залишився.</p>
 <p>Solar Charger 90000 mAh Power Bank&ndash; пристрій, який поєднав у собі всі переваги компактних сонячних панелей, універсальних зовнішніх акумуляторів та LED ліхтарів. Корпус Power Bank 30000 mAh виконаний з міцного металу, також прилад має цілу низку систем захисту, які запобігають короткому замиканню, надлишковому рівні заряду, повному і мимовільному розряду, а також перегріву. Ліхтарик має 20 LED діодів, які забезпечують яскраве світло. Наявність трьох режимів освітлення повна яскравість, 50% яскравості дозволять вибрати оптимальний, а режим SOS подати сигнал.</p>
@@ -2988,7 +2988,7 @@
         <picture>https://www.websklad.biz.ua/storage/22426/ujfivaukcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22434/jfivakcfivafkuf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22443/jfivauv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Електрична м’ясорубка Rainberg RB-671 поєднує потужність і функціональність, забезпечуючи швидку та зручну переробку м’яса, риби, овочів і тіста. Ця модель створена для тих, хто цінує ефективність на кухні і прагне до багатофункціонального пристрою з надійним захистом і комфортною експлуатацією.</p>
 
 <h2>Чому користувачі обирають цю модель</h2>
@@ -5572,71 +5572,6 @@
         <param name="Ножницы кухонные">1 шт.</param>
         <param name="Овощной нож">1 шт.</param>
       </offer>
-      <offer id="390706" available="false">
-        <name>Чайник Magio MG-1193 3 л зі свистком, маленький чайник для газової плити, металевий чайник</name>
-        <categoryId>640</categoryId>
-        <price>800</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws93823</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/36928/gwasdfaerdfaads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36938/3wsdfafgerfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36945/kcayvkucavfy.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36952/kcfayukcyfvay.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36968/radfgteraDFAds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36974/wesdferadfdsads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36982/rwasdfzftrdfasadfs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/36992/wrsdfaerdfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/37002/sdfgtrfads.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/37009/3wasdfgrwafsd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Чайник із свистком Magio MG-1193 — функціональний та універсальний аксесуар для кухні, створений для зручного й швидкого кип’ятіння води. Об’єм 3 літри забезпечує достатньо рідини для приготування чаю або кави, а виготовлення з нержавної сталі гарантує довговічність і стійкість до зношення. Цей чайник поєднує в собі практичність, безпеку й сумісність з різними типами плит, що робить його відмінним рішенням для дому, дачі або офісу.</p>
-
-<h2>Переваги використання</h2>
-<ul>
-<li>Виготовлений з нержавної сталі з товщиною стінок 0,6 мм для рівномірного нагріву і стійкості до деформації.</li>
-<li>Товсте дно (0,6 мм) забезпечує ефективний розподіл тепла, економлячи енерговитрати при кип’ятінні.</li>
-<li>Сумісність з усіма типами плит: газовими, електричними, склокерамічними та індукційними.</li>
-<li>Свисток сигналізує про закипання, запобігаючи перегріванню та випару води.</li>
-<li>Ручка з бакеліту не нагрівається, що підвищує безпеку під час використання та дозволяє зручно тримати чайник без ризику опіків.</li>
-<li>Вага 0,642 кг забезпечує стійкість і простоту в користуванні без зайвої тяжкості.</li>
-</ul>
-
-<h2>Де буде максимально ефективним</h2>
-<p>Чайник Magio MG-1193 відмінно підходить для щоденного використання як на домашніх кухнях, так і на дачах. Зручний об’єм 3 літри дозволить швидко закип’ятити потрібну кількість води для чайного ритуалу чи приготування гарячих напоїв для великої родини або невеликої компанії. Завдяки універсальній сумісності з газовими, електричними, склокерамічними та індукційними плитами цей чайник стане універсальним рішенням при будь-якому типі кухонного обладнання. Свисток, який оповіщає про закінчення кипіння, особливо зручний для зайнятих користувачів, дозволяючи не наглядати постійно за процесом нагріву.</p>
-
-<h2>Характеристики</h2>
-<ul>
-<li>Об’єм: 3 літри</li>
-<li>Матеріал корпусу: нержавна сталь</li>
-<li>Товщина стінок: 0,6 мм</li>
-<li>Товщина дна: 0,6 мм</li>
-<li>Матеріал ручок: бакеліт (теплоізоляційний)</li>
-<li>Вага: 0,642 кг</li>
-<li>Сумісність з плитами: газові, електричні, склокерамічні, індукційні</li>
-</ul>]]></description>
-        <keyword>Чайник Magio MG-1193</keyword>
-        <keyword>Чайник Magio MG-1193 3 л зі свистком</keyword>
-        <keyword>Чайник Magio MG-1193 3 л со свистком</keyword>
-        <keyword>маленький чайник для газової плити</keyword>
-        <keyword>маленький чайник для газовой плиты</keyword>
-        <keyword>металевий чайник</keyword>
-        <keyword>металлический чайник</keyword>
-        <keyword>Чайник Magio</keyword>
-        <keyword>Magio</keyword>
-        <keyword>Чайник</keyword>
-        <keywords>Чайник Magio MG-1193, Чайник Magio MG-1193 3 л зі свистком, Чайник Magio MG-1193 3 л со свистком, маленький чайник для газової плити, маленький чайник для газовой плиты, металевий чайник, металлический чайник, Чайник Magio, Magio, Чайник</keywords>
-        <param name="Производитель">Magio</param>
-        <param name="Общий объем чайника">3.0 (л)</param>
-        <param name="Материал чайника">Эмалированный металл</param>
-        <param name="Цвет">Красный</param>
-        <param name="Цвет ручки">Красный</param>
-        <param name="Тип ручки">Фиксированная</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Материал ручки">бакелит</param>
-        <param name="Свисток">Есть</param>
-        <param name="Состояние">Новое</param>
-        <param name="Тип дна">Многослойное</param>
-      </offer>
       <offer id="398872" available="true">
         <name>Праска електрична MAGIO MG-532 парова потужністю 2800Вт з керамічною підошвою</name>
         <categoryId>609</categoryId>
@@ -6764,75 +6699,6 @@
         <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
         <param name="Материал корпуса">Пластик</param>
       </offer>
-      <offer id="462607" available="false">
-        <name>Портативна Bluetooth колонка TG658 8W з RGB підсвічуванням, Бездротова колонка потужна. Колір: чорний</name>
-        <categoryId>6371101</categoryId>
-        <price>540</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws38891</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/43043/ytetasdghyrgf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43051/3dgrsdgadsafdsa.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43058/t4efsdefdfd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43062/tesgtsdgysrsgdfs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43069/rgsggdfs.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43075/tesdedfetfsdgr.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43080/4sadgtsdggfafds.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43087/htesdgsdgtgrsatfd.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43093/tesdgdsxcvhdfhdfrdf.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/43099/y5fgsrtsdgdfgdfsfd.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Компанія T&G представила компактну та функціональну Bluetooth-колонку TG-658, призначену для комфортного прослуховування музики в будь-яких умовах. Ця модель поєднує в собі якісне звучання, універсальність підключення та тривалий час автономної роботи, що робить її відмінним вибором для любителів активного способу життя та цінителів мобільного аудіо.</p>
-
-<h2>Чим вирізняється ця модель</h2>
-<ul>
-<li>Технологія Bluetooth 5.3 забезпечує стабільне бездротове з’єднання на відстані до 10 метрів, дозволяючи зручно використовувати пристрій із сучасними смартфонами та планшетами.</li>
-<li>Потужні динаміки з загальною вихідною потужністю 16 Вт (8 Вт х 2) та розміром 52 мм створюють насичений звук із чистими басами завдяки вбудованому підсилювачу низьких частот.</li>
-<li>Широкий частотний діапазон від 70 Гц до 20 кГц гарантує відтворення деталізованого аудіо з низьким рівнем спотворень менше 1% та високим співвідношенням сигнал/шум понад 90 дБ.</li>
-<li>Вбудований акумулятор ємністю 1200 мА·год забезпечить до 2-3 годин безперервного звучання при нормальній гучності, із повним циклом заряджання за 2-3 години через USB-порт.</li>
-<li>Різноманітні способи відтворення: Bluetooth, FM-радіо, TF-карта, USB-накопичувач та AUX-вхід, дозволяють підключити джерело музики будь-яким зручним для користувача способом.</li>
-<li>Вбудований мікрофон дає можливість використовувати колонку для дзвінків у режимі гучного зв’язку, що розширює функціональність пристрою.</li>
-<li>Компактні габарити (90 x 90,5 x 113 мм) і невелика вага (389 г) сприяють зручному транспортуванню.</li>
-</ul>
-
-<h2>Для кого буде найкращим вибором</h2>
-<p>T&G TG-658 стане незамінним супутником для тих, хто цінує мобільність і якість звуку. Ця колонка підходить для домашнього використання, виїздів на природу, відпочинку біля басейну, пікніків і невеликих вечірок. Завдяки стійкому зв’язку та потужному звучанню пристрій однаково ефективний для прослуховування улюбленої музики і організації дзвінків. Компактність і різноманіття інтерфейсів роблять TG-658 відмінним варіантом для користувачів, які хочуть отримати універсальне звукове джерело без зайвих проводів і громіздких пристроїв.</p>
-
-<h2>Характеристики</h2>
-<ul>
-<li>Версія Bluetooth: 5.3</li>
-<li>Дальність бездротового зв’язку: 10 метрів</li>
-<li>Ємність акумулятора: 1200 мА·год</li>
-<li>Час заряджання: 2-3 години</li>
-<li>Час відтворення: 2-3 години при нормальній гучності</li>
-<li>Динамік: 52 мм, 4 Ом / 8 Вт х 2</li>
-<li>Частотна характеристика: 70 Гц – 20 кГц</li>
-<li>Співвід]]></description>
-        <keyword>Портативна Bluetooth колонка</keyword>
-        <keyword>Портативная Bluetooth колонка</keyword>
-        <keyword>Портативна Bluetooth колонка TG658 8W з RGB</keyword>
-        <keyword>Портативная Bluetooth колонка TG658 8W с RGB</keyword>
-        <keyword>Бездротова колонка потужна</keyword>
-        <keyword>Беспроводная колонка мощная</keyword>
-        <keyword>Портативна Bluetooth колонка TG658</keyword>
-        <keyword>Портативная Bluetooth колонка TG658</keyword>
-        <keyword>Портативна Bluetooth колонка TG658 8W</keyword>
-        <keyword>Портативная Bluetooth колонка TG658 8W</keyword>
-        <keywords>Портативна Bluetooth колонка, Портативная Bluetooth колонка, Портативна Bluetooth колонка TG658 8W з RGB, Портативная Bluetooth колонка TG658 8W с RGB, Бездротова колонка потужна, Беспроводная колонка мощная, Портативна Bluetooth колонка TG658, Портативная Bluetooth колонка TG658, Портативна Bluetooth колонка TG658 8W, Портативная Bluetooth колонка TG658 8W</keywords>
-        <param name="Производитель">T&amp;G</param>
-        <param name="Цвет корпуса">Черный</param>
-        <param name="Суммарная мощность звука">5</param>
-        <param name="Минимальная частота">60</param>
-        <param name="Максимальная частота">20000</param>
-        <param name="Состояние">Новое</param>
-        <param name="Страна производитель">Китай</param>
-        <param name="Формат акустики">Стерео</param>
-        <param name="Тип питания">Аккумулятор, USB-порт</param>
-        <param name="Интерфейсы">USB, micro USB, jack 3.5 мм</param>
-        <param name="Поддерживаемые беспроводные интерфейсы">Bluetooth</param>
-        <param name="Поддерживаемые карты памяти">microSD, TF Card</param>
-        <param name="Особенности">FM-приемник, Зарядка плеера/смартфона</param>
-        <param name="Материал корпуса">Пластик</param>
-      </offer>
       <offer id="462608" available="false">
         <name>Портативна Bluetooth колонка TG658 8W з RGB підсвічуванням, акумуляторна переносна колонка. Колір: синій</name>
         <categoryId>6371101</categoryId>
@@ -7356,7 +7222,7 @@
         <param name="Зона использования">Для окантовки; Для бороды и усов; Для головы; Для интимных зон; Для тела</param>
         <param name="Тип аккумулятора">Li-Ion</param>
       </offer>
-      <offer id="480904" available="true">
+      <offer id="480904" available="false">
         <name>Машинка для стрижки волосся та бороди VGR V-075, Машинка для стрижки волосся домашня, Електромашинка</name>
         <categoryId>28290204</categoryId>
         <price>570</price>
@@ -7372,7 +7238,7 @@
         <picture>https://www.websklad.biz.ua/storage/48103/twefsdrefasdr3wafesd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48109/nkpvaafauvyfyav.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/48119/eupyavucfvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><b>Бездротова машинка для стрижки волосся</b>&nbsp;&mdash; це професійний триммер з потужним мотором, ергономічним дизайном та чотирма змінними насадками для створення різноманітних стрижок у будь-яких умовах.</p>
 <p><b>Машинка<span>&nbsp;</span></b>&mdash;&nbsp; професійний триммер, створений для максимальної зручності та точності. Вона оснащена потужним та тихим мотором, який забезпечує плавне та рівномірне стриження. Завдяки ергономічному дизайну та легкій вазі машинка зручно лежить у руці, дозволяючи легко маневрувати та досягати ідеальних результатів. У комплект входять чотири змінні насадки, що дає змогу вибирати бажану довжину стрижки та створювати різноманітні образи.</p>
 <p><b>Ця машинка для стрижки волосся ідеально підходить</b><span>&nbsp;</span>як для домашнього, так і для професійного використання. Її бездротова конструкція забезпечує свободу рухів та дозволяє використовувати пристрій у будь-якому зручному місці. Батарея високої ємності забезпечує тривалу роботу без заряджання, а компактний розмір робить її ідеальним варіантом для подорожей. Високоякісні леза з нержавіючої сталі гарантують довговічність та бездоганну точність кожної стрижки.</p>
@@ -9664,7 +9530,7 @@
         <picture>https://www.websklad.biz.ua/storage/68271/rgsdgsdagesae.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68280/yhrdfsghsghrag.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/68287/gtesgresaegwew.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Професійний триммер VGR Professional Black&Green V-906 із серії преміальних інструментів Voyager, випущений у 2024 році, ідеально підходить як для роботи з бородою, так і для стрижки волосся. Цей триммер оснащений відкритим Т-подібним ножовим блоком завширшки 40 мм, що забезпечує мінімальну висоту зрізу всього 0,1 мм. Завдяки відкритій конструкції ножового блоку, ви отримаєте чудовий огляд та повний контроль над процесом стрижки, що покращує точність та комфорт роботи.</p>
 <p>Особливістю даної моделі є покращена конструкція зубців глибиною 1,6 мм, що гарантує чистий і чіткий зріз навіть щільного та жорсткого волосся. Керамічне покриття з графітовим напиленням забезпечує довговічність та знижує нагрівання ножів під час роботи.</p>
 <p><strong>Переваги тримера:</strong></p>
@@ -10726,7 +10592,7 @@
         <picture>https://www.websklad.biz.ua/storage/76947/rkpvapuivvifiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76954/rkvaipivfpivpiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/76959/rkvapifpififv.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p>Набір ножів UNIQUE UN-1838 &mdash; це ідеальне рішення для вашої кухні, що включає 5 ножів та ножиці, упаковані в стильну акрилову підставку. Кожне лезо виготовлене з високоякісної нержавіючої сталі, що забезпечує довговічність та легкість у догляді.</p>
 <p>Набір також включає унікальну акрилову підставку, що обертається, яка не тільки зручна у використанні, але й додає естетичну привабливість на кухні. Антибактеріальне покриття на лезах гарантує безпеку та гігієнічність при приготуванні їжі.</p>
 <p>Ергономічна форма рукояті забезпечує комфортне захоплення та запобігає ковзанню під час роботи.</p>
@@ -12141,7 +12007,7 @@
         <picture>https://www.websklad.biz.ua/storage/77294/revaipivupiivpifpi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77299/eravirkvairppivfpif.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/77306/rkvarvaipivif.jpg</picture>
-        <quantity_in_stock>5</quantity_in_stock>
+        <quantity_in_stock>4</quantity_in_stock>
         <description><![CDATA[<p><strong>Пилосос ручний RAF 3 в 1 з контейнером 600 Вт</strong><span>&nbsp;</span>&ndash; це професійний пристрій, який забезпечує високу ефективність та ідеально підходить для прибирання різних приміщень та автомобілів. З робочим діапазоном до 3 метрів, пилосос легко переміщається між кімнатами завдяки зручній ручці та невеликій вазі.</p>
 <p>Потужний двигун потужністю 600 Вт забезпечує максимальну силу всмоктування, що підтримується технологією мультициклону із системою 4-ступінчастої фільтрації. Регулятор швидкості на корпусі дозволяє легко налаштовувати потужність всмоктування, а регулятор потоку повітря на ручці забезпечує комфортну роботу при збиранні.</p>
 <p>Високоефективна маневрена щітка та зручна телескопічна щітка дозволяють легко досягти важкодоступних місць та ефективно очищати поверхні. Об'єм пилозбірника становить 0,5 літра, а зручний механізм очищення склянки спрощує процес очищення.</p>
@@ -12914,7 +12780,7 @@
         <param name="Щетка для удаления пыли и ворсинок">Да</param>
         <param name="Индикатор работы">Да</param>
       </offer>
-      <offer id="604872" available="true">
+      <offer id="604872" available="false">
         <name>Фен браш стайлер з насадкою, що обертається RAF R.421 електрична гребінець</name>
         <categoryId>617</categoryId>
         <price>920</price>
@@ -12930,7 +12796,7 @@
         <picture>https://www.websklad.biz.ua/storage/80710/rvavyrvrkyv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80716/rkuvarrvaykvr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/80722/rkvpyyvpuyf.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p><strong>Фен-щітка для сушіння волосся з автоматичним обертанням насадок RAF R.421<span>&nbsp;</span></strong>&mdash; це багатофункціональний прилад, який дозволить вам легко створювати різноманітні укладання. З потужністю 1000 Вт та додатковими функціями, такими як іонізація, холодне повітря та автоматичний поворот головки, цей стайлер ідеально підходить для випрямлення, завивки та надання об'єму волоссю. У комплект входять дві насадки діаметром 30 мм та 50 мм, що забезпечує універсальність укладання.</p>
 <p><strong>Використання</strong></p>
 <ol>
@@ -17186,7 +17052,7 @@
         <picture>https://www.websklad.biz.ua/storage/86679/reiviiiuipf.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86683/rkivivipi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/86686/kpifiupifui.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Інвестуйте у професійний фен V-439 для досягнення ідеального результату укладки волосся. Цей компактний прилад потужністю до 1600 Вт оснащений сучасною іонізацією, що забезпечує гладкість і слухняність волосся. Ергономічний дизайн з легкою керованістю і зручними функціями дозволить швидко та комфортно виконувати сушку та укладку, зберігаючи здоров’я волосся.</p>
 
 <h2>Переваги використання</h2>
@@ -20402,7 +20268,7 @@
         <picture>https://www.websklad.biz.ua/storage/3843/euivaeukafivfavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3849/uiavaekuvaffavi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/3856/uavpuvaffaivf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки MS 3305 — практичний та універсальний пристрій, що дозволяє швидко та зручно підрівняти волосся з точною настройкою довжини. Конструйована з урахуванням потреб як домашніх користувачів, так і професійних перукарів, вона забезпечує стабільну роботу від електромережі при мінімальному енергоспоживанні.</p>
 
 <h2>Основні сильні сторони</h2>
@@ -22597,7 +22463,7 @@
         <picture>https://www.websklad.biz.ua/storage/26860/k3cviaakcufvi.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26868/k3cvaiakcfiv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/26880/kcfviaukcfvi-1.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>1</quantity_in_stock>
         <description><![CDATA[<p>Дисковий електрочайник Rainberg RB-2220, що добре зарекомендував себе на ринках багатьох країн, здивує своєю функціональністю та оригінальним дизайном.</p>
 <p>Чайник Rainberg RB-2220 надійно та швидко справляється зі своїм основним завданням-кип'ятінням води.<span>&nbsp;</span><strong>Нагрівальний елемент виконаний з нержавіючої сталі і має закритий тип</strong>. Дана модель електричного чайника може обертатися на 360 градусів на своєму цоколі і оснащена світловою індикацією роботи, а корпус стійкий до впливу високих температур. ><span>&nbsp;</span>дуже красиво виглядає під час роботи.</p>
 <p>Корпус електрочайника Rainberg RB-2220 виготовлений зі скла та пластику високої якості. Чайник<span>&nbsp;</span><strong>має зручну та обтічну форму ручки</strong>, на якій розташовані кнопки увімк./вимк.</p>
@@ -23135,7 +23001,7 @@
         <param name="Страна производитель">Германия</param>
         <param name="Материал лотка">металл</param>
       </offer>
-      <offer id="298189" available="true">
+      <offer id="298189" available="false">
         <name>Плита інфрачервона Domotec MS-5842 на 1 конфорку, потужна настільна електроплита, індукційна плита міні</name>
         <categoryId>641</categoryId>
         <price>1290</price>
@@ -23151,7 +23017,7 @@
         <picture>https://www.websklad.biz.ua/storage/22404/grrewadsfsdads.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22408/rwasdfsersdfad.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/22415/kcfvaypuavyfyv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Серед безлічі кухонних побутових плит на ринку, виділяється інфрачервона електроплита Domotec MS 5842 з потужністю 2000 Вт та практичністю у використанні. Принцип роботи електроплити дуже простий. Він полягає в тому, що інфрачервона електроплита нагріває свою склокерамічну поверхню за допомогою інфрачервоного випромінювання. На верхній панелі плити знаходяться сенсорні кнопки, які забезпечують легке керування.</p>
 <p>На відміну від індукційної плити, інфрачервоної не потрібний спеціальний посуд. Ви можете використовувати будь-який жароміцний посуд з плоским дном. Плита індукційна Domotec MS-5842 зроблена зі склокерамічною панеллю для швидкого розігріву, приготування різноманітних страв і з функцією барбекю. Також є таймер, за допомогою якого ви можете виставляти потрібний час, регулюючи роботу плити. Кнопки керування сенсорні та знаходяться на передній панелі.</p>
 <p>Завдяки сучасному елегантному дизайну, компактним розмірам, простоті та безпеці у використанні, плита стане не тільки незамінним помічником на кухні, а й її стильною прикрасою.</p>
@@ -26523,7 +26389,7 @@
         <picture>https://www.websklad.biz.ua/storage/69254/euipifuppifip.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69262/pkipifpuiu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/69273/uipipifpiv.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p><strong>Ультразвуковий скалер для видалення каменю та плям із зубів Cleaner HY-46 Скалер із набором зубного інструменту</strong></p>
 <p><strong>Ультразвуковий скейлер Teeth Cleaner HY-46</strong> &ndash; це високотехнологічний пристрій для професійного чищення зубів у домашніх умовах. Він ефективно видаляє зубний наліт, камінь, стійкі забруднення та знебарвлення, забезпечуючи здоров'я та чистоту ротової порожнини.</p>
 <p>Завдяки світлодіодному підсвічуванню, скейлер висвітлює зони, що очищаються, що дозволяє проводити процедуру точно і акуратно. Пристрій оснащений функцією автоматичного вимкнення через 10 хвилин роботи для захисту від перегріву.</p>
@@ -26899,7 +26765,7 @@
         <param name="Тип управления">Механическое</param>
         <param name="Количество скоростей">2</param>
       </offer>
-      <offer id="604883" available="true">
+      <offer id="604883" available="false">
         <name>Кухонний комбайн RAF R.7029 електричний блендер м&apos;ясорубка подрібнювач 1000 Вт 2л, Потужний блендер</name>
         <categoryId>64301</categoryId>
         <price>730</price>
@@ -26915,7 +26781,7 @@
         <picture>https://www.websklad.biz.ua/storage/75303/kvaravrayvr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75313/kpkpyvrv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/75320/rkvayvraryrv.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Ваше приготування їжі стане набагато простіше, ніж будь-коли, з кухонним комбайном RAF R 7029.</p>
 <p>Кухонний комбайн RAF R 7029 - це потужний багатофункціональний подрібнювач, блендер, м'ясорубка, млин для швидкого подрібнення як м'яких продуктів, таких як фрукти, перець, змішування різних соусів, яєць, так і твердих продуктів. м'ясо, овочі, зерна кукурудзи, бобові, коріння рослин, кава, боби, рис, з можливістю застосування не тільки в домашніх умовах, а й для ресторанів та барів.</p>
 <ul>
@@ -27628,7 +27494,7 @@
         <picture>https://www.websklad.biz.ua/storage/82488/rkvyprpyfpyfu.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/82495/rkuvaypyvapvyfuy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/82501/rkvapkyvfpyvpyvpyf.jpg</picture>
-        <quantity_in_stock>4</quantity_in_stock>
+        <quantity_in_stock>3</quantity_in_stock>
         <description><![CDATA[<p>Машинка для стрижки VGR V-900 &ndash; це високоефективний інструмент для догляду за волоссям, розроблений для забезпечення точності та зручності як у салоні, так і в домашніх умовах.</p>
 <p><strong>Основні характеристики:</strong></p>
 <ul>
@@ -30922,77 +30788,6 @@
         <param name="Покрытие корпуса">эмалевая краска</param>
         <param name="Количество режимов работы">5</param>
         <param name="Вес">0.6 кг</param>
-      </offer>
-      <offer id="200583" available="false">
-        <name>Міксер ручний RAF R6633B 260Вт White</name>
-        <categoryId>612</categoryId>
-        <price>420</price>
-        <currencyId>UAH</currencyId>
-        <vendorCode>ws43819</vendorCode>
-        <picture>https://www.websklad.biz.ua/storage/15101/evaiprivpifpuifui.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15108/ekvipkivpifpuipui.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15116/rkivpkpivfpufiu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15128/rkuipkivpvipuiuif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15139/eivprpivpifpiu.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15146/eavirpkivpvifpi.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15156/ekviprkivpifpifpif.jpg</picture>
-        <picture>https://www.websklad.biz.ua/storage/15166/vipkififpipf.jpg</picture>
-        <quantity_in_stock>0</quantity_in_stock>
-        <description><![CDATA[<p>Компактний ручний міксер RAF — ідеальний інструмент для швидкого і зручного приготування улюблених страв. Завдяки малим габаритам пристрій не займає багато місця на кухні, а просте обслуговування зводиться лише до миття вінчиків. Потужність у 260 Вт і 7 регульованих швидкостей забезпечують максимальний контроль над процесом змішування. Додатково функція турборежиму дозволяє за лічені секунди позбутися грудочок, що робить роботу ще ефективнішою.</p>
-
-<h2>Переваги саме цієї моделі</h2>
-<ul>
-<li>Компактний розмір зручно розміщує міксер навіть у невеликій кухонній шафі або на столі.</li>
-<li>Функція турборежиму швидко усуває грудочки, прискорюючи процес приготування.</li>
-<li>Сім швидкостей дають можливість легко адаптувати роботу під різні рецепти та текстури.</li>
-<li>Зручне розташування клавіші переключення швидкостей поруч з ручкою робить управління інтуїтивним і комфортним.</li>
-<li>Пластиковий корпус забезпечує легкість і довговічність пристрою.</li>
-<li>Легке миття розбірних вінчиків економить час і полегшує догляд за міксером.</li>
-</ul>
-
-<h2>Застосування в побуті</h2>
-<p>Цей ручний міксер RAF стане незамінним помічником при приготуванні різноманітних страв: десертів, соусів, кремів, тіста для випічки, омлетів. Його компактний розмір і легка вага дозволяють швидко і комфортно збивати інгредієнти як дома, так і в офісі або на виїзді. Наявність 7 швидкостей дає можливість точно налаштувати інтенсивність змішування, що особливо важливо при роботі з ніжними або густими сумішами. З функцією турборежиму ви легко досягнете ідеальної текстури без зайвих зусиль, забезпечуючи стабільний результат навіть у складних рецептах.</p>
-
-<h2>Характеристики</h2>
-<ul>
-<li>Виробник: RAF</li>
-<li>Тип: ручний міксер</li>
-<li>Живлення: мережа 220 В</li>
-<li>Потужність: 260 Вт</li>
-<li>Кількість швидкостей: 7</li>
-<li>Матеріал корпусу: пластик</li>
-<li>Комплектація: міксер, інструкція, упаковка</li>
-</ul>]]></description>
-        <keyword>Міксер ручний RAF</keyword>
-        <keyword>Миксер ручной RAF</keyword>
-        <keyword>Міксер ручний RAF R6633B 260Вт White</keyword>
-        <keyword>Миксер ручной RAF R6633B 260Вт White</keyword>
-        <keyword>Міксер ручний RAF R6633B</keyword>
-        <keyword>Миксер ручной RAF R6633B</keyword>
-        <keyword>Міксер ручний RAF R6633B 260Вт</keyword>
-        <keyword>Миксер ручной RAF R6633B 260Вт</keyword>
-        <keyword>Міксер ручний</keyword>
-        <keyword>Миксер ручной</keyword>
-        <keywords>Міксер ручний RAF, Миксер ручной RAF, Міксер ручний RAF R6633B 260Вт White, Миксер ручной RAF R6633B 260Вт White, Міксер ручний RAF R6633B, Миксер ручной RAF R6633B, Міксер ручний RAF R6633B 260Вт, Миксер ручной RAF R6633B 260Вт, Міксер ручний, Миксер ручной</keywords>
-        <param name="Виробник">RAF</param>
-        <param name="Тип міксера">Ручний</param>
-        <param name="Живлення">Мережа 220В</param>
-        <param name="Споживана потужність">260</param>
-        <param name="Кількість швидкостей">7</param>
-        <param name="Кількість насадок">2</param>
-        <param name="Режим Турбо">Так</param>
-        <param name="Матеріал корпусу">Пластик, Нержавіюча сталь</param>
-        <param name="Колір корпусу">Білий</param>
-        <param name="Країна виробник">Китай</param>
-        <param name="Гарантійний термін">12</param>
-        <param name="Стан">Новий</param>
-        <param name="Кількість режимів роботи">3</param>
-        <param name="Об&apos;єм котла">1.3 л</param>
-        <param name="Продуктивність пари">32 г/хв</param>
-        <param name="Регулювання сили пара">Так</param>
-        <param name="Тип управління">Механічне</param>
-        <param name="Час безперервної роботи без доливання води">70 хв</param>
-        <param name="Час нагріву до утворення пари">1.2 хв</param>
       </offer>
       <offer id="246987" available="true">
         <name>Фритюрниця для дому на 1.5л Crownberg CB-5542 1200Вт</name>
@@ -36904,7 +36699,7 @@
         <picture>https://www.websklad.biz.ua/storage/66796/ecuapyvpkpyvpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/66799/euaivpuivfppkifr.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/66805/rnpekmpuifvpkf.jpg</picture>
-        <quantity_in_stock>3</quantity_in_stock>
+        <quantity_in_stock>2</quantity_in_stock>
         <description><![CDATA[<p>Стайлер оснащений зручною ручкою та простий у використанні. Завдяки універсальності цього набору, ви зможете створювати безліч зачісок - від гладких пасм до об'ємних локонів - у домашніх умовах, як у професійному салоні.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -37316,7 +37111,7 @@
         <param name="Тип аккумулятора">Li-Ion</param>
         <param name="Тип пылесборника">Контейнер</param>
       </offer>
-      <offer id="692728" available="true">
+      <offer id="692728" available="false">
         <name>Велофара Q05, 500LM</name>
         <categoryId>342402</categoryId>
         <price>830</price>
@@ -37330,7 +37125,7 @@
         <picture>https://www.websklad.biz.ua/storage/87874/reeaprepaorepyvpv.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/87875/rerkevpvpvyfpvy.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/87876/pavyrvaoeravyrkv.jpg</picture>
-        <quantity_in_stock>2</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Велофара Q05 — це ефективне рішення для тих, хто цінує безпеку та комфорт під час їзди на велосипеді у темний час доби. Завдяки потужному світловому потоку в 500 люмен вона забезпечує чітке та яскраве освітлення дороги, дозволяючи своєчасно реагувати на перешкоди та бути помітним для інших учасників руху. Зручність у використанні досягається завдяки вбудованому літій-іонному акумулятору з сучасним зарядним інтерфейсом Type-C та індикатором заряду на корпусі. Компактні розміри та надійний пластиковий корпус роблять цей ліхтар універсальним аксесуаром для щоденних і заміських поїздок.</p>
 
 <h2>Що відрізняє від конкурентів</h2>
@@ -39336,7 +39131,7 @@
         <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
         <param name="Функция автоотключения">Да</param>
       </offer>
-      <offer id="515956" available="true">
+      <offer id="515956" available="false">
         <name>Велофара з сигналом та утримувачем телефону LY-25-2T6 (white+yellow), Довговічний велосипедний ліхтар</name>
         <categoryId>342402</categoryId>
         <price>600</price>
@@ -39347,7 +39142,7 @@
         <picture>https://www.websklad.biz.ua/storage/47347/4ergdsfhhrdsygsesadsgfd.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/47353/tesdgagsfygtrsgres.jpg</picture>
         <picture>https://www.websklad.biz.ua/storage/47360/rgfdsfhrewtygrrwagr.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Інноваційний велосипедний ліхтар із вбудованим акумулятором відкриває нові горизонти безпеки та комфорту під час їзди в темний час доби. Завдяки універсальній конструкції та різноманітним режимам освітлення, він гарантує максимальну видимість на дорозі, забезпечуючи довготривалу роботу без частих підзарядок. Компактний розмір і зручне кріплення роблять його ідеальним супутником для будь-якого велосипедиста.</p>
 
 <h2>Переваги використання</h2>
@@ -43436,14 +43231,14 @@
         <param name="Погрешность, +/-">1</param>
         <param name="Тип">Гигрометр</param>
       </offer>
-      <offer id="809492" available="true">
+      <offer id="809492" available="false">
         <name>Намет туристичний з антимоскітною сіткою і каркасом 200x150x135см Похідний намет 2х спальних місць</name>
         <categoryId>240409</categoryId>
         <price>920</price>
         <currencyId>UAH</currencyId>
         <vendorCode>ws65854</vendorCode>
         <picture>https://www.websklad.biz.ua/storage/106200/pyvfyamvyfavyffvy.jpg</picture>
-        <quantity_in_stock>1</quantity_in_stock>
+        <quantity_in_stock>0</quantity_in_stock>
         <description><![CDATA[<p>Автоматична двомісна туристична намет розроблена для зручного і швидкого відпочинку на природі. Інноваційний автоматичний механізм дозволяє розгорнути намет за лічені секунди без особливих зусиль і спеціальних навичок. Просторі розміри 200x150x135 см забезпечують комфортне розміщення двох осіб, створюючи затишний простір незалежно від умов.</p>
 
 <h2>Аргументи на користь вибору</h2>
